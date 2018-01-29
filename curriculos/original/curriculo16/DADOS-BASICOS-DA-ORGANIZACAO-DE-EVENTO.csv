@@ -1,0 +1,31 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONGRESSO","ORGANIZACAO","XX Brazilian Symposium on Computer Graphics and Image Processing (Program Chairs)","2007","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",0
+"CONGRESSO","NAO_INFORMADO","Conference on Information and Knowledge Managements (Technical Committee)","2006","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",1
+"CONGRESSO","NAO_INFORMADO","XVIII Brazilian Symposium on Computer Graphics and Image Processing (Program Committee)","2005","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",2
+"CONGRESSO","NAO_INFORMADO","XVII Brazilian Symposium on Computer Graphics and Image Processing (Program Committee)","2004","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",3
+"CONGRESSO","NAO_INFORMADO","XVI Brazilian Symposium on Computer Graphics and Image Processing (Program Committee)","2003","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",4
+"CONGRESSO","NAO_INFORMADO","XII Brazilian Symposium on Computer Graphics and Image Processing (Program Committee)","1999","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",5
+"CONGRESSO","NAO_INFORMADO","8th International Symposium on Mathematical Morphology (Program Commitee)","2007","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",6
+"CONGRESSO","NAO_INFORMADO","Conference on Information and Knowledge Managements","2008","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",7
+"CONGRESSO","NAO_INFORMADO","Intl. Symp. on Biomedical Imaging","2008","França","Inglês","NAO_INFORMADO","","NAO","","","NAO",8
+"CONGRESSO","ORGANIZACAO","XXI Brazilian Symposium on Computer Graphics and Image Processing.(Program Committee)","2008","Brasil","Inglês","VARIOS","","NAO","","","NAO",9
+"CONGRESSO","NAO_INFORMADO","XXIInd Brazilian Symposium on Computer Graphics and Image Processing","2009","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",10
+"CONGRESSO","NAO_INFORMADO","SPIE on Medical Imaging: Visualization, Image-Guided Procedures and Display.","2009","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",11
+"CONGRESSO","NAO_INFORMADO","Intl. Symp. on Visual Computing","2009","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",12
+"CONGRESSO","NAO_INFORMADO","SPIE on Medical Imaging: Visualization, Image-Guided Procedures, and Display","2010","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",13
+"CONGRESSO","ORGANIZACAO","XXIII SIBGRAPI: Conference on Graphics, Patterns, and Images","2010","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",14
+"CONGRESSO","NAO_INFORMADO","SPIE on Medical Imaging: Visualization, Image-Guided Procedures, and Display","2011","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",15
+"CONGRESSO","NAO_INFORMADO","SPIE on Medical Imaging: Image-Guided Procedures, Robotic Interventions, and Modeling","2012","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",16
+"CONGRESSO","ORGANIZACAO","XXIV SIBGRAPI - Conference on Graphics, Patterns and Images","2011","Brasil","Inglês","VARIOS","","NAO","","","NAO",17
+"CONGRESSO","ORGANIZACAO","XXV SIBGRAPI - Conference on Graphics, Patterns and Images","2012","Brasil","Inglês","VARIOS","","NAO","","","NAO",18
+"CONGRESSO","NAO_INFORMADO","15th Intl. Conf. on Computer Analysis of Images and Patterns (CAIP)","2013","Inglaterra","Inglês","MEIO_DIGITAL","","NAO","","","NAO",19
+"CONGRESSO","ORGANIZACAO","Workshop on Interactive Multimodal Pattern Recognition in Embedded Systems (IMPRESS)","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",20
+"CONGRESSO","ORGANIZACAO","XXVI SIBGRAPI - Conf. on Graphics, Patterns, and Images","2013","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",21
+"CONGRESSO","NAO_INFORMADO","SPIE on Medical Imaging: Image-Guided Procedures, Robotic Interventions, and Modeling","2013","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",22
+"CONGRESSO","NAO_INFORMADO","V Eccomas Thematic Conf. on Computational Vision and Medical Image Processing","2015","Espanha","Inglês","VARIOS","","NAO","","","NAO",23
+"CONGRESSO","NAO_INFORMADO","SPIE on Medical Imaging: Image Processing","2015","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",24
+"CONGRESSO","NAO_INFORMADO","SPIE on Medical Imaging: Image-Guided Procedures, Robotic Interventions, and Modeling","2014","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",25
+"CONGRESSO","NAO_INFORMADO","Computational Modeling of Objects Represented in Images: Fundamentals, Methods, and Applications","2014","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",26
+"CONGRESSO","NAO_INFORMADO","21st Iberoamerican Congress on Pattern Recognition (CIARP)","2016","Peru","Inglês","NAO_INFORMADO","","NAO","","","NAO",27
+"CONGRESSO","NAO_INFORMADO","18th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI)","2015","Alemanha","Inglês","NAO_INFORMADO","","NAO","","","NAO",28
+"CONGRESSO","ORGANIZACAO","IXX Brazilian Symposium on Computer Graphics and Image Processing (Program Committee)","2006","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",29

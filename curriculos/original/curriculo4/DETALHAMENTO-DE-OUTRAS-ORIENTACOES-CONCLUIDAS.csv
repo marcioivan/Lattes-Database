@@ -1,0 +1,38 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"João Kleber dos Santos Cardoso","007900000004","Universidade Estadual de Campinas","33070202","Ciência Econômica","NAO","","","ORIENTADOR_PRINCIPAL","0","","Economy",0
+"Gustavo de Freitas Rizzo Lima","007900000004","Universidade Estadual de Campinas","33070202","Ciência Econômica","NAO","","","ORIENTADOR_PRINCIPAL","0","","Economy",1
+"Pablo José Baldo de Toledo","000500000999","Faculdades de Campinas","90000008","Economia","NAO","","","ORIENTADOR_PRINCIPAL","0","","",2
+"Tatiana Andalik Santos Baptista","007900000004","Universidade Estadual de Campinas","33070202","Ciência Econômica","NAO","","","CO_ORIENTADOR","0","","Economy",3
+"João Paulo Duarte Machado","007900000004","Universidade Estadual de Campinas","90000009","Economia","NAO","","","ORIENTADOR_PRINCIPAL","0","","",4
+"Caio Vinicius de Araujo Seconelo","007900000004","Universidade Estadual de Campinas","90000009","Economia","NAO","","","ORIENTADOR_PRINCIPAL","0","","",5
+"Alexandre de Podestá Gomes","007900000004","Universidade Estadual de Campinas","90000009","Economia","NAO","","","CO_ORIENTADOR","0","","",6
+"Natascha Rickheim Simões","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",7
+"Tiago Jordão Nascimento","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",8
+"Maria Rodrigues da Silva","000500000999","Faculdades de Campinas","90000008","Economia","NAO","","","CO_ORIENTADOR","","","",9
+"Gustavo Bogéa","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",10
+"Vanessa Santiago","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",11
+"Rafael Peres","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",12
+"Alexandre Fávaro Luchesi","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",13
+"Alexandre Fávaro Luchesi","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",14
+"Anna Ligia Pozzetti de Abreu","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",15
+"Natascha Rickheim Simões","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",16
+"José Geraldo Rabello Petite","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",17
+"Marcelo Braga Cabral","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",18
+"Lis Aimbiré de Geus","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",19
+"Deborah Marili Hernandez Wright","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",20
+"Guilherme Haluska Rodrigues de Sá","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",21
+"Camilla Ruocco","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",22
+"Paulo José Whitaker Wolf","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",23
+"Rafael Bueno Braga","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",24
+"Thais Cristina Périco De Sousa","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",25
+"Pedro Gonçalves","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",26
+"Lis Aimbire de Geus","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",27
+"Daniel Fagundes de Souza","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",28
+"Matheus Boonen Vaccare","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",29
+"Fábio de Campos Brandão","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",30
+"Renata Giboshi Grando","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",31
+"Fabio de Campos Brandão","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",32
+"Deborah Marili Hernandez Wright","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",33
+"Gabriel Godoy Cyrillo","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","","","CO_ORIENTADOR","","","",34
+"Vitor Fernandes da Silva","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","004900000999","Serviço de Apoio ao Estudante - Unicamp","CO_ORIENTADOR","","","",35
+"Paulo José Whitaker Wolf","007900000004","Universidade Estadual de Campinas","90000011","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",36

@@ -1,0 +1,13 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONGRESSO","ORGANIZACAO","Workshop sobre o programa de elementos finitos MODULEF","1992","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",0
+"CONGRESSO","ORGANIZACAO","French Brasilian workshop on finite elements in fluid mechanics","1991","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",1
+"CONGRESSO","ORGANIZACAO","Congresso Nacional de Matemática Computacional e Aplicada - CNMAC99","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",2
+"OUTRO","ORGANIZACAO","Minisimpósio sobre métodos adaptativos para elementos finitos","1999","Brasil","Português","IMPRESSO","http://www.fec.unicamp.br/~phil","NAO","","","NAO",3
+"CONGRESSO","ORGANIZACAO","XXIII Congresso Nacional de Matematica e Computacional","2000","Brasil","Português","IMPRESSO","www.sbmac.org.br","NAO","","","NAO",4
+"OUTRO","NAO_INFORMADO","Mini simposium on object oriented computing applied to scientific computing","2000","Espanha","Inglês","MEIO_DIGITAL","www.cimne.upc.es/eccomas","NAO","","","NAO",5
+"CONGRESSO","ORGANIZACAO","Vice-Presidente da organização do XXII CILAMCE","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",6
+"CONGRESSO","ORGANIZACAO","Membro da Comissão Técnica-Científica do XV CILAMCE","1994","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",7
+"CONGRESSO","ORGANIZACAO","Membro da Comissão Técnica-Científica do II International Conference on Computational Structures Technology","1994","Grécia","Inglês","NAO_INFORMADO","","NAO","","","NAO",8
+"CONGRESSO","ORGANIZACAO","Fifth World Congress on Computational Mechanics - WCCM V","2002","Austria","Outros","NAO_INFORMADO","","NAO","","","NAO",9
+"CONGRESSO","ORGANIZACAO","Novos Desafios na Simulação Numérica de Equações Diferenciais Parciais","2016","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",10
+"OUTRO","ORGANIZACAO","Vice organizador de Minisimpósio sobre engenharia aeroespacial - COBEM99","1999","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",11

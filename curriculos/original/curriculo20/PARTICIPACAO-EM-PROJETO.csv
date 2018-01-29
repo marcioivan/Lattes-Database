@@ -1,0 +1,27 @@
+﻿PARTICIPACAO-EM-PROJETO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-UNIDADE,NOME-UNIDADE,ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO_Id
+0,"11","ANTERIOR","01","1998","05","2004","007902000990","Instituto de Computação","","",0
+1,"12","ANTERIOR","01","1999","12","2001","007902000990","Instituto de Computação","","",0
+2,"15","ANTERIOR","","2003","","2007","007902000990","Instituto de Computação","","",0
+3,"16","ANTERIOR","09","2004","09","2005","007902000990","Instituto de Computação","","",0
+4,"17","ANTERIOR","","2004","","2007","007902000990","Instituto de Computação","007902001997","Departamento de Sistemas de Informação",0
+5,"30","ANTERIOR","","2005","","2007","007902000990","Instituto de Computação","","",0
+6,"48","ANTERIOR","","2005","","2006","007902000990","Instituto de Computação","","",0
+7,"51","ATUAL","4","2007","","","007902000990","Instituto de Computação","","",0
+8,"53","ANTERIOR","3","2004","2","2007","007902000990","Instituto de Computação","","",0
+9,"54","ATUAL","3","2007","","","007902000990","Instituto de Computação","","",0
+10,"55","ANTERIOR","3","2003","11","2006","007902000990","Instituto de Computação","","",0
+11,"56","ATUAL","4","2006","","","007902000990","Instituto de Computação","","",0
+12,"57","ATUAL","12","2007","","","007902000990","Instituto de Computação","","",0
+13,"58","ATUAL","12","2008","","","007902000990","Instituto de Computação","","",0
+14,"64","ANTERIOR","","2010","","2014","007902000990","Instituto de Computação","","",0
+15,"65","ATUAL","05","2010","","","007902000990","Instituto de Computação","","",0
+16,"66","ATUAL","","2012","","","007902000990","Instituto de Computação","","",0
+17,"69","ANTERIOR","","2011","","2012","007902000990","Instituto de Computação","","",0
+18,"71","ANTERIOR","","2010","","2012","007902000990","Instituto de Computação","","",0
+19,"82","ATUAL","","2014","","","007902000990","Instituto de Computação","","",0
+20,"86","ATUAL","","2016","","","007902000990","Instituto de Computação","","",0
+21,"49","ANTERIOR","","2004","","2007","007902000990","Instituto de Computação","","",0
+22,"80","ANTERIOR","","2009","","2013","000101000995","departamento de Informática","","",1
+23,"81","ATUAL","","2014","","","158706000003","Faculdade de Ciências e Tecnologia","","",2
+24,"85","ATUAL","","2013","","","033040000008","Campus Experimental de Rio Claro - SP","","",3
+25,"87","ATUAL","","2016","","","033383000005","Instituto de Ciências Exatas","033383004000","Departamento de Ciência da Computação",4

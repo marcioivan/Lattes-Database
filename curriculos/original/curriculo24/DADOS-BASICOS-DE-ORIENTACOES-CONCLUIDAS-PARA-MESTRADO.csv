@@ -1,0 +1,21 @@
+﻿NATUREZA,TIPO,TITULO,ANO,PAIS,IDIOMA,HOME-PAGE,FLAG-RELEVANCIA,DOI,TITULO-INGLES,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id
+"Dissertação de mestrado","ACADEMICO","Desenvolvimento de Algoritmos de Sub Estruturacao Para Elementos Finitos","1997","Brasil","Português","","NAO","","",0
+"Dissertação de mestrado","ACADEMICO","Tecnica de Mult-Grid Aplicada Ao Metodo dos Elementos Finitos","1990","Brasil","Português","","NAO","","",1
+"Dissertação de mestrado","ACADEMICO","Métodos implícitos aplicados a simulação de fluídos compressíveis tri-dimensionais","2004","Brasil","Português","http://labmec.fec.unicamp.br","NAO","","",2
+"Dissertação de mestrado","ACADEMICO","Implementação do método de elementos finitos dentro do software AutoCAD","2002","Brasil","Português","","NAO","","",3
+"Dissertação de mestrado","ACADEMICO","Modelos numéricos para placas e cascas multicamadas","2001","Brasil","Português","","NAO","","",4
+"Dissertação de mestrado","ACADEMICO","Implementação paralela do método de resolução frontal de sistemas de equações","2001","Brasil","Português","http://labmec.fec.unicamp.br/~longhin","NAO","","",5
+"Dissertação de mestrado","ACADEMICO","Adaptatividade aplicada a malhas de elementos finitos","2002","Brasil","Português","","NAO","","",6
+"Dissertação de mestrado","ACADEMICO","O Método de Galerkin Descontínuo Aplicado a Problemas de Convecção-Difusão","2005","Brasil","Português","","NAO","","",7
+"Dissertação de mestrado","ACADEMICO","Avaliação de Simuladores de Fraturamento Hidráulico","2006","Brasil","Português","","NAO","","",8
+"Dissertação de mestrado","ACADEMICO","Descrição matemática de geometrias curvas por interpolação transfinito","2007","Brasil","Português","","NAO","","",9
+"Dissertação de mestrado","ACADEMICO","Técnicas de Pós-Processamento na Simulação de Fluxos Monofásicos em Meios Porosos","2008","Brasil","Português","","NAO","","",10
+"Dissertação de mestrado","ACADEMICO","Numerical Approximation of Reservoir Fault Stability with Linear Poroelasticity","2013","Brasil","Inglês","","NAO","","",11
+"Dissertação de mestrado","ACADEMICO","Modelagem de Escoamento de Fluido no Meio Poroso utilizando o MEF (Método dos Elementos Finitos): Avaliação de Testes de Pressão em Poços.","2013","Brasil","Português","","NAO","","",12
+"Dissertação de mestrado","ACADEMICO","Modelagem e simulação elastoplástica em elementos finitos.","2011","Brasil","Português","","NAO","","",13
+"Dissertação de mestrado","ACADEMICO","Redes neurais aplicados a computação cientifica","2012","Brasil","Português","","NAO","","",14
+"Dissertação de mestrado","ACADEMICO","Hydraulic Fracturing Approximation using Finite Elements and Elasto Plasticity","2015","Brasil","Português","","NAO","","",15
+"Dissertação de mestrado","ACADEMICO","Modelagem em elementos finitos de escoamento axi-simétrico multifásico compressível","2016","Brasil","Português","","NAO","","Modelagem em elementos finitos de escoamento axi-simétrico multifásico compressível",16
+"Dissertação de mestrado","ACADEMICO","Simulação das Equações de Stokes Utilizando Espaços Hdiv.","2017","Brasil","Português","","NAO","","",17
+"Dissertação de mestrado","ACADEMICO","Modelagem Linear Elástica para Simulação do Estado de Tensão em Poços Inclinados&#8232;","2017","Brasil","Português","","NAO","","",18
+"Dissertação de mestrado","ACADEMICO","Paralelizacao de Calculos de Elementos Finitos Utilizando Oop","1997","Brasil","Português","","NAO","","",19

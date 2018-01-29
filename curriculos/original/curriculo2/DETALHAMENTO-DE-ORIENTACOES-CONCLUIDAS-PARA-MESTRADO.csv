@@ -1,0 +1,9 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id
+"CO_ORIENTADOR","Edgar Armeliato","007900000004","Universidade Estadual de Campinas","","","33070210","Engenharia Elétrica","NAO","","","","","Electric Engineering",0
+"ORIENTADOR_PRINCIPAL","Rafael Keidi Kashima","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","1531224017667113","Arts",1
+"CO_ORIENTADOR","Juliana Melleiro Rheinboldt","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","","Arts",2
+"CO_ORIENTADOR","Marina Maugeri Santos","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","","Arts",3
+"ORIENTADOR_PRINCIPAL","Lucilene Ferreira da Silva","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","","Arts",4
+"ORIENTADOR_PRINCIPAL","Angélica Maria Contreras Peña","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","","Arts",5
+"ORIENTADOR_PRINCIPAL","Alexandre Santos","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","","Arts",6
+"ORIENTADOR_PRINCIPAL","Tilsa Isadora Julia Sanchez Hermosa","007900000004","Universidade Estadual de Campinas","","","60010871","Música","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","","3628850271291871","Arts",7

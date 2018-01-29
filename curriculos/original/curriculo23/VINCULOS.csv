@@ -1,0 +1,11 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","LIVRE","LIVRE","20","SIM","8","2004","8","2005","Desenvolvimento de atividades de projeto e implementação de um mecanismo de execução flexível para um ambiente de desenvolvimento de software (WebAPSEE).","SIM","Bolsa de Iniciação Científica","Programador e Projetista","","",0
+"2","LIVRE","LIVRE","20","SIM","8","2005","8","2006","Trabalho no levantamento de requisitos, projeto e implementação de um Simulador de Processo de Software integrado a um ambiente de desenvolvimento de software (WebAPSEE).","SIM","Bolsa de Iniciação Científica","Programador e Projetista","","",0
+"3","LIVRE","LIVRE","40","SIM","03","2007","03","2009","Bolsista CAPES. Bolsa atribuída segundo critérios do Programa de Pós-Graduação em
+Ciência da Computação da UFPA","SIM","Bolsa","Bolsista de Mestrado","","",0
+"1","LIVRE","LIVRE","40","NAO","10","2006","11","2006","","SIM","Pesquisador Visitante","Pesquisador Visitante","","",1
+"1","COLABORADOR","LIVRE","","NAO","01","2007","03","2010","","SIM","","Engenheiro de Software e Consultor","","",2
+"4","LIVRE","LIVRE","20","NAO","","2012","","2014","","SIM","Bolsista","Consultor de TI","","",3
+"5","LIVRE","LIVRE","40","SIM","06","2015","02","2017","","SIM","Bolsista","Pesquisador de Pós-Doutorado","","",3
+"1","PROFESSOR_VISITANTE","LIVRE","8","NAO","02","2014","02","2014","Visita ao centro de pesquisa para condução de pesquisas relacionadas a utilização de simulação no apoio à experimentação em Engenharia de Software, no contexto de um estudo de caso na Ericsson AB.","SIM","","Pesquisador Visitante","","",4
+"1","LIVRE","LIVRE","","SIM","03","2017","","","","SIM","","Professor Doutor I","","",5

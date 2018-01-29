@@ -1,0 +1,4 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Programação Linear,POS-GRADUACAO,Doutorado em Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,1995,NULL,NULL
+Programação Não-Linear,POS-GRADUACAO,Doutorado em Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,1995,NULL,NULL
+EA042,GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,1,1994,NULL,NULL

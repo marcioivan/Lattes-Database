@@ -1,0 +1,13 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","","","NAO_INFORMADO",0
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",1
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",2
+"2","000200000993","Instituto de Química - UNICAMP","BOLSA",3
+"1","832000000000","Fundação de Desenvolvimento da UNICAMP","AUXILIO_FINANCEIRO",3
+"2","007900000004","Universidade Estadual de Campinas","BOLSA",4
+"1","832000000000","Fundação de Desenvolvimento da UNICAMP","AUXILIO_FINANCEIRO",4
+"1","638400000003","International Foundation for Science","AUXILIO_FINANCEIRO",5
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",6
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",7
+"1","028700000003","Petróleo Brasileiro - Rio de Janeiro - Matriz","AUXILIO_FINANCEIRO",8
+"1","000900000996","Instituto Uniemp/Braskem/Fapesp","AUXILIO_FINANCEIRO",9

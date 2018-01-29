@@ -1,0 +1,17 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Thais Almeida Brito Fernandes","007900000004","Universidade Estadual de Campinas","90000003","Engenharia da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",0
+"Marcos Antonio Vaz Salles","007900000004","Universidade Estadual de Campinas","90000004","Ciência da Computação","NAO","","","CO_ORIENTADOR","","","",1
+"Renato Beserra de Souza","007900000004","Universidade Estadual de Campinas","","","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",2
+"Juliana Villiotti Vale","007900000004","Universidade Estadual de Campinas","90000004","Ciência da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",3
+"Edivaldo Silva Almeida","007900000004","Universidade Estadual de Campinas","90000004","Ciência da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",4
+"Ricardo da Silva Torres","007900000004","Universidade Estadual de Campinas","","","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",5
+"Renata Queiroz Dividino","007900000004","Universidade Estadual de Campinas","90000004","Ciência da Computação","SIM","001000000998","PIBIC/UNICAMP","CO_ORIENTADOR","","","",6
+"Rafael Thomas Goz Coutinho","007900000004","Universidade Estadual de Campinas","90000003","Engenharia da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",7
+"Marco Afonso S Junqueira","007900000004","Universidade Estadual de Campinas","90000004","Ciência da Computação","NAO","","","CO_ORIENTADOR","","","",8
+"Pedro Felipe Pinho Souza","007900000004","Universidade Estadual de Campinas","90000014","Midialogia","NAO","","","CO_ORIENTADOR","","","",9
+"Flavia Vendemiatto Penereiro","007900000004","Universidade Estadual de Campinas","90000014","Midialogia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",10
+"Luciano Evangelista Barbosa","007900000004","Universidade Estadual de Campinas","90000014","Midialogia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",11
+"Vinicius Felix","007900000004","Universidade Estadual de Campinas","90000003","Engenharia da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",12
+"Andre de Vasconcellos","007900000004","Universidade Estadual de Campinas","90000003","Engenharia da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",13
+"Fernando Shogo Ito","007900000004","Universidade Estadual de Campinas","90000003","Engenharia da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",14
+"Lauro Ramos Venancio","007900000004","Universidade Estadual de Campinas","90000003","Engenharia da Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",15

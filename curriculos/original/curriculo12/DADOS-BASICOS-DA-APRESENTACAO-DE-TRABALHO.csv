@@ -1,0 +1,50 @@
+﻿NATUREZA,TITULO,ANO,PAIS,IDIOMA,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,APRESENTACAO-DE-TRABALHO_Id
+"OUTRA","DTI segmentation of brain structures by watershed transform on tensorial morphological gradient","2009","Brasil","Inglês","NAO","","DTI segmentation of brain structures by watershed transform on tensorial morphological gradient","NAO",0
+"OUTRA","Diffusion tensor imaging segmentation by watershed transform","2008","Brasil","Inglês","NAO","","DIFFUSION TENSOR IMAGING SEGMENTATION BY WATERSHED TRANSFORM","NAO",1
+"OUTRA","Imagens de Tensores de Difusão: Cálculo do Gradiente Morfológico Tensorial e Segmentação via Watershed","2008","Brasil","Português","NAO","","","NAO",2
+"CONFERENCIA","Segmentation of DTI based on tensorial morphological gradient","2009","Estados Unidos","Inglês","NAO","","Segmentation of DTI based on tensorial morphological gradient","NAO",3
+"SIMPOSIO","Segmentation of brain structures by watershed transform tensorial morphological gradient of diffusion tenor imaging.","2009","Brasil","Português","NAO","","Segmentation of brain structures by watershed transform tensorial morphological gradient of diffusion tenor imaging.","NAO",4
+"SIMPOSIO","New Tensorial Representation of Color Images: Tensorial Morphological Gradient applied to color image segmentation.","2007","Brasil","Português","NAO","","New Tensorial Representation of Color Images: Tensorial Morphological Gradient applied to color image segmentation.","NAO",5
+"SIMPOSIO","Segmentation of thalamic nuclei based on tensorial morphological gradient of diffusion tensor fields","2010","Holanda","Inglês","NAO","","Segmentation of thalamic nuclei based on tensorial morphological gradient of diffusion tensor fields","NAO",6
+"SIMPOSIO","Processamento e análise de Imagens de Tensores de Difusão","2010","Brasil","Português","NAO","","","NAO",7
+"CONGRESSO","Visualização de Imagens de Tensores de Difusão (pré e pós segmentação)","2009","Brasil","Português","NAO","","","NAO",8
+"OUTRA","Processamento de imagens médicas no ambiente Adessowiki","2010","Brasil","Português","NAO","","","NAO",9
+"OUTRA","DTI-based segmentation of brain structures by watershed transform on tensorial morphological gradient","2009","Brasil","Inglês","NAO","","","NAO",10
+"SIMPOSIO","Pré-processamento de imagens de difusão do cérebro no ambiente Adessowiki","2010","Brasil","Português","NAO","","","NAO",11
+"SIMPOSIO","Segmentation of brain structures by watershed transform on tensorial morphological gradient of diffusion tensor imaging","2009","Brasil","Português","NAO","","","NAO",12
+"CONFERENCIA","Watershed-based segmentation of the midsagittal section of the corpus callosum in diffusion MRI","2011","Brasil","Português","NAO","","","NAO",13
+"OUTRA","Watershed-based segmentation of the midsagittal section of the corpus callosum in diffusion MRI","2011","Brasil","Inglês","NAO","","","NAO",14
+"OUTRA","Registration of diffusion weighted images in Adessowiki environment","2011","Brasil","Inglês","NAO","","","NAO",15
+"SIMPOSIO","Classification of white matter lesions in systemic lupus erythematosus","2011","Brasil","Inglês","NAO","","","NAO",16
+"SIMPOSIO","Improvments in watershed-based segmentation of the corpus callosum in diffusion MRI","2011","Brasil","Inglês","NAO","","","NAO",17
+"SIMPOSIO","Registro de imagens de difusão usando informação mútua","2011","Brasil","Português","NAO","","","NAO",18
+"OUTRA","Watershed-based segmentation of the midsagittal section of the corpus callosum in diffusion MRI","2011","Brasil","Inglês","NAO","","","NAO",19
+"OUTRA","Segmentação de imagens de tensores de difusão no contexto da morfologia matemática","2010","Brasil","Português","NAO","","","NAO",20
+"CONFERENCIA","Adessowiki - Collaborative platform for writing executable papers","2011","Cingapura","Inglês","NAO","","","NAO",21
+"CONFERENCIA","Processamento de imagens digitais","2006","Brasil","Português","NAO","","","NAO",22
+"SEMINARIO","Imagens de difusão por ressonância magnética: Segmentação e tractografia via IFT","2006","Brasil","Português","NAO","","","NAO",23
+"SEMINARIO","DTI Segmentation by the watershed transform on tensorial morphological gradient","2008","Canadá","Inglês","NAO","","","NAO",24
+"SEMINARIO","A DTI segmentation method based on mathematical morphology","2010","Holanda","Inglês","NAO","","","NAO",25
+"CONFERENCIA","Adessowiki ? Ambiente Colaborativo de Desenvolvimento de Documentação e Programação de Aplicações Científicas","2011","Brasil","Português","NAO","","","NAO",26
+"CONGRESSO","Thalamic volumes predict cognitive impairment evaluated by speed processing tasks in Systemic Lupus Erythematosus","2009","Brasil","Português","NAO","","","NAO",27
+"CONGRESSO","Regional brain diffusion abnormalities in Systemic Lupus Erythematosus","2010","Brasil","Português","NAO","","","NAO",28
+"CONGRESSO","Speed processing tasks and thalamic volumes in Systemic Lupus Erythematosus.","2011","Brasil","Português","NAO","","","NAO",29
+"CONGRESSO","Support vector machines classification of texture parameters of white matter lesions in Systemic Lupus Erythematosus. Possible mechanism to distinghish between demyelination and schemia","2011","Brasil","Português","NAO","","","NAO",30
+"OUTRA","Classificação dos parâmetros de textura de lesões de substância branca (LSB) no Lúpus Eritematoso Sistêmico (LES) por rede neural. Possível mecanismo para distinguir entre desmielinização e isquemia","2011","Brasil","Português","NAO","","","NAO",31
+"CONGRESSO","Watershed-based Segmentation of the Corpus Callosum in Diffusion MRI","2012","Brasil","Português","NAO","","","NAO",32
+"CONGRESSO","Support vector machines classification of texture parameters of White Matter Lesions in childhood-onset systemic lupus erythematosus. Possible mechanism to distinguish between demyelination and ischemia","2012","Brasil","Português","NAO","","","NAO",33
+"CONGRESSO","White Matter Lesions are predominantly demyelinating in Systemic Lupus Erythematosus. An support vector machines classification of texture parameters","2012","Brasil","Português","NAO","","","NAO",34
+"CONGRESSO","Analysis of Brain white Matter Hyperintensities using Pattern Recognition Techniques","2013","Estados Unidos","Inglês","NAO","","Analysis of Brain white Matter Hyperintensities using Pattern Recognition Techniques","NAO",35
+"CONGRESSO","A Comparison between Optimum-Path Forest and k-Nearest Neighbors Classifiers","2012","Brasil","Inglês","NAO","","A Comparison between Optimum-Path Forest and k-Nearest Neighbors Classifiers","NAO",36
+"SEMINARIO","Diffusion MRI of the brain: Investigations through mathematical morphology","2012","Estados Unidos","Inglês","NAO","","","NAO",37
+"CONGRESSO","Multiple fuzzy object modeling improves sensitivity in automatic anatomy recognition","2014","Estados Unidos","Inglês","NAO","","","NAO",38
+"CONGRESSO","Web-based platform for Medical Imaging Research","2014","Brasil","Inglês","NAO","","","NAO",39
+"OUTRA","Segmentação de imagens de tensores de difusão no contexto da morfologia matemática","2013","Brasil","Português","NAO","","","NAO",40
+"CONGRESSO","Web-based platform for collaborative medical imaging research","2015","Estados Unidos","Inglês","NAO","","","NAO",41
+"CONGRESSO","Mid?callosal plane determination using preferred directions from diffusion tensor images","2015","Estados Unidos","Inglês","NAO","","","NAO",42
+"CONGRESSO","Interactive max-tree visualization tool for image processing and analysis","2015","França","Inglês","NAO","","","NAO",43
+"CONGRESSO","An Array-based Node-Oriented Max-tree Representation","2015","Estados Unidos","Inglês","NAO","","","NAO",44
+"SEMINARIO","Caracterização de estruturas e tecidos cerebrais a partir de imagens de tensores de difusão","2015","Brasil","Português","NAO","","","NAO",45
+"CONGRESSO","3D texture-based classification applied on brain white matter lesions on MR images","2016","Estados Unidos","Inglês","NAO","","","NAO",46
+"CONGRESSO","Divergence Map from Diffusion Tensor Imaging: Concepts and Application to Corpus Callosum","2016","Estados Unidos","Inglês","NAO","","","NAO",47
+"OUTRA","Watershed-based segmentation of the midsagittal section of the corpus callosum in diffusion MRI","2011","Brasil","Português","NAO","","","NAO",48

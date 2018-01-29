@@ -1,0 +1,10 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+MO417 - Complexidade de Algoritmos I,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,08,2005,NULL,NULL
+MO637 - Complexidade de Algoritmos II,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,08,2005,NULL,NULL
+MO640 - Biologia Computacional,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,08,2005,NULL,NULL
+MC102 - Algoritmos e Programação de Computadores ,GRADUACAO,Bacharelado em Ciência da Computação,Universidade Estadual de Campinas,ATUAL,09,2003,NULL,NULL
+MC336 - Paradigmas de Programação,GRADUACAO,Bacharelado em Ciência da Computação,Universidade Estadual de Campinas,ATUAL,09,2003,NULL,NULL
+MC448 - Projeto e Análise de Algoritmos I,GRADUACAO,Bacharelado em Ciência da Computação,Universidade Estadual de Campinas,ATUAL,09,2003,NULL,NULL
+MC548 - Projeto e Análise de Algoritmos II,GRADUACAO,Bacharelado em Ciência da Computação,Universidade Estadual de Campinas,ATUAL,09,2003,NULL,NULL
+MC600 - Estudo Comparativo de Linguagens de Programação,GRADUACAO,Bacharelado em Ciência da Computação,Universidade Estadual de Campinas,ATUAL,09,2003,NULL,NULL
+MC668 - Bioinformática,GRADUACAO,Bacharelado em Ciência da Computação,Universidade Estadual de Campinas,ATUAL,09,2003,NULL,NULL

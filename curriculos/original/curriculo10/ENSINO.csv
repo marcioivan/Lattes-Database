@@ -1,0 +1,19 @@
+﻿ENSINO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,TIPO-ENSINO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,NOME-CURSO-INGLES,ATIVIDADES-DE-ENSINO_Id
+0,"1","ATUAL","GRADUACAO","9","2004","","","","","90000004","Economia","",0
+1,"10","ANTERIOR","ESPECIALIZACAO","10","2003","12","2003","","","90000010","Economia Monetária","",0
+2,"11","ANTERIOR","ESPECIALIZACAO","7","2004","9","2004","","","90000010","Economia Monetária","",0
+3,"12","ANTERIOR","ESPECIALIZACAO","10","2004","12","2004","","","90000010","Economia Monetária","",0
+4,"13","ANTERIOR","ESPECIALIZACAO","4","2008","6","2008","","","90000010","Economia Monetária","",0
+5,"14","ANTERIOR","ESPECIALIZACAO","10","2008","12","2008","","","90000010","Economia Monetária","",0
+6,"15","ANTERIOR","ESPECIALIZACAO","10","2007","12","2007","","","90000011","Mercado de Capitais I: Ações","",0
+7,"16","ANTERIOR","ESPECIALIZACAO","5","2010","7","2010","","","90000011","Mercado de Capitais I: Ações","",0
+8,"17","ANTERIOR","ESPECIALIZACAO","2","2004","4","2004","","","90000012","Mercado de Capitais II: Derivativos","",0
+9,"18","ANTERIOR","ESPECIALIZACAO","2","2007","4","2007","","","90000012","Mercado de Capitais II: Derivativos","",0
+10,"19","ANTERIOR","ESPECIALIZACAO","4","2007","7","2007","","","90000012","Mercado de Capitais II: Derivativos","",0
+11,"24","ANTERIOR","GRADUACAO","03","2012","06","2015","","","60096837","Ciências Econômicas","",0
+12,"27","ANTERIOR","GRADUACAO","03","2015","06","2015","","","60096837","Ciências Econômicas","",0
+13,"29","ANTERIOR","GRADUACAO","08","2012","11","2013","","","60096837","Ciências Econômicas","",0
+14,"30","ANTERIOR","POS-GRADUACAO","03","2012","06","2012","","","33070202","Ciência Econômica","Economy",0
+15,"31","ANTERIOR","POS-GRADUACAO","03","2013","06","2013","","","33070202","Ciência Econômica","Economy",0
+16,"32","ANTERIOR","POS-GRADUACAO","03","2012","06","2015","","","33070202","Ciência Econômica","Economy",0
+17,"28","ANTERIOR","GRADUACAO","08","2013","11","2014","","","60096837","Ciências Econômicas","",0

@@ -1,0 +1,130 @@
+NOME-COMPLETO,NOME-PARA-CITACAO,ORDEM-DE-INTEGRACAO,FLAG-RESPONSAVEL,EQUIPE-DO-PROJETO_Id
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,0
+Ricardo da Silva Torres,"TORRES, R. S.",2,NAO,0
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",3,NAO,0
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,1
+Guido Araújo,"ARAUJO, G.",2,NAO,1
+Rodolfo Azevedo,"AZEVEDO, R.",3,NAO,1
+Sandro Rigo,"RIGO, S.",4,NAO,1
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,2
+Guido Araújo,"ARAUJO, G.",2,SIM,2
+Sandro Rigo,"RIGO, S.",3,NAO,2
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,3
+Rodolfo Azevedo,"AZEVEDO, R.",2,NAO,3
+Ricardo da Silva Torres,"TORRES, R. S.",3,SIM,3
+Eduardo Alves do Valle Junior,"VALLE JUNIOR, E. A.",4,NAO,3
+Hélio Pedrini,"PEDRINI, H.",5,NAO,3
+Siome Klein Goldenstein,"GOLDENSTEIN, S. K.",6,NAO,3
+Anderson Rocha,"ROCHA, A.",7,NAO,3
+Jacques Wainer,"WAINER, J.",8,NAO,3
+George Teodoro,"TEODORO, G.",9,NAO,3
+William Robson Schwartz,"SCHWARTZ, W. R.",10,NAO,3
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,4
+Ricardo da Silva Torres,"TORRES, R. S.",2,NAO,4
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",3,NAO,4
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,5
+Sandro Rigo,"RIGO, S.",2,SIM,5
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,6
+Rodolfo Azevedo,"AZEVEDO, R.",2,NAO,6
+Sandro Rigo,"RIGO, S.",3,NAO,6
+Guido Araujo,"ARAUJO, G.",4,NAO,6
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,7
+Philippe Remy Bernard Devloo,"DEVLOO, P. R. B.",2,SIM,7
+Sônia Maria Gomes,"GOMES, S. M.",3,NAO,7
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,8
+Juliana Freitag Borin,"BORIN, J. F.",2,SIM,8
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,9
+Ricardo da Silva Torres,"TORRES, R. S.",2,NAO,9
+Eduardo Alves do Valle Junior,"VALLE JUNIOR, E. A.",3,NAO,9
+Hélio Pedrini,"PEDRINI, H.",4,NAO,9
+Siome Klein Goldenstein,"GOLDENSTEIN, S. K.",5,NAO,9
+Anderson Rocha,"ROCHA, A.",6,SIM,9
+Jacques Wainer,"WAINER, J.",7,NAO,9
+William Robson Schwartz,"SCHWARTZ, W. R.",8,NAO,9
+André Luiz da Costa Morisson,"MORISSON, A. L. C.",9,NAO,9
+Paulo Max Gil Innocencio Reis,"REIS, P. M. G. I.",10,NAO,9
+Jorge de Albuquerque Lambert,"LAMBERT, J. A.",11,NAO,9
+Jefersson Alex dos Santos,"SANTOS, J. A.",12,NAO,9
+David Menotti Gomes,"GOMES, D. M.",13,NAO,9
+"CHIACHIA, G.","CHIACHIA, G.",14,NAO,9
+Arnaldo Albuquerque de Araújo,"ARAUJO, A. A.",15,NAO,9
+Nelson Luis Saldanha da Fonseca,"FONSECA, N. L. S.",16,NAO,9
+Flavio de Barros Vidal,"VIDAL, F. B.",17,NAO,9
+Dibio Leandro Borges,"BORGES, D. L.",18,NAO,9
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,10
+Mauricio Breternitz Jr.,"BRETERNITZ JR., M",2,NAO,10
+Ricardo da Silva Torres,"TORRES, R. S.",3,NAO,10
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",4,NAO,10
+Marco Lúcio Bittencourt,"BITTENCOURT, M. L.",5,NAO,10
+Philippe Remy Bernard Devloo,"DEVLOO, P. R. B.",6,NAO,10
+Sônia Maria Gomes,"GOMES, S. M.",7,NAO,10
+Juliana Freitag Borin,"BORIN, J. F.",8,NAO,10
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,11
+Caian Benedicto,"BENEDICTO, C.",2,NAO,11
+Ian Rodrigues,"RODRIGUES, I.",3,NAO,11
+Jorge Faccipieri,"FACCIPIERI, J.",4,NAO,11
+Martin Tygel,"TYGEL, M.",5,SIM,11
+Tiago Antonio Alves Coimbra,"COIMBRA, T. A. A.",6,NAO,11
+Danny Rueda,"RUEDA, D.",7,NAO,11
+Alcides Goldoni Junior,"GOLDONI JUNIOR, A.",8,NAO,11
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,12
+Caian Benedicto,"BENEDICTO, C.",2,NAO,12
+Ian Rodrigues,"RODRIGUES, I.",3,NAO,12
+Jorge Faccipieri,"FACCIPIERI, J.",4,NAO,12
+Martin Tygel,"TYGEL, M.",5,SIM,12
+Tiago Antonio Alves Coimbra,"COIMBRA, T. A. A.",6,NAO,12
+Danny Rueda,"RUEDA, D.",7,NAO,12
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,13
+Ricardo da Silva Torres,"TORRES, R. S.",2,NAO,13
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",3,NAO,13
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,14
+Felipe Klein,"KLEIN, F.",2,NAO,14
+Sandro Rigo,"RIGO, S.",3,NAO,14
+Paulo Cesar Centoducatte,"CENTODUCATTE, P. C.",4,NAO,14
+Ricardo Ribeiro dos Santos,"SANTOS, R. R.",5,NAO,14
+Guido Araujo,"ARAUJO, G.",6,NAO,14
+Rodolfo Jardim de Azevedo,"AZEVEDO, R. J.",7,SIM,14
+Valdiney Alves Pimenta,"PIMENTA, V. A.",8,NAO,14
+Marilia Chiozo,"CHIOZO, M.",9,NAO,14
+Sandro Dangui,"DANGUI, S.",10,NAO,14
+Thiago Massariolli Sigrist,"SIGRIST, T. M.",11,NAO,14
+Alessandro Carvalho Santos,"SANTOS, A. C.",12,NAO,14
+Danilo Marcolin Caravana,"CARAVANA, D. M.",13,NAO,14
+Rafael Fernandes Batistella,"BATISTELLA, R. F.",14,NAO,14
+Henrique Dante de Almeida,"ALMEIDA, H. D.",15,NAO,14
+Felipe Bertho,"BERTHO, F.",16,NAO,14
+Josué Tzan Hsin Ma,"MA, J. T. H.",17,NAO,14
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,15
+Caian Benedicto,"BENEDICTO, C.",2,NAO,15
+Ian Rodrigues,"RODRIGUES, I.",3,NAO,15
+Martin Tygel,"TYGEL, M.",4,NAO,15
+Alcides Goldoni Junior,"GOLDONI JUNIOR, A.",5,NAO,15
+Jorge Henrique Faccipieri Junior,"FACCIPIERI JUNIOR, J. H.",6,NAO,15
+Dany Rueda Serrano,"SERRANO, D. R.",7,NAO,15
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,16
+Martin Tygel,"TYGEL, M.",2,NAO,16
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,NAO,17
+Rodolfo Azevedo,"AZEVEDO, R.",2,SIM,17
+Sandro Rigo,"RIGO, S.",3,NAO,17
+Paulo Cesar Centoducatte,"CENTODUCATTE, P. C.",4,NAO,17
+Ricardo Ribeiro dos Santos,"SANTOS, R. R.",5,NAO,17
+Guido Araujo,"ARAUJO, G.",6,NAO,17
+Alexandro José Baldassin,"BALDASSIN, A. J.",7,NAO,17
+Juliana Freitag Borin,"BORIN, J. F.",8,NAO,17
+Ivan Rizzo Guilherme,"GUILHERME, I. R.",9,NAO,17
+Renato Porfírio Ishii,"ISHII, R. P.",10,NAO,17
+Fabricio Aparecido Breve,"BREVE, F. A.",11,NAO,17
+Aparecido Nilceu Marana,"MARANA, A. N.",12,NAO,17
+João Paulo Papa,"PAPA, J. P.",13,NAO,17
+Mario Cortes,"CORTES, M.",14,NAO,17
+Edson Norberto Caceres,"CACERES, E. N.",15,NAO,17
+Nahri Balesdent Moreano,"MOREANO, N. B.",16,NAO,17
+Aleardo Manacero Junior,"MANACERO JUNIOR, A.",17,NAO,17
+Carlos Roberto Valencio,"VALENCIO, C. R.",18,NAO,17
+Renata Spolon Lobato,"LOBATO, R. S.",19,NAO,17
+Roberta Spolon,"SPOLON, R.",20,NAO,17
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,18
+Sandro Rigo,"RIGO, S.",2,NAO,18
+Juliana Freitag Borin,"BORIN, J. F.",3,NAO,18
+Edson Borin,"BORIN, E.;BORIN, EDSON",1,SIM,19
+Sandro Rigo,"RIGO, S.",2,NAO,19

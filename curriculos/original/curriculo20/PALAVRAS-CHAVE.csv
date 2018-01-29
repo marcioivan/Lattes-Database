@@ -1,0 +1,17 @@
+﻿PALAVRA-CHAVE-1,PALAVRA-CHAVE-2,PALAVRA-CHAVE-3,PALAVRA-CHAVE-4,PALAVRA-CHAVE-5,PALAVRA-CHAVE-6,MESTRADO_Id,DOUTORADO_Id,TRABALHO-EM-EVENTOS_Id,ARTIGO-PUBLICADO_Id,CAPITULO-DE-LIVRO-PUBLICADO_Id,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id,ORIENTACOES-CONCLUIDAS-PARA-DOUTORADO_Id
+"paralelismo","máquinas de fluxo de dados","","","","",0,,,,,,
+"Fault tolerance","exception handling","object orientation","","","",,0,,,,,
+"tratamento de exceções","arquitetura de software","orientação a objetos","","","",,,29,,,,
+"tratamento de exceções","padrões de projeto","arquitetura de software","","","",,,30,,,,
+"tratamento de exceções","orientação a objetos","componentes de software","","","",,,31,,,,
+"software architecture","coordinated action","Fault tolerance","Design Patterns","","",,,32,,,,
+"fault injection","","","","","",,,37,,,,
+"exception handling","","","","","",,,,2,,,
+"product line architecture","component-based development","aspect-oriented software development","design stability","","",,,,16,,,
+"Design Patterns","","","","","",,,,,2,,
+"framework orientado a objetos","padroes","modelo MVC","","","",,,,,,3,
+"padrões de projeto","reflexão computacional","Fault tolerance","","","",,,,,,4,
+"criptografia","padrões de projeto","framework orientado a objetos","","","",,,,,,5,
+"CSCW","framework orientado a objetos","padrões de projeto","","","",,,,,,6,
+"tratamento de exceções","tolerância a falhas","concorrencia","","","",,,,,,7,
+"aspect-oriented software development","component-based development","product line architecture","software reuse","domain engineering","",,,,,,,3

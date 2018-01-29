@@ -1,0 +1,17 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONCERTO","ORGANIZACAO","Recital de alunos","2009","Brasil","Português","VARIOS","","NAO","","","NAO",0
+"CONGRESSO","ORGANIZACAO","III Encontro de Educação Musical da Unicamp","2010","Brasil","Português","VARIOS","","NAO","","","NAO",1
+"CONGRESSO","ORGANIZACAO","II Encontro de Educação Musical da Unicamp","2009","Brasil","Português","VARIOS","","NAO","","","NAO",2
+"CONGRESSO","ORGANIZACAO","III Semana de Educação Musical da UNESP","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",3
+"CONGRESSO","ORGANIZACAO","VI Encontro de Educacao Musical do Instituto de Artes- UNICAMP","2013","Brasil","Português","OUTRO","","NAO","","","NAO",4
+"OUTRO","NAO_INFORMADO","A formação do educador musical e a inclusão","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","SIM",5
+"CONGRESSO","ORGANIZACAO","V Encontro de Educação Musical da Unicamp","2012","Brasil","Português","VARIOS","","NAO","","","NAO",6
+"CONGRESSO","ORGANIZACAO","VII Encontro de Educação Musical da Unicamp","2014","Brasil","Português","VARIOS","","NAO","","","NAO",7
+"CONGRESSO","ORGANIZACAO","X Simpósio de Cognição e Artes Musicais (SIMCAM)","2014","Brasil","Português","VARIOS","","NAO","","","NAO",8
+"CONGRESSO","ORGANIZACAO","I Encontro sobre a Formação em Música na Universidade","2014","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",9
+"CONGRESSO","ORGANIZACAO","VIII Encontro de Educação Musical da Unicamp","2015","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",10
+"CONGRESSO","ORGANIZACAO","IX Encontro de Educação Musical da Unicamp","2016","Brasil","Português","IMPRESSO","","NAO","","","NAO",11
+"OUTRO","ORGANIZACAO","II Ciência & Arte no Inverno","2016","Brasil","Português","IMPRESSO","","NAO","","","NAO",12
+"OUTRO","ORGANIZACAO","XV Ciência e Arte nas Férias","2017","Brasil","Português","VARIOS","","NAO","","","SIM",13
+"CONGRESSO","ORGANIZACAO","X Encontro de Educação Musical da Unicamp","2017","Brasil","Português","VARIOS","","NAO","","","SIM",14
+"CONGRESSO","ORGANIZACAO","IV Encontro de Educação Musical da Unicamp","2011","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",15

@@ -1,0 +1,14 @@
+﻿ENSINO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,TIPO-ENSINO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,NOME-CURSO-INGLES,ATIVIDADES-DE-ENSINO_Id
+0,"3","ANTERIOR","GRADUACAO","8","1986","12","1986","","","90000002","Economia","",0
+1,"4","ANTERIOR","POS-GRADUACAO","8","1987","12","1987","","","60008342","Desenvolvimento Econômico","Economy",0
+2,"8","ANTERIOR","ESPECIALIZACAO","1","1995","01","1997","","","90000008","Curso de Espec Em Administração p Graduados","",0
+3,"19","ANTERIOR","GRADUACAO","02","2004","12","2004","","","90000005","Ciências Econômicas","",0
+4,"20","ANTERIOR","GRADUACAO","08","2006","12","2006","","","90000005","Ciências Econômicas","",0
+5,"25","ANTERIOR","POS-GRADUACAO","03","2003","07","2003","","","90000021","Social Economy and Labour","",0
+6,"26","ANTERIOR","POS-GRADUACAO","03","2004","12","2008","","","90000004","Ciências Econômicas","",0
+7,"27","ANTERIOR","POS-GRADUACAO","03","2003","03","2008","","","33070202","Ciência Econômica","Economy",0
+8,"30","ATUAL","POS-GRADUACAO","","2010","","","","","90000023"," Social Economy and Labour","",0
+9,"47","ANTERIOR","GRADUACAO","03","2011","12","2011","","","90000005","Ciências Econômicas","",0
+10,"49","ANTERIOR","GRADUACAO","03","2007","12","2007","","","90000005","Ciências Econômicas","",0
+11,"52","ATUAL","GRADUACAO","03","2012","","","","","90000005","Ciências Econômicas","",0
+12,"48","ANTERIOR","GRADUACAO","03","2008","12","2008","","","90000005","Ciências Econômicas","",0

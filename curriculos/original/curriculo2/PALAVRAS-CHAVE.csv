@@ -1,0 +1,80 @@
+﻿PALAVRA-CHAVE-1,PALAVRA-CHAVE-2,PALAVRA-CHAVE-3,PALAVRA-CHAVE-4,PALAVRA-CHAVE-5,PALAVRA-CHAVE-6,MESTRADO_Id,DOUTORADO_Id,LINHA-DE-PESQUISA_Id,TRABALHO-EM-EVENTOS_Id,ARTIGO-PUBLICADO_Id,LIVRO-PUBLICADO-OU-ORGANIZADO_Id,CAPITULO-DE-LIVRO-PUBLICADO_Id,APRESENTACAO-DE-TRABALHO_Id,CURSO-DE-CURTA-DURACAO-MINISTRADO_Id,ORGANIZACAO-DE-EVENTO_Id,PROGRAMA-DE-RADIO-OU-TV_Id,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id,OUTRAS-ORIENTACOES-CONCLUIDAS_Id,BANCA-JULGADORA-PARA-PROFESSOR-TITULAR_Id
+"Piano","Pedagogia Pianística","","","","",0,,,,,,,,,,,,,
+"Educação musical nas escolas","tecnologias na educação","","","","",,0,,,,,,,,,,,,
+"Educação Musical","Educação musical nas escolas","Licenciatura em Música","Pedagogia Pianística","software educacional","educação especial",,,0,,,,,,,,,,,
+"Educação de Jovens e Adultos","","","","","",,,,8,,,,,,,,,,
+"tecnologias na educação","","","","","",,,,9,,,,,,,,,,
+"Educação musical nas escolas","","","","","",,,,10,,,,,,,,,,
+"Educação Musical","Inclusão Social","Deficiência Auditiva","","","",,,,21,,,,,,,,,,
+"Acessibilidade","Educação Musical","deficiente visual","","","",,,,22,,,,,,,,,,
+"Educação Musical","informática","tecnologias na educação","","","",,,,24,,,,,,,,,,
+"Educação Musical","PIBID","Escola Pública","","","",,,,25,,,,,,,,,,
+"Educação Musical","Educação musical nas escolas","Diálogos entre escolas e universidades","","","",,,,26,,,,,,,,,,
+"Educação Musical","Tecnologia Digital","Educação e Aprendizagem","","","",,,,27,,,,,,,,,,
+"Educação Musical","Tecnologia Digital","Educação e Aprendizagem","","","",,,,28,,,,,,,,,,
+"Educação Musical","Cognição Musical","Método Suzuki","","","",,,,29,,,,,,,,,,
+"Educação Musical","Inclusão Social","CAPSij Espaço Viver","Oficinas de música","","",,,,37,,,,,,,,,,
+"tecnologias na educação","Educação Musical","Raspberry Pi","","","",,,,39,,,,,,,,,,
+"Educação Musical","educação especial","Inclusão Social","CAPSij Espaço Viver","Oficinas de música","",,,,40,,,,,,,,,,
+"educação especial","Educação Musical","Formação do educador musical","Formação de professores","","",,,,41,,,,,,,,,,
+"Educação Musical","Vivências musicais","","","","",,,,42,,,,,,,,,,
+"Educação Musical","","","","","",,,,,0,,,,,,,,,
+"Educação Musical","","","","","",,,,,1,,,,,,,,,
+"Piano","tecnologias na educação","Licenciatura em Música","","","",,,,,,1,,,,,,,,
+"Pedagogia Pianística","Piano","Licenciatura em Música","tecnologias na educação","","",,,,,,2,,,,,,,,
+"Educação Musical","Iniciação à Docência","Educação Básica","","","",,,,,,,0,,,,,,,
+"Educação Musical","PIBID","","","","",,,,,,,1,,,,,,,
+"Arte-educação","","","","","",,,,,,,2,,,,,,,
+"tecnologias na educação","","","","","",,,,,,,,11,,,,,,
+"Educação de Jovens e Adultos","","","","","",,,,,,,,12,,,,,,
+"Formação do educador musical","","","","","",,,,,,,,13,,,,,,
+"Educação musical nas escolas","","","","","",,,,,,,,14,,,,,,
+"Educação musical nas escolas","tecnologias na educação","","","","",,,,,,,,15,,,,,,
+"Formação do educador musical","Educação Musical","","","","",,,,,,,,16,,,,,,
+"Educação Musical","Multiculturalismo","","","","",,,,,,,,17,,,,,,
+"tecnologias na educação","Educação musical nas escolas","","","","",,,,,,,,18,,,,,,
+"Educação musical nas escolas","Coral","Fanfarra","","","",,,,,,,,19,,,,,,
+"Educação musical nas escolas","educação especial","Arte-educação","","","",,,,,,,,38,,,,,,
+"tecnologias na educação","Educação Musical","","","","",,,,,,,,39,,,,,,
+"Educação Musical","educação especial","Inclusão Social","CAPSij Espaço Viver","","",,,,,,,,40,,,,,,
+"Vivências musicais","Brincadeiras infantis","","","","",,,,,,,,,8,,,,,
+"Educação Musical","Vivências musicais","","","","",,,,,,,,,9,,,,,
+"Educação Musical","Educação musical nas escolas","","","","",,,,,,,,,,7,,,,
+"Ensino médio","","","","","",,,,,,,,,,13,,,,
+"Educação Musical","","","","","",,,,,,,,,,15,,,,
+"artes","linguagens artísticas","interdisciplinaridade","","","",,,,,,,,,,,3,,,
+"Educação musical nas escolas","","","","","",,,,,,,,,,,4,,,
+"Educação musical nas escolas","","","","","",,,,,,,,,,,14,,,
+"tecnologias na educação","","","","","",,,,,,,,,,,,0,,
+"Formação do educador musical","Educação Musical","Projetos de extensão universitária","","","",,,,,,,,,,,,,0,
+"Educação Musical","Formação do educador musical","","","","",,,,,,,,,,,,,1,
+"Educação Musical","Formação do educador musical","","","","",,,,,,,,,,,,,2,
+"Educação Musical","Formação do educador musical","","","","",,,,,,,,,,,,,4,
+"Educação Musical","Formação do educador musical","","","","",,,,,,,,,,,,,5,
+"Educação Musical","Formação do educador musical","","","","",,,,,,,,,,,,,6,
+"Licenciatura em Música","","","","","",,,,,,,,,,,,,8,
+"Educação musical nas escolas","","","","","",,,,,,,,,,,,,19,
+"Educação musical nas escolas","","","","","",,,,,,,,,,,,,20,
+"Educação Musical","","","","","",,,,,,,,,,,,,21,
+"Educação musical nas escolas","","","","","",,,,,,,,,,,,,22,
+"Educação Musical","","","","","",,,,,,,,,,,,,23,
+"Vivências musicais","","","","","",,,,,,,,,,,,,24,
+"Pianista colaborador","Canto coral","","","","",,,,,,,,,,,,,96,
+"Legislação","Educação musical nas escolas","Formação de professores","","","",,,,,,,,,,,,,97,
+"Educação Musical","Educação inclusiva","TEA","","","",,,,,,,,,,,,,98,
+"Educação Musical","Interculturalidade","Formação do educador musical","","","",,,,,,,,,,,,,99,
+"Educação Musical","Formação do educador musical","","","","",,,,,,,,,,,,,103,
+"Licenciatura em Música","","","","","",,,,,,,,,,,,,,1
+"Pedagogia Pianística","","","","","",,,,,,,,,,,,,,12
+"audiação musical","","","","","",,,,,,,,,,,,,,13
+"audiação musical","memória de trabalho visual","","","","",,,,,,,,,,,,,,14
+"tecnologias na educação","EAD","pedagogia do instrumento","","","",,,,,,,,,,,,,,47
+"Educação musical nas escolas","Chile","","","","",,,,,,,,,,,,,,48
+"Preparo vocal","Terceira idade","Coral","","","",,,,,,,,,,,,,,72
+"educação especial","Educação Musical","Educação Básica","","","",,,,,,,,,,,,,,73
+"Educação musical nas escolas","Leitura musical","Perspectiva histórico-cultural","Vygotsky","","",,,,,,,,,,,,,,74
+"Canto coral","Adultos","TDIC","Educação Musical","","",,,,,,,,,,,,,,75
+"Licenciatura em Música","","","","","",,,,,,,,,,,,,,76
+"educação especial","Educação musical nas escolas","Arte-educação","","","",,,,,,,,,,,,,,77
+"Formação de professores","Educação inclusiva","Educação musical nas escolas","","","",,,,,,,,,,,,,,78
+"Tecnologias na Educação Musical","","","","","",,,,,,,,,,,,,,79

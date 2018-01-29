@@ -1,0 +1,7 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","CELETISTA","LIVRE","40","SIM","06","2000","03","2004","","NAO","","Engenheira de Testes","","",0
+"1","CELETISTA","LIVRE","40","NAO","06","2004","08","2004","","NAO","","Engenheira de Desenvolvimento","","",1
+"1","SERVIDOR_PUBLICO","LIVRE","","SIM","01","2015","","","Docente da Faculdade de Engenharia Elétrica e de Computação (FEEC)","NAO","","Professor","","",2
+"1","LIVRE","LIVRE","","NAO","3","2017","","","","SIM","Revisor de periódico","","","",3
+"1","LIVRE","LIVRE","","NAO","4","2016","","","","SIM","Revisor de periódico","","","",4
+"1","LIVRE","LIVRE","","NAO","4","2016","","","","SIM","Revisor de periódico","","","",5

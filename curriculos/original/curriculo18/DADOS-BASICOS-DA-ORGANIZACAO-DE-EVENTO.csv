@@ -1,0 +1,11 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONGRESSO","ORGANIZACAO","Seventh IEEE/ACM International Symposium on Code Generation and Optimization (Publication Chair)","2009","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",0
+"CONGRESSO","ORGANIZACAO","Workshop de Trabalhos de Iniciação Científica e de Graduação (Comitê de Programa)","2009","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",1
+"OUTRO","ORGANIZACAO","WISH - Workshop on Infrastructures for Software/Hardware co-design","2010","Canadá","Inglês","OUTRO","","NAO","","","NAO",2
+"OUTRO","ORGANIZACAO","WISH - Workshop on Infrastructures for Software/Hardware co-design","2011","França","Inglês","MEIO_DIGITAL","","NAO","","","NAO",3
+"OUTRO","ORGANIZACAO","Workshop on Infrastructures for Software/Hardware co-design (WISH)","2012","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","WISH - Workshop on Infrastructures for Software/Hardware co-design","NAO",4
+"CONGRESSO","ORGANIZACAO","3a Escola Regional de Alto Desempenho de São Paulo","2012","Brasil","Bretão","MEIO_DIGITAL","","NAO","","","NAO",5
+"CONGRESSO","ORGANIZACAO","Workshop de Iniciação Científica do XV Simpósio em Sistemas Computacionais de Alto Desempenho","2014","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",6
+"CONGRESSO","ORGANIZACAO","27th International Symposium on Computer Architecture and High Performance Computing","2015","Brasil","Inglês","MEIO_DIGITAL","","NAO","","27th International Symposium on Computer Architecture and High Performance Computing","NAO",7
+"CONGRESSO","ORGANIZACAO","28th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)","2016","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","28th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)","NAO",8
+"OUTRO","ORGANIZACAO","4th Workshop on Architectural and Microarchitectural Support for Binary Translation (AMAS-BT)","2011","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","4th Workshop on Architectural and Microarchitectural Support for Binary Translation (AMAS-BT)","NAO",9

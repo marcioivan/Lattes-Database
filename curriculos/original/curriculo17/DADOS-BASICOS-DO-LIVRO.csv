@@ -1,0 +1,13 @@
+﻿TIPO,NATUREZA,TITULO-DO-LIVRO,ANO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-LIVRO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,LIVRO-PUBLICADO-OU-ORGANIZADO_Id
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","O Computador: Um Novo Super-Heroi.","1983","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","Introducao A Programacao de Computadores.","1982","Brasil","Português","IMPRESSO","","NAO","","","NAO",1
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","Design e Avaliação de Interfaces Humano-Computador","2000","Brasil","Português","IMPRESSO","","NAO","","","NAO",2
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","Design e Avaliação de Interfaces Humano-Computador","2003","Brasil","Português","IMPRESSO","","NAO","","","NAO",3
+"LIVRO_ORGANIZADO_OU_EDICAO","LIVRO","TODOS NÓS - Unicamp acessível: resultados da primeira oficina participativa do projeto: "Acesso, permanência e prosseguimento da escolaridade em nível superior de pessoas com deficiência: ambientes inclusivos" PROESP/CAPES","2005","Brasil","Português","IMPRESSO","","NAO","","","NAO",4
+"LIVRO_ORGANIZADO_OU_EDICAO","LIVRO","Aprendizagem na Era dos Novos Processos e Tecnologias: Conhecimento, Trabalho na Empresa e Design de Sistemas","2007","Brasil","Português","IMPRESSO","","NAO","","","NAO",5
+"LIVRO_ORGANIZADO_OU_EDICAO","ANAIS","Human Computer Interaction INTERACT 2007 LNCS 4662","2007","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",6
+"LIVRO_ORGANIZADO_OU_EDICAO","NAO_INFORMADO","ATORES DA INCLUSÃO NA UNIVERSIDADE: FORMAÇÃO E COMPROMISSO","2009","Brasil","Português","IMPRESSO","","NAO","","","NAO",7
+"LIVRO_PUBLICADO","COLETANEA","Codesign de Redes Digitais - Tecnologia e Educação a Serviço da Inclusão Social","2013","Brasil","Português","IMPRESSO","","NAO","","","SIM",8
+"LIVRO_ORGANIZADO_OU_EDICAO","LIVRO","ABInv - Aprendizagem baseada na investigação","2014","Brasil","Bretão","MEIO_DIGITAL","http://www.nied.unicamp.br/?q=publicacoes","NAO","","","NAO",9
+"LIVRO_ORGANIZADO_OU_EDICAO","NAO_INFORMADO","Socially Aware Organisations and Technologies Impact and Challenges","2016","Brasil","Inglês","IMPRESSO","","NAO","10.1007/978-3-319-42102-5","","NAO",10
+"LIVRO_ORGANIZADO_OU_EDICAO","LIVRO","XO na Escola: Construção Compartilhada de Conhecimento - Lições Aprendidas","2012","Brasil","Português","IMPRESSO","http://www.nied.unicamp.br/xounicamp/","NAO","","","SIM",11

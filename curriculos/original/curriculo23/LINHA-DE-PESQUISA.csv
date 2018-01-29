@@ -1,0 +1,9 @@
+﻿SEQUENCIA-LINHA,TITULO-DA-LINHA-DE-PESQUISA,FLAG-LINHA-DE-PESQUISA-ATIVA,OBJETIVOS-LINHA-DE-PESQUISA,TITULO-DA-LINHA-DE-PESQUISA-INGLES,OBJETIVOS-LINHA-DE-PESQUISA-INGLES,PESQUISA-E-DESENVOLVIMENTO_Id
+"1","Engenharia de Software","NAO","","","",0
+"2","Processo de Software","NAO","","","",0
+"2","Processo de Software","NAO","","","",1
+"1","Engenharia de Software Experimental","NAO","","","",2
+"2","Simulação Computacional","NAO","","","",2
+"3","Engenharia de Software Contínua","NAO","","","",2
+"2","Simulação Computacional","NAO","","","",3
+"3","Métodos Ágeis","NAO","","","",3

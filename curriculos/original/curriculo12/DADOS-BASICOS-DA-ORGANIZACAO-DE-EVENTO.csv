@@ -1,0 +1,8 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONGRESSO","ORGANIZACAO","II Simpósio de Processamento de Sinais da Universidade Estadual de Campinas","2011","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",0
+"CONGRESSO","ORGANIZACAO","Workshop on Vision-based Human Activity Recognition","2014","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",1
+"CONGRESSO","NAO_INFORMADO","V Simpósio de Processamento de Sinais (SPS) - UNICAMP","2014","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",2
+"CONGRESSO","ORGANIZACAO","VII Encontro de alunos e docentes do Departamento de Computação e Automação Industrial","2014","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",3
+"CONGRESSO","ORGANIZACAO","VIII Encontro de alunos e docentes do Departamento de Computação e Automação Industrial","2015","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",4
+"OUTRO","ORGANIZACAO","VII Simpósio de Instrumentação e Imagens Médicas (SIIM) / VI Simpósio de Processamento de Sinais da UNICAMP (SPS-UNICAMP)","2015","Brasil","Português","MEIO_DIGITAL","","NAO","","","SIM",5
+"OUTRO","ORGANIZACAO","Primeiro Girls Hackday de Apps Android","2014","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",6

@@ -1,0 +1,31 @@
+﻿INSTITUICAO-PROMOTORA,DURACAO-EM-SEMANAS,FLAG-EVENTO-ITINERANTE,FLAG-CATALOGO,LOCAL,CIDADE,ORGANIZACAO-DE-EVENTO_Id
+"SBC","1","S","","","Belo Horizonte",0
+"ACM","1","S","","","Arlington, VA",1
+"SBC","1","S","","","Natal, RN",2
+"SBC","1","S","","","Curitiba, PR",3
+"SBC","1","S","","","São Carlos",4
+"SBC","1","S","","","Campinas, SP",5
+"MCT/INPE","1","S","","","Rio de Janeiro, RJ",6
+"ACM","1","S","","Napa Valley Marriott Hotel & Spa","Napa Valley",7
+"IEEE","1","S","","Paris Marriott Rive Gauche Hotel & Conference Center.","Paris",8
+"SBC","1","S","","","Campo Grande, MS",9
+"Sociedade Brasileira de Computação (SBC)","1","S","","PUC-Rio","Rio de Janeiro",10
+"SPIE","1","S","","","San Diego, CA",11
+"","1","S","","","Las Vegas",12
+"SPIE","1","N","S","","San Diego, CA",13
+"Sociedade Brasileira de Computação (SBC)","1","S","","","Gramado",14
+"SPIE","1","N","S","","Orlando, FL",15
+"SPIE","1","N","S","","San Diego, CA",16
+"Sociedade Brasileira de Computação (SBC)","1","S","","","Maceió, AL",17
+"Sociedade Brasileira de Computação (SBC)","1","S","","","Ouro Preto, MG",18
+"","3","N","","York University","York, UK",19
+"","","N","","Université Paul Sabatier","Toulouse, France",20
+"SBC","1","S","","Peru","Arequipa",21
+"SPIE","1","N","S","Florida","Lake Buena Vista",22
+"","1","S","","","Tenerife",23
+"SPIE","1","S","S","","Orlando, FL",24
+"SPIE","1","S","S","","San Diego, CA",25
+"","1","S","S","","Pittsburg, PA",26
+"IAPR","1","S","S","","Lima",27
+"MICCAI","1","N","","","Munique",28
+"SBC","1","S","","","Manaus, AM",29

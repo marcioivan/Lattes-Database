@@ -1,0 +1,64 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Vitor Augusto Barbosa Gaspar","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",0
+"Renato Colleto","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",1
+"Thiago S Lima","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",2
+"NATHÁLIA MARCONDES TORRICO ROMANO ROCHA","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",3
+"Carla Malavasi","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",4
+"Filipe Miranda de Arruda","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",5
+"Natália Lara","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",6
+"Gabriel S. Eid","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",7
+"Diego Eduardo Lopes Ramiro","553100000005","Faculdades de Campinas","90000007","Economia","NAO","","","CO_ORIENTADOR","","","",8
+"Bruno de Paola Patrocinio","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",9
+"Ricardo Miranda","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",10
+"Victor Tadeu Polvore","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",11
+"Alessandra Gazzoli dos Santos","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",12
+"Ricardo Ribeiro Marinho","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","","","CO_ORIENTADOR","","","",13
+"Davi Santos Encarnação","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",14
+"Leonardo Henrique Zamariola","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",15
+"Diana Gomes de Almeida","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",16
+"Pedro Campos Bias Fortes","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",17
+"BRUNO FERREIRA MARTINS","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",18
+"RENAN MUNIZ PIMENTA","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",19
+"Stella Washington Sbragia","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",20
+"Bruno Patrocínio","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",21
+"Ricardo Ribeiro Marinho","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",22
+"Luiz Antonio Cornetta","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",23
+"Felipe Mariani Feistler","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",24
+"Vinicius Fantini Ferreira","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",25
+"Anna Carla Gabetta Vaccari","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",26
+"Bruna de Castro Melo","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",27
+"Ariana Renata Pavan","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",28
+"Thomas Peeters Kors","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",29
+"Zeino de Oliveira Ávila","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",30
+"Hadassa B. Amaral","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","CO_ORIENTADOR","","","",31
+"Frederico A. Toledo","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","CO_ORIENTADOR","","","",32
+"Caio C. H. Yamate","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",33
+"Renan Muniz Pimenta","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",34
+"Gabriel Papaiordanou Elias","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",35
+"Loraine Barcha Garutti","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",36
+"Ricardo Vilhar Peretti","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",37
+"Renato Pinto Dias","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",38
+"Gabriela Ferraz Costa","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",39
+"Mariana Pestana Faria","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",40
+"Frederico A. Toledo","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",41
+"Hadassa B. Amaral","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",42
+"Bruno F. Martins","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",43
+"Ana Vitória Baraldi","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",44
+"Gabriela Peres Vilela Carvalho","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",45
+"Vanessa Sauberlich","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",46
+"Rafael Giori Prezoto","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",47
+"Laurent A.Ferreira","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",48
+"Matheus de Oliveira Erhardt Brito","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",49
+"Ana Luiza Nogueira","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",50
+"Mariana P. Faria","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",51
+"Pedro Henrique de Mello Lula Mota","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",52
+"Victor C. Galbieri","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",53
+"Rodrigo Cruz de Souza","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",54
+"Caio Eduardo Santos","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",55
+"Marcelo M. Sarti","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",56
+"Débora Leone Pedro","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",57
+"Luís Felipe Pereira Xavier","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",58
+"Luan Pires Ortega","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",59
+"Lucila Ludka Cordeiro","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",60
+"Matheus Gimenes","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",61
+"Marcelo M. Sarti","007900000004","Universidade Estadual de Campinas","90000009","Ciências Econômicas","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","CO_ORIENTADOR","","","",62

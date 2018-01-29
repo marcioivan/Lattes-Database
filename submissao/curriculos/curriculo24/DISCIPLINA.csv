@@ -1,0 +1,11 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Estática das Estruturas 1,GRADUACAO,Engenharia Civil,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Estática das Estruturas 2,GRADUACAO,Engenharia Civil,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Mecânica das Estruturas 1,POS-GRADUACAO,Engenharia Civil,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Mecânica das Estruturas 2,POS-GRADUACAO,Engenharia Civil,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Álgebra Computacional,POS-GRADUACAO,Engenharia Civil,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Mecânica dos meios contínuos,POS-GRADUACAO,Engenharia Civil,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Introdução ao Método de Elementos Finitos,POS-GRADUACAO,Engenharia Civil,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Introdução ao Método de Elementos Finitos,POS-GRADUACAO,Matemática Aplicada,Universidade Estadual de Campinas,ATUAL,8,1992,NULL,NULL
+Oefeningen van gewone differentiaal vergelijkingen,POS-GRADUACAO,Matemática,Universitaire Instelling Antwerpen,ANTERIOR,9,1981,8,1982
+ENSINO DE ESTATICA AO NIVEL DE GRADUACAO,GRADUACAO,Engineering Mechanics,University of Texas System,ANTERIOR,09,1982,8,1987

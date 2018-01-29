@@ -1,0 +1,5 @@
+TITULO,FLAG_ATIVA,OBJETIVOS
+Processamento e análise de imagens,SIM,"Pesquisa e desenvolvimento de métodos, algoritmos e estruturas de dados para filtragem, segmentação, representação, descrição e classificação de padrões em imagens e vídeos digitais."
+Aprendizado de Máquina e Reconhecimento de Padrões,SIM,Estudo e desenvolvimento de descritores de imagem e sistemas inteligentes de análise de imagens.
+Anotação e Recuperação de imagens por conteúdo,SIM,"Estudo e desenvolvimento de técnicas de representação e descrição de imagens, projeto e combinação de descritores de imagem, anotação de imagens, aprendizado ativo, regras de anotação e associação para recuperação de informação em bancos de imagens."
+Computação Visual em Biomedicina e Saúde,SIM,"Estudo e desenvolvimento de técnicas de processamento, análise e visualização de imagens biomédicas para apoio à pesquisa e ao diagnóstico e tratamento de doenças por imagens. Automação de sistemas de diagóstico (e.g., em Parasitologia e Neurologia)."

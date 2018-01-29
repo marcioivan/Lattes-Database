@@ -1,0 +1,10 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONCURSO","ORGANIZACAO","XVI Concurso de Teses e Dissertações (CTD'2003)","2003","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"CONGRESSO","ORGANIZACAO","39th IFIP Working Group 10.4 Meeting -- Dependable Computing and Fault Tolerance","2001","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",1
+"CONGRESSO","ORGANIZACAO","VIII  Simpósio Brasileiro  de Computação Tolerante a Falhas (SCTF'99)","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",2
+"CONGRESSO","ORGANIZACAO","II Simpósio Brasileiro de Linguagens de Programação (SBLP'97)","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",3
+"CONGRESSO","ORGANIZACAO","I Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2007)","2007","Brasil","Português","VARIOS","","NAO","","","NAO",4
+"CONGRESSO","ORGANIZACAO","XXII Simpósio Brasileiro de Engenharia de Software (SBES 2008)","2008","Brasil","Português","VARIOS","","NAO","","","NAO",5
+"CONGRESSO","ORGANIZACAO","1st Workshop on Exception Handling in Contemporary Software Systems (EHCoS 2011)","2011","Brasil","Inglês","MEIO_MAGNETICO","","NAO","","","NAO",6
+"CONGRESSO","ORGANIZACAO","V Workshop de Teses, Dissertações e Trabalhos de Iniciação Científica em Andamento IC-UNICAMP (WTD-IC-UNICAMP 2009)","2009","Brasil","Português","VARIOS","","NAO","","","NAO",7
+"CONGRESSO","ORGANIZACAO","1st Workshop on Dependability in  Adaptive and Self-managing   Systems (WDAS 2013)","2013","Brasil","Inglês","MEIO_MAGNETICO","","NAO","","","NAO",8

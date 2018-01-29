@@ -1,0 +1,5 @@
+TITULO,FLAG_ATIVA,OBJETIVOS
+Computação Científica Orientada para Objetos,SIM,"Desenvolvimento de técnicas avancadas para o método de elementos finitos utilizando a filosofia de programacao orientada para objetos. Nesta linha pesquisa se : método hp-adaptativos, sub estruturacao, métodos Galerkin descontinuo, espacos imersos, fluidos compressiveis, hiper elasticidade, plasticidade, etc. Todas as tecnicas sao incorporadas em um único software"
+PESQUISADOR SOBRE ELEMENTOS FINITOS.,NAO,NULL
+Mecânica Computacional,NAO,NULL
+Computacional Fluid Dynamics,NAO,NULL

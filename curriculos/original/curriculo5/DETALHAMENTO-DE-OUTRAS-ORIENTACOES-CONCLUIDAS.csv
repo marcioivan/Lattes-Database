@@ -1,0 +1,25 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Ciro de Faria Caetano","000200000993","Instituto de Química - UNICAMP","90000007","Química","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",0
+"Caroline da Costa Silva Gonçalves","000200000993","Instituto de Química - UNICAMP","90000007","Química","NAO","","","CO_ORIENTADOR","","","",1
+"Janaína Vilcachagua","000200000993","Instituto de Química - UNICAMP","90000007","Química","NAO","","","CO_ORIENTADOR","","","",2
+"Célio Fernando Figueiredo Angolini","000200000993","Instituto de Química - UNICAMP","90000007","Química","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",3
+"Leila Giarola","007900000004","Universidade Estadual de Campinas","90000017","Farmácia","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",4
+"Patrícia Tonon de Souza","000200000993","Instituto de Química - UNICAMP","90000007","Química","SIM","862400000009","Instituto Uniemp","CO_ORIENTADOR","","","",5
+"Suéllen da Silva Moraes","007900000004","Universidade Estadual de Campinas","90000000","Química Bacharelado","SIM","001200000991","Serviço de Apoio ao Estudante - UNICAMP","CO_ORIENTADOR","","","",6
+"Suelen da Rocha Gomes","000200000993","Instituto de Química - UNICAMP","90000021","Bacharelado em Química","SIM","001200000991","Serviço de Apoio ao Estudante - UNICAMP","CO_ORIENTADOR","","","",7
+"Adriana Fu Vivian","007900000004","Universidade Estadual de Campinas","90000022","Farmácia","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",8
+"Patrícia Tonon de Souza","000200000993","Instituto de Química - UNICAMP","90000021","Bacharelado em Química","SIM","001300000993","Braskem-SAE","CO_ORIENTADOR","","","",9
+"Larissa E Cordeiro Dantas","007900000004","Universidade Estadual de Campinas","90000022","Farmácia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",10
+"RAQUEL RODRIGUES RAMPASIO","007900000004","Universidade Estadual de Campinas","90000000","Química Bacharelado","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",11
+"Suéllen da Silva Moraes","000200000993","Instituto de Química - UNICAMP","90000021","Bacharelado em Química","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",12
+"Suélen da Rocha Gomes","000200000993","Instituto de Química - UNICAMP","90000021","Bacharelado em Química","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",13
+"Lucas Henrique Colombo","000200000993","Instituto de Química - UNICAMP","90000026","Química Tecnológica","SIM","001200000991","Serviço de Apoio ao Estudante - UNICAMP","CO_ORIENTADOR","","","",14
+"Déborah Ellen Salgo Gomes da Silva","000200000993","Instituto de Química - UNICAMP","90000021","Bacharelado em Química","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",15
+"Dayane Christine Costa Moreira Coqueiro","007900000004","Universidade Estadual de Campinas","60117770","Farmácia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",16
+"Ana Beatriz Gonçalves","000200000993","Instituto de Química - UNICAMP","90000021","Bacharelado em Química","SIM","001200000991","Serviço de Apoio ao Estudante - UNICAMP","CO_ORIENTADOR","","","",17
+"Karen Pinheiro Bezerra","000200000993","Instituto de Química - UNICAMP","90000028","Bacharelado em Ciências Farmacêuticas","SIM","001200000991","Serviço de Apoio ao Estudante - UNICAMP","CO_ORIENTADOR","","","",18
+"Dayane Christine Costa Moreira Coqueiro","002100000998","Faculdade de Ciências Farmacêuticas","90000031","Ciências Farmacêuticas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",19
+"Leila Regina Giarola","002100000998","Faculdade de Ciências Farmacêuticas","90000031","Ciências Farmacêuticas","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",20
+"GABRIEL APARECIDO MIRANDA E SILVA","000200000993","Instituto de Química - UNICAMP","90000021","Bacharelado em Química","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",21
+"Fernanda Bacciotti","000200000993","Instituto de Química - UNICAMP","","","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",22
+"Leila Regina Giarola","007900000004","Universidade Estadual de Campinas","90000022","Farmácia","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",23

@@ -1,0 +1,8 @@
+﻿FINALIDADE,PLATAFORMA,AMBIENTE,DISPONIBILIDADE,INSTITUICAO-FINANCIADORA,FINALIDADE-INGLES,SOFTWARE_Id
+"Determinar o despacho ótimo das máquinas das usinas hidrelétricas do rio Paranapanema","Windows","Windows","RESTRITA","DUKE Energy International","",0
+"Prever a carga diária, semanal e mensal da ELETROPAULO","Windows","Windows","RESTRITA","ELETROPAULO S.A.","",1
+"Previsor de Demanda de Carga Elétrica da Eletropaulo","C++","","NAO_INFORMADO","EletroPaulo","",2
+"PreviCarga - Previsor de Demandas de Carga Elétrica","C++","","NAO_INFORMADO","Unicamp","",3
+"GASGETE: GÁS para GEração TErmelétrica","MATLAB","","NAO_INFORMADO","Unicamp","",4
+"Protótipo Funcional para o Planejamento da Operação em Usinas Hidrelétricas","C++","","NAO_INFORMADO","Unicamp","",5
+"Programa de Pré-Despacho Econômico","C++","","NAO_INFORMADO","Unicamp","",6

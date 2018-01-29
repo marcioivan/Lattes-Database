@@ -1,0 +1,130 @@
+NOME_COMPLETO,NOME_PARA_CITACAO,FLAG_RESPONSAVEL,PROJETO_NOME
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Acelerando sistemas de recuperação de imagens por conteúdo (CBIR) com GPUs e APUs
+Ricardo da Silva Torres,"TORRES, R. S.",NAO,Acelerando sistemas de recuperação de imagens por conteúdo (CBIR) com GPUs e APUs
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",NAO,Acelerando sistemas de recuperação de imagens por conteúdo (CBIR) com GPUs e APUs
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Algoritmos e suporte em hardware para projeto de máquinas virtuais eficientes
+Guido Araújo,"ARAUJO, G.",NAO,Algoritmos e suporte em hardware para projeto de máquinas virtuais eficientes
+Rodolfo Azevedo,"AZEVEDO, R.",NAO,Algoritmos e suporte em hardware para projeto de máquinas virtuais eficientes
+Sandro Rigo,"RIGO, S.",NAO,Algoritmos e suporte em hardware para projeto de máquinas virtuais eficientes
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,Técnicas de Formação e Identificação de Regiões Quentes e Paralelização de Laços usando Software Pipeline Desacoplado
+Guido Araújo,"ARAUJO, G.",SIM,Técnicas de Formação e Identificação de Regiões Quentes e Paralelização de Laços usando Software Pipeline Desacoplado
+Sandro Rigo,"RIGO, S.",NAO,Técnicas de Formação e Identificação de Regiões Quentes e Paralelização de Laços usando Software Pipeline Desacoplado
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Rodolfo Azevedo,"AZEVEDO, R.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Ricardo da Silva Torres,"TORRES, R. S.",SIM,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Eduardo Alves do Valle Junior,"VALLE JUNIOR, E. A.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Hélio Pedrini,"PEDRINI, H.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Siome Klein Goldenstein,"GOLDENSTEIN, S. K.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Anderson Rocha,"ROCHA, A.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Jacques Wainer,"WAINER, J.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+George Teodoro,"TEODORO, G.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+William Robson Schwartz,"SCHWARTZ, W. R.",NAO,"ExaMind: Busca, Classificação e Visualização de Dados Complexos em Grande Escala Utilizando Processamento de Alto Desempenho"
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Content-Based Image Retrieval (CBIR) on APU Clouds
+Ricardo da Silva Torres,"TORRES, R. S.",NAO,Content-Based Image Retrieval (CBIR) on APU Clouds
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",NAO,Content-Based Image Retrieval (CBIR) on APU Clouds
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,Modelagem de consumo de energia em dispositivos móveis baseados em processadores ARM
+Sandro Rigo,"RIGO, S.",SIM,Modelagem de consumo de energia em dispositivos móveis baseados em processadores ARM
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Algoritmos e suporte em hardware para o projeto da máquina virtual Open-ISA VM
+Rodolfo Azevedo,"AZEVEDO, R.",NAO,Algoritmos e suporte em hardware para o projeto da máquina virtual Open-ISA VM
+Sandro Rigo,"RIGO, S.",NAO,Algoritmos e suporte em hardware para o projeto da máquina virtual Open-ISA VM
+Guido Araujo,"ARAUJO, G.",NAO,Algoritmos e suporte em hardware para o projeto da máquina virtual Open-ISA VM
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,Análise Elastoplástica de Poços e Estudo do Fraturamento Hidráulico em Reservatórios Carbonáticos
+Philippe Remy Bernard Devloo,"DEVLOO, P. R. B.",SIM,Análise Elastoplástica de Poços e Estudo do Fraturamento Hidráulico em Reservatórios Carbonáticos
+Sônia Maria Gomes,"GOMES, S. M.",NAO,Análise Elastoplástica de Poços e Estudo do Fraturamento Hidráulico em Reservatórios Carbonáticos
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,Algorithms and techniques to accelerate numerical simulation in the cloud
+Juliana Freitag Borin,"BORIN, J. F.",SIM,Algorithms and techniques to accelerate numerical simulation in the cloud
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Ricardo da Silva Torres,"TORRES, R. S.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Eduardo Alves do Valle Junior,"VALLE JUNIOR, E. A.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Hélio Pedrini,"PEDRINI, H.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Siome Klein Goldenstein,"GOLDENSTEIN, S. K.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Anderson Rocha,"ROCHA, A.",SIM,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Jacques Wainer,"WAINER, J.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+William Robson Schwartz,"SCHWARTZ, W. R.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+André Luiz da Costa Morisson,"MORISSON, A. L. C.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Paulo Max Gil Innocencio Reis,"REIS, P. M. G. I.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Jorge de Albuquerque Lambert,"LAMBERT, J. A.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Jefersson Alex dos Santos,"SANTOS, J. A.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+David Menotti Gomes,"GOMES, D. M.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+"CHIACHIA, G.","CHIACHIA, G.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Arnaldo Albuquerque de Araújo,"ARAUJO, A. A.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Nelson Luis Saldanha da Fonseca,"FONSECA, N. L. S.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Flavio de Barros Vidal,"VIDAL, F. B.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Dibio Leandro Borges,"BORGES, D. L.",NAO,DeepEyes: Visual Computing and Machine Intelligence Techniques for Digital Forensics and Electronic Surveillance
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Mauricio Breternitz Jr.,"BRETERNITZ JR., M",NAO,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Ricardo da Silva Torres,"TORRES, R. S.",NAO,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",NAO,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Marco Lúcio Bittencourt,"BITTENCOURT, M. L.",NAO,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Philippe Remy Bernard Devloo,"DEVLOO, P. R. B.",NAO,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Sônia Maria Gomes,"GOMES, S. M.",NAO,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Juliana Freitag Borin,"BORIN, J. F.",NAO,Integração de computação heterogênea e computação na nuvem para solução de problemas de engenharia e ciência
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Caian Benedicto,"BENEDICTO, C.",NAO,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Ian Rodrigues,"RODRIGUES, I.",NAO,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Jorge Faccipieri,"FACCIPIERI, J.",NAO,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Martin Tygel,"TYGEL, M.",SIM,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Tiago Antonio Alves Coimbra,"COIMBRA, T. A. A.",NAO,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Danny Rueda,"RUEDA, D.",NAO,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Alcides Goldoni Junior,"GOLDONI JUNIOR, A.",NAO,"Desenvolvimento e aplicação prática de técnicas de processamento, regularização e imageamento baseadas na tecnologia 3D HPC CRS no domínio pré-empilhado."
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,Algoritmos de processamento e Imageamento Sísmico com Ênfase em Reservatórios Carbonáticos
+Caian Benedicto,"BENEDICTO, C.",NAO,Algoritmos de processamento e Imageamento Sísmico com Ênfase em Reservatórios Carbonáticos
+Ian Rodrigues,"RODRIGUES, I.",NAO,Algoritmos de processamento e Imageamento Sísmico com Ênfase em Reservatórios Carbonáticos
+Jorge Faccipieri,"FACCIPIERI, J.",NAO,Algoritmos de processamento e Imageamento Sísmico com Ênfase em Reservatórios Carbonáticos
+Martin Tygel,"TYGEL, M.",SIM,Algoritmos de processamento e Imageamento Sísmico com Ênfase em Reservatórios Carbonáticos
+Tiago Antonio Alves Coimbra,"COIMBRA, T. A. A.",NAO,Algoritmos de processamento e Imageamento Sísmico com Ênfase em Reservatórios Carbonáticos
+Danny Rueda,"RUEDA, D.",NAO,Algoritmos de processamento e Imageamento Sísmico com Ênfase em Reservatórios Carbonáticos
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Accelerating content-based image retrieval (CBIR) systems with GPUs and APUs
+Ricardo da Silva Torres,"TORRES, R. S.",NAO,Accelerating content-based image retrieval (CBIR) systems with GPUs and APUs
+Daniel Carlos Guimarães Pedronette,"PEDRONETTE, D. C. G.",NAO,Accelerating content-based image retrieval (CBIR) systems with GPUs and APUs
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Felipe Klein,"KLEIN, F.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Sandro Rigo,"RIGO, S.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Paulo Cesar Centoducatte,"CENTODUCATTE, P. C.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Ricardo Ribeiro dos Santos,"SANTOS, R. R.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Guido Araujo,"ARAUJO, G.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Rodolfo Jardim de Azevedo,"AZEVEDO, R. J.",SIM,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Valdiney Alves Pimenta,"PIMENTA, V. A.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Marilia Chiozo,"CHIOZO, M.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Sandro Dangui,"DANGUI, S.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Thiago Massariolli Sigrist,"SIGRIST, T. M.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Alessandro Carvalho Santos,"SANTOS, A. C.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Danilo Marcolin Caravana,"CARAVANA, D. M.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Rafael Fernandes Batistella,"BATISTELLA, R. F.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Henrique Dante de Almeida,"ALMEIDA, H. D.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Felipe Bertho,"BERTHO, F.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Josué Tzan Hsin Ma,"MA, J. T. H.",NAO,ChameLeon - Especialização de Arquiteturas para Sistemas Dedicados
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,SeisHPC: Plataforma de desenvolvimento para aplicações sísmicas e geofísicas de alto desempenho
+Caian Benedicto,"BENEDICTO, C.",NAO,SeisHPC: Plataforma de desenvolvimento para aplicações sísmicas e geofísicas de alto desempenho
+Ian Rodrigues,"RODRIGUES, I.",NAO,SeisHPC: Plataforma de desenvolvimento para aplicações sísmicas e geofísicas de alto desempenho
+Martin Tygel,"TYGEL, M.",NAO,SeisHPC: Plataforma de desenvolvimento para aplicações sísmicas e geofísicas de alto desempenho
+Alcides Goldoni Junior,"GOLDONI JUNIOR, A.",NAO,SeisHPC: Plataforma de desenvolvimento para aplicações sísmicas e geofísicas de alto desempenho
+Jorge Henrique Faccipieri Junior,"FACCIPIERI JUNIOR, J. H.",NAO,SeisHPC: Plataforma de desenvolvimento para aplicações sísmicas e geofísicas de alto desempenho
+Dany Rueda Serrano,"SERRANO, D. R.",NAO,SeisHPC: Plataforma de desenvolvimento para aplicações sísmicas e geofísicas de alto desempenho
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Accelerating the CRS seismic processing method with GPUs
+Martin Tygel,"TYGEL, M.",NAO,Accelerating the CRS seismic processing method with GPUs
+Edson Borin,"BORIN, E.;BORIN, EDSON",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Rodolfo Azevedo,"AZEVEDO, R.",SIM,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Sandro Rigo,"RIGO, S.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Paulo Cesar Centoducatte,"CENTODUCATTE, P. C.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Ricardo Ribeiro dos Santos,"SANTOS, R. R.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Guido Araujo,"ARAUJO, G.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Alexandro José Baldassin,"BALDASSIN, A. J.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Juliana Freitag Borin,"BORIN, J. F.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Ivan Rizzo Guilherme,"GUILHERME, I. R.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Renato Porfírio Ishii,"ISHII, R. P.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Fabricio Aparecido Breve,"BREVE, F. A.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Aparecido Nilceu Marana,"MARANA, A. N.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+João Paulo Papa,"PAPA, J. P.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Mario Cortes,"CORTES, M.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Edson Norberto Caceres,"CACERES, E. N.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Nahri Balesdent Moreano,"MOREANO, N. B.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Aleardo Manacero Junior,"MANACERO JUNIOR, A.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Carlos Roberto Valencio,"VALENCIO, C. R.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Renata Spolon Lobato,"LOBATO, R. S.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Roberta Spolon,"SPOLON, R.",NAO,Exploração de Paralelismo em Hardware e Software (PROCAD 2966/2014)
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Technologies for smart interaction with Mods and IoT devices
+Sandro Rigo,"RIGO, S.",NAO,Technologies for smart interaction with Mods and IoT devices
+Juliana Freitag Borin,"BORIN, J. F.",NAO,Technologies for smart interaction with Mods and IoT devices
+Edson Borin,"BORIN, E.;BORIN, EDSON",SIM,Análise Estática para Detecção de Erros de Energia
+Sandro Rigo,"RIGO, S.",NAO,Análise Estática para Detecção de Erros de Energia

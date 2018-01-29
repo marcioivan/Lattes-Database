@@ -1,0 +1,9 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",0
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",1
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",2
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","BOLSA",3
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","AUXILIO_FINANCEIRO",4
+"1","007900000004","Universidade Estadual de Campinas","AUXILIO_FINANCEIRO",5
+"1","","","NAO_INFORMADO",6
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","BOLSA",7

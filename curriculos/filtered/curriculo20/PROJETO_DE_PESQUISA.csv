@@ -1,0 +1,127 @@
+ANO_INICIO,ANO_FIM,NOME,SITUACAO,NATUREZA,DESCRICAO
+1998,2003,"Sistemas Avançados de Informação (PRONEX/SAI), no. 7697102200, Convênio Pronex Finep, coordenador Tomasz Kowaltowski.",CONCLUIDO,PESQUISA,projeto de pesquisa para o desenvolvimento de sistemas avançados de informação.
+1999,2001,"Projeto ACCORDS: Automatic Configuration and Monitoring of Component-based Distributed Systems, CNPq/NSF Collaborative Research Program, no. 680037/99-3, coordenador: Siang W. Song",CONCLUIDO,PESQUISA,"Pesquisa de técnicas e ferramentas para sistemas distribuídos configurados automaticamente
+e confiáveis."
+2003,2007,"Projeto do Ambiente de desenvolvimento integrado BELLATRIX (Component-based integrated development environment) em parceira com a empresa Autbank, São Paulo.",CONCLUIDO,PESQUISA,"Projeto ""free software"" para o desenvolvimento de um ambiente integrado para confecção de sistemas baseados em componentes usando a plataforma Eclipse.
+
+Valor do Financiamento: R$ 10.000,00 ao ano.
+
+Prazo: março/2003 a fev/2007
+
+Grupos/Linhas de pesquisa do Projeto: Sistemas de Informação/Engenharia de Software e Sistemas de Informação/Ambientes e paradigmas de programação.
+
+Tipo Financiamento: Bolsa Mestrado, Auxílio a Pesquisa.
+
+Tipo do Projeto: Pesquisa Aplicada
+
+Tipo de Envolvimento do Contrato: projeto institucional."
+2004,2005,"Projeto e-labora, TIDIA/Aprendizado Eletrônico (Ae), FAPESP, no. 03/08114-3, coordenadora: Profa. Heloísa Rocha.",CONCLUIDO,DESENVOLVIMENTO,"Desenvolvimento de uma plataforma para aprendizado eletrônico usando Internet Rápida.
+
+Órgão Financiador: Fapesp, no. 03/08114
+
+Grupos/Linhas de pesquisa: Aplicações/Informãtica na Educação e Sistemas de Informação/Engenharia de Software"
+2004,2007,"Projeto CompGov - Biblioteca Compartilhada de Componentes para E-Gov, FINEP, no. 1843/04.",CONCLUIDO,DESENVOLVIMENTO,"Projeto ``CompGov: Biblioteca Compartilhada de Componentes para
+E-gov'', FINEP,  proc.  1843/04, chamada  pública MCT/FINEP/Ação
+Transversal-Biblioteca de Componentes 05/2004, período: 01/12/2004 a
+01/12/2006, Executor: C.E.S.A.R-Centro de Estudos e Sistemas Avançados
+do Recife, Colaboradores: empresa Ci&T, UFPE, UFPB, UNICAMP, CENPRA, valor: R$
+1.799.653,80 (hum milhão, setecentos e noventa e nove mil, seiscentos
+e cinquenta e três reais, oitenta centavos), coordeandora da UNICAMP:
+C.M.F.Rubira."
+2005,2007,"Um Método de desenvolvimento e testes para Sistemas Baseados em Componentes com Tratamento de Exceções, FAPESP, no. 2004/10663-8.",CONCLUIDO,PESQUISA,Este é um projeto individual Fapesp com a participação das professoras Eliane Martins do IC-UNICAMP e Ana Cristina Vieira Melo do IME-USP.
+2005,2006,"Benchmarking da Confiança no Funcionamento de Componentes de Software, projeto CAPES/GRICES, no.125/05",CONCLUIDO,PESQUISA,"Projeto CAPES/GRICES, no. 125/05, com a Universidade de Coimbra, Portugal, com foco em cooperação entre pesquisadores brasileiros e portugueses."
+2007,2009,"Construção e Evolução de Linhas de Produto de Software baseada em Componentes, financiado pelo CNPq, processo 484138/2006-5, Edital MCT/CNPq 02/2006-Universal.",EM_ANDAMENTO,PESQUISA,NULL
+2004,2007,"Um ambiente integrado de desenvolvimento para a construcao de arquiteturas de software baseadas em componentes, Processo 305723/2003-0, CNPq, PQ - Produtividade em Pesquisa.",CONCLUIDO,PESQUISA,"1. Valor do Financiamento/Projeto:
+2. Mês/Ano de Início e Mês/Ano de término: 3/2004 a 2/2007
+3. Número do Processo: CNPq, 305723/2003-0
+4. Grupos/linhas de pesquisa em que se insere o projeto: Sistemas de Informação/Engenharia de Software 
+5. Tipo de Financiamento: Bolsa Produtividade
+6. Tipo do Projeto: Pesquisa Aplicada
+7. Tipo de Envolvimento do Contrato: Projeto Individual"
+2007,2010,"Uma Abordagem Arquitetural para o Desenvolvimento do Comportamento Excepcional de Sistemas Confiáveis Baseados em Componentes, Processo no. 301446/2006-7, CNPq, PQ - Produtividade em Pesquisa.",EM_ANDAMENTO,PESQUISA,"1. Valor do Financiamento/Projeto: R$ 72.000,00
+2. Mês/Ano de Início e Mês/Ano de término: 3/2007 a 2/2010
+3. Número do Processo: CNPq, 301446/2006-7
+4. Grupos/linhas de pesquisa em que se insere o projeto: Sistemas de Informação/Engenharia de Software e Sistemas de Computação/Sistemas Tolerantes a Falhas
+5. Tipo de Financiamento: Bolsa Produtividade em Pesquisa, nível 1D.
+6. Tipo do Projeto: Pesquisa Aplicada
+7. Tipo de Envolvimento do Contrato: Projeto Individual"
+2003,2006,"Tratamento de Exceções no Desenvolvimento de Sistemas Tolerantes a Falhas, processo no. 02/13996-2, Fapesp.",CONCLUIDO,PESQUISA,NULL
+2006,2009,"Uma Abordagem Arquitetural para o Desenvolvimento Rigoroso de Sistemas Confiáveis Baseados em Componentes, processo no. 06/02116-2, FAPESP.",EM_ANDAMENTO,PESQUISA,"bolsa de doutorado, FAPESP, proc.#2006/02116-2."
+2007,2009,"BIO-CORE:Ferramentas, modelos e técnicas para apoio à pesquisa em biodiversidade",EM_ANDAMENTO,PESQUISA,"CNPq, proc.no.550890/2007-6, início: 11/12/2007,  término: 11/12/2009, coordenadora:  Claudia Bauzer Medeiros, IC-UNICAMP, 2007, valor: R$ 506.302,56.
+A pesquisa em biodiversidade requer correlacionar uma grande variedade de dados sobre seres vivos e sobre seus habitats, integrando uma série de informações heterogêneas e distribuídas. O objetivo do BIO-CORE (BIOdiversity and COmputing REsearch) é especificar e desenvolver ferramentas computacionais que permitam aos cientistas deste domínio
+gerenciar e compartilhar seus dados, auxiliando-os na construção de modelos complexos e na análise e modelagem de ecossistemas, incluindo a descoberta de novos relacionamentos e interações entre espécies. Baseadas em serviços Web, tais ferramentas permitirão apoiar a
+cooperação entre pesquisadores em Ciências Biológicas pertencentes a grupos com distintos interesses, vocabulários e visões do mundo."
+2008,2012,RobustWeb: Construção e validação de aplicações robustas baseadas em Serviços Web,CONCLUIDO,PESQUISA,"Coordenadores:   Eliane Martins-UNICAMP-Brasil,  Ana  Rosa  Cavalli/Institut  Nat. des Télécommunications-França, CAPES-COFECUB Brasil/França,2009, proc.623/2009, CAPES.
+
+As aplicações orientadas a serviços têm como característica serem
+altamente distribuídas e  dinâmicas.  Além disso, elas utilizam
+serviços dos quais só se conhece a interface de utilização. Pouca ou
+quase  nenhuma  informação  sobre  a qualidade  dos  mesmos  é
+disponibilizada.  Portanto, as chances de mau funcionamento são
+inúmeras, podendo acarretar em grandes perdas para as empresas ou
+organizações. Neste projeto, nos propomos a elaborar diretrizes e
+indicar técnicas que permitam não somente a criação de aplicações SOA
+baseadas em WS que sejam robustas, mas também criar e avaliar métodos
+e ferramentas que possibilitem validar os serviços de forma isolada e
+sob aspectos de interoperabilidade, visando determinar se a aplicação
+final possui as qualidades desejadas."
+2010,2014,Evolução de Variabilidades em Linhas de Produto Software baseadas em Componentes,CONCLUIDO,PESQUISA,"1. Valor do Financiamento/Projeto: R$ 96.000,00
+2. Mês/Ano de Início e Mês/Ano de término: 3//2010 a 2/2014
+3. Número do Processo CNPq 305331/2009-4
+4. Grupos/linhas de pesquisa em que se insere o projeto: Sistemas de Informação/Engenharia de Software e Sistemas de Computação/Sistemas Tolerantes a Falhas
+5. Tipo de Financiamento: Bolsa Produtividade em Pesquisa, nível 1D.
+6. Tipo do Projeto: Pesquisa Aplicada
+7. Tipo de Envolvimento do Contrato: Projeto Individual"
+2010,2013,Variabilidade de Tratamento de Exceções em Arquiteturas de Linhas de Produtos Baseadas em Componentes,CONCLUIDO,PESQUISA,"processo no. 2010/00628-1, FAPESP, 35 meses, início: 5/2010,´t 
+Resumo: Linhas de Produtos de Software (LPS) e o Desenvolvimento Baseado em Componentes (DBC) são abordagens que têm sido usadas pra promover a reutilização e facilitar a evolução de sistemas de software. Um dos principais artefatos da LPS é a Arquitetura de Linhas de Produtos (ALP). Uma ALP provê uma visão global na qual são identificadas as partes variáveis e comuns de uma LPS em termos de elementos arquiteturais e suas configurações. No desenvolvimento de sistemas confiáveis, essas abordagens são usadas em conjunto com mecanismos de tratamento de exceções. Porém, mecanismos tradicionais de tratamento de exceções em geral consideram localmente um problema de natureza global, dificultando a compreensão do tratamento de exceção em nível sistêmico. Isso aumenta o acoplamento entre os comportamentos normal e excepcional da ALP, prejudicando assim, a adoção de diferentes estratégias de tratamento de exceções para diferentes produtos de uma mesma LPS. A definição do comportamento excepcional de forma global permite, por exemplo, gerar produtos com graus variados de tolerância a falhas, de acordo com as características escolhidas para sua geração. Este projeto de pesquisa propõe a criação de um modelo para explicitar variabilidades de fluxos de controle excepcionais e de tratadores de exceções em arquiteturas de linhas de produtos baseadas em componentes."
+2011,NULL,MuZoo: Ferramentas e modelos computacionais para busca exploratoria de dados em biodiversidade,EM_ANDAMENTO,PESQUISA,NULL
+2012,NULL,Uma Infraestrutura para Tolerância a Falhas em SOA utlizando Linhas de Produto de Software,EM_ANDAMENTO,PESQUISA,"Atualmente, a sociedade é altamente dependente de aplicações baseadas em Arquiteturas Orientadas a Serviços (SOA) para realizar tarefas rotineiras, tais como, recuperar valores de câmbios de moedas, utilizar serviços providos ao cidadão em plataformas de sistemas e-GOV, comprar passagens de voos e efetuar reservas diversas. No entanto, visto que serviços são caixas pretas e estão sob controle de organizações independentes, não é possível garantir que eles sejam 100% confiáveis. Desta forma, aplicações clientes devem ser capazes de tolerar eventuais falhas de software presentes nos serviços consumidos de modo a aumentar a confiabilidade das funcionalidades oferecidas aos usuários, isto é, de modo a evitar a ocorrência de defeitos. Na Internet, é possível encontrar serviços que são funcionalmente equivalentes, ou seja, que apoiam a mesma tarefa. Tais serviços são também conhecidos como serviços variantes. Desta forma, técnicas de tolerância a falhas baseada em diversidade de projeto são adequadas para SOA pois permite tolerar falhas de software dos serviços variantes existentes, aumentando, desta forma a confiabilidade dos sistemas que ""consomem"" tais serviços. Neste contexto, a proposta deste trabalho se concentra em projetar e implementar um framework para o desenvolvimento de arquiteturas tolerantes a falhas e orientadas a serviços. A solução será projetada e implementada conforme o modelo de componentes dinâmicos, chamado OSGI, de modo a facilitar a adaptação do framework em tempo da execução - conforme percepção do ambiente (e.g. disponibilidade de serviços variantes) e requisitos dos usuários. Técnicas de Linhas de Produtos de Software serão utilizadas a fim de apoiar variabilidades referentes aos diferentes mecanismos para executar serviços variantes (e.g. sequencial, paralelo e híbridos) e diferentes mecanismos responsáveis por julgar a corretude dos resultados obtidos a partir destas execuções."
+2012,2013,Um Framework baseado em Linhas de Produtos de Software para Tolerância a Falhas em Sistemas Orientados a Serviços,CONCLUIDO,PESQUISA,NULL
+2011,2012,Menon@WS -Metodologias para o Desenvolvimento deWeb Services Não-Vulneravéis,CONCLUIDO,PESQUISA,NULL
+2010,2012,Variabilidade de Tratamento de Exceções em Linhas de Produtos de Software,CONCLUIDO,PESQUISA,NULL
+2014,NULL,Uma Infraestrutura para Linhas de Produtos de Software Dinâmicas e Orientadas a Serviços,EM_ANDAMENTO,PESQUISA,"1. Valor do Financiamento/Projeto: bolsa + taxa de bancada
+2. Vigência Mês/Ano de Início e Mês/Ano de término: 3/2014 a 2/2018.
+3. Número do Processo CNPq 308411/2013-7
+4. Grupos/linhas de pesquisa em que se insere o projeto: Sistemas de
+Informação/Engenharia de Software e Sistemas de Computação/Sistemas
+Tolerantes a Falhas
+5. Tipo de Financiamento: Bolsa Produtividade em Pesquisa, nível 1D.
+6. Tipo do Projeto: Pesquisa Aplicada
+7. Tipo de Envolvimento do Contrato: Projeto Individual"
+2016,NULL,SORTS - Suporte a Orquestração de Serviços Resilientes e Confiáveis na Névoa,EM_ANDAMENTO,PESQUISA,"O objetivo principal do projeto SORTS, Suporte a Orquestração 
+de Serviços Resilientes e Confiáveis na Névoa (Supporting the 
+Orchestration of Resilient and Trustworthy Fog Services -SORTS), é a 
+pesquisa, concepção, implementação e avaliação de um Orquestrador de 
+Serviços capaz de assegurar a resiliência e confiabilidade de serviços 
+dinâmicos abertos de grande dimensão na Névoa. O orquestrador de 
+serviços será responsável pela composição dos serviços básicos da Névoa 
+(sensorização, conectividade, armazenamento, processamento, serviços de 
+plataforma e de software) em serviços mais complexos como sensorização 
+de tráfego baseada em multidões e serviços de planejamento de viagens. A 
+execução de serviços compostos na Névoa pode envolver diversos 
+dispositivos e entidades espalhadas por uma ampla área, o que traz 
+complexidade em termos de tomada de decisão em relação a alocação de 
+recursos para alcançar desempenho aceitável. Para coordenar a execução 
+dos serviços complexos oferecidos aos usuários da Névoa, serão 
+desenvolvidos mecanismos de orquestração de forma a sincronizar e 
+combinar a operação dos serviços básicos garantindo as especificações da 
+Névoa, incluindo baixa latência, resiliência e confiabilidade."
+2004,2007,Projeto RODIN: Rigorous Open Development Environment  for  Complex Systems,CONCLUIDO,PESQUISA,"Projeto Europeu RODIN: Rigorous Open Development Environment for
+Complex Systems (http://rodin.cs.ncl.ac.uk/), coordenador: Alexander
+Romanovsky, University  of Newcastle upon  Tyne, financiado por
+Information Society Technologies (IST), Cecília Rubira e Fernando
+Castor são membros associados."
+2009,2013,INCT em Ciencia da WEB,CONCLUIDO,PESQUISA,NULL
+2014,NULL,"DEVASSES: DEsign, Verification and Validation of large-scale, dynamic Service SystEmS",EM_ANDAMENTO,PESQUISA,"Proposal Number: 612569, International Research
+Staff Exchange Scheme (Europe), Marie Curie IRSES grant, call: FP7-PEOPLE-2013 IRSES, duration: 48 months, coordenador: Marco Vieira, Universidade de Coimbra, Portugal. Instituições envolvidas: Universidade de Coimbra, UNICAMP, UFAL, Universidade de Florença.
+https://www.cisuc.uc.pt/projects/show/174"
+2013,NULL,e-phenology: Combining New Technologies to Monitor Phenology from Leaves to Ecosystems,EM_ANDAMENTO,PESQUISA,"The e-phenology is a multidisciplinary project that explores innovative solutions for plant monitoring in the tropics, combining research in Phenology, Ecology and Computer Science."
+2016,NULL,EUBra-BIGSEA Europe ? Brazil Collaboration of BIG Data Scientific Research through Cloud-Centric Applications,EM_ANDAMENTO,PESQUISA,"EUBra-BIGSEA will design and implement Big Data services on top of a QoS-aware cloud infrastructure and a set of innovative technologies, using standards and providing security and privacy, for distributed applications on multiple data models. The project addresses these main objectives:
+
+EUBra-BIGSEA will develop advanced cloud services to support Big Data. These cloud services will address three main challenges: a) Quality of Service (smart policies for vertical and horizontal elastic adjustment of resources allocated to meet deadlines and dynamic adjustment of workloads at the level of Virtual Machines, containers and physical servers) and integrated monitoring of resources beyond what current Cloud Management Platforms currently provide; b) the support of advanced business models (price-based, dynamic re-scheduling of data analyses to exploit the best use of infrastructural resources, minimising costs) for on-premise or public infrastructures; and c) the usage of standards for the definition of the software appliances.
+
+The project will provide a programming abstraction layer to facilitate the development of applications. This layer will expose a coherent high-level API for data analytics, as well as for the building and deployment of innovative Big Data services in the cloud for capturing, federating and annotating large volumes of data on top of efficient programming models.
+
+Coupled with this, EUBra-BIGSEA will design a set of innovative technologies for guaranteeing the fulfilment of the security and privacy policies, as well as the development of efficient mechanisms for guaranteeing privacy on the Big Data scenario where conventional techniques cannot be applied.
+
+http://www.eubra-bigsea.eu/"

@@ -1,0 +1,18 @@
+﻿PALAVRA-CHAVE-1,PALAVRA-CHAVE-2,PALAVRA-CHAVE-3,PALAVRA-CHAVE-4,PALAVRA-CHAVE-5,PALAVRA-CHAVE-6,MESTRADO_Id,DOUTORADO_Id,TRABALHO-EM-EVENTOS_Id,OUTRA-PRODUCAO-BIBLIOGRAFICA_Id,APRESENTACAO-DE-TRABALHO_Id,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id
+"Fluxo Óptico","Movimento","Valores estranhos - estatística","Processamento de imagens","","",0,,,,,
+"Imagens Médicas","Morfologia Matemática","Processamento de imagens","Segmentação","Gradiente morfológico tensorial","Imagens de tensores de difusão",,0,,,,
+"Visão Robótica","Robo Móvel","Segmentação","Processamento de imagens","","",,,0,,,
+"Visão Robótica","Robo Móvel","Segmentação","Processamento de imagens","","",,,1,,,
+"Imagens Médicas","Morfologia Matemática","Processamento de imagens","Segmentação","Watershed","",,,3,,,
+"Gradiente morfológico tensorial","Imagens de tensores de difusão","Morfologia Matemática","Imagens Médicas","Segmentação","",,,6,,,
+"Gradiente morfológico tensorial","Segmentação","Watershed","Imagens de tensores de difusão","MRI","",,,7,,,
+"Empresa Junior","","","","","",,,53,,,
+"Semicondutores","Microscópio Eletrônico","","","","",,,,0,,
+"MRI","Imagens Médicas","Gradiente morfológico tensorial","Segmentação","Watershed","",,,,,0,
+"Gradiente morfológico tensorial","Imagens Médicas","MRI","Morfologia Matemática","Watershed","",,,,,1,
+"Gradiente morfológico tensorial","Imagens de tensores de difusão","Morfologia Matemática","Segmentação","","",,,,,3,
+"Imagens Médicas","Imagens de tensores de difusão","Gradiente morfológico tensorial","Morfologia Matemática","Segmentação","",,,,,4,
+"Gradiente morfológico tensorial","Imagens coloridas","Morfologia Matemática","Segmentação","","",,,,,5,
+"Gradiente morfológico tensorial","Segmentação","Watershed","Imagens de tensores de difusão","MRI","",,,,,6,
+"Processamento de imagens","Ressonância magnética","Imagens de tensores de difusão","Morfologia Matemática","","",,,,,7,
+"Imagens de tensores de difusão","Watershed","Corpo caloso","Segmentação","Imagens Médicas","Morfologia Matemática",,,,,,0

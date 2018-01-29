@@ -1,0 +1,186 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","LIVRE","LIVRE","24","NAO","3","2002","3","2013","Professor Associado MAII","SIM","","Professor Associado","","",0
+"1","COLABORADOR","LIVRE","","NAO","01","1983","12","1985","Professora de Canto Popular em curso livre.","SIM","","Professor de canto","","",1
+"1","COLABORADOR","LIVRE","","NAO","02","1986","07","1992","Professora de canto em curso livre.","SIM","","Professor de canto","","",2
+"1","LIVRE","LIVRE","","NAO","10","1994","","","Sócia-proprietária.","SIM","Proprietária","Sócia proprietária","","",3
+"2","COLABORADOR","LIVRE","10","NAO","01","1997","09","2013","","SIM","","Diretora Pedagógica","","",3
+"1","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2002","06","2002","Disciplinas ministradas 
+
+Voz Popular I
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"2","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2002","11","2002","Disciplinas Ministradas
+
+Voz Popular II
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"3","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2003","06","2003","Disciplinas Ministradas
+
+Voz Popular I
+Voz Popular III
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"4","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2003","11","2003","Disciplinas ministradas:
+
+Voz Popular II
+Voz Popular IV
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"5","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2004","06","2004","Disciplinas ministradas
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"6","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2004","11","2004","Disciplinas ministradas:
+
+Voz Popular II
+Voz Popular IV 
+Voz Popular VI
+Tópicos Especiais em Música (História do Canto na Música Popular)","NAO","","Professor Associado","","",4
+"7","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2005","06","2005","Disciplinas ministrada:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"8","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2005","11","2005","Disciplinas ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"9","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2006","06","2006","Disciplinas ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"10","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2006","11","2006","Disciplinas ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Voz Popular VIII
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"11","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2007","06","2007","Disciplinas Ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"12","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2007","11","2007","Disciplinas ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Voz Popular VIII
+Tópicos Especiais em Música (História do Canto na Música Popular Brasileira)","NAO","","Professor Associado","","",4
+"13","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2008","06","2008","Disciplinas ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Canto na Música Popular I
+Tópicos em Música Popular
+Estágio Supervisionado I","NAO","","Professor Associado","","",4
+"14","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2008","11","2008","Disciplinas ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Voa Popular VIII
+Canto na Música Popular II
+ Tópicos Especiais em Música
+Estágio Supervisionado II","NAO","","Professor Associado","","",4
+"15","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2009","06","2009","Disciplinas ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Canto na Música Popular I
+Canto na Música Popular III
+Tópicos Especiais em Música
+Estágio Supervisionado I
+Estágio Supervisionado III","NAO","","Professor Associado","","",4
+"16","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2009","11","2009","Disciplinas Ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Voz Popular VIII
+Canto na Música Popular II
+Canto na Música Popular IV
+Tópicos Especiais em Música
+Estágio Supervisionado II
+Estágio Supervisionado IV","NAO","","Professor Associado","","",4
+"17","LIVRE","LIVRE","24","NAO","03","2010","06","2010","Disciplinas Ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Canto na Música Popular I
+Canto na Música Popular III
+Canto na Música Popular V
+Tópicos Especiais em Música
+Estágio Supervisionado I
+Estágio Supervisionado III","NAO","","Professor Associado","","",4
+"18","LIVRE","LIVRE","24","NAO","08","2010","11","2010","Disciplinas Ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Voz Popular VIII
+Canto na Música Popular II
+Canto na Música Popular IV
+Canto na Música Popular VI
+Canto na Música Popular VIII
+Tópicos Especiais em Música
+Estágio Supervisionado II
+Estágio Supervisionado IV","NAO","","Professor Associado","","",4
+"19","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2011","06","2011","Disciplinas Ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Canto na Música Popular I
+Canto na Música Popular III
+Canto na Música Popular V
+Canto na Música Popular VII","NAO","","Professor Associado","","Disciplinas Ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Canto na Música Popular I
+Canto na Música Popular III
+Canto na Música Popular V
+Canto na Música Popular VII",4
+"20","SERVIDOR_PUBLICO","LIVRE","24","NAO","08","2011","11","2011","Disciplinas Ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Voz Popular VIII","NAO","","Professor Associado","","Disciplinas Ministradas:
+
+Voz Popular II
+Voz Popular IV
+Voz Popular VI
+Voz Popular VIII",4
+"21","SERVIDOR_PUBLICO","LIVRE","24","NAO","03","2012","03","2012","Disciplinas ministradas:
+
+Voz Popular I
+Voz Popular III
+Voz Popular V
+Voz Popular VII
+Canto na Música Popular I
+Prática de Ensino I
+Instrumento Complementar I
+Instrumento Complementar III","NAO","","Professor Associado","","",4
+"22","LIVRE","LIVRE","40","SIM","11","2013","09","2015","","SIM","","Professor Associado MA II D","","",4
+"23","SERVIDOR_PUBLICO","LIVRE","","SIM","11","2012","","","","NAO","","Membro do Conselho Departamental","","",4
+"1","LIVRE","LIVRE","3","NAO","05","2012","06","2012","Curso de Pós-Graduação "Canção Popular:criação, produção musical e performance" no qual ministrou a disciplina " A voz na canção popular brasileira: técnica, análise e interpretação" no período de 25 de maio a 29 de junho de 2012, totalizando 15h de atividade em sala de aula.","SIM","Professor Convidado","Professor Convidado","","",5
+"2","LIVRE","LIVRE","4","NAO","05","2013","06","2013","Participação no curso de Pós-graduação "Canção Popular: criação, produção musical e performance" ministrando a disciplina "A voz na canção popular brasileira: técnica, análise e interpretação".","SIM","Outros","Professor Convidado","","",5
+"1","SERVIDOR_PUBLICO","LIVRE","40","SIM","09","2015","","","Após aprovação em concurso público, mudei da carreira MA para a carreira MS, passando de Professor Associado para Professor Doutor","NAO","","Professor Doutor MS3","","",6

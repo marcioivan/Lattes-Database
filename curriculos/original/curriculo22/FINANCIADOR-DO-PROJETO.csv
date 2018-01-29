@@ -1,0 +1,17 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",0
+"1","869700000001","Financiadora de Estudos e Projetos","AUXILIO_FINANCEIRO",1
+"1","907000000005","Asga Microeletrônica S/A","AUXILIO_FINANCEIRO",2
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",3
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",4
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",5
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",6
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",7
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",8
+"1","000300000995","Comitê Francês de Avaliação da Cooperação Universitária com o Brasil","COOPERACAO",9
+"2","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","COOPERACAO",9
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",10
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",11
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",12
+"2","0O2400000003","COFECUB","COOPERACAO",13
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","COOPERACAO",13

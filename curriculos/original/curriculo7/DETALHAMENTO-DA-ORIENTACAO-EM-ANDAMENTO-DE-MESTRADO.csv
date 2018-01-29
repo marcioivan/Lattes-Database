@@ -1,0 +1,5 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTADO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-MESTRADO_Id
+"ORIENTADOR_PRINCIPAL","Thyago de Moura Jorge","007900000004","Universidade Estadual de Campinas","","","33070210","Engenharia Elétrica","NAO","","","8814407065317202","Electric Engineering",0
+"ORIENTADOR_PRINCIPAL","Maria Eugênia Galindo de Vasconcelos","007900000004","Universidade Estadual de Campinas","","","33070210","Engenharia Elétrica","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","","Electric Engineering",1
+"ORIENTADOR_PRINCIPAL","Cassiano Augusto Pereira Martins","007900000004","Universidade Estadual de Campinas","","","33070210","Engenharia Elétrica","NAO","","","1033126398267896","Electric Engineering",2
+"ORIENTADOR_PRINCIPAL","Aniela Maria Peixoto Mendes","007900000004","Universidade Estadual de Campinas","","","33070210","Engenharia Elétrica","NAO","","","6803772676219451","Electric Engineering",3

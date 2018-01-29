@@ -1,0 +1,16 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","COLABORADOR","LIVRE","42","SIM","10","2005","02","2006","","SIM","","Pesquisador Químico Pleno","","",0
+"1","LIVRE","LIVRE","40","SIM","03","2006","12","2006","","SIM","Pesquisador - Pós doutorado","Pós-doutor","","",1
+"1","LIVRE","LIVRE","","NAO","02","2006","","","","SIM","Revisor de periódico","","","",2
+"1","LIVRE","LIVRE","40","SIM","01","2007","06","2007","Durante este estágio de pós-doutoramento trabalhei com técnicas de evolução dirigida para a obtenção de variantes enzimáticas com atividades melhoradas aplicando o conceito desenvolvido no grupo de pesquisas do Prof. Reetz conhecido como CAST - Combinatorial Active-Site Saturation Test. O método baseia-se na combinação de um método de biologia molecular adequado para a mutagênese e expressão, com a formação de milhares de enzimas mutantes combinado a metodologias adequadas de triagem de alto desempenho da atividade enzimática. Neste programa de aperfeiçoamento, tive a oportunidade de trabalhar com diversas técnicas de biologia molecular e participar de projetos voltados para a biotecnologia e engenharia de enzimas, que é uma das grandes vertentes para a obtenção de biocatalisadores para aplicação em processos industriais. Participei de dois projetos envolvendo a Lipase I de Galactomyces geotrichum, o primeiro voltado para a obtenção de uma enzima hidrolítica termoestável e o outro com o objetivo de gerar uma enzima enantiosseletiva frente a ésteres derivados ácido 2-metildecanóico.","SIM","Pós-doutor","Pós-doutoramento","","",3
+"2","LIVRE","LIVRE","40","SIM","02","2005","09","2005","","SIM","Pesquisador Pós-Doutorado","Pós-Doutor","","",4
+"3","SERVIDOR_PUBLICO","LIVRE","40","SIM","06","2008","","","","NAO","","Professor Doutor MS-3","","",4
+"1","LIVRE","LIVRE","40","SIM","06","2007","05","2008","","SIM","Pós-Doutor","Pesquisador de Pós-Doutorado","","",5
+"1","LIVRE","LIVRE","40","SIM","05","2008","","","","SIM","","Professor Doutor MS-3.2","","",6
+"1","LIVRE","LIVRE","40","NAO","3","2012","2","2013","","SIM","Academic Visitor","Academic Visitor","","",7
+"1","LIVRE","LIVRE","","NAO","07","2008","","","","SIM","Revisor de projeto de fomento","","","",8
+"1","LIVRE","LIVRE","","NAO","03","2011","","","","SIM","Revisor de projeto de fomento","","","",9
+"1","LIVRE","LIVRE","","NAO","06","2014","07","2014","","SIM","Revisor de periódico","","","",10
+"1","LIVRE","LIVRE","","NAO","02","2015","03","2015","","SIM","Revisor de periódico","","","",11
+"1","LIVRE","LIVRE","","NAO","05","2015","","","","SIM","Revisor de projeto de fomento","","","",12
+"1","LIVRE","LIVRE","","NAO","07","2016","","","","SIM","Revisor de projeto de fomento","","","",13

@@ -1,0 +1,6 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTADO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-MESTRADO_Id
+"ORIENTADOR_PRINCIPAL","MAYARA DAVOLI ALVARENGA BUENO","007900000004","Universidade Estadual de Campinas","","","90000014","Ciências Econômicas","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","2514621001207186","",0
+"ORIENTADOR_PRINCIPAL","Natalia Vidotti Orlovicin","007900000004","Universidade Estadual de Campinas","","","60008342","Desenvolvimento Econômico","SIM","","","","Economy",1
+"ORIENTADOR_PRINCIPAL","Gian Lucca Raucci","007900000004","Universidade Estadual de Campinas","","","90000014","Ciências Econômicas","NAO","","","","",2
+"ORIENTADOR_PRINCIPAL","Daniel Guimarães","007900000004","Universidade Estadual de Campinas","","","33070202","Ciência Econômica","NAO","","","","Economy",3
+"ORIENTADOR_PRINCIPAL","Thiago Cyfer Goularte","007900000004","Universidade Estadual de Campinas","","","90000014","Ciências Econômicas","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","3121711557173521","",4

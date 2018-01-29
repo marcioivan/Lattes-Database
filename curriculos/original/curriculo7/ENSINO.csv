@@ -1,0 +1,4 @@
+﻿ENSINO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,TIPO-ENSINO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,NOME-CURSO-INGLES,ATIVIDADES-DE-ENSINO_Id
+0,"25","ATUAL","POS-GRADUACAO","3","2003","","","","","33070210","Engenharia Elétrica","Electric Engineering",0
+1,"31","ATUAL","GRADUACAO","8","2002","","","","","90000005","Faculdade de Engenharia Elétrica e de Computação","",0
+2,"7","ANTERIOR","ESPECIALIZACAO","2","1996","6","1998","","","90000004","departamento de engenharia elétrica","",1

@@ -1,0 +1,5 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTADO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-MESTRADO_Id
+"ORIENTADOR_PRINCIPAL","Aron Daniel Lopes","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","2488181322812743","Computer Science",0
+"ORIENTADOR_PRINCIPAL","Guilherme Colucci Pereira","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","6621288860172863","Computer Science",1
+"ORIENTADOR_PRINCIPAL","Bruna Zanetti Panaggio","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","NAO","","","4458558461068646","Computer Science",2
+"ORIENTADOR_PRINCIPAL","Ewerton Martins de Menezes","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","NAO","","","3293753636892998","Computer Science",3

@@ -1,0 +1,25 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","COLABORADOR","LIVRE","","NAO","3","1994","12","1994","","SIM","","Estagiária","","",0
+"2","COLABORADOR","LIVRE","","NAO","2","1995","4","1999","","SIM","","Engenheira de Qualidade","","",0
+"1","COLABORADOR","LIVRE","","NAO","5","1999","12","1999","","SIM","","Engenheira de Qualidade","","",1
+"2","COLABORADOR","LIVRE","","NAO","11","1991","6","1992","","SIM","","Presidente","","",2
+"3","COLABORADOR","LIVRE","","NAO","7","1991","10","1991","","SIM","","Diretora de Projetos","","",2
+"1","LIVRE","LIVRE","","NAO","9","1992","5","1993","","SIM","Estagiário","Aluno de intercâmbio","","",3
+"1","COLABORADOR","LIVRE","","NAO","2","1990","9","1990","","SIM","","Estágio em Iniciação Científica","","",4
+"2","LIVRE","LIVRE","","NAO","3","2001","7","2001","","SIM","Bolsista","Programa de Estágio em Docência","","",4
+"3","LIVRE","LIVRE","40","SIM","03","2010","05","2014","","SIM","Bolsista recém-doutor","Pesquisador colaborador","","",4
+"4","SERVIDOR_PUBLICO","LIVRE","40","SIM","06","2014","","","","NAO","","Professor Doutor I, RDIDP, MS-3.1","","",4
+"1","LIVRE","LIVRE","","NAO","05","2010","","","","SIM","Revisor de periódico","","","",5
+"1","LIVRE","LIVRE","","NAO","05","2010","","","","SIM","Revisor de periódico","","","",6
+"1","LIVRE","LIVRE","","NAO","01","2012","","","","SIM","Revisor de periódico","","","",7
+"1","LIVRE","LIVRE","","NAO","04","2011","","","","SIM","Revisor de periódico","","","",8
+"1","LIVRE","LIVRE","","NAO","01","2013","","","","SIM","Revisor de periódico","","","",9
+"1","LIVRE","LIVRE","","NAO","09","2012","","","","SIM","Revisor de periódico","","","",10
+"4","LIVRE","LIVRE","","SIM","08","2012","08","2013","","SIM","Bolsista recém-doutor","Outro","","",11
+"1","LIVRE","LIVRE","","NAO","02","2014","","","","SIM","Revisor de projeto de fomento","","","",12
+"1","LIVRE","LIVRE","","NAO","12","2013","","","","SIM","Revisor de periódico","","","",13
+"1","LIVRE","LIVRE","","NAO","02","2014","","","","SIM","Revisor de periódico","","","",14
+"1","LIVRE","LIVRE","","NAO","01","2015","","","","SIM","Revisor de periódico","","","",15
+"1","LIVRE","LIVRE","","NAO","03","2015","","","","SIM","Revisor de periódico","","","",16
+"1","LIVRE","LIVRE","","NAO","08","2016","","","","SIM","Revisor de periódico","","","",17
+"1","LIVRE","LIVRE","","NAO","08","2017","","","","SIM","Revisor de periódico","","","",18

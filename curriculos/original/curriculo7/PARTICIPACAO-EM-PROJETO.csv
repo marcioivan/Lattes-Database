@@ -1,0 +1,26 @@
+﻿PARTICIPACAO-EM-PROJETO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-UNIDADE,NOME-UNIDADE,ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO_Id
+0,"5","ANTERIOR","10","2002","2","2004","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+1,"6","ANTERIOR","8","2002","7","2003","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+2,"7","ANTERIOR","8","2002","2","2004","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+3,"20","ANTERIOR","3","2004","","2010","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+4,"26","ANTERIOR","12","2004","04","2007","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+5,"40","ATUAL","","2007","","","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+6,"41","ATUAL","","2008","","","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+7,"42","ANTERIOR","","2010","","2013","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+8,"43","ATUAL","","2011","","","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+9,"44","ANTERIOR","","2010","","2013","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+10,"45","ATUAL","","2011","","","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+11,"46","ANTERIOR","","2004","","2011","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+12,"47","ANTERIOR","","2002","","2004","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+13,"49","ANTERIOR","","2002","","2005","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+14,"50","ANTERIOR","","2005","","2008","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+15,"51","ANTERIOR","","2007","","2010","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+16,"52","ANTERIOR","","2008","","2010","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+17,"53","ANTERIOR","","2008","","2011","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+18,"54","ANTERIOR","","2011","","2014","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","","",0
+19,"55","ATUAL","","2015","","","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+20,"30","ATUAL","7","2005","","","007940000005","Faculdade de Engenharia Elétrica e de Computação da UNICAMP","007940010000","Departamento de Sistemas e Energia da FEEC/UNICAMP",0
+21,"9","ANTERIOR","3","1999","7","2002","000101000995","Escola de Engenharia de São Carlos","000101001991","Departamento de Engenharia Elétrica",1
+22,"10","ANTERIOR","8","1999","7","2001","000101000995","Escola de Engenharia de São Carlos","000101001991","Departamento de Engenharia Elétrica",1
+23,"11","ANTERIOR","8","2001","7","2002","000101000995","Escola de Engenharia de São Carlos","000101001991","Departamento de Engenharia Elétrica",1
+24,"12","ANTERIOR","12","2001","7","2002","000101000995","Escola de Engenharia de São Carlos","000101001991","Departamento de Engenharia Elétrica",1

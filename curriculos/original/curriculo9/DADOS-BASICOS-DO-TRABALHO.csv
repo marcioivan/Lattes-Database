@@ -1,0 +1,104 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","Aplicação de Redes Neurais Artificiais Para Previsão de Carga No Período de Ponta","1995","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","Um Modelo de Pré-Despacho Com Restrições de Segurança","1995","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",1
+"COMPLETO","Uso de Variáveis Climáticas Em Previsão de Carga No Período de Ponta Utilizando Redes Neurais Artificiais","1997","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",2
+"COMPLETO","Um Banco de Dados Para Sistemas de Suporte À Decisão Em Pré-Despacho de Sistemas de Energia Elétrica","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",3
+"COMPLETO","Reactive Power Analysis in Pre-Dispatch Studies","1998","Suécia","Inglês","IMPRESSO","","NAO","","","NAO",4
+"COMPLETO","Intelligent Control of Oil Transportation in a Pipeline Network by Genetic Algorithm and simplex method","1999","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",5
+"COMPLETO","Despacho Econômico de Sistemas de Usinas Hidrelétricas","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",6
+"COMPLETO","Uma Metodologia para Cálculo do Spot Price em Sistemas Hidrotérmicos","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",7
+"COMPLETO","Mapas Auto-Organizáveis Não Paramétricos para Análise da Influência Climática em Curvas de Carga","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",8
+"COMPLETO","Análise de Reativos em Estudos de Pré-Despacho de Sistemas de Energia Elétrica","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",9
+"COMPLETO","Previsão de Carga no Período de Demanda de Ponta Utilizando Variáveis Climáticas","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",10
+"COMPLETO","Um Modelo de Programação da Operação de Sistemas Hidrotérmicos com Restrições de Segurança","1995","Brasil","Português","IMPRESSO","","NAO","","","NAO",11
+"COMPLETO","Fluxo de Carga Ótimo com Restrições de Segurança","1994","Brasil","Português","IMPRESSO","","NAO","","","NAO",12
+"COMPLETO","Fluxo de Carga Ótimo Linear Paramétrico","1993","Brasil","Português","IMPRESSO","","NAO","","","NAO",13
+"COMPLETO","Um Sistema de Apoio a Decisão para o Planejamento da Operação de Curto Prazo de Sistemas Hidrotérmicos","1993","Brasil","Português","IMPRESSO","","NAO","","","NAO",14
+"COMPLETO","Análise de Contingência Linear de um Modelo de Pré-Despacho","1993","Brasil","Português","IMPRESSO","","NAO","","","NAO",15
+"COMPLETO","Using Genetic Algorithm and Simplex Method to Stabilize an Oil Treatment Plant Inlet Flow","2000","Canadá","Inglês","IMPRESSO","www.fee.unicamp.br/~taka","NAO","","","NAO",16
+"COMPLETO","Um procedimento para a programação da operação incluindo restrições de estabilidade de tensão","2001","Brasil","Português","MEIO_DIGITAL","www.densis.fee.unicamp.br/~taka","NAO","","","NAO",17
+"COMPLETO","Uma Metodologia de Cálculo do Spot Price com Restrições de Segurança","2003","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",18
+"COMPLETO","Natural Gas Transmission for Thermoelectric Generation Problem","2004","Brasil","Português","MEIO_DIGITAL","IXSEPOPE","NAO","","","NAO",19
+"COMPLETO","Despacho Ótimo de Unidades Geradoras em Usinas Hidrelétricas","2004","Brasil","Português","MEIO_DIGITAL","[http://IX SEPOPE]","NAO","","","NAO",20
+"COMPLETO","Dynamic Dispatch of Hydro Generating Units","2003","Itália","Inglês","MEIO_DIGITAL","Bolonha IEEE Power Tech","NAO","","","NAO",21
+"COMPLETO","Clustering Bus Load Curves","2004","Estados Unidos","Inglês","MEIO_MAGNETICO","","NAO","","","NAO",22
+"COMPLETO","A Predispatch Model of Hydroelectric Power Systems using Genetic Algorithms","2002","Brasil","Português","MEIO_MAGNETICO","","NAO","","","NAO",23
+"COMPLETO","Modelo de Despacho Termelétrico Considerando Restrições no Suprimento de Gás Natural","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",24
+"COMPLETO","Modelo de Previsão da Demanda de Carga de Curtíssimo Prazo para o Período da Ponta","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",25
+"COMPLETO","Um Modelo de Fluxo de Potência Ótimo com Reprogramação Corretiva via Método de Pontos Interiores","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",26
+"COMPLETO","Agrupamento de Curvas de Demanda","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",27
+"COMPLETO","Agrupamento de Curvas de Carga","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",28
+"COMPLETO","Comparison of two heuristic approaches to hydro unit commitment","2005","Brasil","Inglês","IMPRESSO","","NAO","10.1109/PTC.2005.4524670","","NAO",29
+"COMPLETO","Hybrid Optical Fiber Sensor and Artificial Neural Networks System for Bioethanol Quality Control and Productivity Enhancement","2008","Austrália","Inglês","MEIO_DIGITAL","","NAO","","","NAO",30
+"COMPLETO","Influência dos Limites Técnicos de Transmissão no Despacho Econômico","2007","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",31
+"COMPLETO","Um Sistema de Apoio à Decisão para a Programação Diária da Operação do Sistema Interligado Nacional","2007","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",32
+"COMPLETO","Um Modelo de Despacho de Geração Ativo/Reativo para Coordenação entre os Mercados Bilateral e Pool","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",33
+"COMPLETO","Agrupamento Nebuloso Aplicado a Previsão de Carga a Curto Prazo","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",34
+"COMPLETO","Um Sistema Especialista Aplicado a Previsão de Carga à Curto Prazo","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",35
+"COMPLETO","An Integrated Dispatch Model of Gas Supli and Thermoelectric Systems","2005","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",36
+"COMPLETO","Influência das Restrições Elétricas na Programação Diária do Sistema Interligado Nacional","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",37
+"COMPLETO","Geração Descentralizada de Reservas Operativas a Partir de Resíduos Sólidos Urbanos, Fontes de Energia Renovável","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",38
+"COMPLETO","A short-term bus load forecasting system","2010","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/HIS.2010.5600075","","NAO",39
+"COMPLETO","Análise de Abordagens para Incorporação das Restrições Elétricas na Programação Diária do Sistema Interligado Nacional","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",40
+"COMPLETO","Thermovalorization: Municipal Solid Waste, Renewable Energy Source","2009","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",41
+"COMPLETO","Residuos Sólidos Urbanos, Fuente De Energía Renovable Y Alternativa","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",42
+"COMPLETO","Short-term hydropower scheduling via an optimization-simulation decomposition approach","2009","Brasil","Inglês","NAO_INFORMADO","","NAO","10.1109/PTC.2009.5282116","","NAO",43
+"COMPLETO","An aggregate model applied to the short-term bus load forecasting problem","2009","Brasil","Inglês","NAO_INFORMADO","","NAO","10.1109/PSCE.2009.4840223","","NAO",44
+"COMPLETO","Optimal spinning reserve allocation considering transmission constraints","2008","Brasil","Inglês","IMPRESSO","","NAO","10.1109/PES.2008.4596655","","NAO",45
+"COMPLETO","Short-Term Load Forecasting Using Support Vector Machines","2006","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",46
+"COMPLETO","A Model for Short-Term Bus Load Forecasting Using an Agreggation Method","2006","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",47
+"COMPLETO","Ensembles of Selected and Evolved Predictors Using Genetic Algorithms for Time Series Prediction","2006","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",48
+"COMPLETO","A Hybrid Ensemble Model Applied to the Short-Term Load Forecasting Problem","2006","Brasil","Inglês","NAO_INFORMADO","","NAO","10.1109/IJCNN.2006.247141","","NAO",49
+"COMPLETO","A Hydro Unit Commitment Model Using Genetic Algorithm","2004","Brasil","Inglês","NAO_INFORMADO","","NAO","10.1109/CEC.2004.1331056","","NAO",50
+"COMPLETO","Otimização do Despacho Integrado da Geração Termoelétrica da Produção e Transporte de Gás Natural","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",51
+"COMPLETO","Otimização da Operação Diária das Usinas do Médio São Francisco","2010","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",52
+"COMPLETO","Algoritmos de Agrupamento e Sistemas Especialistas Aplicados no Reconhecimento de Padrões de Escoamento Gás/Líquido","2010","Brasil","Português","MEIO_MAGNETICO","","NAO","","","NAO",53
+"COMPLETO","Geração Descentralizada De Reservas Operativas Através Do Aproveitamento Dos Resíduos Sólidos Urbanos Como Fonte De Energia Renovável","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",54
+"COMPLETO","Otimização do Potencial de Geração de Usinas Hidrelétricas","2009","Brasil","Português","MEIO_MAGNETICO","","NAO","","","NAO",55
+"COMPLETO","Sistema Inteligente para Monitoramento e Detecção de Padrões de Escoamento Bifásico gás-líquido","2009","Brasil","Português","MEIO_MAGNETICO","","NAO","","","NAO",56
+"COMPLETO","Metodologia de Otimização para Despacho Conjunto de Energia e o Serviço de Reserva Operativa","2007","Brasil","Português","IMPRESSO","","NAO","","","NAO",57
+"COMPLETO","Um Modelo de Despacho Combinado Bilateral/Pool Considerando Restrições de Segurança Pós-Contingência","2006","Brasil","Português","IMPRESSO","","NAO","","","NAO",58
+"COMPLETO","Máquinas de Vetores Suporte Para Previsão de Carga à Curto Prazo","2006","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",59
+"COMPLETO","Despacho Econômico Sujeito às Restrições de Contratos Bilaterais e de Segurança","2006","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",60
+"COMPLETO","Previsão de Carga a Curto Prazo Usando Método de Agrupamento Nebuloso","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",61
+"COMPLETO","Um Modelo de Despacho Econômico de Reservas Operativas via Métodos de Pontos Interiores","2005","Brasil","Português","IMPRESSO","","NAO","","","NAO",62
+"COMPLETO","Um Critério de Desempenho para o Despcaho Ótimo de Unidades Geradoras","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",63
+"COMPLETO","Um Modelo de Pré-Despacho Ativo/Reativo para Sistemas Hidrotérmicos Utilizando Relaxação Lagrangeana","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",64
+"COMPLETO","Short-Term Load Forecasting Using a Neurofuzzy Network Model","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",65
+"COMPLETO","Previsao de Carga no Periodo de Demanda de Ponta Utilizando Variaveis Climaticas","1997","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",66
+"RESUMO","Integrated Dispatch of Thermoelectric Generation, Production and Transport of Natural Gas with Newton's Method","2010","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",67
+"COMPLETO","An hybrid aggregate model applied to the short-term bus load forecasting problem","2009","Brasil","Inglês","NAO_INFORMADO","","NAO","10.1109/PTC.2009.5282153","","NAO",68
+"COMPLETO","Clusterização Aplicada à Avaliação de Bancos","2010","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",69
+"RESUMO","Influência das Restrições Elétricas na Programação Diária do Sistema Interligado","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",70
+"COMPLETO","A Combined Pool/Bilateral Dispatch Model Including Post-Contingency Security Constraints","2008","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",71
+"RESUMO","Previsão de Carga por Barramento","2004","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",72
+"COMPLETO","Selection of Investment Portfolios and Funding Options with Joint Ventures in Oil and Gas","2011","Malásia","Inglês","MEIO_DIGITAL","","NAO","","","NAO",73
+"COMPLETO","Modelo Baseado em Combinação de Previsores para Previsão de Séries Temporais de Carga Elétrica","2011","Brasil","Português","IMPRESSO","","NAO","","","NAO",74
+"COMPLETO","Um Modelo de Planejamento da Produção de uma Indústria Pesqueira","2011","Brasil","Português","IMPRESSO","","NAO","","","NAO",75
+"COMPLETO","Uma Abordagem Rápida e Eficiente para Previsão de Carga por Barramento","2011","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",76
+"COMPLETO","Optimal power flow models using network flow method","2012","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/TDC-LA.2012.6319108","","NAO",77
+"COMPLETO","Models of Optimal Power Flow using Network Flow Method","2012","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",78
+"COMPLETO","Impacto da Restrição de Transmissão no Planejamento da Operação de Sistemas de Potência","2012","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",79
+"RESUMO","Impacto da Restrição de Transmissão no Planejamento da Operação de Sistemas de Potência","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",80
+"COMPLETO","Novos Desenvolvimentos de Modelos de Fluxo em Redes para Problemas de Fluxo de Potência Ótimo","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",81
+"COMPLETO","Sistema de Suporte à Decisão para o Despacho Ótimo de Unidades Geradoras das Usinas da CESP","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",82
+"COMPLETO","Uma Métrica de Reservas Internacionais Baseada em Análise de Clusters","2010","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",83
+"COMPLETO","Previsão de Carga de Curtíssimo Prazo no Período de Ponta Utilizando a Abordagem de Dias Similares","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",84
+"COMPLETO","Redes Neurais Artificiais para Previsão de Carga na Operação de Sistemas de Energia Elétrica Utilizando Regras Heurísticas","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",85
+"COMPLETO","Aplicação de Redes Neurais Artificiais para Previsão de Carga no Período de Demanda de Ponta","1995","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",86
+"COMPLETO","Uso de Variáveis Climáticas em Previsão de Carga no Período de Demanda de Ponta Utilizando Redes Neurais Artificiais","1997","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",87
+"COMPLETO","PREVISÃO DE CARGA À CURTÍSSIMO PRAZO NO PERÍODO DE PONTA UTILIZANDO A ABORDAGEM DE DIAS SIMILARES","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",88
+"COMPLETO","MAPAS AUTO-ORGANIZÁVEIS NÃO-PARAMÉTRICOS PARA ANÁLISE DA INFLUÊNCIA CLIMÁTICA EM CURVAS DE CARGA","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",89
+"COMPLETO","Influence of the thermal limits of transmission lines in the economic dispatch","2006","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/PES.2006.1709590","","NAO",90
+"COMPLETO","An Integrated Dispatch Model of Gas Supply and Thermoelectric Generation With Constraints on the Gas Supply","2006","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",91
+"COMPLETO","An Integrated Dispatch Model of Gas Supply and Thermoelectric System","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",92
+"COMPLETO","Um Modelo de Despacho de Reativos através de Algoritmos Genéticos e Fluxo de Potência Ótimo","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",93
+"COMPLETO","Um Critério de Desempenho para o Despacho Ótimo de Unidades Geradoras","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",94
+"COMPLETO","Comparison Between Two Methodologies for Hydro Unit Commitment Problem","2006","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",95
+"COMPLETO","Resolução do problema de escoamento da soja no Brasil por hub-and-spoke","2013","Brasil","Português","MEIO_MAGNETICO","","NAO","","","NAO",96
+"COMPLETO","Modelo de design de rede de hubs aplicado a cadeia de exportação da soja brasileira","2014","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",97
+"COMPLETO","Design network model with location to the soybean chain in Brazil","2014","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",98
+"COMPLETO","Critical load forecasting using ANN & Exponential Smoothing","2015","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",99
+"COMPLETO","A simulation model for the dispersion of Huanglongbing (HLB) disease in an orchard","2015","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",100
+"COMPLETO","Modeling and optimization of the stowage plan and handling in containers in port yards by rules representation and genetic algorithm","2016","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",101
+"COMPLETO","Incorporating voltage/reactive representation to short-term generation scheduling models","2002","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",102

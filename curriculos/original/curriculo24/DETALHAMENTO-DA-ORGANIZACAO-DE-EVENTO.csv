@@ -1,0 +1,13 @@
+﻿INSTITUICAO-PROMOTORA,DURACAO-EM-SEMANAS,FLAG-EVENTO-ITINERANTE,FLAG-CATALOGO,LOCAL,CIDADE,ORGANIZACAO-DE-EVENTO_Id
+"LNCC","1","","","Novo Friburgo","Novo Friburgo",0
+"LNCC","1","F","F","Rio de Janeiro","Rio de Janeiro",1
+"Sociedade Brasileira de Matemática Aplicada e Computacional","1","","","Hotel Mendes Plaza","Santos",2
+"Sociedade Brasileira de Matemática Aplicada e Computacional","7","F","F","Hotel Mendes Plaza","Santos",3
+"Sociedade Brasileira de Matemática Aplicada e Computacional","0","","","Hotel Mendes Plaza","Santos",4
+"ECCOMAS - Spanish Association for Numerical Methods in Engineering","1","","","World Trade Center of Barcelona","Barcelona",5
+"","","N","","","Campinas",6
+"","","N","","","Belo Horizonte",7
+"","","N","","","Atenas",8
+"","","N","","","",9
+"Universidade Estadual de Campinas","","S","","São Paulo","Campinas",10
+"Sociedade Brasileira de Ciências Mecânicas","7","N","","","Aguas de Lindoia",11

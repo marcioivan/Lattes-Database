@@ -1,0 +1,13 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","OUTRO","LIVRE","0","NAO","4","1982","5","1986","","NAO","","Gerente de Mercados Financeiros","","",0
+"1","OUTRO","LIVRE","0","NAO","4","1988","1","1992","","NAO","","Supervisora","","",1
+"1","OUTRO","LIVRE","0","NAO","2","1986","9","1986","","NAO","","Operadora Sênior de Mercado","","",2
+"1","OUTRO","LIVRE","0","NAO","10","1986","3","1988","","NAO","","Supervisora","","",3
+"1","PROFESSOR_VISITANTE","LIVRE","0","NAO","","1977","","1981","","SIM","","Professor Convidado","","",4
+"1","OUTRO","LIVRE","0","NAO","","1975","","1981","","NAO","","Jornalista Editorialista","","",5
+"1","COLABORADOR","LIVRE","0","NAO","","1987","","1992","","SIM","","Professora de Curso de Extensão Universitária","","",6
+"1","CELETISTA","LIVRE","0","NAO","8","1973","9","1975","","NAO","","Pesquisadora","","",7
+"1","SERVIDOR_PUBLICO","LIVRE","40","SIM","3","2003","","","","NAO","","Professor Doutor MS-3 em dedicação exclusiva","","",8
+"1","LIVRE","LIVRE","","NAO","01","2006","","","","SIM","Revisor de periódico","","","",9
+"1","LIVRE","LIVRE","","NAO","07","2010","","","","SIM","Pesquisador Visitante","Pesquisador Visitante","","",10
+"1","LIVRE","LIVRE","","NAO","03","2007","","","","SIM","Revisor de periódico","","","",11

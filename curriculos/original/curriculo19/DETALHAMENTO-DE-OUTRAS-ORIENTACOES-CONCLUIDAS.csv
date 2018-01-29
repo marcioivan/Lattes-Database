@@ -1,0 +1,7 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Raphael Marcos Menderico","007900000004","Universidade Estadual de Campinas","90000001","Engenharia de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",0
+"Nickolas Seibel Butti","007900000004","Universidade Estadual de Campinas","90000001","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",1
+"Marcelo Marzola Bossoni","007900000004","Universidade Estadual de Campinas","90000001","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",2
+"Vítor Marge Eichemberger","007900000004","Universidade Estadual de Campinas","60311479","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",3
+"Eric de Oliveira Lopes","007900000004","Universidade Estadual de Campinas","90000001","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",4
+"Tiago Chedreaoui Silva","007900000004","Universidade Estadual de Campinas","90000001","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",5

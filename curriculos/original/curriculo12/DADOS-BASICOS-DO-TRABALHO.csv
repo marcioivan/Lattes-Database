@@ -1,0 +1,55 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","A simple and efficient Road Detection Algorithm for Real Time Autonomous Navigation based on Monocular Vision","2006","Chile","Inglês","VARIOS","","NAO","10.1109/LARS.2006.334325","","NAO",0
+"COMPLETO","Pearson's Correlation Coefficient for Discarding Redundant Information in Real Time Autonomous Navigation Systems","2007","Cingapura","Inglês","NAO_INFORMADO","","NAO","10.1109/CCA.2007.4389268","","NAO",1
+"COMPLETO","New Tensorial Representation of Color Images: Tensorial Morphological Gradient Applied to Color Image Segmentation","2007","Brasil","Português","VARIOS","","NAO","10.1109/SIBGRAPI.2007.27","","NAO",2
+"COMPLETO","Diffusion Tensor Imaging Segmentation by Watershed Transform on Tensorial Morphological Gradient","2008","Brasil","Inglês","VARIOS","[http://www2.computer.org/portal/web/csdl/doi/10.1109/SIBGRAPI.2008.17]","NAO","10.1109/SIBGRAPI.2008.17","Diffusion Tensor Imaging Segmentation by Watershed Transform on Tensorial Morphological Gradient","NAO",3
+"COMPLETO","Nondeterministic Criteria to Discard Redundant Information in Real Time Autonomous Navigation Systems based on Monocular Vision","2008","Estados Unidos","Inglês","VARIOS","","NAO","10.1109/ISIC.2008.4635955","Nondeterministic Criteria to Discard Redundant Information in Real Time Autonomous Navigation Systems based on Monocular Vision","NAO",4
+"RESUMO","Thalamic volumes predict cognitive impairment evaluated by speed processing tasks in systemic lupus erythematosus","2009","Estados Unidos","Inglês","VARIOS","","NAO","","Thalamic volumes predict cognitive impairment evaluated by speed processing tasks in systemic lupus erythematosus","NAO",5
+"COMPLETO","Segmentation of brain structures by watershed transformon tensorial morphological gradient of diffusion tensor imaging","2009","Brasil","Português","VARIOS","","NAO","10.1109/SIBGRAPI.2009.36","Segmentation of brain structures by watershed transformon tensorial morphological gradient of diffusion tensor imaging","NAO",6
+"COMPLETO","Segmentation of thalamic nuclei based on tensorial morphological gradient of diffusion tensor fields","2010","Holanda","Inglês","NAO_INFORMADO","","NAO","10.1109/ISBI.2010.5490203","Segmentation of thalamic nuclei based on tensorial morphological gradient of diffusion tensor fields","NAO",7
+"RESUMO_EXPANDIDO","Visualização de imagens de tensores de difusão (pré e pós-segmentação)","2009","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",8
+"COMPLETO","MM-DTI: Visualization and segmentation tool for diffusion tensor images","2010","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",9
+"RESUMO","Regional Brain Diffusion Abnormalities in Systemic Lupus Erythematosus","2010","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",10
+"COMPLETO","Watershed-Based Segmentation of the Midsagittal Section of the Corpus Callosum in Diffusion MRI","2011","Brasil","Inglês","VARIOS","","NAO","10.1109/SIBGRAPI.2011.46","","NAO",11
+"RESUMO_EXPANDIDO","Adessowiki: Collaborative Scientific Programming Environment","2011","Brasil","Inglês","VARIOS","","NAO","10.1109/SIBGRAPI-T.2011.12","","NAO",12
+"COMPLETO","&lt;title&gt;Segmentation of DTI based on tensorial morphological gradient&lt;/title&gt;","2009","Estados Unidos","Inglês","VARIOS","","NAO","10.1117/12.811754","","NAO",13
+"RESUMO","Speed processing tasks and thalamic volumes in Systemic Lupus Erythematosus.","2011","Inglaterra","Inglês","NAO_INFORMADO","","NAO","","","NAO",14
+"RESUMO","Support vector machines classification of texture parameters of white matter lesions in systemic lupus erythematosus. Possible mechanism to distinguish between demyelination and ischemia","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",15
+"RESUMO","Support vector machines classification of texture parameters of white matter lesions in childhood-onset Systemic Lupus Erythematosus. Possible mechanism to distinghish between demyelination and ischemia","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",16
+"RESUMO","White Matter Lesions are predominantly demyelinating in Systemic Lupus Erythematosus. A support vector machines classification of texture parameters","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",17
+"COMPLETO","Watershed-based Segmentation of the Corpus Callosum in Diffusion MRI","2012","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","10.1117/12.911619","","NAO",18
+"RESUMO_EXPANDIDO","Pré-processamento de imagens de difusão do cérebro no ambiente Adessowiki","2010","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",19
+"RESUMO_EXPANDIDO","Classification of white matter lesions in systemic lupus erythematosus using support vector machines","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",20
+"RESUMO_EXPANDIDO","Improvments in watershed-based segmentation of the corpus-callosum in diffusion MRI","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",21
+"COMPLETO","Analysis of brain white matter hyperintensities using pattern recognition techniques","2013","Estados Unidos","Inglês","VARIOS","","NAO","10.1117/12.2006924","","NAO",22
+"COMPLETO","A Comparison between Optimum-Path Forest and k-Nearest Neighbors Classifiers","2012","Brasil","Inglês","VARIOS","","NAO","10.1109/SIBGRAPI.2012.43","","NAO",23
+"RESUMO_EXPANDIDO","Web-based platform for Medical Imaging Research","2014","Brasil","Inglês","VARIOS","","NAO","","","NAO",24
+"RESUMO_EXPANDIDO","Web-based platform for Medical Image Processing and Analysis","2014","Brasil","Inglês","VARIOS","","NAO","","","NAO",25
+"RESUMO_EXPANDIDO","Etiology-based classification of brain white matter hyper intensities through texture analysis","2014","Brasil","Inglês","VARIOS","","NAO","","","NAO",26
+"COMPLETO","Adessowiki - Collaborative platform for writing executable papers","2011","Brasil","Inglês","VARIOS","","NAO","","","NAO",27
+"COMPLETO","Web-based platform for collaborative medical imaging research","2015","Estados Unidos","Inglês","VARIOS","","NAO","10.1117/12.2081697","","NAO",28
+"COMPLETO","Mid-callosal plane determination using preferred directions from diffusion tensor images","2015","Estados Unidos","Inglês","VARIOS","","NAO","10.1117/12.2082497","","NAO",29
+"COMPLETO","Maximal Max-Tree Simplification","2014","Estados Unidos","Inglês","VARIOS","","NAO","10.1109/icpr.2014.540","","NAO",30
+"RESUMO_EXPANDIDO","Tutoriais on-line de análise de textura com foco em problemas de imagens médicas","2014","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",31
+"RESUMO_EXPANDIDO","Ferramenta computacional para visualização e análise de espectroscopia multivoxel por ressonância magnética","2014","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",32
+"COMPLETO","An array-based node-oriented max-tree representation","2015","Estados Unidos","Inglês","VARIOS","","NAO","10.1109/ICIP.2015.7351479","","NAO",33
+"COMPLETO","Interactive max-tree visualization tool for image processing and analysis","2015","França","Inglês","VARIOS","","NAO","10.1109/ipta.2015.7367110","","NAO",34
+"RESUMO","Axial symmetry of the corpus callosum fibers","2015","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",35
+"RESUMO","First steps towards a web-based platform for processing and visualizing MRi using FreeSurfer","2015","Brasil","Inglês","VARIOS","","NAO","","","NAO",36
+"RESUMO","influence of MR image intensity normalization on texture-based classification of brain white matter lesions","2015","Brasil","Inglês","VARIOS","","NAO","","","NAO",37
+"RESUMO","Web-based tool for Corpus Callosum Geometric parcellation","2015","Brasil","Inglês","VARIOS","","NAO","","","NAO",38
+"COMPLETO","3D texture-based classification applied on brain white matter lesions on MR images","2016","Estados Unidos","Inglês","VARIOS","","NAO","10.1117/12.2216285","","NAO",39
+"COMPLETO","Influence of Data Correction on Land Cover Classification Using Knn Classifier on Temporarily Spaced Landsat8 Images","2016","Argentina","Inglês","MEIO_DIGITAL","","NAO","","","NAO",40
+"COMPLETO","Divergence map from diffusion tensor imaging: Concepts and application to corpus callosum","2016","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/EMBC.2016.7590900","","NAO",41
+"COMPLETO","Extinction profiles: A novel approach for the analysis of remote sensing data","2016","Estados Unidos","Inglês","VARIOS","","NAO","10.1109/IGARSS.2016.7730335","","NAO",42
+"COMPLETO","An Overview of Max-Tree Principles, Algorithms and Applications","2016","Brasil","Inglês","MEIO_DIGITAL","","NAO","10.1109/sibgrapi-t.2016.011","","NAO",43
+"COMPLETO","A Max-Tree Simplification Proposal and Applications for the Interactive Max-Tree Visualization Tool","2016","Brasil","Português","MEIO_DIGITAL","","NAO","10.1109/sibgrapi.2016.050","","NAO",44
+"COMPLETO","A new approach for longitudinal study of white matter lesion based on texture variation","2016","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",45
+"COMPLETO","Metodologia para seleção de espectros de interesse em Espectroscopia Multi-Voxel por Ressonância Magnética","2016","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",46
+"COMPLETO","Método Automático de Segmentação dos Pulmões em Imagens de CT Baseado Na Max-Tree","2016","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",47
+"COMPLETO","Multiple fuzzy object modeling improves sensitivity in automatic anatomy recognition","2014","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",48
+"RESUMO_EXPANDIDO","Paralelização e implementação na nuvem de algoritmos de detecção de lesões na substância branca do cérebro","2017","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",49
+"RESUMO_EXPANDIDO","Segmentation of Lung and its Lesions in Computer Tomographic Images","2017","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",50
+"RESUMO","White matter lesion segmentation using texture-based classification on MR imaging","2017","Canadá","Português","NAO_INFORMADO","","NAO","","","NAO",51
+"RESUMO","Characterizing White Matter Hyperintensities for Longitudinal Atherosclerosis Studies","2017","Canadá","Inglês","NAO_INFORMADO","","NAO","","","NAO",52
+"RESUMO","A empresa Júnior da Faculdade de Engenharia Elétrica da UNICAMP","1992","Brasil","Português","IMPRESSO","","NAO","","","NAO",53

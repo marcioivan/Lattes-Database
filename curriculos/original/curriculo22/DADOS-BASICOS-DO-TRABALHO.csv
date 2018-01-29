@@ -1,0 +1,67 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","Genome Rearrangements Distance by Fusion, Fission, and Transposition is Easy","2001","Chile","Inglês","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","Distância de Reversão de Cromossomos Circulares","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",1
+"COMPLETO","Transposition Distance Between a Permutation and its Reverse","1997","Chile","Inglês","IMPRESSO","","NAO","","","NAO",2
+"COMPLETO","A New Approach for Approximating The Transposition Distance","2000","Espanha","Inglês","IMPRESSO","","NAO","","","NAO",3
+"COMPLETO","Reversal and Transposition Distance of Linear Chromosomes","1998","Bolívia","Inglês","IMPRESSO","","NAO","","","NAO",4
+"COMPLETO","Sorting by Prefix Transposition","2002","Portugal","Inglês","IMPRESSO","","NAO","","","NAO",5
+"COMPLETO","The Syntenic Distance Problem Using Only Fusions and Fissions","2003","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",6
+"COMPLETO","Comparison of Genomic DNA to cDNA Alignment Methods","2005","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",7
+"RESUMO_EXPANDIDO","New EST Trimming Strategy","2005","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",8
+"RESUMO","Analysis of slipped sequences in ESTs Projects","2005","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",9
+"COMPLETO","New strategy to detect SNPs","2005","Brasil","Inglês","OUTRO","","NAO","","","NAO",10
+"RESUMO","New EST trimming procedure applied to SUCEST sequences","2006","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",11
+"RESUMO","Low quality trimming on SUCEST ESTs","2006","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",12
+"COMPLETO","New EST trimming procedure applied to SUCEST sequences","2007","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",13
+"COMPLETO","Polynomial-sized ILP Models for Rearrangement Distance Problems","2007","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",14
+"RESUMO","Database Management System for Molecular Biology Applications","2007","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",15
+"RESUMO","An Algorithm for Identifying Multiple Polymorphisms Correlations","2007","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",16
+"COMPLETO","Transposition Distance Based on the Algebraic Formalism","2008","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",17
+"RESUMO","Extending Bafna-Pevzner Algorithm","2009","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",18
+"RESUMO","An Improved Algorith to Enumerate All Traces that Sorts a Signed Permutation By Reversals","2009","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",19
+"RESUMO","Chronological Order of Reversal Events on Rickettsia Genus","2009","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",20
+"RESUMO","A Method to Evaluate Assemblers that Make Use of Short and Long Transcript Reads Simultaneously","2009","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",21
+"COMPLETO","Constraint Programming Models for Transposition Distance Problem","2009","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",22
+"COMPLETO","Chronological Order of Reversal Events on Rickettsia Genus","2010","Índia","Inglês","MEIO_DIGITAL","","NAO","","","NAO",23
+"COMPLETO","Extending Bafna-Pevzner Algorithm","2010","Índia","Inglês","MEIO_DIGITAL","","NAO","","","NAO",24
+"COMPLETO","An Improved Algorithm to Enumerate All Traces that Sorts a Signed Permutation by Reversals","2010","Suiça","Inglês","IMPRESSO","","NAO","","","NAO",25
+"RESUMO_EXPANDIDO","Progressive Multiple Protein Sequence Alignment","2010","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","Progressive Multiple Protein Sequence Alignment","NAO",26
+"RESUMO_EXPANDIDO","An Improved 1.375-Approximation Algorithm for the Transposition Distance Problem","2010","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","An Improved 1.375-Approximation Algorithm for the Transposition Distance Problem","NAO",27
+"COMPLETO","A Simulation Tool for the Study of Symmetric Inversions in Bacterial Genomes","2010","Canadá","Inglês","IMPRESSO","[http://www.springerlink.com/content/v105r507j4j07537/]","NAO","10.1007/978-3-642-16181-0_20","","NAO",28
+"RESUMO","Partial enumeration of traces of solutions for the problem of sorting by signed reversals","2010","Portugal","Inglês","MEIO_DIGITAL","","NAO","","","NAO",29
+"RESUMO","Cassis: detection of genomic rearrangement breakpoints","2010","Bélgica","Inglês","MEIO_DIGITAL","","NAO","","","NAO",30
+"COMPLETO","First Steps Toward Image Phylogeny","2010","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",31
+"RESUMO_EXPANDIDO","Computing Rearrangement Distance of Every Permutation in the Symmetric Group","2011","Formosa","Inglês","MEIO_DIGITAL","","NAO","","","NAO",32
+"RESUMO_EXPANDIDO","Partial Enumeration of Solutions Traces for the Problem of Sorting by Signed Reversals","2011","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",33
+"COMPLETO","Using Inversion Signatures to Generate Draft Genome Sequence Scaffolds","2011","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",34
+"COMPLETO","Constraint Logic Programming Models for Reversal and Transposition Distance Problems","2011","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",35
+"COMPLETO","A Flexible Framework for Computing Rearrangement Distance of Every Permutation in the Symmetric Group","2011","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",36
+"COMPLETO","On the Distribution of Rearrangement Distances","2011","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",37
+"RESUMO_EXPANDIDO","ALGAe: A Test-bench Environment for a Genetic Algorithm-based Multiple Sequence Aligner","2011","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",38
+"RESUMO_EXPANDIDO","Two new whole-genome distance measures","2011","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",39
+"RESUMO_EXPANDIDO","On the Performance of Sorting by Transpositions Without Using Cycle Graph","2011","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",40
+"RESUMO_EXPANDIDO","Evaluation of genome distance measures using tree-derived distances","2011","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",41
+"COMPLETO","Video Phylogeny: Recovering Near-Duplicate Video Relationships","2011","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",42
+"COMPLETO","Improvements to a Multiple Protein Sequence Alignment Tool","2012","Portugal","Inglês","MEIO_DIGITAL","","NAO","","","NAO",43
+"COMPLETO","GRAAu: Genome Rearrangement Algorithm Auditor","2012","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",44
+"COMPLETO","On the Performance of Sorting Permutations by Prefix Operations","2012","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",45
+"COMPLETO","Sorting Genomes Using Almost-Symmetric Inversions","2012","Itália","Inglês","MEIO_DIGITAL","","NAO","","","NAO",46
+"COMPLETO","On the Approximation Ratio of Algorithms for Sorting by Transpositions without Using Cycle Graphs","2012","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",47
+"RESUMO_EXPANDIDO","On the Approximation Ratio for Sorting by Short Swaps","2012","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",48
+"RESUMO_EXPANDIDO","An Empirical Study for Gap Penalty Score Using a Multiple Sequence Alignment Genetic Algorithm","2012","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",49
+"COMPLETO","Sorting Genomes Using Symmetric, Almost-Symmetric and Unitary Inversions","2013","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",50
+"COMPLETO","Heuristics for the Sorting by Length-Weighted Inversion Problem","2013","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",51
+"COMPLETO","Uma Ferramenta de Auditoria para Algoritmos de Rearranjo de Genomas","2013","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",52
+"COMPLETO","Sorting Permutations by Prefix and Suffix Versions of Reversals and Transpositions","2014","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",53
+"COMPLETO","On the Diameter of Rearrangement Problems","2014","Espanha","Inglês","VARIOS","","NAO","","","NAO",54
+"COMPLETO","On Sorting of Signed Permutations by Prefix and Suffix Reversals and Transpositions","2014","Espanha","Inglês","VARIOS","","NAO","","","NAO",55
+"COMPLETO","Heuristics for the Sorting by Length-Weighted Inversions Problem on Signed Permutations","2014","Espanha","Inglês","VARIOS","","NAO","","","NAO",56
+"COMPLETO","An Improved Algorithm for the Sorting by Reversals and Transpositions Problem","2014","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",57
+"COMPLETO","Approximation Algorithms for Sorting by Signed Short Reversals","2014","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",58
+"COMPLETO","Length and Symmetry on the Sorting by Weighted Inversions Problem","2014","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",59
+"COMPLETO","Multiple parenting identification in image phylogeny","2014","França","Inglês","MEIO_DIGITAL","","NAO","","","NAO",60
+"COMPLETO","Sorting Signed Circular Permutations by Super Short Reversals","2015","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",61
+"COMPLETO","Phylogeny reconstruction for misaligned and compressed video sequences","2015","Canadá","Inglês","MEIO_DIGITAL","","NAO","","","NAO",62
+"COMPLETO","Algorithms for Sorting by Reversals or Transpositions, with Application to Genome Rearrangement","2016","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",63
+"COMPLETO","Hash-Based Frame Selection for Video Phylogeny","2016","Emirados Árabes","Inglês","MEIO_DIGITAL","","NAO","","","NAO",64
+"COMPLETO","Greedy Randomized Search Procedure to Sort Genomes using  Symmetric, Almost-Symmetric and Unitary Inversions","2013","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",65

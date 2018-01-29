@@ -1,0 +1,6 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTANDO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-DOUTORADO_Id
+"ORIENTADOR_PRINCIPAL","Alexandre Henrique dos Santos","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","0333079194513073","Arts",0
+"ORIENTADOR_PRINCIPAL","Karen Ildete Stahl Soler Zaneti","007900000004","Universidade Estadual de Campinas","","","60042729","Doutorado em Música","NAO","","","6512909962037401","Music",1
+"ORIENTADOR_PRINCIPAL","Lucilene Ferreira da Silva","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","2249065401303342","Arts",2
+"CO_ORIENTADOR","Ana Maria Paes Leme Carrijo Abrahão","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","Arts",3
+"ORIENTADOR_PRINCIPAL","Matteo Ricciardi","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","0386234455406972","Arts",4

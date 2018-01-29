@@ -1,0 +1,16 @@
+﻿SEQUENCIA-LINHA,TITULO-DA-LINHA-DE-PESQUISA,FLAG-LINHA-DE-PESQUISA-ATIVA,OBJETIVOS-LINHA-DE-PESQUISA,TITULO-DA-LINHA-DE-PESQUISA-INGLES,OBJETIVOS-LINHA-DE-PESQUISA-INGLES,PESQUISA-E-DESENVOLVIMENTO_Id
+"1","modelagem de linha de transmissão","SIM","","","",0
+"2","RELIGAMENTO TRIPOLAR RÁPIDO EM LINHAS DE TRANSMISSÃO","SIM","desenvolvimento de controle para religamento tripolar rápido de linha de transmissão trifásica compensada","","",0
+"3","transmissão em meia onda ou ELO CA","SIM","estudo de transitórios eletromagnéticos associados à operação de uma linha de transmissão de um pouco mais de meio comprimento de onda - ELO CA","","",0
+"5","comportamento eletromagnético do solo","SIM","","","",0
+"6","proteção diferencial de transformador","SIM","","","",0
+"7","religamento monopolar","SIM","otimização de linha de transmissão
+aumento da taxa de sucesso da manobra
+desenvolvimento de proteção específica
+modelagem matemática de arco elétrico","","",0
+"8","ferrorressonância","NAO","","","",0
+"9","transitórios eletromagnéticos","SIM","","","",0
+"10","atendimento de pequenas cargas rurais","NAO","","","",0
+"11","aumento da capacidade nas linhas de transmissão","NAO","","","",0
+"12","simuladores ATP, PSCAD e RTDS","NAO","","","",0
+"13","desenvolvimento de proteção","NAO","","","",0

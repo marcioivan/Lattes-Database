@@ -1,0 +1,21 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Francisco Javier Perez Gutiérrez","071500000009","Pontifícia Universidade Católica de Campinas","","","NAO","","","ORIENTADOR_PRINCIPAL","0","","",0
+"Luis Felipe Strano Moraes","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",1
+"Fabio de Paula Caraça Smirmaul","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",2
+"Geraldo Itagiba de Andrade","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",3
+"Douglas Diniz","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",4
+"Leonardo de Paula Rosa Piga","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",5
+"Leonardo Ramos de Souza","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",6
+"Rodrigo R. S.C. Chiossi","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",7
+"Henrique Baggio","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",8
+"Bruno Melo","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",9
+"Raul Kist","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",10
+"Carolina Simões Gomes","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",11
+"Dênis Baptista Rosas","007900000004","Universidade Estadual de Campinas","","","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",12
+"Daniele R. dos Santos","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",13
+"Nicholas Mizoguchi","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",14
+"Thiago Favero","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",15
+"Gabriel Hidasy","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",16
+"Miguel Faggioni","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","SIM","000200000993","Microsoft Brasil","CO_ORIENTADOR","","","",17
+"Tiago Barros","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","SIM","000300000995","Samsung Brasil","CO_ORIENTADOR","","","",18
+"Rafael Bruno Dalibera","007900000004","Universidade Estadual de Campinas","90000004","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",19

@@ -1,0 +1,40 @@
+﻿NATUREZA,TIPO,TITULO,ANO,PAIS,IDIOMA,HOME-PAGE,FLAG-RELEVANCIA,DOI,TITULO-INGLES,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id
+"Dissertação de mestrado","ACADEMICO","Implementação de Sistemas Tolerantes a Falhas usando Programação Orientada a Objetos","1997","Brasil","Português","","NAO","","",0
+"Dissertação de mestrado","ACADEMICO","Implementação de Sistemas Tolerantes a Falhas usando Programação Reflexiva Orientada a Objetos","1997","Brasil","Português","","NAO","","",1
+"Dissertação de mestrado","ACADEMICO","Uma abordagem Orientada a Objetos para Programação Distribuída Confiável","1997","Brasil","Português","","NAO","","",2
+"Dissertação de mestrado","ACADEMICO","Uma Abordagem Reflexiva para a Construção de Frameworks para Interfaces Homem-Computador","1998","Brasil","Português","","NAO","","",3
+"Dissertação de mestrado","ACADEMICO","Um Framework Orientado a Objetos para Controladores de Trens Tolerantes a Falhas","1999","Brasil","Inglês","","NAO","","",4
+"Dissertação de mestrado","ACADEMICO","Um Framework para Aplicações Criptográficas","1999","Brasil","Inglês","","NAO","","",5
+"Dissertação de mestrado","ACADEMICO","Um Framework para Editores de Diagramas Cooperativos Baseados em Anotações","1999","Brasil","Português","","NAO","","",6
+"Dissertação de mestrado","ACADEMICO","Tratamento de Exceções em Sistemas Concorrentes Orientados a Objetos","2000","Brasil","Inglês","","NAO","","",7
+"Dissertação de mestrado","ACADEMICO","Adaptação de componentes de software para o desenvolvimento de sistemas confiáveis","2001","Brasil","Português","","NAO","","",8
+"Dissertação de mestrado","ACADEMICO","Tratamento de Exceções no Desenvolvimento de Software Confiável Baseado em Componentes","2001","Brasil","Português","","NAO","","",9
+"Dissertação de mestrado","ACADEMICO","Um Sistema de Padrões para Injeção de Falhas por Software","2001","Brasil","Português","","NAO","","",10
+"Dissertação de mestrado","ACADEMICO","Uso de Componentes de Software no Desenvolvimento de Frameworks Orientados a Objetos","2002","Brasil","Português","","NAO","","",11
+"Dissertação de mestrado","ACADEMICO","Técnicas de estruturação de software no desenvolvimento de sistemas-de-sistemas confiáveis","2003","Brasil","Português","","NAO","","",12
+"Dissertação de mestrado","ACADEMICO","Evolução de Arquitetura de Classes em Sistemas Orientados a Objetos","2003","Brasil","Português","","NAO","","",13
+"Dissertação de mestrado","ACADEMICO","Um Método para Modelagem de Exceções em Desenvolvimento Baseado em Componentes","2005","Brasil","Português","","NAO","","",14
+"Dissertação de mestrado","NAO_INFORMADO","Um Processo de Desenvolvimento baseado em Componentes adaptado ao Model Driven Architecture (MDA)","2004","Brasil","Português","","NAO","","",15
+"Dissertação de mestrado","NAO_INFORMADO","Uma Abordagem Arquitetural com Tratamento de Exceções para Sistemas de Software baseados em Componentes","2004","Brasil","Português","","NAO","","",16
+"Dissertação de mestrado","NAO_INFORMADO","Um Repositório  com Suporte para Desenvolvimento  Baseado  em  Componentes","2006","Brasil","Português","","NAO","","",17
+"Dissertação de mestrado","ACADEMICO","Uma Infra-estrutura de Software para Apoiar a Construção de Arquiteturas de Software Baseadas em Componentes","2007","Brasil","Português","","NAO","","",18
+"Dissertação de mestrado","ACADEMICO","Uma Ferramenta de Apoio à Montagem de Configurações Arquiteturais baseada no Modelo COSMOS*","2010","Brasil","Português","","NAO","","",19
+"Dissertação de mestrado","ACADEMICO","Uma infra-estrutura de suporte à evolução para repositórios de componentes","2007","Brasil","Português","","NAO","","",20
+"Dissertação de mestrado","NAO_INFORMADO","Modularização de Tratamento de Exceções usando Programação Orientada a Aspectos","2006","Brasil","Português","","NAO","","",21
+"Dissertação de mestrado","ACADEMICO","Uma Infra-Estrutura Confiável para Arquiteturas Baseadas em Serviços Web Aplicada à Pesquisa de Biodiversidade","2009","Brasil","Português","","NAO","","",22
+"Dissertação de mestrado","ACADEMICO","Ações Atômicas Coordenadas na Paltaforma JavaEE","2010","Brasil","Português","","NAO","","",23
+"Dissertação de mestrado","ACADEMICO","Evolução de Componentes Compartilhados por Múltiplas Linhas de Produto de Software","2009","Brasil","Português","","NAO","","",24
+"Dissertação de mestrado","ACADEMICO","Projeto  e Implementação de Varibilidades em Arquiteturas Baseadas no Modelo de Componentes COSMOS*","2010","Brasil","Português","","NAO","","",25
+"Dissertação de mestrado","ACADEMICO","Projeto e Implementação de Tratamento de Exceções em Arquitetura de Componente de Serviço","2010","Brasil","Português","","NAO","","",26
+"Dissertação de mestrado","ACADEMICO","Método Ágil aplicado ao Desenvolvimento de Software Confiável baseado em Componentes","2013","Brasil","Português","","NAO","","",27
+"Dissertação de mestrado","ACADEMICO","Variabilidade de Tratamento de Exceções em Linhas de Produtos de Software","2012","Brasil","Português","","NAO","","",28
+"Dissertação de mestrado","ACADEMICO","Evolução e Recuperação de Arquiteturas de Software Baseadas em Componentes","2013","Brasil","Português","","NAO","","",29
+"Dissertação de mestrado","ACADEMICO","Uma abordagem de Linhas de Produtos para Apoiar de e-Science","2012","Brasil","Português","","NAO","","",30
+"Dissertação de mestrado","ACADEMICO","FlexMonitorWS: Uma Solução para Monitoração de Serviços Web com Foco em Atributos de QoS","2014","Brasil","Português","","NAO","","",31
+"Dissertação de mestrado","ACADEMICO","A self-adaptive deployment solution for Android platforms","2016","Brasil","Português","","NAO","","",32
+"Dissertação de mestrado","ACADEMICO","e-Phenology Collector: Uma Solução Robusta para Coleta de Dados em Campo usando Plataformas Móveis","2016","Brasil","Português","","NAO","","",33
+"Dissertação de mestrado","ACADEMICO","Uma Solução de Linha de Produtos de Software Baseada em Componentes e Aspectos para o Domínio de e-Commerce","2015","Brasil","Português","","NAO","","",34
+"Dissertação de mestrado","ACADEMICO","DW-SAAArch: A Reference Architecture for Dynamic Self-Adaptation in Workflows","2015","Brasil","Inglês","","NAO","","",35
+"Dissertação de mestrado","ACADEMICO","Uma Abordagem Baseada em Linhas de Produtos com Componentes e Aspectos na Plataforma Android","2015","Brasil","Português","","NAO","","",36
+"Dissertação de mestrado","ACADEMICO","Mapeamento de Conflitos entre Atributos de QoS na Monitoração de Aplicações SOA","2016","Brasil","Português","","NAO","","",37
+"Dissertação de mestrado","ACADEMICO","Bellatrix: Um ambiente com Suporte Arquitetural para Desenvolvimento Baseado em Componentes","2006","Brasil","Português","","NAO","","",38

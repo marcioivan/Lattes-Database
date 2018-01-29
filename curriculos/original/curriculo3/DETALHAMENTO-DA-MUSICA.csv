@@ -1,0 +1,20 @@
+﻿TIPO-DE-EVENTO,ATIVIDADE-DOS-AUTORES,FORMACAO-INSTRUMENTAL,FLAG-INEDITISMO-DA-OBRA,DATA-ESTREIA,DATA-ENCERRAMENTO,LOCAL-DE-ESTREIA,PREMIACAO,INSTITUICAO-PROMOTORA-DO-PREMIO,OBRA-DE-REFERENCIA,AUTOR-DA-OBRA-DE-REFERENCIA,ANO-DA-OBRA-DE-REFERENCIA,DURACAO,TEMPORADA,INSTITUICAO-PROMOTORA-DO-EVENTO,LOCAL-DO-EVENTO,CIDADE-DO-EVENTO,MUSICA_Id
+"NAO_INFORMADO","Cantor","voz, violão, percussão, quarteto de cordas","S","13032000","","Teatro Crowne Plaza","","Dabliu Discos","","","","50","","Dabliu Discos","","São Paulo",0
+"NAO_INFORMADO","Cantor","Voz, violões, cello, contrabaixo, guitarra","","","","","","","","","","60","","Canto Discos","","São Paulo",1
+"NAO_INFORMADO","Cantor","Voz, violões e cello","","","","","","","","","","80","","SESC","Sesc Ipiranga","São Paulo",2
+"FESTIVAL","Canto","","","","","","","","","","","60","","Sesc Pompéia","Teatro do Sesc Pompéia","São Paulo",3
+"CONCERTO","Canto","","","","","","","","","","","60","","Secretaria de Estado da Cultura de São Paulo","Teatro Caetano de Campos","São Paulo",4
+"CONCERTO","Canto","","","","","","","","","","","60","","Centro Cultural São Paulo","Sala Adoniran Barbosa","São Paulo",5
+"CONCERTO","Criação","","","","","","","","","","","","","Teatro de Arena Eugênio Kusnet","Teatro de Arena Eugênio Kusnet","São Paulo",6
+"CONCERTO","Canto","","","","","","","","","","","","","SESC Consolação","SESC Consolação","São Paulo",7
+"NAO_INFORMADO","Cantor","Voz, quarteto de cordas, violão, percussão","","21022000","","Auditório do sesc Vila Mariana","","Sesc","","","","60","","SESC Vila Mariana","Auditório do SESC Vila MAriana","São Paulo",8
+"FESTIVAL","Canto","","","","","","","","","","","60","","Universidade Federal de São João Del-Rei","Inverno Reciclo","São João Del-Rei",9
+"NAO_INFORMADO","Cantor","Voz e duo de violões","","","","","","","","","","80","","Café Photosophia","Café Photosophia","São Francisco Xavier",10
+"NAO_INFORMADO","Cantor","Voz e duo de violões","","","","","","","","","","80","","Casa de Francisca","Casa de Francisca","São Paulo",11
+"NAO_INFORMADO","Cantor","Voz e duo de violões","","","","","","","","","","40","","Livraria Cultura","Teatro Eva Hertz da Livraria Cultura do Shopping Villa-Lobos","São Paulo",12
+"NAO_INFORMADO","Cantor","Voz e duo de violões","","","","","","","","","","80","","Sesc Vila Mariana","Auditório do Sesc Vila Mariana","São Paulo",13
+"NAO_INFORMADO","Cantor","Voz e duo de violões","","","","","","","","","","80","","Projeto Comboio de Cordas","Teatro da Vila","São Paulo",14
+"NAO_INFORMADO","Cantor","Voz e duo de violões","","","","","","","","","","80","","Associação Hebraica de São Paulo (Hebraica para todos)","Teatro Arthur Rubisntein","São Paulo",15
+"NAO_INFORMADO","Outra","Piano, baixo, violão, percussão, violino","","12112015","","Auditório do Instituto de Artes","","","Canções para teatro musical","Chico Buarque","","90","","Instituto de Artes da UNICAMP","Auditório do Instituto de Artes da UNICAMP","Campinas",16
+"NAO_INFORMADO","Cantor","Violões e voz","","","","","","Sesc Pernambuco","","","","30","","Sesc Pernambuco","Sesc Garanhuns","Garanhuns",17
+"CONCERTO","Canto","","","","","","","","","","","","","","Teatro Crowne Plaza","São Paulo",18

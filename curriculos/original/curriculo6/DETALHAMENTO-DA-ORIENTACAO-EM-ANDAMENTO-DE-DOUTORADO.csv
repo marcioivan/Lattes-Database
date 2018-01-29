@@ -1,0 +1,7 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTANDO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-DOUTORADO_Id
+"ORIENTADOR_PRINCIPAL","Luis Maurício Martins Borges","007900000004","Universidade Estadual de Campinas","","","60008342","Desenvolvimento Econômico","NAO","","","","Economy",0
+"ORIENTADOR_PRINCIPAL","Vitor Hugo Tonin","007900000004","Universidade Estadual de Campinas","","","60008342","Desenvolvimento Econômico","NAO","","","","Economy",1
+"ORIENTADOR_PRINCIPAL","Aline Marcondes Miglioli","007900000004","Universidade Estadual de Campinas","","","60008342","Desenvolvimento Econômico","SIM","","","","Economy",2
+"ORIENTADOR_PRINCIPAL","Melissa Ronconi","007900000004","Universidade Estadual de Campinas","","","60008342","Desenvolvimento Econômico","SIM","","","","Economy",3
+"ORIENTADOR_PRINCIPAL","Carlos Alberto Penha Filho","007900000004","Universidade Estadual de Campinas","","","60008342","Desenvolvimento Econômico","NAO","","","","Economy",4
+"ORIENTADOR_PRINCIPAL","Raul da Silva Ventura Neto","007900000004","Universidade Estadual de Campinas","","","60010576","Economia Aplicada","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","","Economy",5

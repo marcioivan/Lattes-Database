@@ -1,0 +1,22 @@
+TIPO,TITULO,ANO,PAIS,IDIOMA,NOME_DO_CANDIDATO
+Mestrado,Indexação Multimídia Escalável e Busca por Similaridade em Alta Dimensionalidade,2011,Brasil,Português,Fernando Cesar Akune
+Mestrado,Um Simulador Compilado Dinâmico para o ArchC,2011,Brasil,Português,Maxiwell Salvador Garcia
+Mestrado,Estratégias de Otimização em GPU para Análise de Sequências Biológicas,2012,Brasil,Português,Samuel Benjoino Ferraz Aquino
+Mestrado,HP2FEM - Arquitetura de Software p Não-Uniforme para o Método de Elementos Finitos de Alta Ordem,2012,Brasil,Português,Gilberto Luis Valente da Costa
+Mestrado,Otimizações de Código sensíveis a contexto baseadas em clonagem de funções,2014,Brasil,Português,Matheus Silva Vilela
+Mestrado,Soluções para o problema da seleção de otimizações,2013,Brasil,Português,Ewerton Daniel de LIma
+Mestrado,Suporte Especializado de Hardware para Geração Automática de Loop Pipelining em FPGAs,2014,Brasil,Português,Guilherme Stéfano Silva de Souza
+Mestrado,LALPC: Uma ferramenta para compilação de programas em C para exploração do paralelismo de Loops em FPGAS,2015,Brasil,Português,Lucas Faria Porto
+Mestrado,"Uma abordagem de seleção de recursos consciente de consumo de energia baseada em topologia de rede, tamanho de arquivos e potência de equipamentos",2015,Brasil,Português,Izaias de Faria
+Mestrado,Um Framework para a Avaliação de Segurança de Hardware,2015,Brasil,Português,Henrique de Medeiros Kawakami
+Mestrado,Análise dos caminhos de execução de programas para a paralelização automática de códigos binários para a plataforma Intel x86,2015,Brasil,Português,André Mantini Eberle
+Mestrado,Symbolic Range Analysis,2016,Brasil,Inglês,Henrique Nazaré Santos
+Mestrado,Estimativas de Dark Silicon em Projetos de Sistemas Multicore,2016,Brasil,Português,Tony Carlos Bignardi dos Santos
+Mestrado,Geração de código eficiente por estratégias para escolha de sequências de transformação,2017,Brasil,Português,João Fabrício Filho
+Mestrado,Análise de Desempenho e Otimização dos Simuladores ArchC,2017,Brasil,Português,Mario Mikio Hato
+Mestrado,Técnicas de compilação para apoiar a migração de dados em sistemas NUMA,2016,Brasil,Português,Guilherme Guaglianoni Piccoli
+Mestrado,Implementação de um Simulador de Partículas Utilizando o Método do Elementos Discretos (DEM) em Cluster de GPUs,2017,Brasil,Português,Hugo Sakai Idagawa
+Mestrado,PROST: Um Arcabouço para o Desenvolvimento de Dispositivos Programáveis para a IoT,2017,Brasil,Português,Jeferson Rech Brunetta
+Mestrado,Indirect Branch Emulation Techniques in Virtual Machines,2014,Brasil,Português,Gabriel Ferreira Teles Gomes
+Mestrado,Dynamic dispatch of context-sensitive optimizations,2017,Brasil,Inglês,Gabriel Poesia Reis e Silva
+Mestrado,Escalonamento Dinâmico de Tensão e Frequência em Multiprocessadores para Aplicações com Especificação de Qualidade por Taxa Mínima de Processamento de Entradas,2012,Brasil,Português,Pedro Carlos Fazolino Pepe

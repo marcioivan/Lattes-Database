@@ -1,0 +1,19 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","Speech Synchronized Image-Based Facial Animation","2009","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","Sistema de Animação Facial 2D Sincronizado com a Fala Integrado ao CPqD Texto Fala","2008","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",1
+"RESUMO","Compact 2D facial animation based on context-dependent visemes","2010","Grã-Bretanha","Inglês","VARIOS","[http://dx.doi.org/10.1145/1924035.1924047]","NAO","10.1145/1924035.1924047","Compact 2D facial animation based on context-dependent visemes","NAO",2
+"COMPLETO","Context dependent visemes: a new approach to obtain realistic 2D facial animation from a reduced image database","2010","Brasil","Inglês","MEIO_DIGITAL","","NAO","","Context dependent visemes: a new approach to obtain realistic 2D facial animation from a reduced image database","NAO",3
+"COMPLETO","Augmenting Accessibility in Social Networks: a Virtual Presenter","2011","China","Inglês","IMPRESSO","","NAO","","Augmenting Accessibility in Social Networks: a Virtual Presenter","NAO",4
+"COMPLETO","Comissioning of the experimental station for X ray magnetic scattering at LNLS","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",5
+"COMPLETO","Beam position monitor for X ray diffraction at LNLS","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",6
+"RESUMO","Towards interactive conversational talking heads","2012","Brasil","Português","MEIO_DIGITAL","[http://dl.acm.org/citation.cfm?doid=2491599.2491611]","SIM","10.1145/2491599.2491611","","NAO",7
+"COMPLETO","Assessing the Visual Speech Perception of Sampled-Based Talking Heads","2013","Brasil","Português","MEIO_DIGITAL","[http://avsp2013.loria.fr/proceedings/]","SIM","","","NAO",8
+"COMPLETO","Expressive Talking Head for Interactive Conversational Systems","2014","Portugal","Português","MEIO_DIGITAL","","NAO","","Avatar facial expressivo para sistemas conversacionais interativos","NAO",9
+"RESUMO_EXPANDIDO","2D Expressive Speech Talking Head Based on the OCC Model of Emotions","2014","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",10
+"COMPLETO","Ensino de programação para alunas de ensino médio: relato de uma experiência","2015","Brasil","Português","MEIO_DIGITAL","","NAO","","","SIM",11
+"RESUMO_EXPANDIDO","Image-Based Expressive Speech Animation Based on the OCC Model of Emotions","2015","Austria","Inglês","MEIO_DIGITAL","","NAO","","","NAO",12
+"COMPLETO","Comparison of Visual Speech Perception of Sampled-Based Talking Heads: adults and children with and without developmental dyslexia","2015","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",13
+"RESUMO_EXPANDIDO","Desafios da Aprendizagem de Português/Libras por meio da Tradução de Material Didático com uso de Avatares Expressivos: Foco na Criação de Conceitos para o Ensino de Ciências","2016","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",14
+"COMPLETO","Building a Brazilian Portuguese - Brazilian Sign Language Parallel Corpus using Motion Capture Data","2016","Portugal","Inglês","VARIOS","[http://propor2016.di.fc.ul.pt/?page_id=383]","SIM","","","NAO",15
+"COMPLETO","Supervised Methods for Classifying Facial Emotions","2016","Brasil","Português","MEIO_DIGITAL","[http://urlib.net/8JMKD3MGPAW/3MDKBQP]","NAO","","","NAO",16
+"RESUMO_EXPANDIDO","Captura de Movimento Aplicada à Pesquisa de Agentes Conversacionais Expressivos","2012","Brasil","Português","MEIO_DIGITAL","[http://www.abinfo.com.br/ld2012/]","NAO","","","NAO",17

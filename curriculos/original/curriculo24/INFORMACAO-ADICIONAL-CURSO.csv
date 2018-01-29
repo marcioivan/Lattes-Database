@@ -1,0 +1,30 @@
+﻿CODIGO-CURSO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NOME-GRANDE-AREA-DO-CONHECIMENTO,NOME-DA-AREA-DO-CONHECIMENTO,NOME-DA-SUB-AREA-DO-CONHECIMENTO,NOME-DA-ESPECIALIDADE,NIVEL-CURSO,INFORMACOES-ADICIONAIS-CURSOS_Id
+"31000282","","","020200000009","Universidade Federal do Rio de Janeiro","ENGENHARIAS","Engenharia Civil","","","MESTRADO_DOUTORADO",0
+"31000290","","","020200000009","Universidade Federal do Rio de Janeiro","ENGENHARIAS","Engenharia Elétrica","","","MESTRADO_DOUTORADO",0
+"32000383","","","033300000002","Universidade Federal de Minas Gerais","ENGENHARIAS","Engenharia Civil","Estruturas","","MESTRADO_DOUTORADO",0
+"33020051","","","006700000002","Universidade de São Paulo","CIENCIAS_EXATAS_E_DA_TERRA","Matemática","","","MESTRADO_DOUTORADO",0
+"33020426","","","006700000002","Universidade de São Paulo","ENGENHARIAS","Engenharia Civil","","","MESTRADO_DOUTORADO",0
+"33050040","","","006742000000","Instituto de Ciências Matemáticas e de Computação","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"33070040","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Matemática","","","MESTRADO_DOUTORADO",0
+"33070059","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"33070210","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Elétrica","","","MESTRADO_DOUTORADO",0
+"33070229","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Mecânica","","","MESTRADO_DOUTORADO",0
+"33070415","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Civil","","","MESTRADO_DOUTORADO",0
+"33070482","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Mecânica","","","MESTRADO",0
+"60010592","","","001900000005","Laboratório Nacional de Computação Científica","OUTROS","Multidisciplinar","","","MESTRADO_DOUTORADO",0
+"60010814","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Mecânica","","","MESTRADO_DOUTORADO",0
+"60040467","","","020200000009","Universidade Federal do Rio de Janeiro","OUTROS","","","","DOUTORADO",0
+"60043628","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","DOUTORADO",0
+"60048573","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","DOUTORADO",0
+"60236914","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60356073","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"90000001","","","546700000003","Ghent University","ENGENHARIAS","Engenharia Mecânica","","","GRADUACAO",0
+"90000002","","","000100000991","University Of Texas At Austin","ENGENHARIAS","Engenharia Mecânica","","","DOUTORADO",0
+"90000003","","","546700000003","Ghent University","ENGENHARIAS","Engenharia Mecânica","","","MESTRADO",0
+"90000004","","","000400000997","Universitaire Instelling Antwerpen","CIENCIAS_EXATAS_E_DA_TERRA","Matemática","","","MESTRADO_DOUTORADO",0
+"90000005","","","152500000009","University of Texas System","ENGENHARIAS","Engenharia Mecânica","","","GRADUACAO",0
+"90000006","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Civil","","","GRADUACAO",0
+"90000007","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Civil","","","DOUTORADO",0
+"90000008","","","006740000003","Escola de Engenharia de São Carlos","CIENCIAS_EXATAS_E_DA_TERRA","Matemática","","","DOUTORADO",0
+"90000009","","","000900000996","Instituto de Ciencias Matematicas e de Computação - USP","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","DOUTORADO",0
+"90000010","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Mecânica","Engenharia de Petroleo","","DOUTORADO",0

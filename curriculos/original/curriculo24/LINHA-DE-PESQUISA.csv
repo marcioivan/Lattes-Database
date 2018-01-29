@@ -1,0 +1,5 @@
+﻿LINHA-DE-PESQUISA_Id,SEQUENCIA-LINHA,TITULO-DA-LINHA-DE-PESQUISA,FLAG-LINHA-DE-PESQUISA-ATIVA,OBJETIVOS-LINHA-DE-PESQUISA,TITULO-DA-LINHA-DE-PESQUISA-INGLES,OBJETIVOS-LINHA-DE-PESQUISA-INGLES,PESQUISA-E-DESENVOLVIMENTO_Id
+0,"1","Computação Científica Orientada para Objetos","SIM","Desenvolvimento de técnicas avancadas para o método de elementos finitos utilizando a filosofia de programacao orientada para objetos. Nesta linha pesquisa se : método hp-adaptativos, sub estruturacao, métodos Galerkin descontinuo, espacos imersos, fluidos compressiveis, hiper elasticidade, plasticidade, etc. Todas as tecnicas sao incorporadas em um único software","","",0
+1,"1","PESQUISADOR SOBRE ELEMENTOS FINITOS.","NAO","","","",1
+2,"1","Mecânica Computacional","NAO","","","",2
+3,"1","Computacional Fluid Dynamics","NAO","","","",3

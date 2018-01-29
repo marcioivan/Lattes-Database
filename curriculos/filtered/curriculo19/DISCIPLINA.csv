@@ -1,0 +1,18 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+MC039 - Seminários sobre Computação e Tecnologia,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2002,02,2012
+MC102 - Algoritmos e programação de computadores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2002,02,2012
+MC202 - Estruturas de Dados,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2002,02,2012
+MC514 - Sistemas Operacionais: Teoria e Prática,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2002,02,2012
+MC714 - Sistemas Distribuídos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2002,02,2012
+MC715 - Laboratório de sistemas distribuídos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2002,02,2012
+MC914 - Tópicos em Sistemas Operacionais,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2002,02,2012
+MC039 - Serminários sobre Computação e Tecnologia,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,03,2012,NULL,NULL
+MC504 - Sistemas Operacionais,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,03,2012,NULL,NULL
+MC714 - Sistemas Distribuídos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,03,2012,NULL,NULL
+MC715 - Laboratório de Sistemas Distribuídos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,03,2012,NULL,NULL
+MC855 - Projeto em Sistemas de Computação,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,03,2012,NULL,NULL
+MC914 - Tópicos em Sistemas Operacionais,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,03,2012,NULL,NULL
+MC964 - Tópicos em Computação Distribuída,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,03,2012,NULL,NULL
+MO806 - Tópicos em sistemas operacionais,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,03,2002,NULL,NULL
+MO809 - Tópicos em computação distribuída,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,03,2002,NULL,NULL
+MO901 - Seminários em Computação,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,03,2002,NULL,NULL

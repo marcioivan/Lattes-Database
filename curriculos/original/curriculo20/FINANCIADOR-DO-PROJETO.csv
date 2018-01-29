@@ -1,0 +1,29 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","869700000001","Financiadora de Estudos e Projetos","AUXILIO_FINANCEIRO",0
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",1
+"2","087500000005","National Science Foundation","COOPERACAO",1
+"1","","","NAO_INFORMADO",2
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",3
+"1","091400000001","Centro de Estudos e Sistemas Avançados do Recife","COOPERACAO",4
+"2","420700000003","Centro de Tecnologia da Informação Renato Archer","COOPERACAO",4
+"3","985700000999","Empresa Ci T","COOPERACAO",4
+"5","007900000004","Universidade Estadual de Campinas","COOPERACAO",4
+"6","008300000001","Universidade Federal da Paraíba","COOPERACAO",4
+"7","002100000009","Universidade Federal de Pernambuco","COOPERACAO",4
+"4","869700000001","Financiadora de Estudos e Projetos","AUXILIO_FINANCEIRO",4
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",5
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","COOPERACAO",6
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",7
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",8
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",9
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","BOLSA",10
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","BOLSA",11
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",12
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","COOPERACAO",13
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",14
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",15
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",16
+"1","J42C00000007","Universo Online SA","BOLSA",17
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","AUXILIO_FINANCEIRO",18
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",19
+"1","127900000005","Newcastle University","COOPERACAO",20

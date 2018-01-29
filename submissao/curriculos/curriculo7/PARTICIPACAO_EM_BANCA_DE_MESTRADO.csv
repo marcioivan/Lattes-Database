@@ -1,0 +1,37 @@
+TIPO,TITULO,ANO,PAIS,IDIOMA,NOME_DO_CANDIDATO
+Mestrado,Uma Estratégia Ótima de Despacho de Potência Ativa AC com Restrições na Transmissão,1999,Brasil,Português,Márcia Marcondes Rezende Simões Altimari
+Mestrado,Redes Neurais Artificiais Aplicadas a Proteção Diferencial de Transformadores de Potência,1999,Brasil,Português,Ênio Carlos Segatto
+Mestrado,Análise de uma linha de transmissão de meio comprimento de onda controlada por um dispositivo FACTS,2003,Brasil,Português,gilson ferreira dos santos junior
+Mestrado,Simulação de Fenômenos Transitórios em Sistemas de Aterramento,2003,Brasil,Português,José Augusto de Miranda
+Mestrado,Modelagem de linhas de transmissão para análise de comportamento quanto à descargas atmosféricas,2003,Brasil,Português,Carlos Kleber da Costa Arruda
+Mestrado,Extinção de Arco Secundário em Manobras Monofásicas - Conceitos Fundamentais e Critérios de Análise,2003,Brasil,Português,Alessandra de Sá e Benevides Câmara
+Mestrado,Modelagem de Transformadores para Fenômenos Transitórios Rápidos,2004,Brasil,Português,clovis josé da silva
+Mestrado,Descargas Atmosféricas Diretas em Linhas de Telecomunicações: Estudo e Modelamento,2004,Brasil,Português,Eduardo Fava Gastaldi
+Mestrado,Estudo e Aplicação de Filtros Ativos Paralelos para Sistemas Trifásicos a Quatro Fios,2005,Brasil,Português,Marcelo Gradella Villalva
+Mestrado,Ensaios de Rigidez Dielétrica de Algumas Configurações de Espaçamentos: Comparação entre Resultados ao Ar Livre e Dentro de Painel Metálico,2006,Brasil,Português,José Antônio D'Affonseca Santiago Cardoso
+Mestrado,Comportamento Eletromagnético do Solo no Domínio da Freqüência : Tratamento de Dados de Campo e Influência no Desempenho de Linhas Aéreas de Transmissão de Energia Elétrica,2005,Brasil,Português,João Bosco Gertrudes
+Mestrado,Análise de Sensibilidade de Parâmetros Elétricos de Linhas de Transmissão no Domínio da Freqüência,2005,Brasil,Português,Michel Gonçalves Pinheiro
+Mestrado,ANÁLISE DA CORRETA MODELAGEM DA TRANSPOSIÇÃO EM LINHAS DE TRANSMISSÃO NO DOMÍNIO DA FREQÜÊNCIA,2006,Brasil,Português,Alexander Vladimir Elguera FLores
+Mestrado,Análise de Auto-Excitação e Curto-Circuito Capacitivo em Geradores Síncronos Conectados a Grandes Sistemas de Transmissão CCAT e CAAT,2007,Brasil,Português,Paulo Max Maciel Portugal
+Mestrado,Contribuição ao Estudo do Efeito Corona em Linhas de Transmissão,2007,Brasil,Português,Michelly Alcantara de Freitas
+Mestrado,Análise Comparativa de Técnicas de Controle de Sobretensões Transitórias nas Manobras de Energização e Religamento de Linhas de Transmissão,2007,Brasil,Português,Patricia Mestas Valero
+Mestrado,Análise de Sensibilidade da Corrente de Arco Secundário Para Diferentes Linhas de Transmissão,2007,Brasil,Português,Milton Elvis Zevallos Alcahuaman
+Mestrado,RELIGAMENTO MONOPOLAR ADAPTATIVO RÁPIDO BASEADO NA ASSINATURA HARMÔNICA DA TENSÃO DE ARCO SECUNDÁRIO,2009,Brasil,Português,Allan Alves Montanari
+Mestrado,Estudos de Linhas de Transmissão Não-Uniformes no Domínio da Freqüência,2009,Brasil,Português,Leonardo Augusto Abreu de Souza
+Mestrado,Análise de Transitórios eletromagnéticos na manobras típicas para elo CA de meio comprimento de onda,2010,Brasil,Português,rodrigo fernandes vidigal
+Mestrado,Propagação de Transitórios de Alta Frequência e o Efeito de Múltiplas Reflexões em Redes Coletoras de Parques Eólicos Marítimos,2011,Brasil,Português,Fernanda Spada Villar
+Mestrado,UTILIZAÇÃO DE LINHAS DE TRANSMISSÃO SEMELHANTES NO ENSAIO DE ENERGIZAÇÃO DE UM TRONCO COM POUCO MAIS DE MEIO COMPRIMENTO DE ONDA,2012,Brasil,Português,Elson Costa Gomes
+Mestrado,CONTEÚDO HARMÔNICO E ESTIMATIVA DA VARIAÇÃO DE COMPRIMENTO DE ARCOS ELÉTRICOS GERADOS ARTIFICIALMENTE EM LINHAS DE TRANSMISSÃO,2012,Brasil,Português,Jonas Lemos Talaisys
+Mestrado,MAXIMIZAÇÃO DA POTÊNCIA CARACTERÍSTICA DE LINHAS DE TRANSMISSÃO USANDO MÉTODO DE OTIMIZAÇÃO NÃO LINEAR,2013,Brasil,Português,Renan de Paula Maciel
+Mestrado,Análise da Ocorrência de Zeros Atrasados em Correntes de Curto-Circuito,2014,Brasil,Português,Pedro Marcondes de Brito
+Mestrado,Modelagem de um Relé de Proteção Diferencial de Transformador no RTDS,2014,Brasil,Português,Fabiano Gustavo Silveira Magrin
+Mestrado,Obtenção dos parâmetros sustentados para modelagem de arco secundário em linha de 500 kV,2014,Brasil,Português,Athos Póvoa Garcia
+Mestrado,Implementação do religamento monopolar adaptativo rápido baseado na assinatura harmônica de tensão no simulador digital em tempo real (RTDS),2015,Brasil,Português,Ozenir Farah da Rocha Dias
+Mestrado,Estudo de transitórios eletromagnéticos em linhas longas compensadas para um pouco mais de meio comprimento de onda,2015,Brasil,Português,Javier Arturo Santiago Ortega
+Mestrado,"Avaliação do desempenho dinâmico e imunidade a falhas de comutação para faltas remotas em sistemas de HVDC híbridos, retificador LCC e inversor CCC em linhas de transmissão longas",2015,Brasil,Português,Eduardo Yada Matias
+Mestrado,Ampliação da capacidade de transmissão de linhas aéreas melhorando a geometria dos feixes,2016,Brasil,Português,Jhair Stivel Acosta Sarmiento
+Mestrado,Eletrificação de pequenas vilas próximas das linhas de transmissão usando acoplamento capacitivo dos cabos para-raios,2016,Brasil,Português,Joan Sebastian Chaves Huertas
+Mestrado,Modelagem de um Relé de proteção direcional de linhas de transmissão no ATP,2016,Brasil,Português,Jacqueline Panez Izaguirre
+Mestrado,Estudo do Elemento Direcional de Proteção em uma Linha de Transmissão de um Pouco Mais de Meio Comprimento de Onda,2017,Brasil,Português,Juan David Villon Berrocal
+Mestrado,"Analysis of Single-Phase""and Three-Phase Auto Reclosing Maneuver to Eliminate Single Line Fault (Análise do Desempenho das Manobras de Religamento Monopolar e Tripolar para Eliminação de Faltas Monofásicas em Linhas de Transmissão)",2017,Brasil,Português,Hossein Yektaei
+Mestrado,Nova metodologia para detecção de falta no religamento monopolar,2017,Brasil,Português,Leonardo Marques Nunes de Mattos

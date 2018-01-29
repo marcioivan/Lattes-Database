@@ -1,0 +1,79 @@
+SITUACAO,TITULO,ANO_DO_ARTIGO
+COMPLETO,An ultra-fast user-steered image segmentation paradigm: live wire on the fly,2000
+COMPLETO,Video Quality Assessment Using Objective Parameters Based on Image Segmentation,1999
+COMPLETO,A 3D generalization of user-steered live-wire segmentation,2000
+COMPLETO,Multiscale skeletons by image foresting transform and its application to neuromorphometry,2002
+COMPLETO,Cell Histograms Versus Color Histograms for Image Representation and Retrieval,2003
+COMPLETO,Fuzzy-connected 3D image segmentation at interactive speeds,2002
+COMPLETO,"The image foresting transform: theory, algorithms, and applications",2004
+COMPLETO,Iso-Shaping Rigid Bodies for Estimating Their Motion From Image Sequences,2004
+COMPLETO,A graph-based approach for multiscale shape analysis,2004
+COMPLETO,Interactive Volume Segmentation With Differential Image Foresting Transforms,2004
+COMPLETO,3D visualization to assist iterative object definition from medical images,2006
+COMPLETO,Content-Based Image Retrieval: Theory and Applications,2006
+COMPLETO,Contour salience descriptors for effective image retrieval and analysis.,2007
+COMPLETO,Automatic Image Segmentation by Tree Pruning,2007
+COMPLETO,Learning How to Extract Rotation-Invariant and Scale-Invariant Features from Texture Images,2008
+COMPLETO,A genetic programming framework for content-based image retrieval,2009
+COMPLETO,Recentes Avanços Tecnológicos no Exame Parasitológico de Amostras de Fezes,2008
+COMPLETO,Data clustering as an optimum-path forest problem with applications in image analysis,2009
+COMPLETO,Supervised pattern classification based on optimum-path forest,2009
+COMPLETO,Object Delineation by ?-Connected Components,2008
+COMPLETO,Shape feature extraction and description based on tensor scale,2010
+COMPLETO,Links Between Image Segmentation Based on Optimum-Path Forest and Minimum Cut in Graph,2009
+COMPLETO,Synergistic arc-weight estimation for interactive image segmentation using graphs,2009
+COMPLETO,Exploiting optimum connectivity in image analysis,2009
+COMPLETO,Robust Pruning of Training Patterns for Optimum-Path Forest Classification Applied to Satellite-Based Rainfall Occurrence Estimation,2010
+COMPLETO,A new CBIR Approach based on Relevance Feedback and Optimum-Path Forest Classification,2010
+COMPLETO,Fast Petroleum Well Drilling Monitoring Through Optimum-Path Forest,2010
+COMPLETO,Estimativa de ocorrência de precipitação em áreas agrícolas utilizando floresta de caminhos,2010
+COMPLETO,Incorporating multiple distance spaces in optimum-path forest classification to improve feedback-based learning,2012
+COMPLETO,Spoken emotion recognition through optimum-path forest classification using glottal features,2010
+COMPLETO,Multiscale Classification of Remote Sensing Images,2012
+COMPLETO,A New Approach for Nontechnical Losses Detection Based on Optimum-Path Forest,2011
+COMPLETO,New Insights on Nontechnical Losses Characterization Through Evolutionary-Based Feature Selection,2012
+COMPLETO,Riverbed: A Novel User-Steered Image Segmentation Method Based on Optimum Boundary Tracking,2012
+COMPLETO,IFTrace: Video segmentation of deformable objects using the Image Foresting Transform,2012
+COMPLETO,User-Steered Image Segmentation Paradigms: Live Wire and Live Lane,1998
+COMPLETO,Fuzzy Connectedness Image Segmentation in Graph Cut Formulation: A Linear-Time Algorithm and a Comparative Analysis,2012
+COMPLETO,Brain tissue MR-image segmentation via optimum-path forest clustering,2012
+COMPLETO,Active learning paradigms for CBIR systems based on optimum-path forest classification,2011
+COMPLETO,Efficient supervised optimum-path forest classification for large datasets,2012
+COMPLETO,A new laboratorial method for the diagnosis of gastrointestinal parasites in dogs,2013
+COMPLETO,Computer techniques towards the automatic characterization of graphite particles in metallographic images of industrial materials,2013
+COMPLETO,INTELLIGENT UNDERSTANDING OF USER INTERACTION IN IMAGE SEGMENTATION,2012
+COMPLETO,Joint graph cut and relative fuzzy connectedness image segmentation algorithm,2013
+COMPLETO,Segmentation of sandstone thin section images with separation of touching grains using optimum path forest operators,2013
+COMPLETO,"Body-wide hierarchical fuzzy modeling, recognition, and delineation of anatomy in medical images",2014
+COMPLETO,An active learning paradigm based on a priori data reduction and organization,2014
+COMPLETO,"High-Resolution Inflorescence Phenotyping Using a Novel Image Analysis Pipeline, PANorama",2014
+COMPLETO,A path- and label-cost propagation approach to speedup the training of the optimum-path forest classifier,2014
+COMPLETO,Toward Satellite-Based Land Cover Classification Through Optimum-Path Forest,2014
+COMPLETO,Learning Person-Specific Representations from Faces in the Wild,2014
+COMPLETO,Hybrid approaches for interactive image segmentation using the Live Markers paradigm,2014
+COMPLETO,A nature-inspired approach to speed up optimum-path forest clustering and its application to intrusion detection in computer networks,2015
+COMPLETO,Swarm-based Descriptor Combination and its Application for Image Classification,2014
+COMPLETO,Duplicate and conquer: multiple homologs of phosphorus-starvation tolerance 1 enhance phosphorus acquisition and sorghum performance on low-P soils,2014
+COMPLETO,"Deep Representations for Iris, Face, and Fingerprint Spoofing Detection",2015
+COMPLETO,Interactive Multiscale Classification of High-Resolution Remote Sensing Images,2013
+COMPLETO,Improving land cover classification through contextual-based optimum-path forest,2015
+COMPLETO,Robust active learning for the diagnosis of parasites,2015
+COMPLETO,Efficient and Effective Hierarchical Feature Propagation,2014
+COMPLETO,Automatic Segmentation and Classification of Human Intestinal Parasites From Microscopy Images,2013
+COMPLETO,Comparative study of five techniques for the diagnosis of canine gastrointestinal parasites,2015
+COMPLETO,Medical image segmentation via atlases and fuzzy object models: Improving efficacy through optimum object search and fewer models,2016
+COMPLETO,Genome-wide association and high-resolution phenotyping link Oryza sativa panicle traits to numerous trait-specific QTL clusters,2016
+COMPLETO,"Evolving technologies for growing, imaging and analyzing 3D root system architecture of crop plants",2016
+COMPLETO,Choosing the Most Effective Pattern Classification Model under Learning-Time Constraint,2015
+COMPLETO,Validation of a new technique to detect Cryptosporidium spp. oocysts in bovine feces,2016
+COMPLETO,TF-Test Modified: New Diagnostic Tool for Human Enteroparasitosis,2016
+COMPLETO,Shape feature extraction and description based on tensor scale,2010
+COMPLETO,Efficient and Effective Hierarchical Feature Propagation,2014
+COMPLETO,Improving Semi-Supervised Learning through Optimum Connectivity,2016
+COMPLETO,Efficient and Effective Hierarchical Feature Propagation,2014
+COMPLETO,IFTrace: Video segmentation of deformable objects using the Image Foresting Transform,2012
+COMPLETO,Optimum-Path Forest based on k-connectivity: Theory and applications,2017
+COMPLETO,Visualizing the Hidden Activity of Artificial Neural Networks,2017
+COMPLETO,A novel algorithm for feature selection using Harmony Search and its application for non-technical losses detection,2011
+NAO_INFORMADO,"HIGH PREVALENCE OF Blastocystis spp. INFECTION IN CHILDREN AND STAFF MEMBERS ATTENDING PUBLIC URBAN SCHOOLS IN SÃO PAULO STATE, BRAZIL",2016
+NAO_INFORMADO,Medical image registration based on watershed transform from greyscale marker and multi-scale parameter search,2015

@@ -1,0 +1,22 @@
+NATUREZA,TIPO,TITULO,ANO,PAIS,IDIOMA,PARTICIPACAO-EM-BANCA-DE-MESTRADO_Id
+Mestrado,ACADEMICO,Indexação Multimídia Escalável e Busca por Similaridade em Alta Dimensionalidade,2011,Brasil,Português,0
+Mestrado,ACADEMICO,Um Simulador Compilado Dinâmico para o ArchC,2011,Brasil,Português,1
+Mestrado,ACADEMICO,Estratégias de Otimização em GPU para Análise de Sequências Biológicas,2012,Brasil,Português,2
+Mestrado,ACADEMICO,HP2FEM - Arquitetura de Software p Não-Uniforme para o Método de Elementos Finitos de Alta Ordem,2012,Brasil,Português,3
+Mestrado,ACADEMICO,Otimizações de Código sensíveis a contexto baseadas em clonagem de funções,2014,Brasil,Português,4
+Mestrado,ACADEMICO,Soluções para o problema da seleção de otimizações,2013,Brasil,Português,5
+Mestrado,ACADEMICO,Suporte Especializado de Hardware para Geração Automática de Loop Pipelining em FPGAs,2014,Brasil,Português,6
+Mestrado,ACADEMICO,LALPC: Uma ferramenta para compilação de programas em C para exploração do paralelismo de Loops em FPGAS,2015,Brasil,Português,7
+Mestrado,ACADEMICO,"Uma abordagem de seleção de recursos consciente de consumo de energia baseada em topologia de rede, tamanho de arquivos e potência de equipamentos",2015,Brasil,Português,8
+Mestrado,ACADEMICO,Um Framework para a Avaliação de Segurança de Hardware,2015,Brasil,Português,9
+Mestrado,ACADEMICO,Análise dos caminhos de execução de programas para a paralelização automática de códigos binários para a plataforma Intel x86,2015,Brasil,Português,10
+Mestrado,ACADEMICO,Symbolic Range Analysis,2016,Brasil,Inglês,11
+Mestrado,ACADEMICO,Estimativas de Dark Silicon em Projetos de Sistemas Multicore,2016,Brasil,Português,12
+Mestrado,ACADEMICO,Geração de código eficiente por estratégias para escolha de sequências de transformação,2017,Brasil,Português,13
+Mestrado,ACADEMICO,Análise de Desempenho e Otimização dos Simuladores ArchC,2017,Brasil,Português,14
+Mestrado,ACADEMICO,Técnicas de compilação para apoiar a migração de dados em sistemas NUMA,2016,Brasil,Português,15
+Mestrado,ACADEMICO,Implementação de um Simulador de Partículas Utilizando o Método do Elementos Discretos (DEM) em Cluster de GPUs,2017,Brasil,Português,16
+Mestrado,ACADEMICO,PROST: Um Arcabouço para o Desenvolvimento de Dispositivos Programáveis para a IoT,2017,Brasil,Português,17
+Mestrado,ACADEMICO,Indirect Branch Emulation Techniques in Virtual Machines,2014,Brasil,Português,18
+Mestrado,ACADEMICO,Dynamic dispatch of context-sensitive optimizations,2017,Brasil,Inglês,19
+Mestrado,ACADEMICO,Escalonamento Dinâmico de Tensão e Frequência em Multiprocessadores para Aplicações com Especificação de Qualidade por Taxa Mínima de Processamento de Entradas,2012,Brasil,Português,20

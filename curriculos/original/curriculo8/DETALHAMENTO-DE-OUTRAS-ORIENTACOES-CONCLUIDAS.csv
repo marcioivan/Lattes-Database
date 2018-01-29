@@ -1,0 +1,4 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Gustavo Plensack","007900000004","Universidade Estadual de Campinas","60356073","Engenharia Elétrica","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",0
+"João Tadeu de Aguiar Fonseca","007900000004","Universidade Estadual de Campinas","60288450","Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",1
+"Mateus Antonio Chinelatto","007900000004","Universidade Estadual de Campinas","60288450","Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",2

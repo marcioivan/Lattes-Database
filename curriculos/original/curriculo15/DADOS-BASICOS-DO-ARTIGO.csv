@@ -1,0 +1,46 @@
+﻿NATUREZA,TITULO-DO-ARTIGO,ANO-DO-ARTIGO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-ARTIGO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ARTIGO-PUBLICADO_Id
+"COMPLETO","An Environment For Modelling And Design Of Geographic Applications","1997","","Inglês","IMPRESSO","[doi:10.1023/a:1009704100446]","NAO","10.1023/A:1009704100446","","NAO",0
+"COMPLETO","Initiatives That Center On Scientific Dissemination","1998","","Inglês","IMPRESSO","[doi:10.1145/273035.273063]","NAO","10.1145/273035.273063","","NAO",1
+"COMPLETO","A Framework For Designing And Implementing The User Interface of A Geographic Digital Library","1999","","Inglês","IMPRESSO","[doi:10.1007/s007990050047]","NAO","10.1007/s007990050047","","NAO",2
+"COMPLETO","WOODSS - A Spatial Decision Support System Based On Workflows","1999","","Inglês","IMPRESSO","[doi:10.1016/s0167-9236(99)00039-1]","SIM","10.1016/S0167-9236(99)00039-1","","NAO",3
+"COMPLETO","Constructing Geographic Digital Libraries Using A Hypermedia Framework","1999","","Inglês","IMPRESSO","[doi:10.1023/a:1009622326327]","NAO","10.1023/A:1009622326327","","NAO",4
+"COMPLETO","Implementing Integrity Control In Active Databases","1994","","Inglês","IMPRESSO","[doi:10.1016/0164-1212(94)90040-x]","NAO","10.1016/0164-1212(94)90040-X","","NAO",5
+"COMPLETO","Understanding The Implications Of View Update Policies","1986","","Inglês","IMPRESSO","[doi:10.1007/bf01840451]","NAO","10.1007/BF01840451","","NAO",6
+"COMPLETO","Direcoes de Pesquisa Em Bancos de Dados Com Suporte A Novas Aplicacoes","1993","","Português","NAO_INFORMADO","","NAO","","","NAO",7
+"COMPLETO","Multiversion views: Constructing views in a multiversion database","2000","","Inglês","MEIO_DIGITAL","[doi:10.1016/s0169-023x(00)00004-5]","NAO","10.1016/S0169-023X(00)00004-5","Multiversion views: Constructing views in a multiversion database","NAO",8
+"COMPLETO","A Reuse-oriented Workflow Definition Language","2003","","Inglês","IMPRESSO","[doi:10.1142/s0218843003000553]","NAO","10.1142/S0218843003000553","","NAO",9
+"COMPLETO","Databases for GIS","1994","","Inglês","IMPRESSO","","NAO","10.1145/181550.181566","","NAO",10
+"COMPLETO","POESIA: An Ontological Workflow Approach for Composing Web Services in Agriculture","2003","","Inglês","IMPRESSO","[doi:10.1007/s00778-003-0103-3]","NAO","10.1007/s00778-003-0103-3","","NAO",11
+"COMPLETO","A System for Change Documentation based on a Spatiotemporal Database","2004","","Inglês","IMPRESSO","[doi:10.1023/b:gein.0000017747.96815.70]","NAO","10.1023/B:GEIN.0000017747.96815.70","","NAO",12
+"COMPLETO","Supporting modeling and problem solving from precedent experiences: the role of workflows and case-based reasoning","2005","","Inglês","IMPRESSO","[http://www.sciencedirect.com, www.elsevier.com/envsoft][doi:10.1016/j.envsoft.2004.03.014]","NAO","10.1016/j.envsoft.2004.03.014","","NAO",13
+"COMPLETO","A Digital Library Framework for Biodiversity Information Systems","2006","","Inglês","IMPRESSO","[doi:10.1007/s00799-005-0124-1]","SIM","10.1007/s00799-005-0124-1","","NAO",14
+"COMPLETO","WOODSS and the Web: Annotating and Reusing Scientific Workflows","2005","","Inglês","IMPRESSO","[doi:10.1145/1084805.1084810]","NAO","10.1145/1084805.1084810","","NAO",15
+"COMPLETO","Usabilidade de Aplicações SIG Web na Perspectiva do Usuário: um Estudo de Caso.","2006","Brasil","Português","IMPRESSO","","NAO","","","NAO",16
+"COMPLETO","Remote Sensing Research at the State University of Campinas, Brazil","2005","","Inglês","MEIO_DIGITAL","[http://www.grss-ieee.org/wp-content/uploads/2009/10/pastissues/june_05.pdf]","NAO","","","NAO",17
+"COMPLETO","User-author centered multimedia building blocks","2007","","Inglês","IMPRESSO","[doi:10.1007/s00530-006-0050-0]","NAO","10.1007/s00530-006-0050-0","","NAO",18
+"COMPLETO","A Component Model and Infrastructure for a Fluid Web","2007","","Inglês","IMPRESSO","[doi:10.1109/tkde.2007.16]","SIM","10.1109/TKDE.2007.16","","NAO",19
+"COMPLETO","An Ontology-based Framework for Bioinformatics Workflows","2007","","Português","IMPRESSO","[doi:10.1504/ijbra.2007.015003]","NAO","10.1504/IJBRA.2007.015003","","NAO",20
+"COMPLETO","A framework based in Web service orchestration for bioinformatics workflow management","2005","","Inglês","MEIO_DIGITAL","[http://www.funpecrp.com.br/gmr/year2005/vol3-4/wob04_full_text.htm]","NAO","","","NAO",21
+"COMPLETO","Contract e-Negotiation in Agricultural Supply Chains","2008","","Inglês","IMPRESSO","[doi:10.2753/jec1086-4415120403]","NAO","10.2753/JEC1086-4415120403","","NAO",22
+"COMPLETO","Grand Research Challenges in Computer Science in Brazil","2008","","Inglês","IMPRESSO","[doi:10.1109/mc.2008.188]","NAO","10.1109/MC.2008.188","","NAO",23
+"COMPLETO","Aondê: An ontology Web service for interoperability across biodiversity applications","2008","","Português","VARIOS","","SIM","10.1016/j.is.2008.02.001","","NAO",24
+"COMPLETO","A Data Model for Comparative Genomics","2003","","Inglês","IMPRESSO","","NAO","","","NAO",25
+"COMPLETO","Editorial to issue (invited)","2001","","Inglês","IMPRESSO","","NAO","","","NAO",26
+"COMPLETO","A Framework for Semantic Annotation of Geospatial Data on the Web","2009","","Inglês","NAO_INFORMADO","","NAO","10.1504/IJMSO.2009.026260","","NAO",27
+"COMPLETO","A standards-based framework to foster geospatial data and process interoperability","2009","","Inglês","IMPRESSO","","NAO","10.1590/S0104-65002009000100003","","NAO",28
+"COMPLETO","A Mechanism for Propagation of Semantic Annotations of Multimedia Content","2010","","Inglês","MEIO_DIGITAL","[http://www.academypublisher.com/ojs/index.php/jmm/article/view/0504332342]","NAO","10.4304/jmm.5.4.332-342","","NAO",29
+"COMPLETO","Managing sensor traffic data and forecasting unusual behaviour propagation","2010","","Inglês","VARIOS","","NAO","10.1007/s10707-010-0102-7","","NAO",30
+"COMPLETO","TIDES a new descriptor for time series oscillation behavior","2011","","Inglês","IMPRESSO","","NAO","10.1007/s10707-010-0112-5","","NAO",31
+"COMPLETO","SPICA'S Multi-party Negotiation Protocol: Implementation using YAWL","2011","","Inglês","VARIOS","","NAO","10.1142/S0218843011002237","","NAO",32
+"COMPLETO","Handling and Publishing Wireless Sensor Network Data: a hands-on experiment","2011","","Inglês","MEIO_DIGITAL","","NAO","","","NAO",33
+"COMPLETO","Ontology-driven discovery of geospatial evidence in web pages","2011","","Inglês","VARIOS","","NAO","10.1007/s10707-010-0118-z","","NAO",34
+"COMPLETO","Computação: o Terceiro Pilar","2011","","Português","IMPRESSO","","NAO","","","NAO",35
+"COMPLETO","Data Driven Research at LIS: the Laboratory of Information Systems at UNICAMP","2011","","Inglês","MEIO_DIGITAL","","NAO","","","NAO",36
+"COMPLETO","An architecture for retrieval of animal sound recordings based on context variables","2012","","Inglês","MEIO_DIGITAL","","NAO","10.1002/cpe.2865","An architecture for retrieval of animal sound recordings based on context variables","NAO",37
+"COMPLETO","A provenance-based approach to evaluate data quality in eScience","2014","","Inglês","MEIO_DIGITAL","","NAO","10.1504/ijmso.2014.059127","A provenance-based approach to evaluate data quality in eScience","NAO",38
+"COMPLETO","Evaluate, Reorganize and Share: An Approach to Dynamically Organize Digital Hierarchies","2014","","Inglês","MEIO_DIGITAL","","NAO","10.1007/s13740-014-0035-7","Evaluate, Reorganize and Share: An Approach to Dynamically Organize Digital Hierarchies","NAO",39
+"COMPLETO","Multi-focus Research and Geospatial Data - anthropocentric concerns","2014","","Inglês","MEIO_DIGITAL","[http://https://seer.lcc.ufmg.br/index.php/jidm/article/view/418/626]","NAO","","","NAO",40
+"COMPLETO","eScience today and tomorrow","2016","","Inglês","MEIO_DIGITAL","[doi:10.1016/j.future.2015.10.016]","NAO","10.1016/j.future.2015.10.016","","NAO",41
+"COMPLETO","HYDROGRAPH: Exploring Geographic Data in Graph Databases","2016","","Inglês","NAO_INFORMADO","[http://www.lsie.unb.br/rbc/index.php/rbc/article/view/1613]","NAO","","","NAO",42
+"COMPLETO","SiRCub","2017","","Inglês","MEIO_DIGITAL","","NAO","10.4018/ijaeis.2017100102","SiRCub","NAO",43
+"COMPLETO","Interoperability for GIS Document Management for Environmental Planning","2005","","Inglês","IMPRESSO","[doi:10.1007/11496168_5]","NAO","10.1007/11496168_5","","NAO",44

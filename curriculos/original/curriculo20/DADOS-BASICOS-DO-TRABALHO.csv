@@ -1,0 +1,110 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","Reflective Design Patterns to Implement Fault Tolerance","1998","Canadá","Inglês","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","Tropyc: A Pattern Language for Cryptographic Software","1998","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",1
+"COMPLETO","Fault Tolerance in Concurrent Object-Oriented Software Through Coordinated Error Recovery","1995","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",2
+"COMPLETO","Object-Oriented Environmental Fault Tolerance","1995","Inglaterra","Inglês","IMPRESSO","","NAO","","","NAO",3
+"COMPLETO","Padrão State Reflexivo: Refinamento do padrão de projeto State para uma arquitetura reflexiva","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",4
+"COMPLETO","Um sistema de padrões para software criptográfico orientado a objetos","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",5
+"COMPLETO","Segurança em Sistemas de Micropagamentos Eletrônicos","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",6
+"COMPLETO","Um Framework para Editores de Diagramas Cooperativos baseados em Anotações","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",7
+"COMPLETO","Construção de um Framework para Sistemas Controladores de Trens utilizando Padrões de Projeto e Metapadrões","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",8
+"COMPLETO","Uma Abordagem Reflexiva para a Construção de Frameworks para Interfaces Homem-Computador.","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",9
+"COMPLETO","Reflexão Computacional em Linguagens de Programação: Um Estudo Comparativo","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",10
+"COMPLETO","Uma Experiência Prática em Programação Orientada a Objetos, Distribuída e Confiável","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",11
+"COMPLETO","Um Framework Orientado a Objetos Reflexivo para a Construção de Software Tolerante a Falhas.","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",12
+"COMPLETO","Um Modelo de Anotações para o Desenvolvimento Cooperativo de Software","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",13
+"COMPLETO","Estruturação de Sistemas Orientados a Objetos Tolerantes a Falhas usando Reflexão Computacional","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",14
+"COMPLETO","Implementação de uma Pilha Robusta Tolerante a Falhas de Software em um Ambiente Distribuído","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",15
+"COMPLETO","Mecanismos de Tratamento de Exceções para a Construção de Software Tolerante a Falhas","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",16
+"COMPLETO","Tolerância a Falhas de Software em Linguagens Orientadas a Objetos Reflexivas","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",17
+"COMPLETO","Tolerância a Falhas num Controlador de Trens Orientado a Objetos e Distribuído","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",18
+"COMPLETO","Técnicas de Orientação a Objetos para Tolerância a Falhas","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",19
+"COMPLETO","Arquitetura Reflexiva para o Desenvolvimento de Software Tolerante a Falhas","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",20
+"RESUMO","Integration of Fault Tolerance Techniques: A System of Patterns to Cope With Hardware, Software and Environmental Fault Tolerance","1998","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",21
+"RESUMO","A Reflective Object-Oriented Framework for Developing Dependable Distributed Software Based on Patterns and Metapatterns","1998","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",22
+"RESUMO","PayPerClick: Um Framework para Venda e Distribuição On-Line de Publicações Baseado em Micropagamentos.","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",23
+"RESUMO","Uma Arquitetura de Software para o Desenvolvimento de Aplicações Distribuídas Confiáveis","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",24
+"COMPLETO","An Exception Handling Mechanism for Developing Dependable Object-Oriented Software based on a Meta-Level Approach","1999","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",25
+"COMPLETO","The Reflective State Pattern","1998","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",26
+"RESUMO","Cooperative Diagram Editing on the Web","1998","Japão","Inglês","IMPRESSO","","NAO","","","NAO",27
+"COMPLETO","Um Mecanismo Orientado a Objetos para Tratamento de Excecoes em Software Concorrente Tolerante a Falhas","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",28
+"COMPLETO","An Exception Handling Software Architecture for Developing Fault-Tolerant Software","2000","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",29
+"COMPLETO","An Exception Handling Software Architecture for Developing Robust Software","2000","França","Inglês","IMPRESSO","","NAO","","","NAO",30
+"COMPLETO","Tratamento de Exceções no Desenvolvimento de Software Confiável baseado em Componentes","2000","Brasil","Português","IMPRESSO","","NAO","","","NAO",31
+"COMPLETO","A Meta-Level Software Architecture based on Patterns for Developing Dependable Collaboration-based Designs","2000","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",32
+"COMPLETO","Explicit Representation of Exception Handling in the development of dependable component-based systems","2001","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",33
+"COMPLETO","On Applying Coordinated Atomic Actions and dependable software architectures for developing complex systems","2001","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",34
+"COMPLETO","A software fault injection pattern system","2001","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",35
+"COMPLETO","Um sistema de padrões para injeção de falhas","2000","Brasil","Português","IMPRESSO","","NAO","","","NAO",36
+"COMPLETO","Jaca: A Reflective Fault Injection Tool Based on Patterns","2002","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",37
+"COMPLETO","An Idealized Fault-Tolerant Architectural Component","2002","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",38
+"COMPLETO","An Architectural-level  Exception Handling System for Component-based Applications","2003","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",39
+"COMPLETO","Component Integration using Composition Contracts with Exception handling","2003","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",40
+"COMPLETO","FaTC2: An Object-Oriented Framework for Developing Fault-Tolerant Component-based Systems","2003","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",41
+"RESUMO_EXPANDIDO","A Java Component Model for Evolving Software Systems","2003","Canadá","Inglês","IMPRESSO","","NAO","10.1109/ASE.2003.1240331","","NAO",42
+"RESUMO_EXPANDIDO","A Fault-Tolerant Software Architecture for COTS-based Software Systems","2003","Finlândia","Inglês","IMPRESSO","","NAO","","","NAO",43
+"RESUMO_EXPANDIDO","Integrating  COTS Software Components  into Dependable  Software Architectures","2003","Japão","Inglês","IMPRESSO","","NAO","","","NAO",44
+"RESUMO_EXPANDIDO","Component-Based Development using Model Driven Architecture","2003","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",45
+"COMPLETO","Um modelo de componentes Java para Evolução de Software","2003","Brasil","Português","IMPRESSO","","NAO","","","NAO",46
+"COMPLETO","Structuring Exception Handling for Dependable Component-Based Software Systems","2004","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",47
+"COMPLETO","Um Método para Modelagem de Exceções em Desenvolvimento Baseado em Componentes","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",48
+"COMPLETO","Bellatrix: Um ambiente para Suporte Arquitetural ao Desenvolvimento Baseado em Componentes","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",49
+"COMPLETO","Implementing Coordinated Exception Handling for Distributed Object-Oriented Systems in AspectJ","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",50
+"COMPLETO","A Framework for Analyzing Exception Flow in Software Architectures","2005","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",51
+"COMPLETO","Modeling and Analysis of Architectural Exceptions","2005","Grã-Bretanha","Inglês","IMPRESSO","","NAO","","","NAO",52
+"COMPLETO","A Quantitative Study on the Aspectization of Exception Handling","2005","Grã-Bretanha","Inglês","IMPRESSO","","NAO","","","NAO",53
+"COMPLETO","A Systematic Approach for the Evolution of Reusable Software Components","2005","Grã-Bretanha","Inglês","IMPRESSO","","NAO","","","NAO",54
+"COMPLETO","A Method for Modeling and Testing Exceptions in Component-Based Software Development","2005","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",55
+"COMPLETO","Verification of Coordinated Exception Handling","2006","França","Inglês","IMPRESSO","[http://portal.acm.org/citation.cfm?id=1141434&coll=acm&dl=guide&cfid=15151515&cftoken=6184618]","NAO","","","NAO",56
+"COMPLETO","Um Repostório com Suporte à Evolução Centrada na Arquitetura de Software","2005","Brasil","Português","IMPRESSO","","NAO","","","NAO",57
+"COMPLETO","Um Modelo Conceitual e uma Terminologia para o Desenvolvimento Baseado em Componentes e Centrado na Arquitetura de Software","2005","Brasil","Português","IMPRESSO","","NAO","","","NAO",58
+"COMPLETO","Automated Deployment of Component Architectures with Versioned Components","2006","França","Inglês","IMPRESSO","","NAO","","","NAO",59
+"COMPLETO","Exceptions and Aspects: The Devil is in the Details","2006","Estados Unidos","Inglês","IMPRESSO","[http://portal.acm.org/citation.cfm?id=1181775.1181794&coll=acm&dl=guide&type=series&idx=1181775&part=proceedings&wanttype=proceedings&title=foundations%20of%20software%20engineering&cfid=15151515&cf]","NAO","","","NAO",60
+"COMPLETO","Managing Variabilities in Component-based Software Product Lines","2006","Brasil","Português","IMPRESSO","","NAO","","","NAO",61
+"COMPLETO","Error Handling as an Aspect","2007","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",62
+"COMPLETO","The Error Handling Aspect Pattern","2007","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",63
+"COMPLETO","Verification and Validation of a Fault-Tolerant Architectural Abstraction","2007","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",64
+"COMPLETO","Um Método baseado em Reuso para o Desenvolvimento de Sistemas Confiáveis baseados em Componentes","2007","Brasil","Português","IMPRESSO","","NAO","","","NAO",65
+"COMPLETO","Architecture-centric Fault Tolerance with Exception Handling","2007","México","Inglês","IMPRESSO","","NAO","","","NAO",66
+"COMPLETO","Uma  Abordagem Sistemática para Reutilização e Versionamento de Componentes","2007","Brasil","Português","IMPRESSO","","NAO","","","NAO",67
+"COMPLETO","Extracting Error Handling to Aspects: A Cookbook","2007","França","Inglês","IMPRESSO","[doi:10.1109/icsm.2007.4362626]","NAO","10.1109/ICSM.2007.4362626","","NAO",68
+"COMPLETO","Verification of Exception Control Flows and Handlers based on Architectural Scenarios","2008","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",69
+"COMPLETO","Development of Fault-Tolerant Software Systems Based on Architectural Abstractions","2008","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",70
+"COMPLETO","Desafios na Construção e Validação da Robustez de Aplicações Orientadas a Serviços","2008","Brasil","Português","IMPRESSO","","NAO","","","NAO",71
+"RESUMO_EXPANDIDO","Architecting Fault Tolerance using Abstractions","2008","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",72
+"COMPLETO","Explicit Exception Handling Variability in Component-based Product Line Architectures","2008","Estados Unidos","Inglês","VARIOS","","NAO","","","NAO",73
+"COMPLETO","Verifying Architectural Variabilities in Software Fault Tolerance Techniques","2009","Estados Unidos","Inglês","VARIOS","[http://www.wicsa.net/]","NAO","","","NAO",74
+"COMPLETO","Architectural-Based Validation of Fault-Tolerant Software","2009","Brasil","Inglês","VARIOS","[http://ladc2009.lsd.ufcg.edu.br/]","NAO","","","NAO",75
+"COMPLETO","Leveraging Aspect-Connectors to Improve Stability of Product-Line Variabilities","2010","Alemanha","Inglês","VARIOS","[http://www.vamos-workshop.net/proceedings/VaMoS_2010_Proceedings.pdf]","NAO","","","NAO",76
+"COMPLETO","Archmeds: An Infrastructure for Dependable Service-Oriented Architectures","2009","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",77
+"COMPLETO","Toward an object-oriented approach to software fault tolerance","1994","Estados Unidos","Inglês","IMPRESSO","[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=494494]","NAO","10.1109/FTPDS.1994.494494","","NAO",78
+"COMPLETO","Exception Handling for Service Component Architectures","2011","Alemanha","Inglês","IMPRESSO","[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5783387&tag=1]","NAO","10.1109/LADC.2011.17","","NAO",79
+"COMPLETO","Validation of Exception Handling in the Development of Dependable Component-Based Software Systems","2011","Alemanha","Inglês","IMPRESSO","[http://doi.ieeecomputersociety.org/10.1109/LADC.2011.23]","NAO","10.1109/LADC.2011.23","","NAO",80
+"COMPLETO","A SPL approach for adaptive fault tolerance in SOA","2011","Alemanha","Inglês","MEIO_DIGITAL","[http://dl.acm.org/citation.cfm?doid=2019136.2019153]","NAO","10.1145/2019136.2019153","","NAO",81
+"COMPLETO","Método Ágil Aplicado ao Desenvolvimento de Software Confiável Baseado em Componentes","2011","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",82
+"COMPLETO","Aspect-Connectors to Support the Evolution of Component-Based Product Line Architectures: A Comparative Study","2011","Alemanha","Inglês","MEIO_DIGITAL","[http://www.springerlink.com/content/12q3317013617300/]","NAO","10.1007/978-3-642-23798-0_6","","NAO",83
+"COMPLETO","An Experimental Setup to Assess Design Diversity of Functionally Equivalent Services","2012","Espanha","Inglês","IMPRESSO","[http://dblp2.uni-trier.de/db/conf/ease/ease2012]","NAO","","","NAO",84
+"COMPLETO","WSCA-DRIP: An Infrastructure to Web Service Composition Actions","2011","Estados Unidos","Inglês","MEIO_DIGITAL","[http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5773436]","NAO","10.1109/LADCW.2011.20","","NAO",85
+"RESUMO_EXPANDIDO","Supporting the evolution of exception handling in component-based product line architecture","2012","Estados Unidos","Inglês","IMPRESSO","","NAO","10.1109/WEH.2012.6226603","","NAO",86
+"COMPLETO","Desafios da Engenharia de Software na Educação: Variabilidade de Sistemas Educacionais Inteligentes e Instanciação em Larga Escala","2012","Brasil","Português","IMPRESSO","[http://www.lbd.dcc.ufmg.br/colecoes/desafie!/2012/0021.pdf]","NAO","","","NAO",87
+"COMPLETO","An Aspect-Based Feature Model for Architecting Component Product Lines","2012","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/SEAA.2012.64","","NAO",88
+"COMPLETO","An Empirical Study on Design Diversity of Functionally Equivalent Web Services","2012","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","10.1109/ares.2012.57","","NAO",89
+"COMPLETO","A systematic review of design diversity-based solutions for fault-tolerant SOAs","2013","Brasil","Inglês","MEIO_DIGITAL","[http://dx.doi.org/10.1145/2460999.2461015]","NAO","10.1145/2460999.2461015","","NAO",90
+"COMPLETO","Método Ágil para Desenvolvimento de Software Confiável.","2013","Brasil","Português","IMPRESSO","","NAO","","","NAO",91
+"COMPLETO","Identifying Modelling Dimensions of a Self- Adaptive Framework for Fault-Tolerant SOAs - An Experience Report","2013","Brasil","Inglês","MEIO_MAGNETICO","","NAO","","","NAO",92
+"COMPLETO","A SPL Infrastructure for Supporting Scientific Experiments in Petroleum Reservoir Research Field","2013","Brasil","Português","MEIO_DIGITAL","","NAO","10.1109/SBCARS.2013.19","","NAO",93
+"COMPLETO","A Model-Driven Infrastructure for Developing Product Line Architectures Using CVL","2013","Brasil","Inglês","MEIO_DIGITAL","","NAO","10.1109/SBCARS.2013.23","","NAO",94
+"COMPLETO","ArCMAPE: A Software Product Line Infrastructure to Support Fault-Tolerant Composite Services","2014","Estados Unidos","Inglês","VARIOS","","NAO","10.1109/HASE.2014.15","","NAO",95
+"RESUMO_EXPANDIDO","Using CVL to Support Self-Adaptation of Fault-Tolerant Service Compositions","2013","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/SASO.2013.34","","NAO",96
+"COMPLETO","FlexMonitorWS: Uma solução de monitoração de serviços Web","2014","Brasil","Português","MEIO_DIGITAL","[http://www.ic.ufal.br/evento/cbsoft2014/anais/ferramentas_v1_p.pdf]","NAO","","","NAO",97
+"COMPLETO","Evolving a Software Products Line for E-commerce Systems","2015","Brasil","Português","NAO_INFORMADO","[http://dl.acm.org/citation.cfm?id=2797460]","NAO","10.1145/2797433.2797460","","NAO",98
+"COMPLETO","Performance and Accuracy conflict in Monitoring Tools for Web Services: a case study","2015","Peru","Inglês","MEIO_DIGITAL","[http://clei.org/clei2015/145037]","NAO","","","NAO",99
+"COMPLETO","An Infrastructure to Support Autonomic Control","2015","Estados Unidos","Inglês","MEIO_DIGITAL","[http://worldcomp-proceedings.com/proc/.../SER6234.pdf]","NAO","","","NAO",100
+"COMPLETO","An Architecture for Dynamic Self-Adaptation in Workflows","2015","Estados Unidos","Inglês","MEIO_DIGITAL","[http://worldcomp-proceedings.com/proc/.../SER6337.pdf]","NAO","","","NAO",101
+"COMPLETO","A Case Study Using AOP and Components to Build Software Product Lines in Android Platform","2015","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","10.1109/seaa.2015.45","","NAO",102
+"COMPLETO","A Robust Software Product Line Architecture for Data Collection in Android Platform","2015","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","10.1109/SBCARS.2015.14","","NAO",103
+"COMPLETO","Development of Complex Software with Agile Method","2015","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/Agile.2015.18","","NAO",104
+"COMPLETO","On the Dependability for Dynamic Software Product Lines: A Comparative Systematic Mapping Study","2016","Estados Unidos","Inglês","VARIOS","[http://ieeexplore.ieee.org/document/7592813/]","NAO","10.1109/seaa.2016.40","","NAO",105
+"COMPLETO","Research contributions on adaptive software architectures","2016","Brasil","Inglês","MEIO_DIGITAL","","NAO","10.1145/2993412.3004851","","NAO",106
+"COMPLETO","Adaptive Deployment Infrastructure for Android Applications","2016","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","10.1109/edcc.2016.25","","NAO",107
+"COMPLETO","Tratamento de Exceções e a Construção de Programas Confiáveis","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",108

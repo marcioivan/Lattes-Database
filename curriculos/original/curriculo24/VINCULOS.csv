@@ -1,0 +1,24 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","SERVIDOR_PUBLICO","PROFESSOR_TITULAR","40","SIM","4","1992","","","","NAO","","","","",0
+"2","LIVRE","LIVRE","40","NAO","1","1988","4","1992","","NAO","Servidor público ou celetista","PESQUISADOR SENIOR","","",1
+"3","LIVRE","OUTRO","40","NAO","9","1981","8","1982","Assistente de professor","NAO","Servidor público ou celetista","","","",2
+"4","OUTRO","OUTRO","20","NAO","9","1982","9","1987","Vínculo : variando entre Research Assistent - Teaching Assistent - Assistent Instructor
+Enquadramento Funcional : Bolsista","SIM","","","","",3
+"1","OUTRO","OUTRO","40","NAO","9","1987","12","1987","Vínculo : empregado
+Enquadramento Funcional : Research Engineer","SIM","","","","",4
+"1","LIVRE","LIVRE","","NAO","","2013","","","","SIM","Revisor de periódico","","","",5
+"1","LIVRE","LIVRE","","NAO","","2014","","","","SIM","Revisor de periódico","","","",6
+"1","LIVRE","LIVRE","","NAO","","2009","","","","SIM","Revisor de periódico","","","",7
+"1","LIVRE","LIVRE","","NAO","","2011","","","","SIM","Revisor de periódico","","","",8
+"1","LIVRE","LIVRE","","NAO","","2012","","","","SIM","Revisor de periódico","","","",9
+"1","LIVRE","LIVRE","","NAO","","2014","","","","SIM","Revisor de periódico","","","",10
+"1","LIVRE","LIVRE","","NAO","","2012","","","","SIM","Revisor de periódico","","","",11
+"1","LIVRE","LIVRE","","NAO","","2012","","","","SIM","Revisor de periódico","","","",12
+"1","LIVRE","LIVRE","","NAO","","2010","","","","SIM","Revisor de periódico","","","",13
+"1","LIVRE","LIVRE","","NAO","","2013","","","","SIM","Revisor de periódico","","","",14
+"1","LIVRE","LIVRE","","NAO","","2011","","","","SIM","Revisor de periódico","","","",15
+"1","LIVRE","LIVRE","","NAO","","2014","","","","SIM","Revisor de periódico","","","",16
+"1","LIVRE","LIVRE","","NAO","06","2014","","","","SIM","Membro de corpo editorial","","","",17
+"1","LIVRE","LIVRE","","NAO","12","2014","","","","SIM","Membro de comitê assessor","","","",18
+"5","LIVRE","LIVRE","","NAO","","1990","","1991","","NAO","","","","",19
+"6","LIVRE","LIVRE","","NAO","","1997","","1998","","NAO","","","","",20

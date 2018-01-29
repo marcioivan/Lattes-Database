@@ -1,0 +1,9 @@
+﻿SEQUENCIA-LINHA,TITULO-DA-LINHA-DE-PESQUISA,FLAG-LINHA-DE-PESQUISA-ATIVA,OBJETIVOS-LINHA-DE-PESQUISA,TITULO-DA-LINHA-DE-PESQUISA-INGLES,OBJETIVOS-LINHA-DE-PESQUISA-INGLES,PESQUISA-E-DESENVOLVIMENTO_Id
+"1","Semiótica Organizacional","SIM","","","",0
+"2","Engenharia de Requisitos de Software","NAO","","","",0
+"3","Design e Avaliação de Interface de Usuário","NAO","","","",0
+"4","Interação Humano-Computador","SIM","","","",0
+"1","Informática Aplicada à Educação","SIM","","","",1
+"2","Fatores Humanos em Sistemas Computacionais","NAO","","","",1
+"3","Ambientes Computacionais Cooperativos para Aprendizagem","NAO","","","",1
+"4","Ambientes Computacionais para Aprendizagem em Contextos de Trabalho","NAO","","","",1

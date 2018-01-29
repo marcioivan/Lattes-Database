@@ -1,0 +1,16 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",0
+"1","007900000004","Universidade Estadual de Campinas","BOLSA",1
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","BOLSA",2
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","BOLSA",3
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","AUXILIO_FINANCEIRO",4
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","AUXILIO_FINANCEIRO",5
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","BOLSA",6
+"1","007900000004","Universidade Estadual de Campinas","AUXILIO_FINANCEIRO",7
+"1","000900000996","Programa Institucional de Bolsas de Iniciação Científica - Universidade Est","BOLSA",8
+"1","001500000997","Pró-Reitoria de Extensão e Assuntos Comunitários","AUXILIO_FINANCEIRO",9
+"1","007900000004","Universidade Estadual de Campinas","AUXILIO_FINANCEIRO",10
+"1","985600203677","Prefeitura Municipal de São José do Rio Preto","COOPERACAO",11
+"2","985600219433","Prefeitura Municipal de Santos","COOPERACAO",11
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","AUXILIO_FINANCEIRO",12
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","AUXILIO_FINANCEIRO",13

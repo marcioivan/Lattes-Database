@@ -1,0 +1,28 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Introdução à Inteligência Artificial (MC906),GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,3,1998,7,1998
+"Introdução ao Processamento de Imagem Digital (tópicos, aberta à graduação)",POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,8,1998,12,1998
+Processamento e Análise de Imagens,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,8,1999,12,1999
+Processamento e Análise de Imagens,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,3,2001,7,2001
+Visualização de Imagens Médicas (tópico),POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,3,2000,7,2000
+Processamento de Imagens usando Grafos (tópico),POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,3,2002,7,2002
+Introdução à Inteligência Artificial,GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,8,1998,12,1998
+Algoritmos e Programação de Computadores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,3,1999,7,1999
+Algoritmos e Programação de Computadores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,8,1999,12,1999
+Algoritmos e Estruturas de Dados,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,8,2000,12,2000
+Computação Gráfica,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,8,2002,12,2002
+Introdução ao Processamento de Dados,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,8,2002,12,2002
+Algoritmos e Estruturas de Dados,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,8,2001,12,2001
+Estrutura de Arquivos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,3,2003,7,2003
+Visualização de Imagens Médicas (tópico),POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,3,2003,7,2003
+Introdução ao Processamento de Imagem Digital,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,8,2003,12,2003
+Estrutura de Arquivos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,3,2004,7,2004
+Algoritmos e Programação de Computadores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,8,2004,12,2004
+Processamento de Imagens usando Grafos (tópico),POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,8,2004,12,2004
+Estruturas de Arquivos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,3,2005,7,2005
+Computação Gráfica,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,8,2005,12,2005
+Introdução ao Processamento Digital de Imagens,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,3,2005,7,2005
+Análise de Imagens,POS-GRADUACAO,Doutorado em Ciência da Computação - UNICAMP,Universidade Estadual de Campinas,ANTERIOR,08,2006,12,2006
+Introdução ao Processamento de Imagem Digital,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,03,2007,04,2007
+Estruturas de Arquivos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,08,2007,NULL,NULL
+Processamento e Análise de Imagens,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2006,07,2006
+Análise de Imagens,POS-GRADUACAO,Doutorado em Ciência da Computação - UNICAMP,Universidade Estadual de Campinas,ATUAL,08,2007,NULL,NULL

@@ -1,0 +1,5 @@
+﻿FINALIDADE,PLATAFORMA,AMBIENTE,DISPONIBILIDADE,INSTITUICAO-FINANCIADORA,FINALIDADE-INGLES,SOFTWARE_Id
+"Programacao do metodo de elementos finitos","independente de plataforma","linux","NAO_INFORMADO","CNPq - FAPESP - UNICAMP","",0
+"Ambiente para desenvolvimento de algoritmos de computacao paralela","independente de plataforma","linux","IRRESTRITA","CNPq - FAPESP - UNICAMP","",1
+"Telecomunicações","C++","Comunicação de dados|Transmissão de dados","NAO_INFORMADO","Commodity Systems Empreendimentos e Participações","",2
+"Aceleração da resolução de sistemas lineares de grande porte com paralelismo.","C++","","NAO_INFORMADO","ANP","",3

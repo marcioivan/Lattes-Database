@@ -1,0 +1,4 @@
+NIVEL,NOME_INSTITUICAO,ANO_DE_INICIO,ANO_DE_CONCLUSAO,ANO_DE_OBTENCAO_DO_TITULO,FLAG_BOLSA,NOME_AGENCIA,STATUS_DO_ESTAGIO,STATUS_DO_CURSO,TITULO_DO_TRABALHO
+5,Universidade Estadual de Campinas,2005,2008,NULL,SIM,Fundação de Amparo à Pesquisa do Estado de São Paulo,NULL,CONCLUIDO,NULL
+5,University of Cambridge,2012,2013,NULL,SIM,Fundação de Amparo à Pesquisa do Estado de São Paulo,NULL,CONCLUIDO,NULL
+5,Max-Planck-Institut für Kohlenforschung,2007,2007,NULL,SIM,Fundação de Amparo à Pesquisa do Estado de São Paulo,NULL,CONCLUIDO,NULL

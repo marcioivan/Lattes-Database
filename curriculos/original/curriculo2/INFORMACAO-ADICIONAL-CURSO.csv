@@ -1,0 +1,51 @@
+﻿CODIGO-CURSO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NOME-GRANDE-AREA-DO-CONHECIMENTO,NOME-DA-AREA-DO-CONHECIMENTO,NOME-DA-SUB-AREA-DO-CONHECIMENTO,NOME-DA-ESPECIALIDADE,NIVEL-CURSO,INFORMACOES-ADICIONAIS-CURSOS_Id
+"33070210","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Elétrica","","","MESTRADO_DOUTORADO",0
+"33070598","","","007900000004","Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","","","MESTRADO_DOUTORADO",0
+"60010871","","","007900000004","Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","","","MESTRADO_DOUTORADO",0
+"60042729","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","DOUTORADO",0
+"60075880","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60159790","","","169600000005","Universidade Metodista de Piracicaba","OUTROS","","","","GRADUACAO",0
+"60177381","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60198249","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60221160","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60221984","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60258756","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60274492","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60309555","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60336676","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"90000000","","","020200000009","Universidade Federal do Rio de Janeiro","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","GRADUACAO",0
+"90000001","","","147600000004","Syracuse University","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO",0
+"90000002","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"90000003","","","033500000006","Universidade Federal de São Carlos","LINGUISTICA_LETRAS_E_ARTES","Artes","","","GRADUACAO",0
+"90000004","","","147600000004","Syracuse University","OUTROS","","","","GRADUACAO",0
+"90000005","","","033500000006","Universidade Federal de São Carlos","LINGUISTICA_LETRAS_E_ARTES","Artes","","","CURSO_DE_CURTA_DURACAO",0
+"90000006","","","000300000995","Colégio Santo Américo","LINGUISTICA_LETRAS_E_ARTES","Artes","","","CURSO_DE_CURTA_DURACAO",0
+"90000007","","","000400000997","Escola Allegro-SP","LINGUISTICA_LETRAS_E_ARTES","Artes","","","CURSO_DE_CURTA_DURACAO",0
+"90000008","","","071500000009","Pontifícia Universidade Católica de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","Regência","EXTENSAO_UNIVERSITARIA",0
+"90000009","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000010","","","000500000999","Microcamp Campinas","OUTROS","","","","OT",0
+"90000011","","","000500000999","Microcamp Campinas","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000012","","","000500000999","Microcamp Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","CURSO_DE_CURTA_DURACAO",0
+"90000013","","","000600000990","Associação Orff Brasil","LINGUISTICA_LETRAS_E_ARTES","Artes","Educação Artística","","CURSO_DE_CURTA_DURACAO",0
+"90000014","","","000600000990","Associação Orff Brasil","LINGUISTICA_LETRAS_E_ARTES","Artes","Educação Artística","","EXTENSAO_UNIVERSITARIA",0
+"90000015","","","000600000990","Associação Orff Brasil","LINGUISTICA_LETRAS_E_ARTES","Artes","Educação Artística","","EXTENSAO_UNIVERSITARIA",0
+"90000016","","","000500000999","Microcamp Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","OT",0
+"90000017","","","000700000992","Espaço Mousikêarte","CIENCIAS_HUMANAS","Educação","","","CURSO_DE_CURTA_DURACAO",0
+"90000018","","","985600126290","Associação Brasileira de Educação Musical","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","CURSO_DE_CURTA_DURACAO",0
+"90000019","","","000600000990","Associação Orff Brasil","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","EXTENSAO_UNIVERSITARIA",0
+"90000020","","","000800000994","Escola de Artes Pró-Música de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","CURSO_DE_CURTA_DURACAO",0
+"90000021","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"90000022","","","000600000990","Associação Orff Brasil","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","CURSO_DE_CURTA_DURACAO",0
+"90000023","","","342900000001","Universidade Anhembi Morumbi","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","CURSO_DE_CURTA_DURACAO",0
+"90000024","","","000800000994","Escola de Artes Pró-Música de Campinas","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000025","","","001400000995","Educativo Bienal","LINGUISTICA_LETRAS_E_ARTES","Artes","Fundamentos e Crítica das Artes","","OT",0
+"90000026","","","000800000994","Escola de Artes Pró-Música de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","EXTENSAO_UNIVERSITARIA",0
+"90000027","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000028","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000029","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000030","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000031","","","985600126290","Associação Brasileira de Educação Musical","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","CURSO_DE_CURTA_DURACAO",0
+"90000032","","","985600126290","Associação Brasileira de Educação Musical","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","CURSO_DE_CURTA_DURACAO",0
+"90000033","","","168700000009","Centro Universitário Adventista de São Paulo","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO_DOUTORADO",0
+"90000034","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_HUMANAS","Educação","","","CURSO_DE_CURTA_DURACAO",0
+"90000035","","","001600000999","União das Sociedades Espíritas de Campinas","OUTROS","Multidisciplinar","","","CURSO_DE_CURTA_DURACAO",0

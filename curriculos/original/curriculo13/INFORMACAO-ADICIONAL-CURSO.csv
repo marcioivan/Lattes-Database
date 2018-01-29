@@ -1,0 +1,25 @@
+﻿CODIGO-CURSO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NOME-GRANDE-AREA-DO-CONHECIMENTO,NOME-DA-AREA-DO-CONHECIMENTO,NOME-DA-SUB-AREA-DO-CONHECIMENTO,NOME-DA-ESPECIALIDADE,NIVEL-CURSO,INFORMACOES-ADICIONAIS-CURSOS_Id
+"33020868","","","006700000002","Universidade de São Paulo","CIENCIAS_SOCIAIS_APLICADAS","Administração","","","MESTRADO_DOUTORADO",0
+"33040117","","","006750000006","Escola Superior de Agricultura Luiz de Queiroz","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO_DOUTORADO",0
+"33070202","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO_DOUTORADO",0
+"60008342","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO_DOUTORADO",0
+"60024135","","","006700000002","Universidade de São Paulo","CIENCIAS_SOCIAIS_APLICADAS","Administração","Ciências Contábeis","","MESTRADO_DOUTORADO",0
+"60031824","","","006750000006","Escola Superior de Agricultura Luiz de Queiroz","OUTROS","","","","MESTRADO_DOUTORADO",0
+"60049251","","","006700000002","Universidade de São Paulo","OUTROS","","","","DOUTORADO",0
+"60096837","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60195010","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"90000000","","","000200000993","Faculdade de Economia, Administração e Contabilidade","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","GRADUACAO",0
+"90000001","","","000500000999","Escola Superior de Agricultura Luiz de Queiroz","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0
+"90000002","","","000500000999","Escola Superior de Agricultura Luiz de Queiroz","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","DOUTORADO",0
+"90000003","","","985600405539","Faculdades de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","GRADUACAO",0
+"90000004","","","000600000990","Instituto Santanense de Ensino Superior","CIENCIAS_SOCIAIS_APLICADAS","Administração","","","GRADUACAO",0
+"90000005","","","000700000992","Centro de Ensino a Distância S/A","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","APERFEICOAMENTO",0
+"90000006","","","000800000994","Bolsa de Mercadorias & Futuros","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","APERFEICOAMENTO",0
+"90000007","","","553100000005","Faculdades de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","GRADUACAO",0
+"90000008","","","553100000005","Faculdades de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","APERFEICOAMENTO",0
+"90000009","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","GRADUACAO",0
+"90000010","","","000300000995","Escola Superior de Agricultura "Luiz de Queiroz" - ESALQ/USP","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","DOUTORADO",0
+"90000011","","","000300000995","Escola Superior de Agricultura "Luiz de Queiroz" - ESALQ/USP","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0
+"90000012","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","APERFEICOAMENTO",0
+"90000013","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","APERFEICOAMENTO",0
+"90000014","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0

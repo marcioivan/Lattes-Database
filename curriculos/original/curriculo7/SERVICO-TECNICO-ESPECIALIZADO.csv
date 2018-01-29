@@ -1,0 +1,6 @@
+﻿SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-UNIDADE,NOME-UNIDADE,SERVICO-REALIZADO,ATIVIDADES-DE-SERVICO-TECNICO-ESPECIALIZADO_Id
+"1","ANTERIOR","1","1992","10","1994","020221000008","Instituto Alberto Luiz Coimbra de Pós Graduação e Pesquisa de Engenharia","020221003007","Programa de Engenharia Elétrica","transmissão de energia elétrica da Amazônia em sistemas hexafásicos",0
+"2","ANTERIOR","2","1992","10","1995","000200000993","Myra Engenharia Elétrica e Consultoria Ltda","","","dessenvolvimento de software",1
+"1","ANTERIOR","1","1988","10","1990","000401000990","Engenharia Elétrica","000401001997","Centro","estudo de transitórios",2
+"1","ANTERIOR","1","1987","1","2001","000501000992","Engenharia Elétrica","000501001999","Centro","estudo de transitórios",3
+"1","ANTERIOR","2","1985","1","1987","000601000994","Engenharia Elétrica","000601001990","Centro","estudo da expansão do sistema elétrico brasileiro",4

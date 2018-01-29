@@ -1,0 +1,20 @@
+﻿NATUREZA,TITULO,ANO,PAIS,IDIOMA,HOME-PAGE,DOI,TITULO-INGLES,PARTICIPACAO-EM-BANCA-DE-EXAME-QUALIFICACAO_Id
+"Exame de qualificação de doutorado","O conjunto de instruções SPARC16: Implementação, desafios e otimizações","2011","Brasil","Português","","","",0
+"Exame de qualificação de doutorado","Otimizações para extração automática de paralelismo baseadas na técnica decoupled software pipelining","2012","Brasil","Português","","","",1
+"Exame de qualificação de doutorado","Increasing Energy Efficiency of Processor Caches via Line Usage Predictors","2013","Brasil","Português","","","Increasing Energy Efficiency of Processor Caches via Line Usage Predictors",2
+"Exame de qualificação de doutorado","Metodologias para Simulações Arquiteturais rápidas utilizando a ADL ArchC","2013","Brasil","Português","","","",3
+"Exame de qualificação de doutorado","Paralelização Automática de Código em Plataformas Heterogêneas Modernas para HPC","2014","Brasil","Português","","","",4
+"Exame de qualificação de mestrado","Simulador de Fluidos Utilizando o Método Lattice Boltzmann com Visualização Interativa e Distribuição de Processamento em Cluster de GPUs","2016","Brasil","Português","","","",5
+"Exame de qualificação de mestrado","A software implementation of formt-preserving encryption","2016","Brasil","Português","","","A software implementation of formt-preserving encryption",6
+"Exame de qualificação de mestrado","Análise de desempenho de virtualização na plataforma IBM Power","2014","Brasil","Português","","","",7
+"Exame de qualificação de mestrado","Um Tradutor Dinâmico de Binários para o OpenISA","2016","Brasil","Português","","","A Dynamic Binary Translator for OpenISA",8
+"Exame de qualificação de doutorado","Multi-Architecture Compiler System for Abstract Dataplanes","2016","Brasil","Inglês","","","Multi-Architecture Compiler System for Abstract Dataplanes",9
+"Exame de qualificação de doutorado","Computação Distribuída Voluntária Utilizando Navegadores e Javascript","2016","Brasil","Português","","","",10
+"Exame de qualificação de mestrado","Ataques de canais laterais baseados em memória cache","2016","Brasil","Português","","","",11
+"Exame de qualificação de mestrado","Análise Estática para detectar No-sleep bugs","2016","Brasil","Português","","","",12
+"Exame de qualificação de mestrado","Context-Aware Approximate Computing","2016","Brasil","Português","","","Context-Aware Approximate Computing",13
+"Exame de qualificação de mestrado","Suporte para execução de máquinas virtuais nativas","2015","Brasil","Português","","","",14
+"Exame de qualificação de mestrado","Emulação eficiente de RISC-V: investigar se é possível emular o conjunto de instruções RISC-V em X86 e ARM com performace próxima à nativa","2017","Brasil","Português","","","",15
+"Exame de qualificação de mestrado","Análise e detecção de fases entre múltiplos programas","2017","Brasil","Português","","","",16
+"Exame de qualificação de mestrado","A software implementation of format-preserving encryption","2016","Brasil","Inglês","","","",17
+"Exame de qualificação de doutorado","Uma nova abordagem para detecção e extração de paralelismo em programas Java","2013","Brasil","Português","","","",18

@@ -1,0 +1,6 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Bancos de Dados,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,11,1985,NULL,NULL
+Bancos de dados,GRADUACAO,Engenharia da Computação,Universidade Estadual de Campinas,ATUAL,3,1991,NULL,NULL
+Linguagens de programacao,GRADUACAO,Engenharia da Computação,Universidade Estadual de Campinas,ATUAL,3,1991,NULL,NULL
+Estruturas de arquivos,GRADUACAO,Engenharia da Computação,Universidade Estadual de Campinas,ATUAL,3,1991,NULL,NULL
+Bancos de Dados,GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,11,1985,NULL,NULL

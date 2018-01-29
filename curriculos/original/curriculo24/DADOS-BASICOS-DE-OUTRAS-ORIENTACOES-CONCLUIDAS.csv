@@ -1,0 +1,27 @@
+﻿NATUREZA,TIPO,TITULO,ANO,PAIS,IDIOMA,HOME-PAGE,FLAG-RELEVANCIA,DOI,TITULO-INGLES,TIPO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"INICIACAO_CIENTIFICA","","Dimensionamento de seção de concreto armadao submetida a flexão composta","2001","Brasil","Português","","NAO","","","",0
+"INICIACAO_CIENTIFICA","","Visualização de resultados de elementos finitos com DX","2002","Brasil","Português","","NAO","","","",1
+"INICIACAO_CIENTIFICA","","Desenvolvimento de classes viga e pilar para Autocad utilizando linguagem C++ e ObjectArx","2001","Brasil","Português","","NAO","","","",2
+"INICIACAO_CIENTIFICA","","Algorítmos de adaptação de malhas em elementos finitos","2002","Brasil","Português","","NAO","","","",3
+"INICIACAO_CIENTIFICA","","Desenvolvimento de Classes para Visualizacao em Superfície","1994","Brasil","Português","","NAO","","","",4
+"ORIENTACAO-DE-OUTRA-NATUREZA","Orientacao de pesquisador","Aplicações Avançadas de Mecânica dos Fluidos Computacional para Aeronaves de Alto Desempenho","2004","Brasil","Português","","NAO","","","",5
+"INICIACAO_CIENTIFICA","","Adaptatividade Direcional Aplicada ao Método de Elementos finitos","2006","Brasil","Português","","NAO","","","",6
+"INICIACAO_CIENTIFICA","","Implementação de Classes Matriz em Programação Orientada para Objetos","1993","Brasil","Português","","NAO","","","",7
+"INICIACAO_CIENTIFICA","","Desenvolvimento de Software Educativo para a Resolu&#263;ão de Trelicas Isostáticas na Plataforma JAVA","2000","Brasil","Português","","NAO","","","",8
+"INICIACAO_CIENTIFICA","","Desenvolvimento de Interfaces Gráficas Aplicadas ao Ambiente PZ","1998","Brasil","Português","","NAO","","","",9
+"INICIACAO_CIENTIFICA","","Dimensionamento de Seção Retangular de Concreto Armado Submetido à Flexão Composta","2000","Brasil","Português","","NAO","","","",10
+"INICIACAO_CIENTIFICA","","Desenvolvimento de Software em Ambiente Windows para o Curso de Estática da Faculdade de Engenharia Civil","1995","Brasil","Português","","NAO","","","",11
+"INICIACAO_CIENTIFICA","","Modelagem de estruturas com elementos sólidos","2005","Brasil","Português","","NAO","","","",12
+"INICIACAO_CIENTIFICA","","Computacao paralela aplicado ao metodo de elementos finitos","2009","Brasil","Português","","NAO","","","",13
+"INICIACAO_CIENTIFICA","","Computacao paralela aplicado do metodo de elementos finitos","2009","Brasil","Português","","NAO","","","",14
+"INICIACAO_CIENTIFICA","","Elementos Finitos Orientado para Objetos","2009","Brasil","Português","","NAO","","","",15
+"INICIACAO_CIENTIFICA","","Simulação de fraturamento hidráulico","2012","Brasil","Português","","NAO","","","",16
+"INICIACAO_CIENTIFICA","","Simulação de fraturamento ácido","2013","Brasil","Português","","NAO","","","",17
+"INICIACAO_CIENTIFICA","","Simulação de fraturamento hidráulico","2013","Brasil","Português","","NAO","","","",18
+"INICIACAO_CIENTIFICA","","Simulação de Ondas Elemetromagnéticas com Elementos Finitos e Espaços HCurl","2015","Brasil","Português","","NAO","","Simulação de Ondas Elemetromagnéticas com Elementos Finitos e Espaços HCurl","",19
+"INICIACAO_CIENTIFICA","","Simulações Híbridas de Elementos Finitos","2015","Brasil","Português","","NAO","","Simulações Híbridas de Elementos Finitos","",20
+"INICIACAO_CIENTIFICA","","Computação paralela para cálculos de elementos finitos","1996","Brasil","Português","","NAO","","Computação paralela para cálculos de elementos finitos","",21
+"INICIACAO_CIENTIFICA","","Simulação de estruturas em casca com elementos finitos","2012","Brasil","Português","","NAO","","Simulação de estruturas em casca com elementos finitos","",22
+"INICIACAO_CIENTIFICA","","Simulação de treliças tridimensionais não-lineares em ambiente orientado a objetos","2013","Brasil","Português","","NAO","","Simulação de treliças tridimensionais não-lineares em ambiente orientado a objetos","",23
+"INICIACAO_CIENTIFICA","","Precondicionadores para métodos iterativos","2015","Brasil","Português","","NAO","","","",24
+"INICIACAO_CIENTIFICA","","Programação paralela orientada para objetos","2002","Brasil","Português","","NAO","","","",25

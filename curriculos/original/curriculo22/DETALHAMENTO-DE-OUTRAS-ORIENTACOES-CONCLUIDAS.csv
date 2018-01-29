@@ -1,0 +1,7 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Felipe Rodrigues Novaes","007900000004","Universidade Estadual de Campinas","60311479","Engenharia de Computação","SIM","000400000997","PRP - Unicamp","CO_ORIENTADOR","","","",0
+"Carolina de Senne Garcia","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",1
+"Guilherme Duarte Marmerola","007900000004","Universidade Estadual de Campinas","60356073","Engenharia Elétrica","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",2
+"Valter Akira Miasato Filho","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",3
+"Eduardo Rossetti Donoso","007900000004","Universidade Estadual de Campinas","60341572","Ciência da Computação","NAO","","","CO_ORIENTADOR","","","",4
+"Caio Freitas Sym","007900000004","Universidade Estadual de Campinas","60311479","Engenharia de Computação","SIM","000400000997","PRP - Unicamp","CO_ORIENTADOR","","","",5

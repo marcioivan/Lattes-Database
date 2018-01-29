@@ -1,0 +1,31 @@
+﻿NATUREZA,TITULO-DO-ARTIGO,ANO-DO-ARTIGO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-ARTIGO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ARTIGO-PUBLICADO_Id
+"COMPLETO","Bioinformatics of the sugarcane EST project","2001","","Inglês","MEIO_DIGITAL","","NAO","10.1590/S1415-47572001000100003","","NAO",0
+"COMPLETO","A Lower Bound on the Reversal and Transposition Diameter","2002","","Inglês","MEIO_DIGITAL","","NAO","10.1089/106652702761034163","","NAO",1
+"COMPLETO","The Syntenic Distance Problem Using Only Fusions and Fissions","2003","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",2
+"COMPLETO","Analysis of slipped sequences in ESTs Projects","2006","","Inglês","MEIO_DIGITAL","[http://www.funpecrp.com.br/gmr/]","NAO","","","NAO",3
+"COMPLETO","New strategy to detect SNPs","2006","","Inglês","MEIO_DIGITAL","[http://www.funpecrp.com.br/gmr/]","NAO","","","NAO",4
+"COMPLETO","Cassis: detection of genomic rearrangement breakpoints","2010","","Inglês","MEIO_DIGITAL","","NAO","10.1093/bioinformatics/btq301","Cassis: detection of genomic rearrangement breakpoints","NAO",5
+"COMPLETO","Image Phylogeny by Minimal Spanning Trees","2012","","Inglês","MEIO_DIGITAL","","NAO","10.1109/tifs.2011.2169959","Image Phylogeny by Minimal Spanning Trees","NAO",6
+"COMPLETO","SIS: a program to generate draft genome sequence scaffolds for prokaryotes","2012","","Inglês","MEIO_DIGITAL","[http://www.biomedcentral.com/1471-2105/13/96/]","NAO","10.1186/1471-2105-13-96","SIS: a program to generate draft genome sequence scaffolds for prokaryotes","NAO",7
+"COMPLETO","Sampling solution traces for the problem of sorting permutations by signed reversals","2012","","Inglês","MEIO_DIGITAL","[http://www.almob.org/content/7/1/18]","NAO","10.1186/1748-7188-7-18","Sampling solution traces for the problem of sorting permutations by signed reversals","NAO",8
+"COMPLETO","Metagenomic Analysis of a Tropical Composting Operation at the São Paulo Zoo Park Reveals Diversity of Biomass Degradation Functions and Organisms","2013","","Inglês","NAO_INFORMADO","","NAO","10.1371/journal.pone.0061928","","NAO",9
+"COMPLETO","Toward image phylogeny forests: Automatically recovering semantically similar image relationships","2013","","Inglês","MEIO_DIGITAL","","NAO","10.1016/j.forsciint.2013.05.002","Toward image phylogeny forests: Automatically recovering semantically similar image relationships","NAO",10
+"COMPLETO","Heuristics for the Transposition Distance Problem","2013","","Inglês","MEIO_DIGITAL","","NAO","10.1142/s0219720013500133","Heuristics for the Transposition Distance Problem","NAO",11
+"COMPLETO","Exploring heuristic and optimum branching algorithms for image phylogeny","2013","","Inglês","MEIO_DIGITAL","[doi:10.1016/j.jvcir.2013.07.011]","NAO","10.1016/j.jvcir.2013.07.011","","NAO",12
+"COMPLETO","Large-Scale Image Phylogeny: Tracing Image Ancestral Relationships","2013","","Português","MEIO_DIGITAL","","NAO","10.1109/MMUL.2013.17","Large-Scale Image Phylogeny: Tracing Image Ancestral Relationships","NAO",13
+"COMPLETO","A general heuristic for genome rearrangement problems","2014","","Inglês","MEIO_DIGITAL","","NAO","10.1142/s0219720014500127","A general heuristic for genome rearrangement problems","NAO",14
+"COMPLETO","On Alternative Approaches for Approximating the Transposition Distance","2014","","Inglês","MEIO_DIGITAL","","NAO","10.3217/jucs-020-09-1259","","NAO",15
+"COMPLETO","An Audit Tool for Genome Rearrangement Algorithms","2014","","Inglês","MEIO_DIGITAL","","NAO","10.1145/2661633","An Audit Tool for Genome Rearrangement Algorithms","NAO",16
+"COMPLETO","Sorting by Prefix Reversals and Prefix Transpositions","2015","","Inglês","MEIO_DIGITAL","[doi:10.1016/j.dam.2014.09.004]","NAO","10.1016/j.dam.2014.09.004","","NAO",17
+"COMPLETO","Image Phylogeny Forests Reconstruction","2014","","Inglês","MEIO_DIGITAL","[doi:10.1109/tifs.2014.2340017]","NAO","10.1109/TIFS.2014.2340017","","NAO",18
+"COMPLETO","Sorting signed permutations by short operations","2015","","Inglês","MEIO_DIGITAL","[doi:10.1186/s13015-015-0040-x]","NAO","10.1186/s13015-015-0040-x","","NAO",19
+"COMPLETO","Approximation algorithms for sorting by length-weighted prefix and suffix operations","2015","","Inglês","MEIO_DIGITAL","[doi:10.1016/j.tcs.2015.05.039]","NAO","10.1016/j.tcs.2015.05.039","","NAO",20
+"COMPLETO","Sorting by weighted inversions considering length and symmetry","2015","","Inglês","MEIO_DIGITAL","","NAO","10.1186/1471-2105-16-S19-S3","Sorting by weighted inversions considering length and symmetry","NAO",21
+"COMPLETO","Manifold Learning and Spectral Clustering for Image Phylogeny Forests","2016","","Português","MEIO_DIGITAL","[doi:10.1109/tifs.2015.2442527]","NAO","10.1109/TIFS.2015.2442527","","NAO",22
+"COMPLETO","Multiple Parenting Phylogeny Relationships in Digital Images","2016","","Português","MEIO_DIGITAL","[doi:10.1109/tifs.2015.2493989]","NAO","10.1109/TIFS.2015.2493989","","NAO",23
+"COMPLETO","Distances in multimedia phylogeny","2016","","Inglês","MEIO_DIGITAL","","NAO","10.1111/itor.12235","Distances in multimedia phylogeny","NAO",24
+"COMPLETO","On the Reconstruction of Text Phylogeny Trees: Evaluation and Analysis of Textual Relationships","2016","","Inglês","MEIO_DIGITAL","","NAO","10.1371/journal.pone.0167822","","NAO",25
+"COMPLETO","Sorting permutations by prefix and suffix rearrangements","2017","","Inglês","MEIO_DIGITAL","[doi:10.1142/s0219720017500020]","NAO","10.1142/s0219720017500020","","NAO",26
+"COMPLETO","New dissimilarity measures for image phylogeny reconstruction","2017","","Inglês","MEIO_DIGITAL","[doi:10.1007/s10044-017-0616-9]","NAO","10.1007/s10044-017-0616-9","","NAO",27
+"COMPLETO","Sorting Circular Permutations by Super Short Reversals","2017","","Português","MEIO_DIGITAL","[doi:10.1109/tcbb.2016.2515594]","NAO","10.1109/tcbb.2016.2515594","","NAO",28
+"COMPLETO","A GRASP-based Heuristic for the Sorting by Length-Weighted Inversions Problem","2015","","Inglês","MEIO_DIGITAL","","NAO","10.1109/TCBB.2015.2474400","","NAO",29

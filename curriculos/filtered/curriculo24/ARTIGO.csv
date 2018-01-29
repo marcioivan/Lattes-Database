@@ -1,0 +1,41 @@
+SITUACAO,TITULO,ANO_DO_ARTIGO
+COMPLETO,"Pz, An Object Oriented Environment For Scientific Programming",1997
+COMPLETO,Uma Tecnica Elemento Por Elemento Livre de Matrizes Para A Avaliacao de Residuos,1995
+COMPLETO,On The Convergence Rate Of An Adaptive Grid Pattern For Resolving Point Singularities In Elliptic Problems,1992
+COMPLETO,An Object Oriented Approach To Finite Element Programming (Phase 1) A System Independent Windowiong Environment For Developing Interactive Scientific Programs,1992
+COMPLETO,Discretization Modeling Error For A Class Of Beam Elements,1991
+COMPLETO,"Object Oriented Programming In Scientific Computing, The Begining Of Anew Era.",1991
+COMPLETO,A Three-Dimensional Adaptive Finite Element Strategy,1991
+COMPLETO,An H-P Adaptive Finite Element Method For The Numerical Simulation Of Compressible Flow.,1988
+COMPLETO,Implementation Of An Adaptive Refinement Technique For The Supg Algorithm,1987
+COMPLETO,On An H-Type Mesh Refinement Strategy Based On Minimisation Of Interpolation Errors.,1986
+COMPLETO,A Moving-Grid Finite Element Algorithm For Supersonic Flow Interaction Between Moving Bodies.,1986
+COMPLETO,A Vectorized Version Of A Sparse Matrix Vector Multiply.,1986
+COMPLETO,An Object Oriented Approach To Finite Element Programming,1991
+COMPLETO,Adaptive Finite Element Methods For The Analysis Of Inviscid Compressible Flow: 1 Fast Refinement/Unrefinement And Moving Mesh Methods For Unstructured Meshes,1985
+COMPLETO,Object oriented tools for scientific computing,2000
+COMPLETO,A co-rotational approach for the simulation of flexible mechanisms,2000
+COMPLETO,Uma comparação de esquemas e estabilização para simulação por elementos finitos de escoamentos imiscíveis bi-fásicos em meios porosos.,2003
+COMPLETO,Object Oriented Design Philosophy for Scientific Computing,2002
+COMPLETO,Stabilized discontinuous Galerkin method for hyperbolic equations,2005
+COMPLETO,Wavelets and adaptive grids for the discontinuous Galerkin method,2005
+COMPLETO,A finite element model for three dimensional hydraulic fracturing,2006
+COMPLETO,Systematic and generic construction of shape functions for p-adaptive meshes of multidimensional finite elements,2009
+COMPLETO,A new procedure for the construction of hierarchical high order Hdiv and Hcurl finite element spaces,2012
+COMPLETO,Application of a combined continuous-discontinuous Galerkin finite element method for the solution of the Girkmann problem,2013
+COMPLETO,A combined continuous-discontinuous finite element method for convection-diffusion problems,2007
+COMPLETO,Computational Mechanics an Area that Blossom in Brazil,1999
+COMPLETO,Uma Técnica Elemento-Por-Elemento Livre de Matrizes Para Avaliação de Resíduos,1995
+COMPLETO,A fully automatic hp-adaptivity,2002
+COMPLETO,A goal-oriented <i>hp</i> -adaptive discontinuous Galerkin approach for biharmonic problems,2013
+COMPLETO,Definition of a P-interpolating space of hierarchical bases of finite elements on the pyramid,2014
+COMPLETO,An improved numerical integration algorithm for elastoplastic constitutive equations,2015
+COMPLETO,Accelerating engineering software on modern multi-core processors,2015
+COMPLETO,"A comparative numerical study of different finite element formulations for 2D model elliptic problems: Continuous and discontinuous Galerkin, mixed and hybrid methods",2016
+COMPLETO,Implementation of continuous,2015
+COMPLETO,Hierarchical high order finite element bases for H(div) spaces based on curved meshes for two-dimensional regions or manifolds,2016
+COMPLETO,Two-dimensional hp adaptive finite element spaces for mixed formulations,2016
+COMPLETO,Three dimensional hierarchical mixed finite element approximations with enhanced primal variable accuracy,2016
+COMPLETO,The Implementation Of Directional Boundary Conditions For Finite Element Computations With Iterative Solvers.,1987
+NAO_INFORMADO,Mixed finite element approximations based on 3D hp-adaptive curved meshes with two types of H(div)-conforming spaces,2017
+NAO_INFORMADO,Two dimensional mixed finite element approximations for elliptic problems with enhanced accuracy for the potential and flux divergence,2017

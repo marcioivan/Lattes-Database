@@ -1,0 +1,17 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","000700000992","Instituto de Economia UNICAMP","BOLSA",0
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",1
+"1","869700000001","Financiadora de Estudos e Projetos","COOPERACAO",2
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",3
+"1","000900000996","Centro de Estudos e Pesquisas de Administração Municipal","COOPERACAO",4
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",5
+"2","001500000997","Serviço de Apoio ao Estudante","BOLSA",5
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",6
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",7
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",8
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","OUTRO",9
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",10
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","BOLSA",11
+"1","","","NAO_INFORMADO",12
+"1","IYNP00000004","Secretaria Especial de Políticas para as Mulheres","AUXILIO_FINANCEIRO",13
+"1","J5BI00000007","Organizacão Internacional do Trabalho","REMUNERACAO",14

@@ -1,0 +1,14 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Fundamentos do Design 3,GRADUACAO,Design,Faculdades de Campinas,ANTERIOR,02,2005,11,2011
+AUP 565 Planejamento Urbano Estratégico,GRADUACAO,Faculdade de Arquitetura e Urbanismo,Universidade de São Paulo,ANTERIOR,03,2005,07,2005
+AUP 268 Planejamento de Estruturas Urbanas e Rigonais,GRADUACAO,Faculdade de Arquitetura e Urbanismo,Universidade de São Paulo,ANTERIOR,03,2005,07,2005
+AUP 266 Planejamento de estruturas urbanas,GRADUACAO,Faculdade de Arquitetura e Urbanismo,Universidade de São Paulo,ANTERIOR,03,2005,07,2005
+CE 205 Economia para ciências sociais,GRADUACAO,Ciências Econômicas,Universidade Estadual de Campinas,ATUAL,02,2015,NULL,NULL
+HO 032 Políticas e experiências urbanas recentes,POS-GRADUACAO,Desenvolvimento Econômico,Universidade Estadual de Campinas,ANTERIOR,02,2015,07,2015
+CE 205 Ciências Sociais para Economia,GRADUACAO,Ciências Econômicas,Universidade Estadual de Campinas,ANTERIOR,08,2014,01,2015
+HO 032 Políticas e Experiências Urbanas recentes,POS-GRADUACAO,Desenvolvimento Econômico,Universidade Estadual de Campinas,ANTERIOR,02,2014,07,2014
+CE 131 Introdução à Economia para Ciências Sociais,GRADUACAO,Ciências Econômicas,Universidade Estadual de Campinas,ANTERIOR,02,2014,07,2014
+HO 032 Políticas e Experiências Urbanas Recentes,POS-GRADUACAO,Desenvolvimento Econômico,Universidade Estadual de Campinas,ANTERIOR,06,2013,01,2014
+CE 205 Introdução à Economia para Ciências Sociais,GRADUACAO,Ciências Econômicas,Universidade Estadual de Campinas,ANTERIOR,02,2013,07,2013
+CE 205 Economia para ciências sociais,GRADUACAO,Ciências Econômicas,Universidade Estadual de Campinas,ATUAL,02,2016,NULL,NULL
+HO032 Experiências e Políticas Urbanas Recentes,POS-GRADUACAO,Desenvolvimento Econômico,Universidade Estadual de Campinas,ATUAL,2,2016,NULL,NULL

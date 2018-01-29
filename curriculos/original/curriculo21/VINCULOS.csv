@@ -1,0 +1,9 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","LIVRE","LIVRE","4","NAO","8","2001","12","2001","","SIM","Estagio","Bolsista","","",0
+"2","LIVRE","LIVRE","4","NAO","3","2002","7","2002","","SIM","Estagio","Bolsista","","",0
+"3","SERVIDOR_PUBLICO","LIVRE","20","NAO","3","2005","6","2005","","NAO","","Professor Doutor","","",0
+"4","SERVIDOR_PUBLICO","LIVRE","40","SIM","7","2005","12","2008","","NAO","","Professor Doutor","","",0
+"5","SERVIDOR_PUBLICO","LIVRE","40","SIM","12","2008","","","","NAO","","Professor Associado","","",0
+"1","COLABORADOR","LIVRE","35","NAO","7","2004","7","2004","","SIM","","Professor Convidado","","",1
+"2","COLABORADOR","LIVRE","","NAO","7","2005","7","2005","Ministrou aulas no curso de Introdução à Programação para alunos participantes da Olimpíada Brasileira de Informática (OBI)","SIM","","Professor","","",1
+"1","LIVRE","LIVRE","20","NAO","8","2004","7","2005","","NAO","Horista","Professor","","",2

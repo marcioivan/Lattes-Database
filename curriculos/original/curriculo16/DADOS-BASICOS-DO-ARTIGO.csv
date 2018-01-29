@@ -1,0 +1,79 @@
+NATUREZA,TITULO-DO-ARTIGO,ANO-DO-ARTIGO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,FLAG-DIVULGACAO-CIENTIFICA,ARTIGO-PUBLICADO_Id
+COMPLETO,An ultra-fast user-steered image segmentation paradigm: live wire on the fly,2000,,Inglês,MEIO_DIGITAL,,SIM,NAO,0
+COMPLETO,Video Quality Assessment Using Objective Parameters Based on Image Segmentation,1999,,Inglês,IMPRESSO,,NAO,NAO,1
+COMPLETO,A 3D generalization of user-steered live-wire segmentation,2000,,Inglês,IMPRESSO,,NAO,NAO,2
+COMPLETO,Multiscale skeletons by image foresting transform and its application to neuromorphometry,2002,,Inglês,IMPRESSO,,NAO,NAO,3
+COMPLETO,Cell Histograms Versus Color Histograms for Image Representation and Retrieval,2003,,Inglês,IMPRESSO,,NAO,NAO,4
+COMPLETO,Fuzzy-connected 3D image segmentation at interactive speeds,2002,,Inglês,IMPRESSO,,NAO,NAO,5
+COMPLETO,"The image foresting transform: theory, algorithms, and applications",2004,,Inglês,MEIO_DIGITAL,,SIM,NAO,6
+COMPLETO,Iso-Shaping Rigid Bodies for Estimating Their Motion From Image Sequences,2004,,Inglês,MEIO_DIGITAL,,NAO,NAO,7
+COMPLETO,A graph-based approach for multiscale shape analysis,2004,,Inglês,IMPRESSO,,NAO,NAO,8
+COMPLETO,Interactive Volume Segmentation With Differential Image Foresting Transforms,2004,,Inglês,IMPRESSO,,SIM,NAO,9
+COMPLETO,3D visualization to assist iterative object definition from medical images,2006,,Inglês,IMPRESSO,,NAO,NAO,10
+COMPLETO,Content-Based Image Retrieval: Theory and Applications,2006,,Inglês,IMPRESSO,[http://dblp.uni-trier.de],NAO,NAO,11
+COMPLETO,Contour salience descriptors for effective image retrieval and analysis.,2007,,Inglês,IMPRESSO,,NAO,NAO,12
+COMPLETO,Automatic Image Segmentation by Tree Pruning,2007,,Inglês,IMPRESSO,,NAO,NAO,13
+COMPLETO,Learning How to Extract Rotation-Invariant and Scale-Invariant Features from Texture Images,2008,,Inglês,MEIO_DIGITAL,,NAO,NAO,14
+COMPLETO,A genetic programming framework for content-based image retrieval,2009,,Inglês,IMPRESSO,,NAO,NAO,15
+COMPLETO,Recentes Avanços Tecnológicos no Exame Parasitológico de Amostras de Fezes,2008,,Português,IMPRESSO,,NAO,NAO,16
+COMPLETO,Data clustering as an optimum-path forest problem with applications in image analysis,2009,,Inglês,IMPRESSO,,NAO,NAO,17
+COMPLETO,Supervised pattern classification based on optimum-path forest,2009,,Inglês,IMPRESSO,,NAO,NAO,18
+COMPLETO,Object Delineation by ?-Connected Components,2008,,Inglês,MEIO_DIGITAL,,NAO,NAO,19
+COMPLETO,Shape feature extraction and description based on tensor scale,2010,,Inglês,NAO_INFORMADO,,NAO,NAO,20
+COMPLETO,Links Between Image Segmentation Based on Optimum-Path Forest and Minimum Cut in Graph,2009,,Inglês,IMPRESSO,,SIM,NAO,21
+COMPLETO,Synergistic arc-weight estimation for interactive image segmentation using graphs,2009,,Inglês,NAO_INFORMADO,,NAO,NAO,22
+COMPLETO,Exploiting optimum connectivity in image analysis,2009,,Inglês,MEIO_DIGITAL,[doi:10.1117/2.1200910.1830],NAO,NAO,23
+COMPLETO,Robust Pruning of Training Patterns for Optimum-Path Forest Classification Applied to Satellite-Based Rainfall Occurrence Estimation,2010,,Português,NAO_INFORMADO,,NAO,NAO,24
+COMPLETO,A new CBIR Approach based on Relevance Feedback and Optimum-Path Forest Classification,2010,,Inglês,NAO_INFORMADO,,NAO,NAO,25
+COMPLETO,Fast Petroleum Well Drilling Monitoring Through Optimum-Path Forest,2010,,Português,MEIO_DIGITAL,,NAO,NAO,26
+COMPLETO,Estimativa de ocorrência de precipitação em áreas agrícolas utilizando floresta de caminhos,2010,,Português,NAO_INFORMADO,,NAO,NAO,27
+COMPLETO,Incorporating multiple distance spaces in optimum-path forest classification to improve feedback-based learning,2012,,Inglês,VARIOS,,NAO,NAO,28
+COMPLETO,Spoken emotion recognition through optimum-path forest classification using glottal features,2010,,Inglês,VARIOS,,NAO,NAO,29
+COMPLETO,Multiscale Classification of Remote Sensing Images,2012,,Inglês,VARIOS,,NAO,NAO,30
+COMPLETO,A New Approach for Nontechnical Losses Detection Based on Optimum-Path Forest,2011,,Português,MEIO_DIGITAL,,NAO,NAO,31
+COMPLETO,New Insights on Nontechnical Losses Characterization Through Evolutionary-Based Feature Selection,2012,,Português,VARIOS,,NAO,NAO,32
+COMPLETO,Riverbed: A Novel User-Steered Image Segmentation Method Based on Optimum Boundary Tracking,2012,,Inglês,VARIOS,,NAO,NAO,33
+COMPLETO,IFTrace: Video segmentation of deformable objects using the Image Foresting Transform,2012,,Inglês,VARIOS,,NAO,NAO,34
+COMPLETO,User-Steered Image Segmentation Paradigms: Live Wire and Live Lane,1998,,Inglês,VARIOS,,NAO,NAO,35
+COMPLETO,Fuzzy Connectedness Image Segmentation in Graph Cut Formulation: A Linear-Time Algorithm and a Comparative Analysis,2012,,Inglês,MEIO_DIGITAL,,NAO,NAO,36
+COMPLETO,Brain tissue MR-image segmentation via optimum-path forest clustering,2012,,Inglês,VARIOS,,NAO,NAO,37
+COMPLETO,Active learning paradigms for CBIR systems based on optimum-path forest classification,2011,,Inglês,VARIOS,,NAO,NAO,38
+COMPLETO,Efficient supervised optimum-path forest classification for large datasets,2012,,Inglês,MEIO_DIGITAL,,NAO,NAO,39
+COMPLETO,A new laboratorial method for the diagnosis of gastrointestinal parasites in dogs,2013,,Inglês,MEIO_DIGITAL,,NAO,NAO,40
+COMPLETO,Computer techniques towards the automatic characterization of graphite particles in metallographic images of industrial materials,2013,,Inglês,MEIO_DIGITAL,,NAO,NAO,41
+COMPLETO,INTELLIGENT UNDERSTANDING OF USER INTERACTION IN IMAGE SEGMENTATION,2012,,Inglês,MEIO_DIGITAL,[doi:10.1142/s0218001412650016],NAO,NAO,42
+COMPLETO,Joint graph cut and relative fuzzy connectedness image segmentation algorithm,2013,,Inglês,MEIO_DIGITAL,[doi:10.1016/j.media.2013.06.006],NAO,NAO,43
+COMPLETO,Segmentation of sandstone thin section images with separation of touching grains using optimum path forest operators,2013,,Inglês,MEIO_DIGITAL,,NAO,NAO,44
+COMPLETO,"Body-wide hierarchical fuzzy modeling, recognition, and delineation of anatomy in medical images",2014,,Inglês,VARIOS,,NAO,NAO,45
+COMPLETO,An active learning paradigm based on a priori data reduction and organization,2014,,Inglês,MEIO_DIGITAL,,NAO,NAO,46
+COMPLETO,"High-Resolution Inflorescence Phenotyping Using a Novel Image Analysis Pipeline, PANorama",2014,,Português,NAO_INFORMADO,,NAO,NAO,47
+COMPLETO,A path- and label-cost propagation approach to speedup the training of the optimum-path forest classifier,2014,,Inglês,MEIO_DIGITAL,[doi:10.1016/j.patrec.2013.12.018],NAO,NAO,48
+COMPLETO,Toward Satellite-Based Land Cover Classification Through Optimum-Path Forest,2014,,Português,MEIO_DIGITAL,,NAO,NAO,49
+COMPLETO,Learning Person-Specific Representations from Faces in the Wild,2014,,Inglês,NAO_INFORMADO,,NAO,NAO,50
+COMPLETO,Hybrid approaches for interactive image segmentation using the Live Markers paradigm,2014,,Inglês,VARIOS,,NAO,NAO,51
+COMPLETO,A nature-inspired approach to speed up optimum-path forest clustering and its application to intrusion detection in computer networks,2015,,Inglês,VARIOS,,NAO,NAO,52
+COMPLETO,Swarm-based Descriptor Combination and its Application for Image Classification,2014,,Português,VARIOS,,NAO,NAO,53
+COMPLETO,Duplicate and conquer: multiple homologs of phosphorus-starvation tolerance 1 enhance phosphorus acquisition and sorghum performance on low-P soils,2014,,Inglês,VARIOS,[doi:10.1104/pp.114.243949],NAO,NAO,54
+COMPLETO,"Deep Representations for Iris, Face, and Fingerprint Spoofing Detection",2015,,Português,MEIO_DIGITAL,[http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7029061&isnumber=7059276][doi:10.1109/tifs.2015.2398817],NAO,NAO,55
+COMPLETO,Interactive Multiscale Classification of High-Resolution Remote Sensing Images,2013,,Português,MEIO_DIGITAL,,NAO,NAO,56
+COMPLETO,Improving land cover classification through contextual-based optimum-path forest,2015,,Inglês,MEIO_DIGITAL,[doi:10.1016/j.ins.2015.06.020],NAO,NAO,57
+COMPLETO,Robust active learning for the diagnosis of parasites,2015,,Inglês,MEIO_DIGITAL,[doi:10.1016/j.patcog.2015.05.020],NAO,NAO,58
+COMPLETO,Efficient and Effective Hierarchical Feature Propagation,2014,,Português,MEIO_DIGITAL,,NAO,NAO,59
+COMPLETO,Automatic Segmentation and Classification of Human Intestinal Parasites From Microscopy Images,2013,,Português,MEIO_DIGITAL,,NAO,NAO,60
+COMPLETO,Comparative study of five techniques for the diagnosis of canine gastrointestinal parasites,2015,,Inglês,MEIO_DIGITAL,,NAO,NAO,61
+COMPLETO,Medical image segmentation via atlases and fuzzy object models: Improving efficacy through optimum object search and fewer models,2016,,Inglês,MEIO_DIGITAL,[doi:10.1118/1.4938577],NAO,NAO,62
+COMPLETO,Genome-wide association and high-resolution phenotyping link Oryza sativa panicle traits to numerous trait-specific QTL clusters,2016,,Português,MEIO_DIGITAL,,NAO,NAO,63
+COMPLETO,"Evolving technologies for growing, imaging and analyzing 3D root system architecture of crop plants",2016,,Inglês,MEIO_DIGITAL,[doi:10.1111/jipb.12456],NAO,NAO,64
+COMPLETO,Choosing the Most Effective Pattern Classification Model under Learning-Time Constraint,2015,,Inglês,MEIO_DIGITAL,[doi:10.1371/journal.pone.0129947],NAO,NAO,65
+COMPLETO,Validation of a new technique to detect Cryptosporidium spp. oocysts in bovine feces,2016,,Inglês,MEIO_DIGITAL,,NAO,NAO,66
+COMPLETO,TF-Test Modified: New Diagnostic Tool for Human Enteroparasitosis,2016,,Inglês,MEIO_DIGITAL,[doi:10.1002/jcla.21854],NAO,NAO,67
+COMPLETO,Shape feature extraction and description based on tensor scale,2010,,Inglês,MEIO_DIGITAL,,NAO,NAO,68
+COMPLETO,Efficient and Effective Hierarchical Feature Propagation,2014,,Português,MEIO_DIGITAL,[doi:10.1109/jstars.2014.2341175],NAO,NAO,69
+COMPLETO,Improving Semi-Supervised Learning through Optimum Connectivity,2016,,Inglês,MEIO_DIGITAL,[http://www.sciencedirect.com/science/article/pii/S0031320316300668][doi:10.1016/j.patcog.2016.04.020],NAO,NAO,70
+COMPLETO,Efficient and Effective Hierarchical Feature Propagation,2014,,Português,MEIO_DIGITAL,[doi:10.1109/jstars.2014.2341175],NAO,NAO,71
+COMPLETO,IFTrace: Video segmentation of deformable objects using the Image Foresting Transform,2012,,Inglês,MEIO_DIGITAL,,NAO,NAO,72
+COMPLETO,Optimum-Path Forest based on k-connectivity: Theory and applications,2017,,Português,VARIOS,[http://www.sciencedirect.com/science/article/pii/S0167865516302057],NAO,NAO,73
+COMPLETO,Visualizing the Hidden Activity of Artificial Neural Networks,2017,,Português,MEIO_DIGITAL,[http://ieeexplore.ieee.org/document/7539329/][doi:10.1109/tvcg.2016.2598838],NAO,NAO,74
+COMPLETO,A novel algorithm for feature selection using Harmony Search and its application for non-technical losses detection,2011,,Inglês,MEIO_DIGITAL,,NAO,NAO,75
+NAO_INFORMADO,"HIGH PREVALENCE OF Blastocystis spp. INFECTION IN CHILDREN AND STAFF MEMBERS ATTENDING PUBLIC URBAN SCHOOLS IN SÃO PAULO STATE, BRAZIL",2016,,Português,NAO_INFORMADO,,NAO,NAO,
+NAO_INFORMADO,Medical image registration based on watershed transform from greyscale marker and multi-scale parameter search,2015,,Inglês,NAO_INFORMADO,,NAO,NAO,

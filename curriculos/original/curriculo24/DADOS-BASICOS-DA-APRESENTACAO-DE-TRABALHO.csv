@@ -1,0 +1,48 @@
+﻿NATUREZA,TITULO,ANO,PAIS,IDIOMA,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,APRESENTACAO-DE-TRABALHO_Id
+"OUTRA","Acelerando Calculos de Elementos Finitos","1993","Brasil","Português","NAO","","","NAO",0
+"COMUNICACAO","Object Oriented Programming Techniques Applied To Fluid Flow Simulations","1991","Brasil","Inglês","NAO","","","NAO",1
+"SEMINARIO","Development Of Finite Element Algorithms For Convection Diffusion Problems","1990","Brasil","Inglês","NAO","","","NAO",2
+"SEMINARIO","Discretization Vs. Modeling Error For A Class Of Beam Elements.","1989","Brasil","Inglês","NAO","","","NAO",3
+"CONGRESSO","Aplicacoes de Programacao Orientada Para Objetos Em Computacao CientíFica","1991","Brasil","Português","NAO","","","NAO",4
+"CONGRESSO","Sobre a implementação do método h-p adaptativo num ambiente orientado para objetos","1999","Brasil","Português","NAO","","","NAO",5
+"CONGRESSO","A Three Dimensional Adaptive Finite Element Method","1988","Argentina","Inglês","NAO","","","NAO",6
+"CONGRESSO","On the use of the object oriented programming philosophy in scientific computing","1991","Argentina","Inglês","NAO","","","NAO",7
+"SEMINARIO","Advanced iterative methods for symmetric matrix inverstions","1984","Bélgica","Inglês","NAO","","","NAO",8
+"SEMINARIO","On an h-p adaptive finite element technique","1985","Brasil","Inglês","NAO","","","NAO",9
+"SEMINARIO","Implementation of boundary conditions in finite element computations with iterative solvers","1986","Estados Unidos","Inglês","NAO","","","NAO",10
+"SEMINARIO","An h-p adaptive finite element method for steady state compressible navies stokes equations","1987","Bélgica","Inglês","NAO","","","NAO",11
+"SEMINARIO","An h-p adaptive finite element method for steady state compressible navier stokes equations","1988","Brasil","Inglês","NAO","","","NAO",12
+"SEMINARIO","An h-p adaptive finite element method for steady compressible flow","1988","Brasil","Inglês","NAO","","","NAO",13
+"SEMINARIO","A three dimensional adaptive finite element technique","1988","Brasil","Inglês","NAO","","","NAO",14
+"COMUNICACAO","An h-p adaptive finite element method for steady state compressible navier stokes equations","1988","Brasil","Inglês","NAO","","","NAO",15
+"SEMINARIO","Adaptive algorithms for the finite element method","1989","Brasil","Inglês","NAO","","","NAO",16
+"SEMINARIO","Adaptive Refinement strategies for the finite element method","1989","Estados Unidos","Inglês","NAO","","","NAO",17
+"SEMINARIO","Estimadores de erro a posteriori para cálculos de elementos finitos","1990","Brasil","Português","NAO","","","NAO",18
+"SEMINARIO","Introduction au C++, Aplications au calcul scientifique","1990","França","Francês","NAO","","","NAO",19
+"SEMINARIO","Sur quelques problèmes de méchanique de fluides computacionelle","1990","França","Francês","NAO","","","NAO",20
+"SEMINARIO","Adaptatividade para elementos finitos em seus vários aspectos","1991","Brasil","Português","NAO","","","NAO",21
+"SEMINARIO","Aplicações da computação orientada para objetos em computação científica","1991","Brasil","Português","NAO","","","NAO",22
+"SIMPOSIO","Object oriented programming applied to massively parallel computing","1992","Brasil","Inglês","NAO","","","NAO",23
+"CONGRESSO","Aplicação da programação orientada para objetos em computação científica","1995","Brasil","Português","NAO","","","NAO",24
+"SIMPOSIO","Paralelização de calculos de elementos finitos utilizando a programação orientada para objetos","1997","Brasil","Português","NAO","","","NAO",25
+"SEMINARIO","OOPAR : an object oriented environment for parallel programming","1997","Estados Unidos","Inglês","NAO","","","NAO",26
+"SIMPOSIO","h-p Adaptivity for the finite element method in an object oriented framework","1999","Brasil","Inglês","NAO","","","NAO",27
+"CONFERENCIA","On the mathematical formulation and object oriented implementation of 3D h-p adaptive finite element meshes","2000","Finlândia","Inglês","NAO","","","NAO",28
+"SEMINARIO","Sur le développement d'outils orientés objets pour le calcul scientifique","2000","França","Francês","NAO","","","NAO",29
+"CONFERENCIA","On the Brazilian Education and Research System","2004","Coréia do Sul","Inglês","NAO","","","NAO",30
+"SEMINARIO","On the Development of Object Oriented Scientific Software","2004","Coréia do Sul","Inglês","NAO","","","NAO",31
+"SEMINARIO","Seminário em Métodos Computacionais em Engenharia","1991","Brasil","Português","NAO","","","NAO",32
+"CONGRESSO","Estimativa a posteriori do erro em termos de quantidade de interesse","2008","Brasil","Português","NAO","","","NAO",33
+"CONFERENCIA","Desenvolvimento de ferramenta computacional para cálculo de índice de proditividade em pocos verticais e horizontas","2008","Brasil","Português","NAO","","","NAO",34
+"CONFERENCIA","Emprego de funcoes de base singulares em malhas de Galerkin descontínuo","2008","Brasil","Português","NAO","","","NAO",35
+"CONGRESSO","Um modelo numérico para a simulação de injeção de vapor em reservatórios","2011","Brasil","Português","NAO","","","NAO",36
+"CONGRESSO","Finite Elements Approximation of Young Concrete through Viscoelasticity.","2012","Brasil","Português","NAO","","","NAO",37
+"CONGRESSO","MULTIPHYSICS SIMULATION","2012","Brasil","Português","NAO","","","NAO",38
+"CONGRESSO","Semelhança entre o método da dupla projeção Bubnov-Galerkin e o Método de Petrov Galerkin","2011","Brasil","Português","NAO","","","NAO",39
+"CONGRESSO","O impacto do uso de funções de enriquecimento no método de Galerkin descontínuo","2009","Brasil","Português","NAO","","","NAO",40
+"COMUNICACAO","Numerical Solution of the Girkmann Problem by Finite Element Method Continuos and Discontinuous","2010","Brasil","Português","NAO","","","NAO",41
+"CONGRESSO","On the Numerical Simulation of Well Stability","2013","Brasil","Inglês","NAO","","","NAO",42
+"CONGRESSO","A new methodological approach for elastoplastic calculations","2014","Brasil","Português","NAO","","A new methodological approach for elastoplastic calculations","NAO",43
+"CONGRESSO","The construction of Multiscale Hybrid-Mixed (MHM) finite elements spaces using the object oriented computation library NeoPZ","2015","Argentina","Inglês","NAO","","The construction of Multiscale Hybrid-Mixed (MHM) finite elements spaces using the object oriented computation library NeoPZ","NAO",44
+"CONGRESSO","Construction of Hdiv finite elements spaces for three-dimensional geometries","2015","Argentina","Inglês","NAO","","Construction of Hdiv finite elements spaces for three-dimensional geometries","NAO",45
+"SEMINARIO","OOPAR : an object oriented environment for parallel programming","1998","Bélgica","Inglês","NAO","","","NAO",46

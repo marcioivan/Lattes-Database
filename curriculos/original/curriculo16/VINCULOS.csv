@@ -1,0 +1,36 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","LIVRE","LIVRE","40","SIM","2","1998","03","2011","","NAO","","Professor Associado","","",0
+"2","LIVRE","PROFESSOR_TITULAR","40","SIM","04","2011","","","Área: Processamento de Imagens.","NAO","","","","Área: Processamento de Imagens.",0
+"1","LIVRE","LIVRE","","NAO","12","2006","04","2010","","SIM","Membro de corpo editorial","","","",1
+"1","LIVRE","LIVRE","","NAO","12","2006","04","2010","","SIM","Revisor de periódico","","","",2
+"1","LIVRE","LIVRE","","NAO","01","2007","03","2007","","SIM","Revisor de periódico","","","",3
+"1","LIVRE","LIVRE","","NAO","02","2007","08","2007","","SIM","Revisor de periódico","","","",4
+"1","LIVRE","LIVRE","","NAO","","2006","","2006","","SIM","Revisor de periódico","","","",5
+"1","LIVRE","LIVRE","","NAO","","1999","","1999","","SIM","Revisor de periódico","","","",6
+"2","LIVRE","LIVRE","","NAO","11","2006","12","2006","","SIM","Revisor de periódico","","","",7
+"1","LIVRE","LIVRE","","NAO","","2005","","2005","","SIM","Revisor de periódico","","","",8
+"2","LIVRE","LIVRE","","NAO","08","2009","01","2010","","SIM","Revisor de periódico","","","",8
+"3","LIVRE","LIVRE","","NAO","12","2012","","","","SIM","Revisor de periódico","","","",8
+"1","LIVRE","LIVRE","","NAO","","2004","","2004","","SIM","Revisor de periódico","","","",9
+"2","LIVRE","LIVRE","","NAO","07","2009","05","2010","","SIM","Revisor de periódico","","","",9
+"1","LIVRE","LIVRE","","NAO","07","2007","11","2007","","SIM","Revisor de periódico","","","",10
+"1","LIVRE","LIVRE","","NAO","05","2008","03","2010","Edição especial: 20th SIBGRAPI: Advances in Image Processing and Computer Vision, Vol 31, Issue 4, 267 pages, Elsevier, ISSN 0167-8655, doi: 10.1016/j.patrec.2009.12.011","SIM","Membro de corpo editorial","","","",11
+"2","LIVRE","LIVRE","","NAO","12","2009","01","2010","","SIM","Revisor de periódico","","","",12
+"1","LIVRE","LIVRE","","NAO","03","2009","04","2009","","SIM","Revisor de periódico","","","",13
+"2","LIVRE","LIVRE","","NAO","08","2010","","","","SIM","Revisor de periódico","","","",13
+"1","LIVRE","LIVRE","","NAO","02","2000","04","2009","","SIM","Revisor de periódico","","","",14
+"1","LIVRE","LIVRE","","NAO","08","2010","","","","SIM","Revisor de periódico","","","",15
+"3","PROFESSOR_VISITANTE","LIVRE","40","SIM","","2011","","2012","","SIM","","Pesquisador visitante em licença sabática","","",16
+"1","LIVRE","LIVRE","","NAO","06","2012","","","","SIM","Membro de corpo editorial","","","",17
+"1","LIVRE","LIVRE","","NAO","03","1998","","","","SIM","Revisor de projeto de fomento","","","",18
+"1","LIVRE","LIVRE","","NAO","03","1998","","","","SIM","Revisor de projeto de fomento","","","",19
+"2","LIVRE","LIVRE","","NAO","03","2014","","","","SIM","Membro de comitê assessor","","","",19
+"1","LIVRE","LIVRE","","NAO","01","1998","12","1998","","SIM","Revisor de periódico","","","",20
+"1","LIVRE","LIVRE","","NAO","01","2003","12","2003","","SIM","Revisor de periódico","","","",21
+"1","LIVRE","LIVRE","","NAO","01","2011","12","2012","","SIM","Revisor de periódico","","","",22
+"1","LIVRE","LIVRE","","NAO","01","2003","12","2003","","SIM","Revisor de periódico","","","",23
+"1","LIVRE","LIVRE","","NAO","11","2002","12","2010","","SIM","Revisor de periódico","","","",24
+"1","LIVRE","LIVRE","","NAO","01","2003","12","2003","","SIM","Revisor de periódico","","","",25
+"1","LIVRE","LIVRE","","NAO","01","2009","","","","SIM","Revisor de projeto de fomento","","","",26
+"1","LIVRE","LIVRE","","NAO","01","2014","","","Associated Editor","SIM","Membro de corpo editorial","","","",27
+"4","LIVRE","LIVRE","","NAO","","2015","","","","SIM","","","","",28

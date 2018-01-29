@@ -1,0 +1,128 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","Desenvolvimento de Algoritmos de Sub Estruturacao Para Elementos Finitos","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","Object Oriented Matrix Classes","1996","Itália","Inglês","IMPRESSO","","NAO","","","NAO",1
+"COMPLETO","Oopar : The Development Of An Environment For Parallel Computing Usingthe Object Oriented Programming Philosophy","1996","Hungria","Inglês","IMPRESSO","","SIM","","","NAO",2
+"COMPLETO","Sobre A Implementacao da Condicao Inicial Em Problemas de Poroelasticidade Acoplada","1995","Brasil","Português","IMPRESSO","","NAO","","","NAO",3
+"RESUMO","Um Sistema Orientado Para Objetos Para A Simulacao Acoplada de Efeitos Poroelasticos Em Rochas de Reservatorios Petroliferos","1995","Brasil","Português","IMPRESSO","","NAO","","","NAO",4
+"COMPLETO","Modelo Matematico do Mecanismo de Abertura do Gerador Solar dos Sate- Lites do Programa CBERS","1995","Brasil","Português","IMPRESSO","","NAO","","","NAO",5
+"COMPLETO","Formulacao Geometricamente Nao Linear de Porticos Planos","1995","Argentina","Português","IMPRESSO","","NAO","","","NAO",6
+"COMPLETO","On The Development Of A Finite Element Approximation Of Two-Dimensional Elasticity","1994","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",7
+"COMPLETO","A Matrix Free Techinique For Element-By-Element Residual Evaluation","1994","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",8
+"COMPLETO","Efficiency Issues In An Object Programming Environment","1994","Grécia","Inglês","IMPRESSO","","NAO","","","NAO",9
+"COMPLETO","On The Development Of A Finite Element Program Based On The Object Oriented Programming Philosophy","1993","Estados Unidos","Inglês","IMPRESSO","","SIM","","","NAO",10
+"COMPLETO","On The Implementation Of The P-Adaptive Finite Element Method Using The Object Oriented Programming Philosophy","1992","Chile","Inglês","IMPRESSO","","NAO","","","NAO",11
+"COMPLETO","Object Oriented Programming Applied To Massively Parallel Computing A C++ Interface To The Connection Mechine","1992","Bélgica","Inglês","IMPRESSO","","NAO","","","NAO",12
+"COMPLETO","On The Development Of A Finite Element Program Based On The Object Oriented Programming Philosophy","1992","Bélgica","Inglês","IMPRESSO","","NAO","","","NAO",13
+"COMPLETO","Two Level Hierachical Preconditioners For Finite Element Equations","1991","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",14
+"COMPLETO","Finite Element Algorithm For Hyperbolic Conservation Laws With Forcingterms: Application To The Numerical Simulation Of Hydrazine Micro- Trhusters","1990","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",15
+"COMPLETO","Recursive Elements, An Inexpensive Solution Process For Resolving Point Singularities In Elliptic Problems","1990","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",16
+"RESUMO","Eficiencia do Multigrid Em Elementos Finitos e Sua Aplicacao A Problemas Convectivos","1990","Brasil","Português","IMPRESSO","","NAO","","","NAO",17
+"RESUMO","On The Use Of The Object Oriented Programming Philosophy In Scientificcomputing","1990","Argentina","Inglês","IMPRESSO","","NAO","","","NAO",18
+"COMPLETO","Object Oriented Programming In Scientific Computations: The Beginning Of A New Era","1990","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",19
+"COMPLETO","Numerical Simulation Model Of Hydrazine Altitude Control Thrusters.","1989","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",20
+"RESUMO","Implementacao da Tecnica de Multigrid Num Codigo de Elementos Finitos Unidimensional.","1989","Brasil","Português","IMPRESSO","","NAO","","","NAO",21
+"COMPLETO","On The Similarity Betweem A Double Projection Bubnov Galerkin Method And The Petrov Galerkin","1988","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",22
+"RESUMO","An H-P Adaptive Finite Element Method For The Numerical Simulation Of Compressible Flow.","1988","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",23
+"RESUMO","Metodos Adaptativos Para Elementos Finitos","1988","Brasil","Português","IMPRESSO","","NAO","","","NAO",24
+"COMPLETO","Variational Principles And Adaptive Methods For Complex Flow Problems.","1985","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",25
+"RESUMO","A Fast Vector Algorithm For A Matrix Vector Multiply.","1983","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",26
+"RESUMO","Finite Element Model Of A Plasma Spray Coating Process.","1983","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",27
+"RESUMO","An Overlapping Block Iterative Scheme For Finite Element Methods.","1983","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",28
+"COMPLETO","Tecnica de Multigrid Com Base Hierarquica Aplicada a um Codigo Bidimensional de Elementos Finitos.","1990","Brasil","Português","IMPRESSO","","NAO","","","NAO",29
+"COMPLETO","Aproximação de arcos utilizando uma extensão da teoria de Timoshenko","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",30
+"COMPLETO","Extensão da teoria de Reissner Mindlin para Cascas.","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",31
+"COMPLETO","Paralelização de elementos finitos utilizando programação orientada para objetos","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",32
+"COMPLETO","Behavior of a pre-conditioner using hierarchical bases","1998","Argentina","Português","MEIO_DIGITAL","","NAO","","","NAO",33
+"COMPLETO","Tri Dimensional analysis of buildings using an object oriented environment","1998","Argentina","Inglês","MEIO_DIGITAL","","NAO","","","NAO",34
+"COMPLETO","A Tri Dimensional corotacional formulation for dynamic elastic simulations","1998","Argentina","Inglês","MEIO_DIGITAL","","NAO","","","NAO",35
+"COMPLETO","Object Oriented Programming Applied to the Development of Scientific Software","1998","Argentina","Inglês","MEIO_DIGITAL","","NAO","","","NAO",36
+"COMPLETO","An object oriented environment for parallel finite element applications","1998","Argentina","Inglês","MEIO_DIGITAL","","NAO","","","NAO",37
+"RESUMO","Formulação para placas e cascas multi-camadas inserida em um programa de elementos finitos h-p adaptativo","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",38
+"RESUMO","Implementação Paralela de Solver Skyline","2000","Brasil","Português","IMPRESSO","","NAO","","","NAO",39
+"RESUMO","Object Oriented tools for scientific computing","2000","Brasil","Português","IMPRESSO","","NAO","","","NAO",40
+"COMPLETO","Formulação e implementação de cálculo de placas de material composto","1999","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",41
+"COMPLETO","Sobre o refinamento uni-, bi- e tri-dimensional h-p adaptativo de elementos finitos","2000","Brasil","Português","IMPRESSO","","NAO","","","NAO",42
+"RESUMO","PZ- Um ambiente para o desenvolvimento de programas de elementos finitos orientado para objetos","1996","Brasil","Português","IMPRESSO","","NAO","","","NAO",43
+"RESUMO","Uma Comparação de soluções entre elementos finitos de barras de eixo curvo","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",44
+"COMPLETO","Sobre a implementação de um refinamento h-p","1999","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",45
+"COMPLETO","Uma comparação de esquemas de estabilização para a simulação por elementos finitos de escoamentos imiscíveis bi-fásicos em meios porosos","1999","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",46
+"COMPLETO","Métodos adaptativos para simulação de fluidos bi-fásicos","1999","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",47
+"RESUMO","On the mathematical description and object oriented implementation of 3D hp-adaptive finite element methods","2000","Finlândia","Inglês","IMPRESSO","www.mit.jyu.fi/tapahtumia/fem3","NAO","","","NAO",48
+"COMPLETO","An object oriented multi-threaded multi-frontal solver","2001","Brasil","Português","MEIO_DIGITAL","http://labmec.unicamp.br","NAO","","","NAO",49
+"COMPLETO","Implementação da técnica de subestruturação no ambiente de elementos finitos PZ","2001","Brasil","Português","MEIO_DIGITAL","http://labmec.fec.unicamp.br","NAO","","","NAO",50
+"COMPLETO","Integração de métodos numéricos no Autocad utilizando o ObjectARX e o ambiente de elementos finitos PZ","2001","Brasil","Português","MEIO_DIGITAL","http://labmec.fec.unicamp.br","NAO","","","NAO",51
+"COMPLETO","An Object oriented framework for flexible mechanism simulation","2000","Espanha","Inglês","MEIO_DIGITAL","http://labmec.fec.unicamp.br","NAO","","","NAO",52
+"COMPLETO","An object oriented approach to adaptive finite element techniques","2000","Espanha","Inglês","MEIO_DIGITAL","http://labmec.fec.unicamp.br","NAO","","","NAO",53
+"COMPLETO","Uma estratégia h-adaptativa para a simulação de escoamentos miscíveis e imiscíveis em meios porosos","2001","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",54
+"COMPLETO","Modelagem numérica de fraturamento hidráulico","2001","Brasil","Português","MEIO_DIGITAL","http://labmec.fec.unicamp.br","NAO","","","NAO",55
+"COMPLETO","Integração de métodos numéricos no AutoCAD, utilizando o ObjectARX e o ambiente de elementos finitos PZ","2002","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",56
+"COMPLETO","Tensões, deformações e esforços solicitantes em placas","2002","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",57
+"COMPLETO","An hp Adaptive Refinement Strategy for the Finite Element Method","2002","Austria","Inglês","HIPERTEXTO","http://wccm.tuwien.ac.at/","SIM","","","NAO",58
+"COMPLETO","Inclusão de elementos descontínuos no ambiente PZ","2003","Brasil","Português","MEIO_DIGITAL","http://labmec.fec.unicamp.br/~pz","NAO","","","NAO",59
+"COMPLETO","Interactive Adaptive Refinement","2003","Brasil","Inglês","MEIO_DIGITAL","http://labmec.fec.unicamp.br","NAO","","","NAO",60
+"COMPLETO","Parallelization of a scientific code using OOPar","2003","Brasil","Inglês","MEIO_DIGITAL","http://labmec.fec.unicamp.br/savannah","NAO","","","NAO",61
+"COMPLETO","Error minizing approach for topographic surveying","2003","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",62
+"COMPLETO","hp Adaptive Implementation using template based elements","2004","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",63
+"COMPLETO","ASSOCIAÇÃO TRIDIMENSIONAL DE PAREDES E PÓRTICOS DE EDIFÍCIOS ALTOS: OBTENÇÃO NUMÉRICA DOS DESLOCAMENTOS POR UM MÉTODO RUNGE-KUTTA DE 4a. ORDEM","2004","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",64
+"COMPLETO","MATRICIAL DECOMPOSITION OF ARTIFICIAL DIFFUSIVE TERMS IN GAS","2004","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",65
+"COMPLETO","PARALLELIZATION USING OOPAR","2004","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",66
+"RESUMO","hp adaptive refinement strategy in the PZ environment","2004","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",67
+"COMPLETO","Automatic Differentiation in Computational Mechanics","2003","Holanda","Inglês","IMPRESSO","","NAO","","","NAO",68
+"COMPLETO","hp Auto Adaptive Finite Element Method on 3D Heterogeneous Meshes","2003","Holanda","Inglês","IMPRESSO","","NAO","","","NAO",69
+"COMPLETO","Cálculo de Placas Multi-Camadas com Possibilidades de Rotações Distintas em Cada Camada","2000","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",70
+"COMPLETO","Métodos Adaptativos Multidimensionais para Elementos Finitos","2000","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",71
+"COMPLETO","Uma Implementação Paralela Orientada à Objetos do Solver Frontal Utilizando "Multi-Threading"","2000","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",72
+"COMPLETO","On The Development Of A Finite Element Program As An Object Oriented System","2000","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",73
+"COMPLETO","Placas Multi-Camadas Apoiadas Sobre Base Elástica","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",74
+"COMPLETO","Análise e Automacão das Acões Dinamicas em Torres Metálicas","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",75
+"COMPLETO","Métodos de Elementos Finitos Contínuo e Descontínuo Combinados Aplicado a Problemas de Conveccão-Difusão","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",76
+"COMPLETO","On an Object Oriented Implemantation of Plasticity Models","2005","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",77
+"COMPLETO","Automated Boundary Layer Meshes Generation Using Diretional Refinement Patterns","2005","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",78
+"COMPLETO","Classes for defining a refinement pattern and master element","2000","Espanha","Inglês","IMPRESSO","","NAO","","","NAO",79
+"COMPLETO","Elementos Finitos Adaptativos Aplicados ao Cálculo de Cascas de Material Composto","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",80
+"COMPLETO","Adaptive And Moving Mesh Finite Element Methods For Flow Interaction Problems.","1986","França","Inglês","NAO_INFORMADO","","NAO","","","NAO",81
+"COMPLETO","A three dimensional adaptive finite element method","1988","Argentina","Inglês","NAO_INFORMADO","","NAO","","","NAO",82
+"COMPLETO","Discretization versus modeling error for a class of beam elements","1989","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",83
+"COMPLETO","Development of Finites Element Algorithms for Convection Diffusion Problems.","1990","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",84
+"COMPLETO","Object Oriented Programming Techniques Applied to Fluid Flow Simulations","1991","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",85
+"COMPLETO","Acelerando Cálculos de Elementos Finitos","1993","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",86
+"COMPLETO","The Distributed Data Protocol within OOPAR","2006","Brasil","Inglês","NAO_INFORMADO","http://labmec.fec.unicamp.br","NAO","","","NAO",87
+"COMPLETO","A description of the PZ finite element package","2007","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",88
+"COMPLETO","FORMULAÇÃO DE VIGA 3D COM RELAÇÃO CONSTITUTIVA NÃO-LINEAR","2007","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",89
+"COMPLETO","Emprego de funções de base singulares em malhas de galerkin descontínuo","2008","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",90
+"COMPLETO","Desenvolvimento de ferramenta computacional para cálculo de índice de produtividade em poços verticais e horinzotais","2008","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",91
+"COMPLETO","Estimativa a posteriori do erro em termos de quantidades de interesse","2008","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",92
+"COMPLETO","Estimativas de erro em quantidades de interesse para soluções obtidas pelo método de Galerkin descontínuo","2008","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",93
+"RESUMO","hp adaptive refinement strategy in the PZ environment","2004","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",94
+"RESUMO","Wavelets and Adaptive grids for PDE","2003","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",95
+"COMPLETO","Desenvolvimento de Ferramenta Computacional para Cálculo de Índice de Produtividade de Poços Verticais e Horizontais","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",96
+"COMPLETO","Descrição Matemática de Geometrias Curvas por Interpolação Transfinita","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",97
+"COMPLETO","COUPLING H(DIV) AND H1 FINITE ELEMENT APPROXIMATIONS FOR A POISSON PROBLEM","2010","Argentina","Inglês","NAO_INFORMADO","","NAO","","","NAO",98
+"COMPLETO","ON THE USE OF THE STEKLOV ANALYSIS TO VERIFY THE STABILITY CONDITION OF MIXED FINITE ELEMENT FORMULATIONS","2010","Argentina","Português","NAO_INFORMADO","","NAO","","","NAO",99
+"RESUMO","ON AN OBJECT ORIENTED IMPLEMENTATION OF PLASTICITY MODELS","2010","Argentina","Inglês","NAO_INFORMADO","","NAO","","","NAO",100
+"COMPLETO","RESOLUÇÃO EM MÁQUINA PARALELA DE MODELO VOLUMÉTRICO DE EDIFÍCIOS","2010","Argentina","Português","NAO_INFORMADO","","NAO","","","NAO",101
+"COMPLETO","NUMERICAL SOLUTION OF THE GIRKMANN PROBLEM BY ELEMENTE METHOD CONTINUOUS AND DISCONTINUOUS","2010","Argentina","Inglês","NAO_INFORMADO","","NAO","","","NAO",102
+"COMPLETO","Parallel Implementation of a Preconditioner Based on Sub-Structuring","2011","França","Inglês","NAO_INFORMADO","","NAO","","","NAO",103
+"COMPLETO","UM MODELO NUME&#769;RICO PARA A SIMULAC&#807;A&#771;O DE INJEC&#807;A&#771;O DE VAPOR EM RESERVATO&#769;RIOS","2011","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",104
+"COMPLETO","Semelhança entre o método da dupla projeção Bubnov-Galerkin e o método de Petrov-Galerkin","2011","Brasil","Português","IMPRESSO","","NAO","","","NAO",105
+"COMPLETO","NUMERICAL APPROXIMATION OF YOUNG CONCRETE THROUGH VISCOELASTICITY","2011","Brasil","Português","IMPRESSO","","NAO","","","NAO",106
+"COMPLETO","Coupling H(div) and H1 Finite Element Approximations for a Poisson Problem","2011","Inglaterra","Inglês","IMPRESSO","","NAO","","","NAO",107
+"COMPLETO","Simulacao de Injeco de Agua e Vapor em Propagacao de Fratura","2011","Brasil","Português","IMPRESSO","","NAO","","","NAO",108
+"COMPLETO","Subestruturação","2011","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",109
+"RESUMO","The Steklov analysis for the verification of th stqbility condition of mixed finite elements formulations","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",110
+"RESUMO","A new procedure for the construction of hierarchical high order Hdiv and Hcurl finite element spaces","2012","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",111
+"COMPLETO","Programming Finite Element Methods for ccNUMA processors","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",112
+"COMPLETO","PESQUISAS EM HIDRÁULICA DE POÇOS DESENVOLVIDAS NO LABMEC-FEC-UNICAMP","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",113
+"RESUMO_EXPANDIDO","Otimizações para Explorar a Largura de Banda de Memória Principal em Processadores Modernos","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",114
+"COMPLETO","APROXIMAÇÃO NUMÉRICA ELASTOPLÁSTICA DE PROPAGAÇÃO DE FRATURAS HIDRÁULICAS BIDIMENSIONAIS","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",115
+"COMPLETO","APLICAÇÃO DE REDES NEURAIS ARTIFICIAIS NA MODELAGEM NUMÉRICA DO ACOPLAMENTO POÇORESERVATÓRIO","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",116
+"COMPLETO","Paralell resolution of a volumetric building model","2010","Argentina","Inglês","NAO_INFORMADO","","NAO","","","NAO",117
+"COMPLETO","REDES NEURAIS ARTIFICIAIS APLICADAS EM SIMULAÇÃO NUMÉRICA DO ACOPLAMENTO POÇO-RESERVATÓRIO","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",118
+"COMPLETO","On the Numerical Simulation of Well Stability","2013","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",119
+"COMPLETO","Aproximação Numérica de Propagação de Fraturas em Domínio Bidimensional com Elastoplasticidade","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",120
+"COMPLETO","SIMULAÇÃO MULTIFÍSICA PARA PROBLEMAS DE ACOPLAMENTO FLUIDO-ESTRUTURA","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",121
+"COMPLETO","Aproximação Numérica de Propagação de Fraturas Hidráulicas Bidimensionais","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",122
+"RESUMO","Hydraulic fracturing approximation using finite elements and elastoplasticity","2014","Espanha","Inglês","NAO_INFORMADO","","NAO","","","NAO",123
+"RESUMO","A new methodological approach for elastoplastic calculations","2014","Espanha","Inglês","NAO_INFORMADO","","NAO","","","NAO",124
+"RESUMO","ON THE NUMERICAL SIMULATION OF WELL STABILITY","2013","Inglaterra","Inglês","NAO_INFORMADO","","NAO","","","NAO",125
+"RESUMO","hp Adaptive Refinement Strategy in the PZ Environment","2004","China","Inglês","MEIO_DIGITAL","","NAO","","","NAO",126

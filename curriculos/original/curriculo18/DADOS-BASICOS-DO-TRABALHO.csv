@@ -1,0 +1,56 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","Software-based transparent and comprehensive control-flow error detection","2006","Estados Unidos","Inglês","VARIOS","[http://dx.doi.org/10.1109/CGO.2006.33]","NAO","10.1109/CGO.2006.33","","NAO",0
+"COMPLETO","Fast Instruction Set Customization","2004","Suécia","Inglês","VARIOS","","NAO","10.1109/ESTMED.2004.1359704","","NAO",1
+"COMPLETO","Looking for instruction patterns in the design of extensible processors","2004","Suécia","Inglês","IMPRESSO","","NAO","","","NAO",2
+"COMPLETO","Clustering-Based Microcode Compression","2006","Estados Unidos","Inglês","VARIOS","","SIM","10.1109/ICCD.2006.4380816","","NAO",3
+"COMPLETO","Compact Trace Trees in Dynamic Binary Translation","2009","Estados Unidos","Inglês","MEIO_DIGITAL","[http://amas-bt.cs.virginia.edu/program-2009.htm]","NAO","","","NAO",4
+"COMPLETO","Dynamic parallelization of single-threaded binary programs using speculative slicing","2009","Estados Unidos","Inglês","VARIOS","[http://doi.acm.org/10.1145/1542275.1542302]","NAO","","","NAO",5
+"COMPLETO","New Slicing Algorithms for Parallelizing Single-Threaded Programs","2008","China","Inglês","MEIO_DIGITAL","[http://tiamat.eecs.umich.edu/pespma08/papers/PESPMA-paper-3.pdf]","NAO","","","NAO",6
+"COMPLETO","Characterization of Dynamic Binary Translation Overhead","2008","China","Inglês","MEIO_DIGITAL","[http://amas-bt.cs.virginia.edu/program-2008.htm]","NAO","","","NAO",7
+"COMPLETO","Characterization of DBT overhead","2009","Estados Unidos","Inglês","VARIOS","","NAO","10.1109/IISWC.2009.5306785","","NAO",8
+"COMPLETO","TAO: two-level atomicity for dynamic binary optimizations","2010","Canadá","Inglês","IMPRESSO","[http://doi.acm.org/10.1145/1772954.1772959]","SIM","","TAO: Two-level Atomicity for Dynamic Binary Optimizations","NAO",9
+"COMPLETO","LAR-CC: Large Atomic Regions with Conditional Commits","2011","França","Inglês","VARIOS","[http://dx.doi.org/10.1109/CGO.2011.5764674]","SIM","10.1109/CGO.2011.5764674","LAR-CC: Large Atomic Regions with Conditional Commits","NAO",10
+"COMPLETO","A HW/SW Co-designed Heterogeneous Multi-core Virtual Machine for Energy-Efficient General Purpose Computing","2011","França","Inglês","VARIOS","[http://dx.doi.org/10.1109/CGO.2011.5764691]","NAO","10.1109/CGO.2011.5764691","A HW/SW Co-designed Heterogeneous Multi-core Virtual Machine for Energy-Efficient General Purpose Computing","NAO",11
+"COMPLETO","Live Range Hole Allocation in Dynamic Binary Translation","2011","Estados Unidos","Inglês","MEIO_DIGITAL","[http://amas-bt.cs.virginia.edu/program-2011.htm]","NAO","","Live Range Hole Allocation in Dynamic Binary Translation","NAO",12
+"COMPLETO","Trace Execution Automata in Dynamic Binary Translation","2010","França","Inglês","MEIO_DIGITAL","[http://www.springerlink.com/content/c141160739271827/]","NAO","","Trace Execution Automata in Dynamic Binary Translation","NAO",13
+"COMPLETO","Structure-Constrained Microcode Compression","2011","Brasil","Inglês","MEIO_DIGITAL","","NAO","","Structure-Constrained Microcode Compression","NAO",14
+"RESUMO_EXPANDIDO","Efficient Computation of Image Re-Ranking using GPUs","2012","Brasil","Português","MEIO_DIGITAL","","NAO","","Efficient Computation of Image Re-Ranking using GPUs","NAO",15
+"COMPLETO","Efficient Image Re-Ranking Computation on GPUs","2012","Espanha","Inglês","MEIO_DIGITAL","","NAO","","Efficient Image Re-Ranking Computation on GPUs","NAO",16
+"RESUMO_EXPANDIDO","Metodologias para a detecção de fontes de erros sistemáticos em CPUs e GPUs","2012","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",17
+"COMPLETO","Asynchronous Program Flow Verification Through Binary Instrumentation on QEMU","2012","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","Asynchronous Program Flow Verification Through Binary Instrumentation on QEMU","NAO",18
+"COMPLETO","An ArchC approach for automatic energy consumption characterization of processors","2012","Finlândia","Inglês","MEIO_DIGITAL","","NAO","","An ArchC approach for automatic energy consumption characterization of processors","NAO",19
+"COMPLETO","ACCGen: An Automatic ArchC Compiler Generator","2012","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",20
+"COMPLETO","Compressing Variable-Length Instruction Traces","2012","Brasil","Português","NAO_INFORMADO","","NAO","","Compressing Variable-Length Instruction Traces","NAO",21
+"COMPLETO","A Database for Reproducible Computational Research","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",22
+"COMPLETO","Exploring Dynamic Program Behavior with Frames and Phases","2012","Brasil","Português","NAO_INFORMADO","","NAO","","Exploring Dynamic Program Behavior with Frames and Phases","NAO",23
+"COMPLETO","Programming Finite Element Methods for ccNUMA processors","2013","Hungria","Inglês","IMPRESSO","","NAO","","","NAO",24
+"COMPLETO","Assessing Computer Performance with SToCS","2013","República Tcheca","Inglês","IMPRESSO","","NAO","","","NAO",25
+"COMPLETO","Modeling Virtual Machines Misprediction Overhead","2013","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",26
+"COMPLETO","ISA Aging: A X86 case study","2013","Israel","Inglês","MEIO_DIGITAL","","NAO","","","NAO",27
+"RESUMO_EXPANDIDO","Contextual Spaces Algorithm Acceleration on APUs","2013","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",28
+"RESUMO_EXPANDIDO","Otimizações para Explorar a Largura de Banda de Memória Principal em Processadores Modernos","2013","Brasil","Português","MEIO_DIGITAL","","NAO","","Optimizations to explore memory bandwidth of modern processors","NAO",29
+"RESUMO_EXPANDIDO","Perfilamento e Otimização do hp2FEM no IBM Blue Gene/P","2013","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",30
+"RESUMO_EXPANDIDO","Análise do modelo MIPS gerado pelo ArchC","2013","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",31
+"COMPLETO","Image Re-Ranking Acceleration on GPUs","2013","Brasil","Inglês","IMPRESSO","","NAO","","Image Re-Ranking Acceleration on GPUs","NAO",32
+"COMPLETO","Addressing JavaScript JIT engines performance quirks: A crowdsourced adaptive compiler","2014","França","Inglês","NAO_INFORMADO","","NAO","","","NAO",33
+"COMPLETO","On the Impact of Dynamic Memory Management on Software Transactional Memory Performance","2014","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",34
+"COMPLETO","Compiler Support for Selective Page Migration in NUMA Architectures","2014","Canadá","Inglês","NAO_INFORMADO","","NAO","","","NAO",35
+"COMPLETO","Leveraging Optimization Methods for Dynamically Assisted Control-Flow Integrity Mechanisms","2014","França","Inglês","NAO_INFORMADO","","NAO","","","NAO",36
+"COMPLETO","Performance Implications of Dynamic Memory Allocators on Transactional Memory Systems","2015","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","","NAO",37
+"COMPLETO","OpenISA, freedom powered by efficient binary translation","2015","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","OpenISA, freedom powered by efficient binary translation","NAO",38
+"COMPLETO","Enabling large data processing with the 3D ZO CRS Stack software","2014","Alemanha","Inglês","MEIO_DIGITAL","","NAO","","","NAO",39
+"COMPLETO","Effective, Efficient, and Scalable Unsupervised Distance Learning in Image Retrieval Tasks","2015","China","Inglês","NAO_INFORMADO","","NAO","","Effective, Efficient, and Scalable Unsupervised Distance Learning in Image Retrieval Tasks","NAO",40
+"COMPLETO","Efficient and Fault Tolerant Computation of Partially Idempotent Tasks","2015","Brasil","Português","NAO_INFORMADO","","NAO","10.1190/sbgf2015-072","","NAO",41
+"COMPLETO","COISA: A Compact OpenISA virtual platform for IoT devices","2015","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",42
+"COMPLETO","Improving the Performance of the Contextual Spaces Re-Ranking Algorithm on Heterogeneous Systems","2015","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",43
+"COMPLETO","SHRINK: reducing the ISA complexity via instruction recycling","2015","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",44
+"COMPLETO","PY-PITS: A Scalable Python Runtime System for the Computation of Partially Idempotent Tasks","2016","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","PY-PITS: A Scalable Python Runtime System for the Computation of Partially Idempotent Tasks","NAO",45
+"COMPLETO","An Evaluation of Segmented Sorting Strategies on GPUs","2016","Austrália","Inglês","MEIO_DIGITAL","","NAO","","An Evaluation of Segmented Sorting Strategies on GPUs","NAO",46
+"COMPLETO","A Comparative Study of SYCL, OpenCL, and OpenMP","2016","Estados Unidos","Inglês","MEIO_DIGITAL","","NAO","","A Comparative Study of SYCL, OpenCL, and OpenMP","NAO",47
+"RESUMO_EXPANDIDO","Extensão do conjunto de instruções para implementação segura de X25519","2016","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",48
+"RESUMO_EXPANDIDO","ISA Anti-Aging: Recycling Old Instructions and Reducing ISA Complexity","2013","Israel","Inglês","NAO_INFORMADO","","NAO","","","NAO",49
+"COMPLETO","Oportunidades para economia de energia em dispositivos móveis","2014","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",50
+"COMPLETO","Optimizing memory affinity with a hybrid compiler/OS approach","2017","Itália","Inglês","NAO_INFORMADO","","NAO","10.1145/3075564.3075566","Optimizing memory affinity with a hybrid compiler/OS approach","NAO",51
+"RESUMO_EXPANDIDO","Harvesting the computational power of heterogeneous clusters to accelerate seismic processing","2017","Brasil","Inglês","NAO_INFORMADO","","NAO","","Harvesting the computational power of heterogeneous clusters to accelerate seismic processing","NAO",52
+"RESUMO_EXPANDIDO","Análise de relações entre desempenho e contenção de memória em sistemas ccNUMA com kernel Linux","2017","Brasil","Português","NAO_INFORMADO","","NAO","","Analysis of performance and memory contention correlation in ccNUMA systems running the Linux kernel","NAO",53
+"RESUMO_EXPANDIDO","A Hybrid Framework to Accelerate Adaptive Compilation Systems","2014","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",54

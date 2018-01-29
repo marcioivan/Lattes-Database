@@ -1,0 +1,7 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTANDO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-DOUTORADO_Id
+"ORIENTADOR_PRINCIPAL","Marleny Luque Carbajal","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","7140726083843896","Computer Science",0
+"ORIENTADOR_PRINCIPAL","José Valderlei da Silva","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","NAO","","","1585888748854641","Computer Science",1
+"ORIENTADOR_PRINCIPAL","Eliana Moreira","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","NAO","","","","Computer Science",2
+"ORIENTADOR_PRINCIPAL","Samuel Buchdid","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","NAO","","","2230628563698262","Computer Science",3
+"ORIENTADOR_PRINCIPAL","Vanessa Maike","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","","Computer Science",4
+"ORIENTADOR_PRINCIPAL","Emanuel Felipe Duarte","007900000004","Universidade Estadual de Campinas","","","33070059","Ciência da Computação","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","3718325359953351","Computer Science",5

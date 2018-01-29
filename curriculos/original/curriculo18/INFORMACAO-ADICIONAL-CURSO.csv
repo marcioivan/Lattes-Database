@@ -1,0 +1,26 @@
+﻿CODIGO-CURSO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NOME-GRANDE-AREA-DO-CONHECIMENTO,NOME-DA-AREA-DO-CONHECIMENTO,NOME-DA-SUB-AREA-DO-CONHECIMENTO,NOME-DA-ESPECIALIDADE,NIVEL-CURSO,INFORMACOES-ADICIONAIS-CURSOS_Id
+"32000049","","","033300000002","Universidade Federal de Minas Gerais","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"33010080","","","033500000006","Universidade Federal de São Carlos","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"33021759","","","006700000002","Universidade de São Paulo","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","DOUTORADO",0
+"33050040","","","006742000000","Instituto de Ciências Matemáticas e de Computação","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"33070059","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"33070229","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Mecânica","","","MESTRADO_DOUTORADO",0
+"41000250","","","004300000009","Universidade Federal de Santa Catarina","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"42000041","","","019200000005","Universidade Federal do Rio Grande do Sul","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"60015594","","","032900000005","Universidade Estadual de Maringá","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO",0
+"60017945","","","087000000006","Universidade Federal de Mato Grosso do Sul","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO_DOUTORADO",0
+"60034394","","","007940009002","Departamento de Sistemas de Energia Elétrica","OUTROS","","","","MESTRADO_DOUTORADO",0
+"60043792","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","DOUTORADO",0
+"60045175","","","019200000005","Universidade Federal do Rio Grande do Sul","OUTROS","","","","MESTRADO_DOUTORADO",0
+"60048280","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","DOUTORADO",0
+"60311479","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60361522","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"60471867","","","033500000006","Universidade Federal de São Carlos","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO",0
+"90000000","","","087000000006","Universidade Federal de Mato Grosso do Sul","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","GRADUACAO",0
+"90000001","","","670900000006","Universidade Anhanguera - Uniderp","ENGENHARIAS","Engenharia Elétrica","","","GRADUACAO",0
+"90000002","","","670900000006","Universidade Anhanguera - Uniderp","ENGENHARIAS","Engenharia Elétrica","","","OT",0
+"90000003","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","GRADUACAO",0
+"90000004","","","000400000997","Instituto de Computação - Unicamp","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO",0
+"90000005","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","Sistemas de Computação","","MESTRADO",0
+"90000006","","","000400000997","Instituto de Computação - Unicamp","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","DOUTORADO",0
+"90000007","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Ciência da Computação","","","MESTRADO",0

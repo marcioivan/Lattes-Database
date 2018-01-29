@@ -1,0 +1,42 @@
+﻿CODIGO-CURSO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NOME-GRANDE-AREA-DO-CONHECIMENTO,NOME-DA-AREA-DO-CONHECIMENTO,NOME-DA-SUB-AREA-DO-CONHECIMENTO,NOME-DA-ESPECIALIDADE,NIVEL-CURSO,INFORMACOES-ADICIONAIS-CURSOS_Id
+"60009756","","","010600000009","Universidade Federal de Goiás","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO",0
+"60010871","","","007900000004","Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","","","MESTRADO_DOUTORADO",0
+"60038950","","","119300000003","Universidade do Estado de Santa Catarina","LINGUISTICA_LETRAS_E_ARTES","Artes","","","MESTRADO",0
+"90000001","","","007900000004","Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","","","GRADUACAO",0
+"90000002","","","007100000000","Pontifícia Universidade Católica de São Paulo","OUTROS","","","","OUTRO",0
+"90000003","","","007100000000","Pontifícia Universidade Católica de São Paulo","OUTROS","","","","OUTRO",0
+"90000004","","","000100000991","Instituto Italiano de Cultura","OUTROS","","","","OUTRO",0
+"90000005","","","007100000000","Pontifícia Universidade Católica de São Paulo","LINGUISTICA_LETRAS_E_ARTES","Letras","","","EXTENSAO_UNIVERSITARIA",0
+"90000006","","","485700000008","Museu de Arte de Sao Paulo","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","OT",0
+"90000007","","","000300000995","Secretaria de Estado da Cultura de São Paulo","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000008","","","000300000995","Secretaria de Estado da Cultura de São Paulo","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","CURSO_DE_CURTA_DURACAO",0
+"90000009","","","000400000997","Conservatório Musical do Brooklin Paulista","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","OT",0
+"90000010","","","704200000001","Manhattan School Of Music","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000011","","","000500000999","Teatro Hall","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","Composição Musical","CURSO_DE_CURTA_DURACAO",0
+"90000012","","","000700000992","Faculdade de FIlosofia, Letras e Ciências Humanas da USP","OUTROS","","","","DOUTORADO",0
+"90000013","","","000800000994","Faculdade de Arquitetura e Urbanismo da USP","OUTROS","","","","GRADUACAO",0
+"90000014","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"90000015","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","","","APERFEICOAMENTO",0
+"90000016","","","000500000999","Teatro Hall","OUTROS","Multidisciplinar","","","CURSO_DE_CURTA_DURACAO",0
+"90000017","","","001400000995","Canto do Brasil Atividade e Ensino Musical","OUTROS","Multidisciplinar","","","OT",0
+"90000018","","","001400000995","Canto do Brasil Atividade e Ensino Musical","OUTROS","Multidisciplinar","","","CURSO_DE_CURTA_DURACAO",0
+"90000019","","","001400000995","Canto do Brasil Atividade e Ensino Musical","OUTROS","Multidisciplinar","","","CURSO_DE_CURTA_DURACAO",0
+"90000020","","","001400000995","Canto do Brasil Atividade e Ensino Musical","OUTROS","","","","OT",0
+"90000021","","","001400000995","Canto do Brasil Atividade e Ensino Musical","LINGUISTICA_LETRAS_E_ARTES","Artes","","","CURSO_DE_CURTA_DURACAO",0
+"90000022","","","001600000999","Insituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO",0
+"90000023","","","169700000007","Universidade Federal do Estado do Rio de Janeiro","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO",0
+"90000024","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO",0
+"90000025","","","001800000992","Escola de Comunicações e Artes da Universidade de São Paulo","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO",0
+"90000026","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","ARTES DA CENA","","MESTRADO",0
+"90000027","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","Música Popular","","MESTRADO",0
+"90000028","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","Música Popular","","MESTRADO",0
+"90000029","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","","","DOUTORADO",0
+"90000030","","","000900000996","Instituto de Artes da Universidade Estadual de Campinas","LINGUISTICA_LETRAS_E_ARTES","Artes","","","DOUTORADO",0
+"90000031","","","001900000994","Centro de Artes da Universidade do Estado de Santa Catarina","LINGUISTICA_LETRAS_E_ARTES","Artes","Educação Musical","","MESTRADO",0
+"90000032","","","002000000996","Departamento de Música - ECA - USP","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","GRADUACAO",0
+"90000033","","","169700000007","Universidade Federal do Estado do Rio de Janeiro","LINGUISTICA_LETRAS_E_ARTES","Artes","Música","","MESTRADO",0
+"90000034","","","002100000998","Vocal SP Grupo de Estudos","LINGUISTICA_LETRAS_E_ARTES","Artes","","","OT",0
+"90000035","","","002100000998","Vocal SP Grupo de Estudos","LINGUISTICA_LETRAS_E_ARTES","Artes","","","CURSO_DE_CURTA_DURACAO",0
+"90000036","","","002200000990","Faculdade de Filosofia, Letras e Ciências Humanas","LINGUISTICA_LETRAS_E_ARTES","Lingüística","","","DOUTORADO",0
+"90000037","","","001700000990","Escola de Comunicação e Artes da USP","OUTROS","Multidisciplinar","","","DOUTORADO",0
+"90000038","","","001800000992","Escola de Comunicações e Artes da Universidade de São Paulo","LINGUISTICA_LETRAS_E_ARTES","Artes","Música Popular","","MESTRADO",0

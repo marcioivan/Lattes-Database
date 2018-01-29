@@ -1,0 +1,5 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTANDO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-DOUTORADO_Id
+"ORIENTADOR_PRINCIPAL","Mateus Neves Barreto","000100000991","Faculdade de Engenharia Elétrica e de Computação - UNICAMP","","","90000008","Doutorado em Engenharia Elétrica","NAO","","","7890706140792716","",0
+"ORIENTADOR_PRINCIPAL","Cynara Mendonça Moreira Tinoco","000100000991","Faculdade de Engenharia Elétrica e de Computação - UNICAMP","","","90000007","Pós-Graduação em Engenharia Elétrica FEEC-UNICAMP","NAO","","","9100166866914614","",1
+"ORIENTADOR_PRINCIPAL","Edgar Fonseca Franco Junior","007900000004","Universidade Estadual de Campinas","","","60034394","Doutorado em Engenharia Elétrica","NAO","","","2276646340989404","Engineering",2
+"ORIENTADOR_PRINCIPAL","Mamadou Moustapha Ndiaye","007900000004","Universidade Estadual de Campinas","","","60034394","Doutorado em Engenharia Elétrica","NAO","","","","Engineering",3

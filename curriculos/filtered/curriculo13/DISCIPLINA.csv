@@ -1,0 +1,24 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Administração Financeira II,GRADUACAO,Economia,Faculdades de Campinas,ATUAL,02,2006,NULL,NULL
+Econometria,GRADUACAO,Economia,Faculdades de Campinas,ATUAL,02,2006,NULL,NULL
+Estatística e Introdução à Econometria,GRADUACAO,Economia,Faculdades de Campinas,ATUAL,02,2006,NULL,NULL
+Administração Financeira I,GRADUACAO,Economia,Faculdades de Campinas,ATUAL,02,2006,NULL,NULL
+Matemática Financeira,GRADUACAO,Economia,Faculdades de Campinas,ATUAL,02,2006,NULL,NULL
+Economia Brasileira II,GRADUACAO,Administração,Instituto Santanense de Ensino Superior,ANTERIOR,03,2002,02,2004
+Economia II,GRADUACAO,Administração,Instituto Santanense de Ensino Superior,ANTERIOR,03,2002,02,2004
+Economia I,GRADUACAO,Administração,Instituto Santanense de Ensino Superior,ANTERIOR,03,2002,02,2004
+Análise Microeconômica,GRADUACAO,Administração,Instituto Santanense de Ensino Superior,ANTERIOR,03,2002,02,2004
+Economia Brasileira I,GRADUACAO,Administração,Instituto Santanense de Ensino Superior,ANTERIOR,03,2002,02,2004
+Teoria Econômica II,GRADUACAO,Administração,Instituto Santanense de Ensino Superior,ANTERIOR,03,2002,02,2004
+Teoria Econômica I,GRADUACAO,Administração,Instituto Santanense de Ensino Superior,ANTERIOR,03,2002,02,2004
+Mercado Agropecuário,APERFEICOAMENTO,Mercados de Derivativos,Centro de Ensino a Distância S/A,ANTERIOR,03,2002,06,2002
+Mercado de Ibovespa,APERFEICOAMENTO,Mercados de Derivativos,Centro de Ensino a Distância S/A,ANTERIOR,03,2002,06,2002
+Introdução aos Mercados de Derivativos,APERFEICOAMENTO,Mercados de Derivativos,Centro de Ensino a Distância S/A,ANTERIOR,03,2002,06,2002
+Mercado de Taxa de Câmbio,APERFEICOAMENTO,Mercados de Derivativos,Centro de Ensino a Distância S/A,ANTERIOR,03,2002,06,2002
+Mercado de Taxa de Juros,APERFEICOAMENTO,Mercados de Derivativos,Centro de Ensino a Distância S/A,ANTERIOR,03,2002,06,2002
+Derivativos agropecuários e financeiros,APERFEICOAMENTO,Mercados de Derivativos,Bolsa de Mercadorias & Futuros,ANTERIOR,09,2002,03,2006
+Contabilidade e Análise de Balanços,GRADUACAO,Ciências Econômicas,Universidade Estadual de Campinas,ATUAL,03,2009,NULL,NULL
+Métodos Quantitativos Aplicados a Economia Financeira,GRADUACAO,Ciências Econômicas,Universidade Estadual de Campinas,ATUAL,03,2009,NULL,NULL
+Derivativos,ESPECIALIZACAO,Finanças Corporativas,Universidade Estadual de Campinas,ATUAL,03,2010,NULL,NULL
+Métodos quantitativos aplicados,ESPECIALIZACAO,Finanças Corporativas,Universidade Estadual de Campinas,ATUAL,03,2010,NULL,NULL
+Tópicos Especiais em Economia,POS-GRADUACAO,Ciência Econômica,Universidade Estadual de Campinas,ATUAL,08,2011,NULL,NULL

@@ -1,0 +1,24 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONGRESSO","ORGANIZACAO","IHC99 II Workshop sobre fatores Humanos em Sistemas Computacionais (General Co-chair)","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"CONGRESSO","ORGANIZACAO","SBIE99, 2000, 2001, 2005, 2007 (PC)","1999","Brasil","Português","IMPRESSO","","NAO","","","NAO",1
+"CONGRESSO","ORGANIZACAO","PEG97 (PC)","1997","Bulgária","Português","NAO_INFORMADO","","NAO","","","NAO",2
+"CONGRESSO","ORGANIZACAO","CSCL2002 (PC)","2002","Estados Unidos","Português","IMPRESSO","","NAO","","","NAO",3
+"CONGRESSO","ORGANIZACAO","ICALT2001 (PC)","2001","Estados Unidos","Português","IMPRESSO","","NAO","","","NAO",4
+"CONGRESSO","ORGANIZACAO","IFIP WG8.1 (PC)","2001","Canadá","Português","NAO_INFORMADO","","NAO","","","NAO",5
+"CONGRESSO","ORGANIZACAO","GEOINFO2001 - 2007: III WORKSHOP BRASILEIRO DE GEOINFORMÁTICA (PC)","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",6
+"CONGRESSO","ORGANIZACAO","ICEIS2003 - 2008 The Fifth International Conference on Enterprise Information Systems (PC)","2003","França","Inglês","IMPRESSO","","NAO","","","NAO",7
+"CONGRESSO","ORGANIZACAO","WOS2003 - 2006 Workshop of Organisational Semiotics (PC)","2003","Inglaterra","Inglês","NAO_INFORMADO","","NAO","","","NAO",8
+"CONGRESSO","ORGANIZACAO","CLIHC2003 Congresso Latino Americano de Interação Humano-Computador (SP Co-chair)","2003","Brasil","Português","IMPRESSO","","NAO","","","NAO",9
+"CONGRESSO","ORGANIZACAO","WIE2003 Workshop de Informática na Escola (Chair)","2003","Brasil","Português","IMPRESSO","","NAO","","","NAO",10
+"CONGRESSO","ORGANIZACAO","CLIHC2005 The Second Latin American Conference on Human-Computer Interaction (General Co-chair)","2005","México","Inglês","MEIO_DIGITAL","","NAO","","","NAO",11
+"CONGRESSO","ORGANIZACAO","CHI2004 (SV Co-chair)","2004","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",12
+"OUTRO","NAO_INFORMADO","Workshop sobre Interfaces e Interação em Ambientes Educacionais (Co-Chair)","2005","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",13
+"CONGRESSO","ORGANIZACAO","ICOS 2006 International Conference on Organisational Semiotics (General Co-chair)","2006","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",14
+"CONGRESSO","ORGANIZACAO","INTERACT 2007 IFIP TC 13 (Program Co-Chair)","2007","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",15
+"OUTRO","ORGANIZACAO","Fórum Permanente e Interdisciplinar de Conhecimento em Tecnologia da Informação: Tecnologias na Educação: Transformações na Escola e na Universidade","2012","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",16
+"OUTRO","ORGANIZACAO","GranDIHC-BR: Prospecção de Grandes Desafios de Pesquisa em Interação Humano-Computador no Brasil","2012","Brasil","Português","VARIOS","","NAO","","","NAO",17
+"CONGRESSO","ORGANIZACAO","SBIE Simpósio Brasileiro de Informática na Educação","2013","Brasil","Português","IMPRESSO","","NAO","","","NAO",18
+"OUTRO","ORGANIZACAO","30 Anos de Informática na Educação no Brasil - Fóruns Permanentes em Ciência e Tecnologia","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",19
+"OUTRO","ORGANIZACAO","GranDIHC-BR: Prospecção de Grandes Desafios de Pesquisa em Interação Humano-Computador no Brasil","2014","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",20
+"CONGRESSO","ORGANIZACAO","17th International Conference on Informatics and Semiotics in Organizations ICISO 2016","2016","Brasil","Bretão","IMPRESSO","","NAO","","","NAO",21
+"CONGRESSO","ORGANIZACAO","IHC98 - 2006 (PC)","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",22

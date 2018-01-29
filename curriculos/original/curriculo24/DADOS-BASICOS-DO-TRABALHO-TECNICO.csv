@@ -1,0 +1,18 @@
+﻿NATUREZA,TITULO-DO-TRABALHO-TECNICO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-TECNICO-INGLES,TRABALHO-TECNICO_Id
+"RELATORIO_TECNICO","A fast vector algorithm for a matrix-vector multiplication in the finite element method","1985","Estados Unidos","Inglês","IMPRESSO","","NAO","","",0
+"RELATORIO_TECNICO","Adaptive finite element methods for the analysis of inviscid compressible flow: 1 Fast refinement/unrefinement and moving mesh methods for unstructured meshes","1986","Estados Unidos","Inglês","IMPRESSO","","NAO","","",1
+"RELATORIO_TECNICO","Recursive elements, an inexpensive solution process for resolving point singularities in elliptic problems","1989","Estados Unidos","Inglês","IMPRESSO","","NAO","","",2
+"ASSESSORIA","Numerical Simulation model of hydrazine altitude control thrusters : a model description","1989","Brasil","Inglês","IMPRESSO","","NAO","","",3
+"RELATORIO_TECNICO","Finite Element Algorithms for Hyperbolic Conservation Laws with Forcing Terms","1990","Brasil","Inglês","IMPRESSO","","NAO","","",4
+"RELATORIO_TECNICO","Description d'un code de calcul d'écoulements laminaires et turbulents","1990","França","Francês","IMPRESSO","","NAO","","",5
+"RELATORIO_TECNICO","Une interface C++ pour programmer sur la connection machine","1992","França","Francês","IMPRESSO","","NAO","","",6
+"RELATORIO_TECNICO","Análise Numérica de Escoamento de Fluidos Batelados em Oleodutos","1997","Brasil","Português","NAO_INFORMADO","","NAO","","",7
+"RELATORIO_TECNICO","Acoplamento do Modelo de Filtração de Carter à Lei de Darcy","2005","Brasil","Português","IMPRESSO","","NAO","","",8
+"RELATORIO_TECNICO","Acoplamento de Transporte à Lei de Darcy","2006","Brasil","Português","NAO_INFORMADO","","NAO","","",9
+"RELATORIO_TECNICO","Fraturamento Hidráulico de Poços Horizontais- Módulo de Computação Paralela","2005","Brasil","Português","NAO_INFORMADO","","NAO","","",10
+"RELATORIO_TECNICO","Geração de Malhas para um Simulador de Fraturamento Hidráulico em Poços Horizontais","2006","Brasil","Português","NAO_INFORMADO","","NAO","","",11
+"RELATORIO_TECNICO","Modelos Numéricos de Propagação de Fratura: Parte I","2006","Brasil","Português","NAO_INFORMADO","","NAO","","",12
+"RELATORIO_TECNICO","Métodos Iterativos e Pré-Condicionadores","2005","Brasil","Português","NAO_INFORMADO","","NAO","","",13
+"RELATORIO_TECNICO","Modelagem Numérica Tridimensional de Fratura Discreta em Meior Sólidos","2005","Brasil","Português","NAO_INFORMADO","","NAO","","",14
+"RELATORIO_TECNICO","Estudo de Percolação de Agua da Fratura pra Meio Poroso","2005","Brasil","Português","IMPRESSO","","NAO","","",15
+"RELATORIO_TECNICO","Atualização do PROPAG","2006","Brasil","Português","NAO_INFORMADO","","NAO","","",16

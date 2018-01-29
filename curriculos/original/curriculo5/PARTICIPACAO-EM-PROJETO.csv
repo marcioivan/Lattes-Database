@@ -1,0 +1,10 @@
+﻿PARTICIPACAO-EM-PROJETO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-UNIDADE,NOME-UNIDADE,ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO_Id
+0,"2","ANTERIOR","10","2005","02","2006","985603000998","Cristália Produtos Químicos e Farmaceuticos LTDA","","",0
+1,"11","ATUAL","","2011","","","000201000997","IQ - UNICAMP","","",1
+2,"1","ANTERIOR","03","2006","12","2006","000201000997","IQ - UNICAMP","","",1
+3,"4","ANTERIOR","","2008","","2011","007902000990","Instituto de Química","","",2
+4,"8","ATUAL","","2009","","","007905000002","Instituto de Química","007905001009","Departamento de Química Orgânica",2
+5,"3","ATUAL","","2007","","","007905000002","Instituto de Química","","",2
+6,"1","ATUAL","06","2008","","","985606000999","Instituto de Química - UNICAMP","","",3
+7,"4","ANTERIOR","06","2008","","2011","985606000999","Instituto de Química - UNICAMP","","",3
+8,"3","ANTERIOR","08","2008","09","2009","985606000999","Instituto de Química - UNICAMP","","",3

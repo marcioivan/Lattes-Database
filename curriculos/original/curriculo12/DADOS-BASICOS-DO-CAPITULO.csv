@@ -1,0 +1,6 @@
+﻿TIPO,TITULO-DO-CAPITULO-DO-LIVRO,ANO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-CAPITULO-DO-LIVRO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,CAPITULO-DE-LIVRO-PUBLICADO_Id
+"Capítulo de livro publicado","Processamento de imagens de tensores de difusão","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"Capítulo de livro publicado","Métodos de segmentação e parcelamento do corpo caloso em imagens de tensores de difusão","2013","Brasil","Português","IMPRESSO","","NAO","","","NAO",1
+"Capítulo de livro publicado","A Comparison Between Extinction Filters and Attribute Filters","2015","Brasil","Português","NAO_INFORMADO","http://link.springer.com/10.1007/978-3-319-18720-4_6","NAO","10.1007/978-3-319-18720-4_6","","NAO",2
+"Capítulo de livro publicado","Probabilistic Segmentation of Brain White Matter Lesions Using Texture-Based Classification","2017","Brasil","Português","NAO_INFORMADO","http://link.springer.com/10.1007/978-3-319-59876-5_9","NAO","10.1007/978-3-319-59876-5_9","","NAO",3
+"Capítulo de livro publicado","Morphological Image Processing Applied in Biomedicine","2010","Alemanha","Inglês","IMPRESSO","http://link.springer.com/10.1007/978-3-642-15816-2_4","SIM","10.1007/978-3-642-15816-2_4","Morphological image processing applied in biomedicine","NAO",4

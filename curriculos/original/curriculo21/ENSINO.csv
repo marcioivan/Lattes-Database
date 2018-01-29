@@ -1,0 +1,17 @@
+﻿ENSINO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,TIPO-ENSINO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,NOME-CURSO-INGLES,ATIVIDADES-DE-ENSINO_Id
+0,"3","ANTERIOR","GRADUACAO","3","2005","7","2005","","","90000004","Engenharia de Computação","",0
+1,"5","ANTERIOR","GRADUACAO","7","2005","12","2005","","","90000004","Engenharia de Computação","",0
+2,"10","ATUAL","GRADUACAO","3","2006","","","","","90000004","Engenharia de Computação","",0
+3,"22","ANTERIOR","POS-GRADUACAO","08","2007","12","2007","","","33070059","Ciência da Computação","Computer Science",0
+4,"23","ANTERIOR","GRADUACAO","03","2007","06","2007","","","90000004","Engenharia de Computação","",0
+5,"24","ANTERIOR","GRADUACAO","08","2007","12","2007","","","90000004","Engenharia de Computação","",0
+6,"25","ANTERIOR","GRADUACAO","02","2008","07","2008","","","90000004","Engenharia de Computação","",0
+7,"29","ANTERIOR","GRADUACAO","08","2008","12","2008","","","90000004","Engenharia de Computação","",0
+8,"31","ANTERIOR","GRADUACAO","03","2009","07","2009","","","90000004","Engenharia de Computação","",0
+9,"32","ANTERIOR","POS-GRADUACAO","03","2009","07","2009","","","33070059","Ciência da Computação","Computer Science",0
+10,"33","ATUAL","GRADUACAO","08","2009","","","","","90000004","Engenharia de Computação","",0
+11,"26","ANTERIOR","POS-GRADUACAO","02","2008","07","2008","","","33070059","Ciência da Computação","Computer Science",0
+12,"2","ANTERIOR","GRADUACAO","8","2004","12","2004","","","90000003","Engenharia de Computação","",1
+13,"3","ANTERIOR","GRADUACAO","1","2005","2","2005","","","90000003","Engenharia de Computação","",1
+14,"4","ANTERIOR","GRADUACAO","2","2005","7","2005","","","90000002","Engenharia Elétrica","",1
+15,"1","ANTERIOR","GRADUACAO","8","2004","12","2004","","","90000002","Engenharia Elétrica","",1

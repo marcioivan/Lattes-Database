@@ -1,0 +1,18 @@
+﻿NATUREZA,TITULO-DO-ARTIGO,ANO-DO-ARTIGO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-ARTIGO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ARTIGO-PUBLICADO_Id
+"COMPLETO","Forward and Backward Error Recovey","1994","Inglaterra","Inglês","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","A Reflective Object-Oriented Architecture for Developing Fault-Tolerant Software","1997","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",1
+"COMPLETO","A Unified Meta-level Software Architecture for Sequential and Concurrent Exception Handling","2001","","Inglês","IMPRESSO","","NAO","","","NAO",2
+"COMPLETO","A systematic approach for structuring exception handling in robust component-based software","2005","","Inglês","MEIO_DIGITAL","","SIM","10.1590/S0104-65002005000100002","A systematic approach for structuring exception handling in robust component-based software","NAO",3
+"COMPLETO","Improving reliability of cooperative concurrent systems with exception flow analysis","2009","","Inglês","VARIOS","","NAO","10.1016/j.jss.2008.12.015","Improving reliability of cooperative concurrent systems with exception flow analysis","NAO",4
+"COMPLETO","On the modularization and reuse of exception handling with aspects","2009","","Inglês","NAO_INFORMADO","","NAO","10.1002/spe.939","On the modularization and reuse of exception handling with aspects","NAO",5
+"COMPLETO","Architecting Fault Tolerance with Exception Handling: Verification and Validation","2009","","Inglês","MEIO_DIGITAL","[doi:10.1007/s11390-009-9219-2]","NAO","10.1007/s11390-009-9219-2","","NAO",6
+"COMPLETO","A fault-tolerant architectural approach for dependable systems","2006","","Português","MEIO_DIGITAL","[doi:10.1109/ms.2006.35]","NAO","10.1109/ms.2006.35","","NAO",7
+"COMPLETO","Specification of exception flow in software architectures","2006","","Inglês","MEIO_DIGITAL","[doi:10.1016/j.jss.2006.02.060]","NAO","10.1016/j.jss.2006.02.060","","NAO",8
+"COMPLETO","An exception handling system for service component architectures","2012","","Inglês","MEIO_DIGITAL","[doi:10.1007/s13173-012-0059-5]","NAO","10.1007/s13173-012-0059-5","","NAO",9
+"COMPLETO","Exception handling in the development of dependable component-based systems","2005","","Inglês","IMPRESSO","","SIM","","","NAO",10
+"COMPLETO","Implementing Coordinated Error Recovery for Distributed Object-Oriented Systems with AspectJ","2004","","Inglês","MEIO_DIGITAL","","NAO","","","NAO",11
+"COMPLETO","A comparative study of exception handling mechanisms for building dependable object-oriented software","2001","","Inglês","MEIO_DIGITAL","[doi:10.1016/s0164-1212(01)00062-0]","NAO","10.1016/S0164-1212(01)00062-0","","NAO",12
+"COMPLETO","Designing fault-tolerant SOA based on design diversity","2014","","Inglês","MEIO_DIGITAL","[doi:10.1186/s40411-014-0013-7]","NAO","10.1186/s40411-014-0013-7","","NAO",13
+"COMPLETO","The crosscutting impact of the AOSD Brazilian research community","2013","","Inglês","MEIO_DIGITAL","[doi:10.1016/j.jss.2012.08.031]","NAO","10.1016/j.jss.2012.08.031","","NAO",14
+"COMPLETO","Quality of Service Conflict During Web Service Monitoring: A Case Study","2016","","Inglês","MEIO_DIGITAL","[doi:10.1016/j.entcs.2016.02.007]","NAO","10.1016/j.entcs.2016.02.007","","NAO",15
+"COMPLETO","Components meet aspects: Assessing design stability of a software product line","2011","","Inglês","MEIO_DIGITAL","[http://www.sciencedirect.com/science/journal/09505849]","NAO","10.1016/j.infsof.2010.08.007","Components meet aspects: Assessing design stability of a software product line","NAO",16

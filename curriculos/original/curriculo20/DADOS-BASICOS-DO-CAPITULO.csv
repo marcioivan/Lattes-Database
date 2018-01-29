@@ -1,0 +1,11 @@
+﻿TIPO,TITULO-DO-CAPITULO-DO-LIVRO,ANO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-CAPITULO-DO-LIVRO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,CAPITULO-DE-LIVRO-PUBLICADO_Id
+"Capítulo de livro publicado","From Recovery Blocks to Coordinated Atomic Actions","1995","Inglaterra","Inglês","IMPRESSO","","NAO","","","NAO",0
+"Capítulo de livro publicado","Towards an Object-Oriented Approach to Software Fault Tolerance","1996","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",1
+"Capítulo de livro publicado","Tropyc: A Pattern Language for Cryptographic Object-Oriented Software","1999","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",2
+"Capítulo de livro publicado","An architectural-based reflective approach to incorporating exception handling into Dependable software","2001","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",3
+"Capítulo de livro publicado","A Dependable Architecture for COTS-Based Software Systems using Protective Wrappers","2004","Inglaterra","Inglês","IMPRESSO","","NAO","","","NAO",4
+"Capítulo de livro publicado","Desenvolvimento Baseado em Componentes e Confiabilidade","2005","Brasil","Português","IMPRESSO","","NAO","","","NAO",5
+"Capítulo de livro publicado","Aspectizing Exception Handling: A Quantitative Study","2006","Alemanha","Inglês","IMPRESSO","http://www.springeronline.com/3-540-37443-5","NAO","","","NAO",6
+"Capítulo de livro publicado","Reasoning about Exception Flow at the Architectural Level","2006","Alemanha","Inglês","IMPRESSO","http://www.springeronline.com/3-540-48265-2","NAO","","","NAO",7
+"Capítulo de livro publicado","Challenges in Composing and Decomposing Assurances for Self-Adaptive Systems","2017","Grã-Bretanha","Inglês","VARIOS","http://acme.able.cs.cmu.edu/pubs/show.php?author=David_Garlan&ord=year","NAO","","","NAO",8
+"Capítulo de livro publicado","A Fault-Tolerant Software Architecture for Component-Based Systems","2003","Inglaterra","Inglês","IMPRESSO","10.1007/3-540-45177-3_6","NAO","","","NAO",9

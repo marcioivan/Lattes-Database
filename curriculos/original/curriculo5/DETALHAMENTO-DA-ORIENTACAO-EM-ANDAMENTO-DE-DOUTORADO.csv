@@ -1,0 +1,5 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTANDO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-DOUTORADO_Id
+"ORIENTADOR_PRINCIPAL","Fernanda Bacciotti","000200000993","Instituto de Química - UNICAMP","","","90000024","Doutorado em Ciências","NAO","","","8835499080349170","",0
+"ORIENTADOR_PRINCIPAL","Gabriela Desiree Tormet Gonzales","000200000993","Instituto de Química - UNICAMP","","","90000024","Doutorado em Ciências","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","","",1
+"ORIENTADOR_PRINCIPAL","Renata Sigrist","000200000993","Instituto de Química - UNICAMP","","","90000024","Doutorado em Ciências","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","4449688845822815","",2
+"ORIENTADOR_PRINCIPAL","Bruno Sachetto Paulo","000200000993","Instituto de Química - UNICAMP","","","90000024","Doutorado em Ciências","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","8521980876346966","",3

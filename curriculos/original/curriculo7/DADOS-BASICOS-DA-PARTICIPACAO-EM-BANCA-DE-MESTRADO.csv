@@ -1,0 +1,37 @@
+﻿NATUREZA,TIPO,TITULO,ANO,PAIS,IDIOMA,HOME-PAGE,DOI,TITULO-INGLES,PARTICIPACAO-EM-BANCA-DE-MESTRADO_Id
+"Mestrado","ACADEMICO","Uma Estratégia Ótima de Despacho de Potência Ativa AC com Restrições na Transmissão","1999","Brasil","Português","","","",0
+"Mestrado","ACADEMICO","Redes Neurais Artificiais Aplicadas a Proteção Diferencial de Transformadores de Potência","1999","Brasil","Português","","","",1
+"Mestrado","ACADEMICO","Análise de uma linha de transmissão de meio comprimento de onda controlada por um dispositivo FACTS","2003","Brasil","Português","","","",2
+"Mestrado","ACADEMICO","Simulação de Fenômenos Transitórios em Sistemas de Aterramento","2003","Brasil","Português","","","",3
+"Mestrado","ACADEMICO","Modelagem de linhas de transmissão para análise de comportamento quanto à descargas atmosféricas","2003","Brasil","Português","","","",4
+"Mestrado","ACADEMICO","Extinção de Arco Secundário em Manobras Monofásicas - Conceitos Fundamentais e Critérios de Análise","2003","Brasil","Português","","","",5
+"Mestrado","ACADEMICO","Modelagem de Transformadores para Fenômenos Transitórios Rápidos","2004","Brasil","Português","","","",6
+"Mestrado","ACADEMICO","Descargas Atmosféricas Diretas em Linhas de Telecomunicações: Estudo e Modelamento","2004","Brasil","Português","","","",7
+"Mestrado","ACADEMICO","Estudo e Aplicação de Filtros Ativos Paralelos para Sistemas Trifásicos a Quatro Fios","2005","Brasil","Português","","","",8
+"Mestrado","ACADEMICO","Ensaios de Rigidez Dielétrica de Algumas Configurações de Espaçamentos: Comparação entre Resultados ao Ar Livre e Dentro de Painel Metálico","2006","Brasil","Português","","","",9
+"Mestrado","ACADEMICO","Comportamento Eletromagnético do Solo no Domínio da Freqüência : Tratamento de Dados de Campo e Influência no Desempenho de Linhas Aéreas de Transmissão de Energia Elétrica","2005","Brasil","Português","","","",10
+"Mestrado","ACADEMICO","Análise de Sensibilidade de Parâmetros Elétricos de Linhas de Transmissão no Domínio da Freqüência","2005","Brasil","Português","","","",11
+"Mestrado","ACADEMICO","ANÁLISE DA CORRETA MODELAGEM DA TRANSPOSIÇÃO EM LINHAS DE TRANSMISSÃO NO DOMÍNIO DA FREQÜÊNCIA","2006","Brasil","Português","","","",12
+"Mestrado","ACADEMICO","Análise de Auto-Excitação e Curto-Circuito Capacitivo em Geradores Síncronos Conectados a Grandes Sistemas de Transmissão CCAT e CAAT","2007","Brasil","Português","","","",13
+"Mestrado","ACADEMICO","Contribuição ao Estudo do Efeito Corona em Linhas de Transmissão","2007","Brasil","Português","","","",14
+"Mestrado","ACADEMICO","Análise Comparativa de Técnicas de Controle de Sobretensões Transitórias nas Manobras de Energização e Religamento de Linhas de Transmissão","2007","Brasil","Português","","","",15
+"Mestrado","ACADEMICO","Análise de Sensibilidade da Corrente de Arco Secundário Para Diferentes Linhas de Transmissão","2007","Brasil","Português","","","",16
+"Mestrado","ACADEMICO","RELIGAMENTO MONOPOLAR ADAPTATIVO RÁPIDO BASEADO NA ASSINATURA HARMÔNICA DA TENSÃO DE ARCO SECUNDÁRIO","2009","Brasil","Português","","","",17
+"Mestrado","ACADEMICO","Estudos de Linhas de Transmissão Não-Uniformes no Domínio da Freqüência","2009","Brasil","Português","","","",18
+"Mestrado","ACADEMICO","Análise de Transitórios eletromagnéticos na manobras típicas para elo CA de meio comprimento de onda","2010","Brasil","Português","","","",19
+"Mestrado","ACADEMICO","Propagação de Transitórios de Alta Frequência e o Efeito de Múltiplas Reflexões em Redes Coletoras de Parques Eólicos Marítimos","2011","Brasil","Português","","","",20
+"Mestrado","ACADEMICO","UTILIZAÇÃO DE LINHAS DE TRANSMISSÃO SEMELHANTES NO ENSAIO DE ENERGIZAÇÃO DE UM TRONCO COM POUCO MAIS DE MEIO COMPRIMENTO DE ONDA","2012","Brasil","Português","","","",21
+"Mestrado","ACADEMICO","CONTEÚDO HARMÔNICO E ESTIMATIVA DA VARIAÇÃO DE COMPRIMENTO DE ARCOS ELÉTRICOS GERADOS ARTIFICIALMENTE EM LINHAS DE TRANSMISSÃO","2012","Brasil","Português","","","",22
+"Mestrado","ACADEMICO","MAXIMIZAÇÃO DA POTÊNCIA CARACTERÍSTICA DE LINHAS DE TRANSMISSÃO USANDO MÉTODO DE OTIMIZAÇÃO NÃO LINEAR","2013","Brasil","Português","","","",23
+"Mestrado","ACADEMICO","Análise da Ocorrência de Zeros Atrasados em Correntes de Curto-Circuito","2014","Brasil","Português","","","",24
+"Mestrado","ACADEMICO","Modelagem de um Relé de Proteção Diferencial de Transformador no RTDS","2014","Brasil","Português","","","",25
+"Mestrado","ACADEMICO","Obtenção dos parâmetros sustentados para modelagem de arco secundário em linha de 500 kV","2014","Brasil","Português","","","",26
+"Mestrado","ACADEMICO","Implementação do religamento monopolar adaptativo rápido baseado na assinatura harmônica de tensão no simulador digital em tempo real (RTDS)","2015","Brasil","Português","","","",27
+"Mestrado","ACADEMICO","Estudo de transitórios eletromagnéticos em linhas longas compensadas para um pouco mais de meio comprimento de onda","2015","Brasil","Português","","","",28
+"Mestrado","ACADEMICO","Avaliação do desempenho dinâmico e imunidade a falhas de comutação para faltas remotas em sistemas de HVDC híbridos, retificador LCC e inversor CCC em linhas de transmissão longas","2015","Brasil","Português","","","",29
+"Mestrado","ACADEMICO","Ampliação da capacidade de transmissão de linhas aéreas melhorando a geometria dos feixes","2016","Brasil","Português","","","",30
+"Mestrado","ACADEMICO","Eletrificação de pequenas vilas próximas das linhas de transmissão usando acoplamento capacitivo dos cabos para-raios","2016","Brasil","Português","","","",31
+"Mestrado","ACADEMICO","Modelagem de um Relé de proteção direcional de linhas de transmissão no ATP","2016","Brasil","Português","","","",32
+"Mestrado","ACADEMICO","Estudo do Elemento Direcional de Proteção em uma Linha de Transmissão de um Pouco Mais de Meio Comprimento de Onda","2017","Brasil","Português","","","",33
+"Mestrado","ACADEMICO","Analysis of Single-Phase"and Three-Phase Auto Reclosing Maneuver to Eliminate Single Line Fault (Análise do Desempenho das Manobras de Religamento Monopolar e Tripolar para Eliminação de Faltas Monofásicas em Linhas de Transmissão)","2017","Brasil","Português","","","",34
+"Mestrado","ACADEMICO","Nova metodologia para detecção de falta no religamento monopolar","2017","Brasil","Português","","","",35

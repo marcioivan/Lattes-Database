@@ -1,0 +1,44 @@
+﻿CODIGO-CURSO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NOME-GRANDE-AREA-DO-CONHECIMENTO,NOME-DA-AREA-DO-CONHECIMENTO,NOME-DA-SUB-AREA-DO-CONHECIMENTO,NOME-DA-ESPECIALIDADE,NIVEL-CURSO,INFORMACOES-ADICIONAIS-CURSOS_Id
+"33010056","","","033500000006","Universidade Federal de São Carlos","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","MESTRADO_DOUTORADO",0
+"33020094","","","006700000002","Universidade de São Paulo","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","MESTRADO_DOUTORADO",0
+"33070075","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","MESTRADO_DOUTORADO",0
+"33070075","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","MESTRADO_DOUTORADO",0
+"33070245","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_BIOLOGICAS","Genética","","","MESTRADO_DOUTORADO",0
+"33070407","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_BIOLOGICAS","Bioquímica","","","MESTRADO_DOUTORADO",0
+"33080720","","","033005000005","Instituto de Química de Araraquara","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","MESTRADO_DOUTORADO",0
+"34340033","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_DA_SAUDE","Odontologia","","","MESTRADO_DOUTORADO",0
+"60055081","","","867100000004","Universidade Federal de Alfenas","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","MESTRADO_DOUTORADO",0
+"60117770","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","GRADUACAO",0
+"90000000","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","GRADUACAO",0
+"90000001","","","000100000991","Sociedade Brasileira de Química","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Analítica","Análise de Traços e Química Ambiental","CURSO_DE_CURTA_DURACAO",0
+"90000002","","","000100000991","Sociedade Brasileira de Química","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Orgânica","Síntese Orgânica","CURSO_DE_CURTA_DURACAO",0
+"90000003","","","008600000007","Sociedade Brasileira de Química","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Orgânica","","CURSO_DE_CURTA_DURACAO",0
+"90000004","","","008600000007","Sociedade Brasileira de Química","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000005","","","985600419629","Cristália Produtos Químicos e Farmacêuticos","CIENCIAS_SOCIAIS_APLICADAS","Administração","Administração de Setores Específicos","","CURSO_DE_CURTA_DURACAO",0
+"90000006","","","520300000002","Rede Metrológica do Estado de São Paulo","CIENCIAS_DA_SAUDE","Farmácia","Garantia e controle de qualidade farmacêuticos","","OT",0
+"90000007","","","985602000994","Instituto de Química - UNICAMP","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Orgânica","","GRADUACAO",0
+"90000008","","","985602000994","Instituto de Química - UNICAMP","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Orgânica","","OT",0
+"90000009","","","099500000009","Max-Planck-Gesellschaft","CIENCIAS_BIOLOGICAS","Bioquímica","","","OT",0
+"90000010","","","099500000009","Max-Planck-Gesellschaft","CIENCIAS_BIOLOGICAS","Bioquímica","","","OT",0
+"90000011","","","099500000009","Max-Planck-Gesellschaft","CIENCIAS_BIOLOGICAS","Bioquímica","","","OT",0
+"90000012","","","099500000009","Max-Planck-Gesellschaft","CIENCIAS_BIOLOGICAS","Bioquímica","","","OT",0
+"90000013","","","099500000009","Max-Planck-Gesellschaft","CIENCIAS_BIOLOGICAS","Bioquímica","","","OT",0
+"90000014","","","099500000009","Max-Planck-Gesellschaft","CIENCIAS_BIOLOGICAS","Bioquímica","","","OT",0
+"90000015","","","099500000009","Max-Planck-Gesellschaft","CIENCIAS_BIOLOGICAS","Bioquímica","","","OT",0
+"90000016","","","565700000000","Max-Planck-Institut für Kohlenforschung","OUTROS","","","","OT",0
+"90000017","","","985604000991","Instituto de Química - UNICAMP","CIENCIAS_DA_SAUDE","Farmácia","","","GRADUACAO",0
+"90000018","","","000600000990","Inter University Centar - Unversity of Zagreb","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000019","","","000800000994","Inter University Center Dubrovnik - University of Zagreb","OUTROS","","","","CURSO_DE_CURTA_DURACAO",0
+"90000020","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Orgânica","","DOUTORADO",0
+"90000021","","","000200000993","Instituto de Química - UNICAMP","OUTROS","","","","GRADUACAO",0
+"90000022","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_DA_SAUDE","Farmácia","","","GRADUACAO",0
+"90000023","","","000200000993","Instituto de Química - UNICAMP","OUTROS","","","","MESTRADO",0
+"90000024","","","000200000993","Instituto de Química - UNICAMP","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Orgânica","","DOUTORADO",0
+"90000025","","","007900000004","Universidade Estadual de Campinas","ENGENHARIAS","Engenharia Química","","","GRADUACAO",0
+"90000026","","","000200000993","Instituto de Química - UNICAMP","CIENCIAS_EXATAS_E_DA_TERRA","Química","Química Orgânica","","GRADUACAO",0
+"90000027","","","001500000997","Universidade de São Paulo","CIENCIAS_EXATAS_E_DA_TERRA","Química","","","DOUTORADO",0
+"90000028","","","000200000993","Instituto de Química - UNICAMP","CIENCIAS_DA_SAUDE","Farmácia","","","GRADUACAO",0
+"90000029","","","001800000992","Universidade Estadual Paulista - Araraquara","CIENCIAS_EXATAS_E_DA_TERRA","Química","Biocatálise","","MESTRADO",0
+"90000030","","","002000000996","Instituto de Biologia - UNICAMP","CIENCIAS_BIOLOGICAS","Genética","Genética Molecular e de Microorganismos","","DOUTORADO",0
+"90000031","","","002100000998","Faculdade de Ciências Farmacêuticas","CIENCIAS_DA_SAUDE","Farmácia","","","GRADUACAO",0
+"90000032","","","002000000996","Instituto de Biologia - UNICAMP","CIENCIAS_BIOLOGICAS","Bioquímica","","","DOUTORADO",0

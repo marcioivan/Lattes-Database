@@ -1,0 +1,44 @@
+﻿CODIGO-CURSO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NOME-GRANDE-AREA-DO-CONHECIMENTO,NOME-DA-AREA-DO-CONHECIMENTO,NOME-DA-SUB-AREA-DO-CONHECIMENTO,NOME-DA-ESPECIALIDADE,NIVEL-CURSO,INFORMACOES-ADICIONAIS-CURSOS_Id
+"00001805","","","007937001004","Departamento de Teoria Econômica","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","ESPECIALIZACAO",0
+"33020361","","","006700000002","Universidade de São Paulo","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO_DOUTORADO",0
+"33070016","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_HUMANAS","Educação","","","MESTRADO_DOUTORADO",0
+"33070202","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO_DOUTORADO",0
+"33070393","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_HUMANAS","Sociologia","","","DOUTORADO",0
+"33070504","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_HUMANAS","Filosofia","","","MESTRADO_DOUTORADO",0
+"33070610","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Demografia","","","MESTRADO_DOUTORADO",0
+"60008342","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO_DOUTORADO",0
+"60008547","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0
+"60018291","","","553800000008","Universidade Estadual do Oeste do Paraná","CIENCIAS_SOCIAIS_APLICADAS","Planejamento Urbano e Regional","","","MESTRADO_DOUTORADO",0
+"90000001","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_EXATAS_E_DA_TERRA","Probabilidade e Estatística","","","GRADUACAO",0
+"90000002","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","GRADUACAO",0
+"90000003","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","DOUTORADO",0
+"90000004","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0
+"90000005","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","GRADUACAO",0
+"90000006","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","DOUTORADO",0
+"90000007","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","EXTENSAO_UNIVERSITARIA",0
+"90000008","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","ESPECIALIZACAO",0
+"90000009","","","000100000991","Escola Superior de Agricultura Luiz de Queiroz Usp","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","DOUTORADO",0
+"90000010","","","000200000993","Universidade Libre de Bruxelas","CIENCIAS_SOCIAIS_APLICADAS","Economia","Métodos Quantitativos em Economia","Estatística Sócio-Econômica","CURSO_DE_CURTA_DURACAO",0
+"90000011","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","APERFEICOAMENTO",0
+"90000012","","","000500000999","Instituto de Economia","CIENCIAS_SOCIAIS_APLICADAS","Economia","Teoria Econômica","","GRADUACAO",0
+"90000013","","","000400000997","Instituto de Economia","OUTROS","","","","GRADUACAO",0
+"90000014","","","000600000990","Instituto de Filosofia e Ciências Humanas","CIENCIAS_SOCIAIS_APLICADAS","Demografia","Distribuição Espacial","Distribuição Espacial Rural","DOUTORADO",0
+"90000015","","","000400000997","Instituto de Economia","CIENCIAS_SOCIAIS_APLICADAS","Economia","Economia do Bem-Estar Social","Economia dos Programas de Bem-Estar Social","DOUTORADO",0
+"90000016","","","000700000992","Instituto de Economia UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","Teoria Econômica","Economia Geral","GRADUACAO",0
+"90000017","","","000700000992","Instituto de Economia UNICAMP","OUTROS","","","","MESTRADO",0
+"90000018","","","000700000992","Instituto de Economia UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","Teoria Econômica","Economia Geral","MESTRADO",0
+"90000019","","","000800000994","Instituto de Economia da UNICAMP","OUTROS","","","","DOUTORADO",0
+"90000020","","","000700000992","Instituto de Economia UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0
+"90000021","","","007900000004","Universidade Estadual de Campinas","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO_DOUTORADO",0
+"90000022","","","001200000991","Instituto de Economia - UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","DOUTORADO",0
+"90000023","","","007900000004","Universidade Estadual de Campinas","OUTROS","","","","MESTRADO_DOUTORADO",0
+"90000024","","","103800000006","Universidad de Concepción","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","CURSO_DE_CURTA_DURACAO",0
+"90000025","","","103800000006","Universidad de Concepción","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","CURSO_DE_CURTA_DURACAO",0
+"90000026","","","001200000991","Instituto de Economia - UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","CURSO_DE_CURTA_DURACAO",0
+"90000027","","","001400000995","Faculdade de Saúde Pública - USP","CIENCIAS_DA_SAUDE","Saúde Coletiva","Saúde Pública","","CURSO_DE_CURTA_DURACAO",0
+"90000028","","","001200000991","Instituto de Economia - UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0
+"90000029","","","001200000991","Instituto de Economia - UNICAMP","OUTROS","","","","MESTRADO",0
+"90000030","","","001200000991","Instituto de Economia - UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","MESTRADO",0
+"90000031","","","002800000990","Instituto de Filosofia e Ciências Humanas - UNICAMP","CIENCIAS_HUMANAS","Sociologia","","","MESTRADO",0
+"90000032","","","001200000991","Instituto de Economia - UNICAMP","CIENCIAS_SOCIAIS_APLICADAS","Economia","Economia do Bem-Estar Social","","APERFEICOAMENTO",0
+"90000033","","","930243000005","Universität Kassel","CIENCIAS_SOCIAIS_APLICADAS","Economia","","","DOUTORADO",0

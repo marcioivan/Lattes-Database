@@ -1,0 +1,8 @@
+﻿NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,TIPO-PARTICIPACAO,FORMA-PARTICIPACAO,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,PARTICIPACAO-EM-SIMPOSIO_Id
+"Simpósio","","2009","Estados Unidos","","NAO_INFORMADO","","NAO","","Ouvinte","","","NAO",0
+"Simpósio","Programming Finite Element Methods for ccNUMA processors","2013","Hungria","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","","NAO",1
+"Simpósio","Live Range Hole Allocation in Dynamic Binary Translation","2011","Estados Unidos","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","Live Range Hole Allocation in Dynamic Binary Translation","NAO",2
+"Simpósio","Image Re-Ranking Acceleration on GPUs","2013","Brasil","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","Image Re-Ranking Acceleration on GPUs","NAO",3
+"Simpósio","Structure-Constrained Microcode Compression","2011","Brasil","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","Structure-Constrained Microcode Compression","NAO",4
+"Simpósio","Characterization of DBT overhead","2009","Brasil","","NAO_INFORMADO","10.1109/IISWC.2009.5306785","NAO","Apresentação Oral","Participante","","","NAO",5
+"Simpósio","LAR-CC: Large Atomic Regions with Conditional Commits","2011","França","","NAO_INFORMADO","http://dx.doi.org/10.1109/CGO.2011.5764674","NAO","Apresentação Oral","Participante","","LAR-CC: Large Atomic Regions with Conditional Commits","NAO",6

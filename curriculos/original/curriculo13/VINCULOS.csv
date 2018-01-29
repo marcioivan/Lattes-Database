@@ -1,0 +1,12 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","CELETISTA","LIVRE","14","NAO","02","2006","01","2009","","NAO","","Professor","","",0
+"1","CELETISTA","LIVRE","12","NAO","03","2002","02","2004","","NAO","","Professor","","",1
+"1","CELETISTA","LIVRE","","SIM","03","2002","06","2002","","NAO","","Professor","","",2
+"1","CELETISTA","LIVRE","","SIM","09","2002","03","2006","A partir de janeiro de 2007, presto consultoria para a BM&F na elaboração de apostilas e como professor em seus cursos.","NAO","","Assistente do Núcleo Educacional","","",3
+"1","LIVRE","LIVRE","20","NAO","03","1998","12","1999","","SIM","Estagiário","Estagiário","","",4
+"1","SERVIDOR_PUBLICO","LIVRE","40","SIM","03","2009","","","","NAO","","RDIDP","","",5
+"1","LIVRE","LIVRE","","NAO","","2008","","","","SIM","Revisor de periódico","","","",6
+"1","LIVRE","LIVRE","","NAO","","2009","","","","SIM","Revisor de periódico","","","",7
+"1","LIVRE","LIVRE","","NAO","01","2010","","","","SIM","Revisor de projeto de fomento","","","",8
+"1","LIVRE","LIVRE","","NAO","02","2014","","","","SIM","Revisor de periódico","","","",9
+"2","LIVRE","LIVRE","","NAO","","2014","","2015","","SIM","","","","",10

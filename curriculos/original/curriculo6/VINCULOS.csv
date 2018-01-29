@@ -1,0 +1,28 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","COLABORADOR","LIVRE","4","NAO","3","1997","","","","SIM","","Professor Externo","","",0
+"1","LIVRE","LIVRE","4","NAO","01","2005","11","2012","","SIM","Professora","Professora","","",1
+"1","SERVIDOR_PUBLICO","LIVRE","12","NAO","03","2005","07","2006","AUP 266 Planejamento de Estruturas Urbanas
+AUP 268 Planejamento de Estruturas Urbanas e Regionais
+AUP 565 Planejamento Urbano Estratégico","NAO","","Auxiliar de ensino","","",2
+"1","SERVIDOR_PUBLICO","LIVRE","","NAO","","2001","","2002","","NAO","","Assessira Parlamentar","","",3
+"1","LIVRE","LIVRE","","NAO","03","1993","12","1994","","SIM","Membro de corpo editorial","","","",5
+"1","LIVRE","LIVRE","20","NAO","08","1991","09","1992","Participação no desenvolvimento do projeto de habitação e interesse social "Chácara do Conde" por contrato com a SEHAB - Secretaria de Habitação e Prefeitura Municipal de SP - Desenvolvimento Urbano, Superintendência da Habitação e Prefeitura Municipal de SP - HABI","SIM","Estágio","Estágio","","",6
+"2","COLABORADOR","LIVRE","30","NAO","09","1994","10","1994","Participação no desenvolvimento da proposta para o plano de bairro para Pinheiros e Vila Olímpia para o Movimento Defenda São Paulo","SIM","","Colaborador","","",6
+"3","LIVRE","LIVRE","12","NAO","","2005","","2011","","SIM","Doutoranda","Estudante de pós-graduação","","",7
+"4","PROFESSOR_VISITANTE","LIVRE","8","NAO","09","2012","11","2012","","SIM","","Professor visitante","","",7
+"5","SERVIDOR_PUBLICO","LIVRE","","SIM","11","2012","","","","NAO","","Professor","","",7
+"4","PROFESSOR_VISITANTE","LIVRE","20","NAO","","2010","","2010","","SIM","","Pesquisador","","",8
+"5","LIVRE","LIVRE","40","NAO","","2010","","2010","","SIM","Visitante","Pesquisador","","",9
+"6","LIVRE","LIVRE","30","NAO","","2002","","2002","Realização de pesquisa sobre São Paulo, favelas e pobreza, realizada segundo termo de referência elabora para a UN-Habitat. Os resultados fazem parte do Global Report 2003 e foram publicados resumidos e na íntegra pela UN-Habitat.","SIM","Pesquisaldor","Pesquisador","","",10
+"1","LIVRE","LIVRE","18","NAO","10","2005","10","2005","Jornada de trabalho a convite da Ecole National Supérieure d'Architeture de Grenoble, de 24 a 26 de outubro, enviado pelo diretor Vicent Michel
+24/10 - Jornada de trabalho com o laboratório CRAterre (M. Patrice Doat) e com Hubert Guillaud, diretor do laboratório e vice presidente do conselho de adminstração, encarregado das cooperações internacionais.
+25 e 26/10 - Encontros de trabalho organizados por M. Chérif Kebbal, responsável pelo atelier Dessin Chantier, e vice-presidente do conselho adminstrativo
+A jornada contou com participação de Sérgio Gerro, professor emérito da ENSAG.","SIM","Encontro de trabalho","Visitante","","",11
+"1","LIVRE","LIVRE","","NAO","08","2012","09","2012","","SIM","Bolsista","_","","",12
+"1","LIVRE","LIVRE","","NAO","1","2012","","","","SIM","Revisor de periódico","","","",13
+"1","LIVRE","LIVRE","","NAO","6","2013","","","","SIM","Revisor de periódico","","","",14
+"1","LIVRE","LIVRE","","NAO","2","2014","","","","SIM","Revisor de periódico","","","",15
+"1","LIVRE","LIVRE","","NAO","","2013","","","Membro do Conselho Editorial","SIM","Membro de corpo editorial","","","",16
+"1","LIVRE","LIVRE","","NAO","02","2014","","","","SIM","Revisor de periódico","","","",17
+"1","LIVRE","LIVRE","","NAO","5","2015","","","","SIM","Revisor de periódico","","","",18
+"2","LIVRE","LIVRE","","NAO","3","2017","","","2017 - 01 parecer","SIM","Revisor de projeto de fomento","","","",19

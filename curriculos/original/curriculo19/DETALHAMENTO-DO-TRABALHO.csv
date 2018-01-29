@@ -1,0 +1,37 @@
+﻿CLASSIFICACAO-DO-EVENTO,NOME-DO-EVENTO,CIDADE-DO-EVENTO,ANO-DE-REALIZACAO,TITULO-DOS-ANAIS-OU-PROCEEDINGS,VOLUME,FASCICULO,SERIE,PAGINA-INICIAL,PAGINA-FINAL,ISBN,NOME-DA-EDITORA,CIDADE-DA-EDITORA,NOME-DO-EVENTO-INGLES,TRABALHO-EM-EVENTOS_Id
+"NACIONAL","Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens","São Carlos","1995","Anais do Simpósio Brasileiro de Computação Gráfica e Processamento de Imagens","","","","","","","","","",0
+"INTERNACIONAL","V Congreso Iberoamericano de Educacion Superior en","Cidade do México","1996","V Congreso Iberoamericano de Educacion Superior en
+Computacion","","","","291","299","","","","",1
+"INTERNACIONAL","4th International
+4th International Conference on Configurable Distributed Systems","Annapolis, Maryland,","1998","Proceedings of the 4th International
+Proceedings of the 4th International Conference on Configurable Distributed Systems","","","","215","223","","IEEE","","",2
+"NACIONAL","II Workshop em Sistemas Distribuídos","Curitiba, Paraná","1998","Anais do II Workshop em Sistemas Distribuídos","","","","","","","","","",3
+"REGIONAL","III Escola Regional da SBC-Reg. São Paulo","Piracicaba","1998","Anais da III Escola Regional da SBC-Reg. São Paulo","","","","117","141","","","","",4
+"INTERNACIONAL","19th IEEE International Conference on Distributed Computing Systems","Austin, Texas","1999","Proceedings of the 19th IEEE International Conference on Distributed Computing Systems","","","","55","62","","","","",5
+"NACIONAL","VIII Simpósio de Computação Tolerante a Falhas","Campinas, SP","1999","Anais do VIII Simpósio de Computação Tolerante a Falhas","","","","","","","","","",6
+"INTERNACIONAL","21th IEEE International Conference on Distributed Computing Systems","Phoenix, Arizona","2001","Proceedings of the 21th IEEE International Conference on Distributed Computing Systems","","","","342","349","","","","",7
+"NACIONAL","Simpósio Brasileiro de Redes de Computadores","Florianópolis, Santa Catarina","2001","Anais do Simpósio Brasileiro de Redes de Computadores","","","","","","","","","",8
+"NACIONAL","IX Simpósio de Computação Tolerante a Falhas","Florianópolis, Santa Catarina","2001","Anais do IX Simpósio de Computação Tolerante a Falhas","","","","","","","","","",9
+"NACIONAL","XV Concurso de Teses e Dissertações","Florianópolis, Santa Catarina","2002","Anais do XXII Congresso da Sociedade Brasileira de Computação","3","","","91","98","","","","",10
+"NACIONAL","III Workshop de Testes e Tolerância a Falhas","Búzios, Rio de Janeiro","2002","Anais do III Workshop de Testes e Tolerância a Falhas","","","","77","80","","","","",11
+"NACIONAL","IV Workshop de Comunicação Sem Fio e Computação Móvel","São Paulo","2002","IV Workshop de Comunicação Sem Fio e Computação Móvel","","","","27","35","","","","",12
+"NACIONAL","21 Simpósio Brasileiro de Redes de Computadores","Natal","2003","21 Simpósio Brasileiro de Redes de Computadores","","","","681","696","","","","",13
+"INTERNACIONAL","Symposium on Reliable Distributed Systems","Florianópolis","2004","Symposium on Reliable Distributed Systems","","","","126","135","0769522394","","","",14
+"NACIONAL","Workshop em Sistemas Computacionais de Alto Desempenho","Foz do Iguaçu","2004","Anais do Quinto Workshop em Sistemas Computacionais de Alto Desempenho","","","","","","","","","",15
+"INTERNACIONAL","25th IEEE International Conference on Distributed Computing Systems (ICDCS&apos;05)","Columbus","","25th IEEE International Conference on Distributed Computing Systems (ICDCS&apos;05)","","","","167","176","0769523315","IEEE","","",16
+"NAO_INFORMADO","Symposium on Principles of Distributed Computing","St.John's,Newfoundland, Canadá","2004","Proceedings of the Symposium on Principles of Distributed Computing","","","","392","392","1581138024","","","",17
+"NACIONAL","I Workshop de Redes Peer-to-Peer","Fortaleza","2005","Anais do I Workshop de Redes Peer-to-Peer","1","","","73","84","","","","",18
+"INTERNACIONAL","25th IEEE Symposium on Reliable Distributed Systems","Leeds - Inglaterra","2006","Proceedings of the 25th IEEE Symposium on Reliable Distributed Systems","","","","411","","","","","",19
+"NACIONAL","V Workshop de Testes e Tolerância a Falhas","Gramado","2004","Anais do V Workshop de Testes e Tolerância a Falhas","1","","","153","164","","","","",20
+"INTERNACIONAL","4rd IEEE International Workshop on Modelling Autonomic Communications Environments - MACE'09","Veneza","2009","4rd IEEE International Workshop on Modelling Autonomic Communications Environments - MACE'09","","","","","","","","","",21
+"INTERNACIONAL","2010 IEEE International Symposium on Reliable Distributed Systems (SRDS)","New Delhi","","2010 29th IEEE Symposium on Reliable Distributed Systems","","","","275","7","9780769542508","IEEE","","",22
+"NACIONAL","VIII Workshop de Sistemas Operacionais","Florianópolis","2011","VIII Workshop de Sistemas Operacionais","","","","1","9","","","","",23
+"NACIONAL","II Workshop de Sistemas Distribuídos Autonômicos","Ouro Preto","2012","Anais do XXVIII Simpósio Brasileiro de Redes de Computadores","","","","","","","","","",24
+"INTERNACIONAL","2012 IEEE 31st International Symposium on Reliable Distributed Systems (SRDS)","Irvine","","2012 IEEE 31st Symposium on Reliable Distributed Systems","","","","131","10","9781467323970","","","",25
+"INTERNACIONAL","International Conference on New Technologies, Mobility and Security","Paris","","Integrating OpenFlow to LTE: some issues toward Software-Defined Mobile Networks. In: International Conference on New Technologies, Mobility and Security","","","","","","","","","",26
+"INTERNACIONAL","the Workshop","Seattle","","Proceedings of the Workshop on ns-3 - WNS3 '16","","","","33","","9781450342162","","","",27
+"NACIONAL","Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)","Salvador","2016","Anais do XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos,","","","","879","892","","","","",28
+"NACIONAL","Salão de Ferramentas do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC)","Salvador","2016","Anais do XXXIV Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos,","","","","1213","1220","","","","",29
+"NAO_INFORMADO","2016 IEEE Symposium on Computers and Communication (ISCC)","Messina","2016","2016 IEEE Symposium on Computers and Communication (ISCC)","","","","1233","","9781509006793","","","",30
+"NACIONAL","XV Workshop em Desempenho de Sistemas Computacionais e de Comunicação","Porto Alegre","2016","Anais do XV Workshop em Desempenho de Sistemas Computacionais e de Comunicação","","","","1","12","","","","",31
+"NACIONAL","II Workshop de Testes e Tolerância a Falhas","Curitiba, Paraná","2000","Anais do II Workshop de Testes e Tolerância a Falhas","","","","16","21","","","","",32

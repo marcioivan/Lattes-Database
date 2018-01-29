@@ -1,0 +1,7 @@
+﻿TIPO,NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,ORGANIZACAO-DE-EVENTO_Id
+"CONGRESSO","ORGANIZACAO","9th International Symposium in Advances in Spatial and Temporal Databases SSTD05","2005","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",0
+"CONGRESSO","ORGANIZACAO","VI Escola de Computacao","1988","Brasil","Português","IMPRESSO","","NAO","","","NAO",1
+"CONGRESSO","ORGANIZACAO","IV Simposio Brasileiro de Bancos de Dados","1989","Brasil","Português","IMPRESSO","","NAO","","","NAO",2
+"CONGRESSO","ORGANIZACAO","Simposio Brasileiro de Geoinformática - GEOINFO","2001","Brasil","Português","IMPRESSO","","NAO","","","NAO",3
+"CONGRESSO","ORGANIZACAO","10th IEEE International Conference on eScience","2014","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",4
+"CONGRESSO","ORGANIZACAO","7th International Conference on Geographic Information Systems (ACM GIS)","1999","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",5

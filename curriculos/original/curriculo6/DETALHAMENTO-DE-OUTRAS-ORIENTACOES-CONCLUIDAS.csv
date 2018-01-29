@@ -1,0 +1,16 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Alex Gyurkovics Artacio","000500000999","Faculdades Campinas","90000003","Design","NAO","","","CO_ORIENTADOR","","","",0
+"Larissa Falcão","000500000999","Faculdades Campinas","90000003","Design","NAO","","","CO_ORIENTADOR","","","",1
+"Giovani Espíndola Ribeiro","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",2
+"Júlia Silva Abrahão","007900000004","Universidade Estadual de Campinas","60144157","Ciências Biológicas","NAO","","","CO_ORIENTADOR","","","",3
+"Caio Coradi Momesso","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",4
+"Fernanda Dalberto","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",5
+"Lívia Macedo Toni","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",6
+"William Loures da Costa","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",7
+"Eduardo Gomes Maximiliano","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",8
+"Letícia de Oliveira Souza","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",9
+"Matheus Giovanni Paschoal","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",10
+"Aquiles Coelho","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",11
+"Matheus Giovanni Luchi Paschoal","007900000004","Universidade Estadual de Campinas","60195010","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",12
+"MATHEUS AVILA AMARAL DE SOUZA","007900000004","Universidade Estadual de Campinas","60096837","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",13
+"Rafael D?Alecio Bacchetti","000500000999","Faculdades Campinas","90000003","Design","NAO","","","CO_ORIENTADOR","","","",14

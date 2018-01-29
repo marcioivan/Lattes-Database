@@ -1,0 +1,10 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+PROGRAMACAO SISTEMATICA; ESTRUTURAS DE DADOS; LINGUAGENS DE PROGRAMACAO.,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,3,1977,NULL,NULL
+Projeto de Interfaces,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,3,1977,NULL,NULL
+Design e Avaliação de Interfaces,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,3,1977,NULL,NULL
+Engenharia de Software,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,3,1977,NULL,NULL
+Fatores Humanos em Sistemas Computacionais,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,8,1993,NULL,NULL
+Projeto de Interfaces,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,8,1993,NULL,NULL
+Introdução à Inteligência Artificial,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,8,1993,NULL,NULL
+Semiótica em Sistemas de Informação,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,8,1993,NULL,NULL
+Tópicos Especiais em Interfaces de Usuário,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ATUAL,8,1993,NULL,NULL

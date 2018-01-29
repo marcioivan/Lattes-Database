@@ -1,0 +1,16 @@
+﻿PROJETO-DE-PESQUISA_Id,SEQUENCIA-PROJETO,ANO-INICIO,ANO-FIM,NOME-DO-PROJETO,SITUACAO,NATUREZA,NUMERO-GRADUACAO,NUMERO-ESPECIALIZACAO,NUMERO-MESTRADO-ACADEMICO,NUMERO-MESTRADO-PROF,NUMERO-DOUTORADO,DESCRICAO-DO-PROJETO,IDENTIFICADOR-PROJETO,DESCRICAO-DO-PROJETO-INGLES,NOME-DO-PROJETO-INGLES,FLAG-POTENCIAL-INOVACAO,NOME-COORDENADOR-CERTIFICACAO,DATA-CERTIFICACAO,NUMERO_TECNICO_NIVEL_MEDIO,PARTICIPACAO-EM-PROJETO_Id
+0,"1","2004","2006","Sistema de Identificação de Polimorfismos","CONCLUIDO","PESQUISA","","","","","","","","","","NAO","","","",0
+1,"1","2003","2004","Técnicas Avançadas de Engenharia de Software em Bioinformática","CONCLUIDO","PESQUISA","","","","","","","","","","NAO","","","",1
+2,"1","2007","2010","Convênio AsGa / Unicamp","CONCLUIDO","DESENVOLVIMENTO","","","","","","","","","","NAO","","","",2
+3,"1","2007","2009","Sistema Integrador de Dados de Expressão Gênica","CONCLUIDO","PESQUISA","","","","","","","","","","NAO","","","",3
+4,"1","2007","2010","Algoritmos em Otimização Combinatória","CONCLUIDO","PESQUISA","","","","","3","","","","","NAO","","","",4
+5,"1","2007","2010","Algoritmos, Otimização Combinatória, Grafos e Modelos Computacionais","CONCLUIDO","PESQUISA","","","","","3","","","","","NAO","","","",5
+6,"2","2009","2011","Algoritmos Combinatórios","CONCLUIDO","PESQUISA","","","","","","","","","Algoritmos Combinatórios","NAO","","","",6
+7,"3","2010","2012","Algoritmos, Grafos e Otimização Combinatória","CONCLUIDO","PESQUISA","","","2","","3","","","","Algoritmos, Grafos e Otimização Combinatória","NAO","","","",7
+8,"5","2012","2014","Reverse Engineering of Audio-Visual Content Data InCo Extension (REWIND)","CONCLUIDO","PESQUISA","","","","","","","","","Reverse Engineering of Audio-Visual Content Data InCo Extension (REWIND)","NAO","","","",8
+9,"4","2012","2016","Algoritmos, Grafos e Otimização Combinatória","CONCLUIDO","PESQUISA","","","","","","","","","Algoritmos, Grafos e Otimização Combinatória","NAO","","","",8
+10,"6","2004","2005","Algorithms and Combinatorics for Computational Molecular Biology","CONCLUIDO","PESQUISA","","","","","","","","","Algorithms and Combinatorics for Computational Molecular Biology e Combinatória para Problemas de Biologia Molecular","NAO","","","",9
+11,"7","2013","","CEPID - Center for Computational Engineering and Sciences","EM_ANDAMENTO","PESQUISA","","","","","","","","","CEPID - Center for Computational Engineering and Sciences","NAO","","","",10
+12,"8","2013","2016","Problemas de Distância de Rearranjo de Genomas","CONCLUIDO","PESQUISA","","","2","","2","","","","Problemas de Distância de Rearranjo de Genomas","NAO","","","",11
+13,"10","2015","","Algoritmos para Rearranjos de Genomas","EM_ANDAMENTO","PESQUISA","","","2","","3","","","","Algoritmos para Rearranjos de Genomas","NAO","","","",12
+14,"9","2015","","Problemas de Rearranjos de Genomas: Algoritmos e Complexidades","EM_ANDAMENTO","PESQUISA","","","","","6","","","","Problemas de Rearranjos de Genomas: Algoritmos e Complexidades","NAO","","","",12

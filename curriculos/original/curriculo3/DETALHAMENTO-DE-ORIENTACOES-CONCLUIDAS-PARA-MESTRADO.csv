@@ -1,0 +1,9 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id
+"ORIENTADOR_PRINCIPAL","Paola Albano","001600000999","Insituto de Artes da Universidade Estadual de Campinas","","","90000022","Mestrado","NAO","","","","0060744499480128","",0
+"ORIENTADOR_PRINCIPAL","Clênio de Moura Abres","000900000996","Instituto de Artes da Universidade Estadual de Campinas","","","90000026","Mestrado","NAO","","","","0102879845752361","",1
+"ORIENTADOR_PRINCIPAL","Ana Paula de Lima Albuquerque","000900000996","Instituto de Artes da Universidade Estadual de Campinas","","","90000027","Mestrado em Música","NAO","","","","5493619356306066","",2
+"ORIENTADOR_PRINCIPAL","Maria Izabel Padovani","000900000996","Instituto de Artes da Universidade Estadual de Campinas","","","90000027","Mestrado em Música","NAO","","","","","",3
+"ORIENTADOR_PRINCIPAL","Martina Martins Marana","000900000996","Instituto de Artes da Universidade Estadual de Campinas","","","90000027","Mestrado em Música","NAO","","","","8428263746481740","",4
+"ORIENTADOR_PRINCIPAL","Maria Elisa Xavier de Miranda Pompeu","000900000996","Instituto de Artes da Universidade Estadual de Campinas","","","90000027","Mestrado em Música","NAO","","","","6927612199721354","",5
+"ORIENTADOR_PRINCIPAL","Henrique Cantalogo Couto","000900000996","Instituto de Artes da Universidade Estadual de Campinas","","","90000027","Mestrado em Música","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","","1865766260529717","",6
+"ORIENTADOR_PRINCIPAL","Fernando Seiji Sagawa","000900000996","Instituto de Artes da Universidade Estadual de Campinas","","","90000024","Mestrado","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","","1011689927148991","",7

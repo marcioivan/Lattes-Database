@@ -1,0 +1,19 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Laboratório de Circuitos Lógicos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,3,2005,7,2005
+Estruturas de Dados,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,7,2005,12,2005
+Laboratório de Circuitos Lógicos,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,3,2006,NULL,NULL
+Algoritmos e Programação de Computadores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,3,2006,NULL,NULL
+MO801-Tópicos em Arquitetura e Hardware,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,08,2007,12,2007
+MC011- Laboratório de Construção de Compiladores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2007,06,2007
+MC910 - Construção de Compiladores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,08,2007,12,2007
+Laboratório de Construção de Compiladores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,02,2008,07,2008
+Construção de Compiladores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,08,2008,12,2008
+MC011 - Laboratório de Construção de Compiladores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ANTERIOR,03,2009,07,2009
+MO403 - Implementação de Linguagens I,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,03,2009,07,2009
+MC910 - Construção de Compiladores,GRADUACAO,Engenharia de Computação,Universidade Estadual de Campinas,ATUAL,08,2009,NULL,NULL
+Implementação de Linguagens II,POS-GRADUACAO,Ciência da Computação,Universidade Estadual de Campinas,ANTERIOR,02,2008,07,2008
+Laboratório de Circuitos Lógicos,GRADUACAO,Engenharia de Computação,Pontifícia Universidade Católica de Campinas,ANTERIOR,8,2004,12,2004
+Arquitetura de Computadores (curso de verão),GRADUACAO,Engenharia de Computação,Pontifícia Universidade Católica de Campinas,ANTERIOR,1,2005,2,2005
+Circuitos Lógicos,GRADUACAO,Engenharia Elétrica,Pontifícia Universidade Católica de Campinas,ANTERIOR,2,2005,7,2005
+Arquitetura de Computadores,GRADUACAO,Engenharia Elétrica,Pontifícia Universidade Católica de Campinas,ANTERIOR,8,2004,12,2004
+Organização Básica de Computadores,GRADUACAO,Engenharia Elétrica,Pontifícia Universidade Católica de Campinas,ANTERIOR,8,2004,12,2004

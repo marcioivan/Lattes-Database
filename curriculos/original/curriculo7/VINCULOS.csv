@@ -1,0 +1,36 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"5","LIVRE","LIVRE","20","NAO","3","1982","1","1985","","SIM","estagio","estagio","","",0
+"9","COLABORADOR","LIVRE","40","NAO","3","1992","10","1993","","SIM","","consultor","","",1
+"11","COLABORADOR","LIVRE","25","NAO","1","1992","10","1994","","SIM","","consultora","","",1
+"1","LIVRE","LIVRE","40","NAO","5","1992","10","1995","Empresa criada para desenvolver o DESTRO, interface gráfica para o ATP. Fui responsável pela idealização do editor e transferência do conhecimento da montagem de um arquivo de dados do ATP.","SIM","diretora","proprieta'ria","","",2
+"2","LIVRE","LIVRE","25","NAO","2","1992","10","1995","Concepção do projeto do editor gráfico DESTRO para entrada de dados do programa de simulação digital ATP (Alternative Transient Program), utilizado no cálculo de transitórios eletromagnéticos. Responsável por toda a idealização do editor, no que tange as facilidades ao usuário e o conhecimento intrínseco do ATP.","SIM","diretora","sócia","","",2
+"3","LIVRE","LIVRE","25","NAO","2","1992","10","1995","","SIM","sócia","diretora","","",2
+"1","LIVRE","LIVRE","40","NAO","1","1988","10","1990","","NAO","Servidor público ou celetista","engenheira","","",3
+"2","LIVRE","LIVRE","40","SIM","1","1988","10","1990","","NAO","Servidor público ou celetista","engenheira","","",3
+"1","LIVRE","PROFESSOR_TITULAR","40","SIM","1","1987","1","1988","","NAO","Servidor público ou celetista","","","",4
+"1","LIVRE","PROFESSOR_TITULAR","40","SIM","2","1985","1","1987","","NAO","Servidor público ou celetista","","","",5
+"1","SERVIDOR_PUBLICO","LIVRE","40","SIM","8","2002","","","desenvolve atividades de ensino e pesquisa na graduação e pós-graduação","NAO","","professor livre docente - associado (MS5.2)","","",6
+"1","COLABORADOR","LIVRE","40","NAO","2","1996","6","1998","","SIM","","bolsista RHAE/CNPq","","",7
+"2","LIVRE","LIVRE","40","NAO","7","1998","3","1999","","SIM","Bolsista recém-doutor","bolsista","","",7
+"3","COLABORADOR","LIVRE","40","NAO","4","1999","7","2002","","SIM","","bolsista Jovem Pesquisadora FAPESP","","",7
+"1","LIVRE","LIVRE","","NAO","08","2002","","","","SIM","Revisor de periódico","","","",8
+"1","LIVRE","LIVRE","","NAO","08","2001","","","","SIM","Revisor de periódico","","","",9
+"1","LIVRE","LIVRE","","NAO","08","2003","12","2006","","SIM","Revisor de periódico","","","",10
+"1","LIVRE","LIVRE","","NAO","08","2003","","","","SIM","Revisor de periódico","","","",11
+"1","LIVRE","LIVRE","","NAO","08","2012","","","","SIM","Revisor de projeto de fomento","","","",12
+"1","LIVRE","LIVRE","","NAO","03","2008","","","","SIM","Revisor de projeto de fomento","","","",13
+"1","LIVRE","LIVRE","","NAO","03","2006","","","","SIM","Revisor de projeto de fomento","","","",14
+"1","LIVRE","LIVRE","","NAO","05","2011","","","","SIM","Revisor de periódico","","","",15
+"1","LIVRE","LIVRE","","NAO","06","2012","","","","SIM","Revisor de periódico","","","",16
+"1","LIVRE","LIVRE","","NAO","03","2003","","","","SIM","Revisor de periódico","","","",17
+"1","LIVRE","LIVRE","","NAO","01","2012","","","","SIM","Revisor de periódico","","","",18
+"1","LIVRE","LIVRE","","NAO","09","2012","","","","SIM","Revisor de projeto de fomento","","","",19
+"1","LIVRE","LIVRE","","NAO","11","2016","","","","SIM","Membro de corpo editorial","","","",20
+"2","LIVRE","LIVRE","","NAO","3","2016","","","pISSN : 1229-4691 
+eISSN : 2287-5034 
+Journal DOI : 10.5207/JIEIE 
+Frequency : Monthly","SIM","Membro de corpo editorial","","","",21
+"1","LIVRE","LIVRE","","NAO","10","2010","","","","SIM","Revisor de periódico","","","",22
+"1","LIVRE","LIVRE","","NAO","1","2007","","","","SIM","Revisor de periódico","","","",23
+"1","LIVRE","LIVRE","","NAO","11","2013","","","","SIM","Revisor de periódico","","","",24
+"1","LIVRE","LIVRE","","NAO","11","2015","","","","SIM","Revisor de periódico","","","",25

@@ -1,0 +1,13 @@
+﻿TIPO,TITULO-DO-CAPITULO-DO-LIVRO,ANO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-CAPITULO-DO-LIVRO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,CAPITULO-DE-LIVRO-PUBLICADO_Id
+"Capítulo de livro publicado","Adaptive Finite Element Methods For High Speed Compressible Flows","1988","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",0
+"Capítulo de livro publicado","Recent Advances In Error Estimation And Adaptive Improvement Of Finite Element Calculations","1986","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",1
+"Capítulo de livro publicado","Adaptive Methods For Problems In Solid And Fluid Mechanics","1986","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",2
+"Capítulo de livro publicado","Adaptative Finite Element Methods For Compressible Flow Problems","1986","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",3
+"Capítulo de livro publicado","An Element By Element Block Iterative Method For Large Nonlinear Problems","1984","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",4
+"Capítulo de livro publicado","Modeling Using the Finite Element Method and its Object Oriented Implementation","2003","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",5
+"Capítulo de livro publicado","Construção de Pré-Condicionador Block-Diagonal Usando Bases Hierárquicas.","1997","Brasil","Português","IMPRESSO","","NAO","","","NAO",6
+"Capítulo de livro publicado","Coupling Hdiv an H1 Finite Element Approximations for a Poisson Problem","2013","Alemanha","Inglês","NAO_INFORMADO","","NAO","","","NAO",7
+"Capítulo de livro publicado","Hierarchical High Order Finite Element Approximation Spaces for H(div) and H(curl)","2010","Alemanha","Inglês","NAO_INFORMADO","","NAO","","","NAO",8
+"Capítulo de livro publicado","Goal-Oriented Error Estimation for the Discontinuous Galerkin Method Applied to the Biharmonic Equation","2010","Alemanha","Inglês","NAO_INFORMADO","","NAO","","","NAO",9
+"Capítulo de livro publicado","Two-Dimensional H(div)-Conforming Finite Element Spaces with hp-Adaptivity","2016","Estados Unidos","Inglês","MEIO_DIGITAL","http://link.springer.com/10.1007/978-3-319-39929-4_9","NAO","10.1007/978-3-319-39929-4_9","","NAO",10
+"Capítulo de livro publicado","Object oriented programming in finite element analysis","2001","Grã-Bretanha","Inglês","IMPRESSO","","NAO","","","NAO",11

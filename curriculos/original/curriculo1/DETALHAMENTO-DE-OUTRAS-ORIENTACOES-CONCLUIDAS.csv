@@ -1,0 +1,5 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Heloísa Briganti Asenha","033500000006","Universidade Federal de São Carlos","60220333","Química","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",0
+"Heloísa Fassina Pallini","033500000006","Universidade Federal de São Carlos","60220333","Química","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",1
+"Carlos Ramalho","007900000004","Universidade Estadual de Campinas","","","NAO","","","CO_ORIENTADOR","","","",2
+"Jessica Baretta","033500000006","Universidade Federal de São Carlos","60115556","Biotecnologia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",3

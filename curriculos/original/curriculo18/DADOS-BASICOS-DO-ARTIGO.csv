@@ -1,0 +1,11 @@
+NATUREZA,TITULO-DO-ARTIGO,ANO-DO-ARTIGO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,FLAG-DIVULGACAO-CIENTIFICA,ARTIGO-PUBLICADO_Id
+COMPLETO,Dynamic binary control-flow errors detection,2005,,Inglês,VARIOS,[http://doi.acm.org/10.1145/1127577.1127582],SIM,NAO,0
+COMPLETO,Microcode Compression using Structured-constrained Clustering,2012,,Inglês,NAO_INFORMADO,,NAO,NAO,1
+COMPLETO,Efficient datapath merging for partially reconfigurable architectures,2005,,Português,MEIO_DIGITAL,,SIM,NAO,2
+COMPLETO,An automatic energy consumption characterization of processors using ArchC,2013,,Inglês,MEIO_DIGITAL,[doi:10.1016/j.sysarc.2013.05.025],NAO,NAO,3
+COMPLETO,"Uma abordagem para o ensino de linguagem de montagem, arquitetura e organização de computadores",2013,,Português,MEIO_DIGITAL,,NAO,NAO,4
+COMPLETO,Accelerating engineering software on modern multi-core processors,2015,,Inglês,MEIO_DIGITAL,[doi:10.1016/j.advengsoft.2014.12.003],NAO,NAO,5
+COMPLETO,Uma plataforma para o ensino de organização de computadores e linguagem de montagem,2014,,Português,MEIO_DIGITAL,,NAO,NAO,6
+COMPLETO,Performance implications of dynamic memory allocators on transactional memory systems,2015,,Inglês,MEIO_DIGITAL,[doi:10.1145/2858788.2688504],NAO,NAO,7
+COMPLETO,"Handling IoT platform heterogeneity with COISA, a compact OpenISA virtual platform",2016,,Inglês,MEIO_DIGITAL,[doi:10.1002/cpe.3932],NAO,NAO,8
+COMPLETO,Contextual Spaces Re-Ranking: accelerating the Re-sort Ranked Lists step on heterogeneous systems,2016,,Inglês,NAO_INFORMADO,,NAO,NAO,9

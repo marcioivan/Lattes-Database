@@ -1,0 +1,46 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Rafael Timbó Matos","007900000004","Universidade Estadual de Campinas","90000003","Ciência da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",0
+"Caian Benedicto","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",1
+"Gabriel Krisman Bertazi","007900000004","Universidade Estadual de Campinas","60361522","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",2
+"Alexandre N. de Medeiros","007900000004","Universidade Estadual de Campinas","90000003","Ciência da Computação","SIM","000600000990","Samsung","CO_ORIENTADOR","","","",3
+"Julia Ramos Beltrão","007900000004","Universidade Estadual de Campinas","90000003","Ciência da Computação","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",4
+"Alexandre Irmão Faltz","007900000004","Universidade Estadual de Campinas","90000003","Ciência da Computação","NAO","","","CO_ORIENTADOR","","","",5
+"Gabriel Krisman Bertazi","000400000997","Instituto de Computação - Unicamp","","","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",6
+"João Henrique Stange Hoffmam","000400000997","Instituto de Computação - Unicamp","","","SIM","000600000990","Samsung","CO_ORIENTADOR","","","",7
+"Alexandre Luiz Brisighello Filho","000400000997","Instituto de Computação - Unicamp","","","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",8
+"Alexandre Irmão Faltz","007900000004","Universidade Estadual de Campinas","90000003","Ciência da Computação","SIM","","","CO_ORIENTADOR","","","",9
+"Ricardo Esteves Borges","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",10
+"Caio Salvador Rohwedder","007900000004","Universidade Estadual de Campinas","","","SIM","000600000990","Samsung","CO_ORIENTADOR","","","",11
+"Carlos Eduardo Millani","007900000004","Universidade Estadual de Campinas","","","SIM","001100000990","Tecsinapse","CO_ORIENTADOR","","","",12
+"Carlos Eduardo Millani","007900000004","Universidade Estadual de Campinas","","","SIM","001100000990","Tecsinapse","CO_ORIENTADOR","","","",13
+"Gabriel Souza Franco","007900000004","Universidade Estadual de Campinas","","","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",14
+"Henrique Machado Gonçalves","007900000004","Universidade Estadual de Campinas","","","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",15
+"João Henrique Speglich","007900000004","Universidade Estadual de Campinas","","","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",16
+"Julia Ramos Beltrão","007900000004","Universidade Estadual de Campinas","","","NAO","","","CO_ORIENTADOR","","","",17
+"Leonardo Alves de Melo","007900000004","Universidade Estadual de Campinas","","","SIM","001100000990","Tecsinapse","CO_ORIENTADOR","","","",18
+"Luís Fernando Vieira Silva","007900000004","Universidade Estadual de Campinas","","","SIM","000600000990","Samsung","CO_ORIENTADOR","","","",19
+"Alexandre Luiz Brisighello Filho","007900000004","Universidade Estadual de Campinas","60311479","Engenharia de Computação","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",20
+"André Nakagaki Filliettaz","007900000004","Universidade Estadual de Campinas","60311479","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",21
+"Alexandre Novais de Medeiros","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",22
+"Gabriel Krisman Bertazi","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",23
+"Gabriel Krisman Bertazi","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",24
+"George Gondim Ribeiro","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",25
+"Juliano Siloto Assine","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",26
+"Ricardo Esteves Borges","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",27
+"Leandro Martin G. Angare","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",28
+"Lucas Tadeu Teixeira","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",29
+"Rafael Junio da Cruz","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",30
+"Giuliano Sider","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",31
+"Pedro Guilherme Sanches Contieri","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",32
+"Rafael Auler","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",33
+"Gabriel Ferreira Tales Gomes","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",34
+"Rafael Auler","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",35
+"Divino César Soares Lucas","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",36
+"Guilherme Guaglianoni Piccoli","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",37
+"Juliano Bernardes","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",38
+"Jeferson Rech Brunetta","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",39
+"Renan Monteiro Pinto Neto","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",40
+"Fabíola de Oliveira","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",41
+"Alex de Oliveira","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",42
+"Wendrey Lutosa Cardoso","007900000004","Universidade Estadual de Campinas","","","SIM","","","CO_ORIENTADOR","","","",43
+"Erik de Godoy Perillo","007900000004","Universidade Estadual de Campinas","","","SIM","000700000992","Petróleo Brasileiro","CO_ORIENTADOR","","","",44

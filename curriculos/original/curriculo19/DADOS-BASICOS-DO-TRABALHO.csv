@@ -1,0 +1,34 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"RESUMO","Astral: Animação Gráfica de Algoritmos e Estruturas de Dados---uma Abordagem Construtiva","1995","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","Ensino de Estruturas de Dados e seus Algoritmos através de Implementação com Animações","1996","México","Português","IMPRESSO","","NAO","","","NAO",1
+"COMPLETO","Asynchronous Construction of Consistent Global Snapshots in the Object and Action Model","1998","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",2
+"COMPLETO","Cortes Consistentes em Aplicações Distribuídas","1998","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",3
+"COMPLETO","Reflexão Computacional: Uma Introdução","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",4
+"COMPLETO","Progressive Construction of Consistent Global Checkpoints","1999","Estados Unidos","Inglês","IMPRESSO","","SIM","","","NAO",5
+"RESUMO","Monitorização e Recuperação por Retrocesso utilizando Visões Progressivas de Computações Distribuídas","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",6
+"COMPLETO","On the Minimal Characterization of the Rollback-Dependency Trackability Property","2001","Estados Unidos","Inglês","IMPRESSO","","SIM","","","NAO",7
+"COMPLETO","RDT-Partner: An Efficient Checkpointing Protocol that Enforces Rollback-Dependency Trackability","2001","Brasil","Inglês","MEIO_DIGITAL","","NAO","","","NAO",8
+"COMPLETO","Systematic Analysis of Index-Based Checkpointing Algorithms using Simulation","2001","Brasil","Português","IMPRESSO","","NAO","","","NAO",9
+"COMPLETO","Visões Progressivas de Computações Distribuídas","2002","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",10
+"RESUMO","Checkpointing e Recuperação de Falhas em Sistemas Distribuídos Particionáveis","2002","Brasil","Português","IMPRESSO","","NAO","","","NAO",11
+"COMPLETO","Checkpointing Distribuído em Ambientes Móveis sob Controle das Estações de Suporte","2002","Brasil","Português","IMPRESSO","","NAO","","","NAO",12
+"COMPLETO","Checkpointing Síncrono Bloqueante Minimal com Iniciadores Concorrentes","2003","Brasil","Português","IMPRESSO","","NAO","","","NAO",13
+"COMPLETO","An Efficient Checkpointing Protocol for the Minimal Characterization of Operational Rollback-Dependency Trackability","2004","Brasil","Inglês","IMPRESSO","[http://www.srds2004.ufsc.br]","SIM","","","NAO",14
+"COMPLETO","Checkpointing Quase-Síncrono no LAM-MPI","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",15
+"COMPLETO","Optimal Asynchronous Garbage Collection for RDT Checkpointing Protocols","2005","Estados Unidos","Inglês","NAO_INFORMADO","","SIM","10.1109/ICDCS.2005.58","","NAO",16
+"RESUMO","Brief announcement: optimal asynchronous garbage collection for checkpointing protocols with rollback-dependency trackability","2004","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",17
+"COMPLETO","Resource discovery em uma arquitetura P2P aplicado à distribuição e compartilhamento de componentes de software","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",18
+"COMPLETO","Non-Blocking Synchronous Checkpointing Based on Rollback-Dependency Trackability","2006","Brasil","Inglês","IMPRESSO","","SIM","10.1109/srds.2006.34","","NAO",19
+"COMPLETO","Uso de Broadcast na Sincronização de Checkpoints em Protocolos Minimais","2004","Brasil","Português","IMPRESSO","","NAO","","","NAO",20
+"COMPLETO","A Cognitive Mechanism for Rate Adaptation in Wireless Networks","2009","Itália","Inglês","NAO_INFORMADO","","NAO","","","NAO",21
+"RESUMO","Diskless Checkpointing with Rollback-Dependency Trackability","2010","Índia","Inglês","NAO_INFORMADO","","NAO","10.1109/SRDS.2010.17","","NAO",22
+"COMPLETO","sendmmsg: uma Chamada de Sistema Eficiente para Envio de Múltiplas Mensagens no Linux","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",23
+"RESUMO_EXPANDIDO","Uma Abordagem Cognitiva para Redes Autoconfiguráveis. In: Workshop de Sistemas Distribuídos Autonômicos","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",24
+"COMPLETO","From Backup to Hot Standby: High Availability for HDFS","2012","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","10.1109/srds.2012.33","","NAO",25
+"COMPLETO","Integrating OpenFlow to LTE: some issues toward Software-Defined Mobile Networks","2015","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",26
+"COMPLETO","OFSwitch13","2016","Brasil","Inglês","NAO_INFORMADO","","NAO","10.1145/2915371.2915381","","NAO",27
+"COMPLETO","Um mecanismo baseado em SDN para flexibilizar o controle de tráfego em redes LTE","2016","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",28
+"COMPLETO","OFSwitch13: Viabilizando o uso do OpenFlow 1.3 no ns-3","2016","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",29
+"COMPLETO","OpenFlow-based mechanisms for QoS in LTE backhaul networks","2016","Brasil","Português","NAO_INFORMADO","","NAO","10.1109/iscc.2016.7543905","","NAO",30
+"COMPLETO","A Preemptive Fair Schedule Policy for Disco MapReduce Framework","2016","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",31
+"COMPLETO","Using Common Knowledge to Improve Fixed-Dependency-After-Send","2000","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",32

@@ -1,0 +1,20 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Paulo Guidetti Campos","006700000002","Universidade de São Paulo","90000002","Engenharia Elétrica","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","",0
+"Michel Gonçalves Pinheiro","006700000002","Universidade de São Paulo","90000002","Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",1
+"Michel Gonçalves Pinheiro","006700000002","Universidade de São Paulo","90000002","Engenharia Elétrica","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","",2
+"Rodrigo Cesar Lucas de Afonseca","006700000002","Universidade de São Paulo","90000002","Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",3
+"Cristiane Lie Nagasaku","006700000002","Universidade de São Paulo","90000002","Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",4
+"Paulo Araujo Prado","006700000002","Universidade de São Paulo","90000002","Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","52","","",5
+"Clayton Rodrigues Cintra","000100000991","Universidade de São Carlos Escola de Engenharia de São Carlos","90000001","Departamento de Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","53","","",6
+"João Bosco Gertrudes","006700000002","Universidade de São Paulo","90000002","Engenharia Elétrica","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","53","","",7
+"Leandro Lima","006700000002","Universidade de São Paulo","90000003","Engenharia Elétrica / EESC","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","ORIENTADOR_PRINCIPAL","40","","",8
+"Marcos de Araujo Paz","007900000004","Universidade Estadual de Campinas","","","SIM","","","ORIENTADOR_PRINCIPAL","0","","",9
+"mario jungbeck","007900000004","Universidade Estadual de Campinas","","","SIM","","","ORIENTADOR_PRINCIPAL","0","","",10
+"marcelo caetano","007900000004","Universidade Estadual de Campinas","","","SIM","","","ORIENTADOR_PRINCIPAL","0","","",11
+"Michel Gonçalves Pinheiro","006700000002","Universidade de São Paulo","","","NAO","","","ORIENTADOR_PRINCIPAL","53","","",12
+"João Bosco Gertrudes","006700000002","Universidade de São Paulo","","","NAO","","","ORIENTADOR_PRINCIPAL","72","","",13
+"Gabriel Dos Santos Andrade","007900000004","Universidade Estadual de Campinas","90000005","Faculdade de Engenharia Elétrica e de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","20","","",14
+"Jonas Talaisys","007900000004","Universidade Estadual de Campinas","90000005","Faculdade de Engenharia Elétrica e de Computação","NAO","","","CO_ORIENTADOR","","","",15
+"Ricardo Torquato Borges","007900000004","Universidade Estadual de Campinas","90000005","Faculdade de Engenharia Elétrica e de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",16
+"Fábio Pereira de Souza","007900000004","Universidade Estadual de Campinas","90000005","Faculdade de Engenharia Elétrica e de Computação","NAO","","","CO_ORIENTADOR","","","",17
+"Allan Alves Montanari","007900000004","Universidade Estadual de Campinas","90000005","Faculdade de Engenharia Elétrica e de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","132","","",18

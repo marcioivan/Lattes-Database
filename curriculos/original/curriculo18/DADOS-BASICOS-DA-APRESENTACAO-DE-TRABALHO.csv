@@ -1,0 +1,19 @@
+﻿NATUREZA,TITULO,ANO,PAIS,IDIOMA,FLAG-RELEVANCIA,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,APRESENTACAO-DE-TRABALHO_Id
+"SIMPOSIO","Software-Based Transparent and Comprehensive Control-Flow Error Detection","2006","Brasil","Português","NAO","","","NAO",0
+"CONFERENCIA","Hotness Misprediction Overhead on Virtual Machines","2011","Estados Unidos","Inglês","NAO","","Hotness Misprediction Overhead on Virtual Machines","NAO",1
+"CONFERENCIA","Evolução, tendências e desafios da Computação de Alto Desempenho","2014","Brasil","Português","NAO","","","NAO",2
+"CONFERENCIA","Tecnologias, Desafios e Oportunidades na Internet das Coisas","2016","Brasil","Português","NAO","","Technologies, Challenges and Opportunities on the IoT","NAO",3
+"CONGRESSO","Characterization of Dynamic Binary Translation Overhead","2008","China","Inglês","NAO","","","NAO",4
+"CONGRESSO","Clustering-Based Microcode Compression","2006","Estados Unidos","Inglês","NAO","","","NAO",5
+"CONGRESSO","COISA: A Compact OpenISA virtual platform for IoT devices","2015","Brasil","Português","NAO","","","NAO",6
+"CONGRESSO","Image Re-Ranking Acceleration on GPUs","2013","Brasil","Português","NAO","","","NAO",7
+"CONGRESSO","LAR-CC: Large Atomic Regions with Conditional Commits","2011","França","Inglês","NAO","","","NAO",8
+"CONGRESSO","Programming Finite Element Methods for ccNUMA processors","2013","Hungria","Inglês","NAO","","","NAO",9
+"CONGRESSO","Structure-Constrained Microcode Compression","2011","Brasil","Português","NAO","","","NAO",10
+"CONGRESSO","TAO: two-level atomicity for dynamic binary optimizations","2010","Canadá","Português","NAO","","","NAO",11
+"CONFERENCIA","Uma abordagem para o ensino de linguagem de montagem, arquitetura e organização de computadores","2013","Brasil","Português","NAO","","","NAO",12
+"CONFERENCIA","Uma abordagem para o ensino de linguagem de montagem, arquitetura e organização de computadores","2014","Brasil","Português","NAO","","","NAO",13
+"CONFERENCIA","Dynamic Binary Control-Flow Errors Detection","2005","Estados Unidos","Inglês","NAO","","","NAO",14
+"CONGRESSO","Fast Instruction Set Customization","2004","Suécia","Inglês","NAO","","","NAO",15
+"CONFERENCIA","Looking for Instruction Patterns in the Design of Extensible Processors","2004","Suécia","Inglês","NAO","","","NAO",16
+"SIMPOSIO","Characterization of DBT overhead","2009","Estados Unidos","Inglês","NAO","","","NAO",17

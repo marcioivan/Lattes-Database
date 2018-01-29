@@ -1,0 +1,15 @@
+﻿PALAVRA-CHAVE-1,PALAVRA-CHAVE-2,PALAVRA-CHAVE-3,PALAVRA-CHAVE-4,PALAVRA-CHAVE-5,PALAVRA-CHAVE-6,MESTRADO_Id,DOUTORADO_Id,TRABALHO-EM-EVENTOS_Id,TRABALHO-TECNICO_Id,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"bezerro","cross-hedge","hedge","mercado futuro","economia agrícola","",0,,,,
+"mercado futuro","Teoria do Portfólio","derivativos agropecuários","","","",,0,,,
+"cross-hedge","mercado futuro","hedge","","","",,,0,,
+"café","sistema agroindustrial","","","","",,,1,,
+"café","mercado futuro","cointegração","","","",,,3,,
+"derivativos agropecuários","Teoria do Portfólio","carteira de investimentos","","","",,,4,,
+"cana-de-açúcar","","","","","",,,,0,
+"mercado futuro","hedge","","","","",,,,,0
+"Teoria do Portfólio","fundo de ações","","","","",,,,,1
+"cointegração","diversificação internacional","índice de ação","","","",,,,,2
+"mercado futuro","derivativos agropecuários","Value at risk","","","",,,,,9
+"hedge","administração de riscos","corporação não financeira","","","",,,,,10
+"carteira de investimentos","Teoria do Portfólio","governança corporativa","","","",,,,,11
+"café","hedge","mercado futuro","","","",,,,,12

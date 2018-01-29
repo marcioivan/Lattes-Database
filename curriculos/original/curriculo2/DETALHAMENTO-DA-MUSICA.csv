@@ -1,0 +1,8 @@
+﻿TIPO-DE-EVENTO,ATIVIDADE-DOS-AUTORES,FORMACAO-INSTRUMENTAL,FLAG-INEDITISMO-DA-OBRA,DATA-ESTREIA,DATA-ENCERRAMENTO,LOCAL-DE-ESTREIA,PREMIACAO,INSTITUICAO-PROMOTORA-DO-PREMIO,OBRA-DE-REFERENCIA,AUTOR-DA-OBRA-DE-REFERENCIA,ANO-DA-OBRA-DE-REFERENCIA,DURACAO,TEMPORADA,INSTITUICAO-PROMOTORA-DO-EVENTO,LOCAL-DO-EVENTO,CIDADE-DO-EVENTO,MUSICA_Id
+"RECITAL","Instrumento Musical","","S","","","","","","","Douglas Ellwanger","1989","5","","Syracuse University","Crouse College Auditorium","Syracuse",0
+"RECITAL","Instrumento Musical","","","","","","","","","Diversos","","60","","Syracuse University","Crouse College Auditorium","Syracuse",1
+"RECITAL","Instrumento Musical","","","","","","","","","Diversos","","60","","Syracuse University","Crouse College Auditorium","Syracuse",2
+"CONCERTO","Instrumentista","Piano","","","","","","","","","","60","","UFSCar","","São Carlos",3
+"NAO_INFORMADO","Instrumentista","Piano","","","","","","","","","","60","","Unicamp","","Campinas",4
+"NAO_INFORMADO","Instrumentista","Piano","","","","","","","","","","60","","Unicamp","","Campinas",5
+"NAO_INFORMADO","Instrumentista","Piano","","","","","","","","","","60","","Unicamp","","Campinas",6

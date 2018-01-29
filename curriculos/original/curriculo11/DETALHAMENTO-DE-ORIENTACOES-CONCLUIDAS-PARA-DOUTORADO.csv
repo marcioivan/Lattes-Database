@@ -1,0 +1,6 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,ORIENTACOES-CONCLUIDAS-PARA-DOUTORADO_Id
+"ORIENTADOR_PRINCIPAL","Valério Fiel da Costa","007900000004","Universidade Estadual de Campinas","","","90000004","Musica","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","0","5177466124567380","",0
+"ORIENTADOR_PRINCIPAL","Mario da Silva Junior","007900000004","Universidade Estadual de Campinas","","","60010871","Música","NAO","","","","9325632081112953","Arts",1
+"ORIENTADOR_PRINCIPAL","Clayton Rosa Mamedes","007900000004","Universidade Estadual de Campinas","","","60042729","Doutorado em Música","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","","6550096587297485","Music",2
+"ORIENTADOR_PRINCIPAL","João Victor Bota","007900000004","Universidade Estadual de Campinas","","","60042729","Doutorado em Música","SIM","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","","8546155553797730","Music",3
+"ORIENTADOR_PRINCIPAL","Fátima Carneiro dos Santos","007900000004","Universidade Estadual de Campinas","","","90000004","Musica","NAO","","","0","","",4

@@ -1,0 +1,3 @@
+﻿TIPO,NATUREZA,TITULO-DO-LIVRO,ANO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-LIVRO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,LIVRO-PUBLICADO-OU-ORGANIZADO_Id
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","São Paulo Cidade Global: Fundamentos financeiros de uma miragem","2007","Brasil","Português","IMPRESSO","","SIM","","","NAO",0
+"LIVRO_PUBLICADO","NAO_INFORMADO","Parceiros da exclusão. Duas histórias da construção de uma "nova cidade" em São Paulo: Faria Lima e Água Espraiada","2001","Brasil","Português","IMPRESSO","","SIM","","","NAO",1

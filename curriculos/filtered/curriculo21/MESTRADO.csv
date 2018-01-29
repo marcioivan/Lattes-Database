@@ -1,0 +1,2 @@
+NIVEL,NOME_INSTITUICAO,NOME_ORGAO,NOME_CURSO,STATUS_DO_CURSO,ANO_DE_INICIO,ANO_DE_CONCLUSAO,FLAG_BOLSA,NOME_AGENCIA,ANO_DE_OBTENCAO_DO_TITULO,TITULO_DA_DISSERTACAO_TESE,NOME_COMPLETO_DO_ORIENTADOR
+3,Universidade Estadual de Campinas,NULL,Ciência da Computação,CONCLUIDO,1998,2000,SIM,Fundação de Amparo à Pesquisa do Estado de São Paulo,2000,Experimentos com Codificação e Compactação no Gerenciamento de Memória da Máquina Virtual Java,Guido Costa Souza de Araújo

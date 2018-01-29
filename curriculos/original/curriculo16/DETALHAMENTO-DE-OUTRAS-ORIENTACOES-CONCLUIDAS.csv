@@ -1,0 +1,16 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Eduardo Picado","007900000004","Universidade Estadual de Campinas","90000002","Engenharia de Computação","NAO","","","CO_ORIENTADOR","0","","",0
+"Fernando Kenji Iwai","007900000004","Universidade Estadual de Campinas","90000002","Engenharia de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","",1
+"Celso Tetsuo Nagase Suzuki","007900000004","Universidade Estadual de Campinas","90000002","Engenharia de Computação","NAO","","","CO_ORIENTADOR","0","","",2
+"André Luiz Gomes de Carvalho","007900000004","Universidade Estadual de Campinas","90000002","Engenharia de Computação","NAO","","","CO_ORIENTADOR","0","","",3
+"Carlos Renato Camolesi Oliveira","007900000004","Universidade Estadual de Campinas","90000002","Engenharia de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","",4
+"Gabriela Castellano","007900000004","Universidade Estadual de Campinas","90000005","Ciências Médicas","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","",5
+"Leonardo Marques Rocha","007900000004","Universidade Estadual de Campinas","90000005","Ciências Médicas","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","",6
+"Gleiner Crivelini","007900000004","Universidade Estadual de Campinas","90000004","Ciência da Computação","NAO","","","CO_ORIENTADOR","0","","",7
+"Marcelo Bianchini","007900000004","Universidade Estadual de Campinas","33070059","Ciência da Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","Computer Science",8
+"Karina Magalhães","007900000004","Universidade Estadual de Campinas","90000002","Engenharia de Computação","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","0","","",9
+"Thiago Vallin Spina","007900000004","Universidade Estadual de Campinas","90000003","Ciência da Computação","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",10
+"Celso T. Suzuki","007900000004","Universidade Estadual de Campinas","","","SIM","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","CO_ORIENTADOR","","","",11
+"Felipe Galvão Lemes","007900000004","Universidade Estadual de Campinas","","","SIM","988500000990","Samsung","CO_ORIENTADOR","","","",12
+"Felipe Lemes Galvão","007900000004","Universidade Estadual de Campinas","90000002","Engenharia de Computação","NAO","","","CO_ORIENTADOR","","","",13
+"Danilo Lacerda","007900000004","Universidade Estadual de Campinas","90000003","Ciência da Computação","NAO","","","CO_ORIENTADOR","0","","",14

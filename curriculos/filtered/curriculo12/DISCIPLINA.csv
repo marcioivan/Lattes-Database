@@ -1,0 +1,8 @@
+NOME,TIPO_ENSINO,NOME_CURSO,NOME_INSTITUICAO,FLAG_PERIODO,MES_INICIO,ANO_INICIO,MES_FIM,ANO_FIM
+Princípios de Comunicações I,GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ANTERIOR,3,2001,7,2001
+"Classificadores Baseados em Grafos - Floresta de Caminhos Ótimos - Teoria, Prática e Aplicações.",POS-GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,2011,NULL,NULL
+Processamento de Imagens Médicas,POS-GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,2011,NULL,NULL
+Reconhecimento de padrões em imagens,POS-GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,2011,NULL,NULL
+Reprodutibilidade em Pesquisa Computacional,POS-GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,2011,NULL,NULL
+Processamento de Imagens,POS-GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,2011,NULL,NULL
+Redes Neurais Convolucionais Para Análise de Imagens,POS-GRADUACAO,Engenharia Elétrica,Universidade Estadual de Campinas,ATUAL,01,2011,NULL,NULL

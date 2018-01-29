@@ -1,0 +1,16 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"2","LIVRE","LIVRE","20","SIM","11","2005","12","2006","Bolsista FAPESP (2005/ 02955-1)","SIM","iniciação científica","estudante","","",0
+"3","LIVRE","LIVRE","20","SIM","1","2004","11","2005","","SIM","iniciação científica","estudante","","",0
+"4","LIVRE","LIVRE","","SIM","03","2007","03","2009","Bolsista FAPESP (2006/05872-2)","SIM","Mestrado Acadêmico","Mestrado Acadêmico","","",0
+"5","LIVRE","LIVRE","40","SIM","03","2009","03","2014","","SIM","Bolsista","Aluna de doutorado","","",0
+"1","LIVRE","LIVRE","","NAO","","2013","","","","SIM","Revisor de periódico","","","",1
+"1","LIVRE","LIVRE","","NAO","","2015","","","","SIM","Revisor de periódico","","","",2
+"1","SERVIDOR_PUBLICO","LIVRE","40","SIM","","2015","","","","NAO","","Professor Doutor MS-3","","",3
+"1","LIVRE","LIVRE","","NAO","10","2015","","","","SIM","Revisor de periódico","","","",4
+"1","LIVRE","LIVRE","","NAO","","2016","","","","SIM","Revisor de projeto de fomento","","","",5
+"1","LIVRE","LIVRE","","NAO","","2016","","","","SIM","Revisor de projeto de fomento","","","",6
+"1","LIVRE","LIVRE","","NAO","","2016","","","","SIM","Revisor de periódico","","","",7
+"1","LIVRE","LIVRE","","NAO","","2016","","","","SIM","Revisor de periódico","","","",8
+"1","LIVRE","LIVRE","","NAO","","2016","","","","SIM","Revisor de periódico","","","",9
+"1","LIVRE","LIVRE","","NAO","","2016","","","","SIM","Revisor de periódico","","","",10
+"1","LIVRE","LIVRE","","NAO","","2017","","","","SIM","Revisor de periódico","","","",11

@@ -1,0 +1,2 @@
+NIVEL,NOME_INSTITUICAO,NOME_ORGAO,NOME_CURSO,STATUS_DO_CURSO,ANO_DE_INICIO,ANO_DE_CONCLUSAO,FLAG_BOLSA,NOME_AGENCIA,ANO_DE_OBTENCAO_DO_TITULO,TITULO_DA_DISSERTACAO_TESE,NOME_COMPLETO_DO_ORIENTADOR
+3,Universidade Estadual de Campinas,NULL,Engenharia Elétrica,CONCLUIDO,2000,2004,SIM,Coordenação de Aperfeiçoamento de Pessoal de Nível Superior,2004,Identificação e Transformação de Valores Aberrantes como Medida de Confiabilidade do Método das Diferenças para Estimativa de Fluxo Óptico em Sequências de Imagens,Luiz César Martini

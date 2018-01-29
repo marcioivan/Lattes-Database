@@ -1,0 +1,43 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"2","LIVRE","LIVRE","","SIM","3","1995","1","1997","professora convidada do Instituto de Computação da UNICAMP com a concessão de uma bolsa recém-doutor do CNPq.","SIM","Bolsista recém-doutor","professora convidada (assistente doutora)","","",0
+"3","SERVIDOR_PUBLICO","LIVRE","","SIM","2","1997","4","2001","","NAO","","Professora Assistente Doutora (MS3)","","",0
+"4","SERVIDOR_PUBLICO","LIVRE","40","SIM","5","2001","9","2011","","NAO","","Professora Associada Doutora (MS5)","","",0
+"5","SERVIDOR_PUBLICO","LIVRE","40","SIM","10","2011","","","","NAO","","Professor Titular (MS6)","","",0
+"1","LIVRE","LIVRE","","NAO","11","2007","04","2008","Journal of Universal Computer Science(J.UCS) Special Issue:
+ ``Software Components, Architectures and Reuse'', based on invited
+ and selected, peer-reviewed and extended submissions from the
+ Brazilian Symposium on Software Components, Architectures and Reuse
+ (SBCARS 2007), Guest Editors: Cecília M.F.Rubira, University of
+ Campinas (UNICAMP), Brazil, and Rogerio de Lemos, University of
+ Kent, UK, Volume 14, issue 8, 2008.
+
+http://www.jucs.org/jucs_14_8/software_components_architectures_and/abstract.html","SIM","Membro de corpo editorial","","","",1
+"1","LIVRE","LIVRE","","NAO","9","2012","","","http://www.jserd.com/
+SpringerOpen Journal
+ISSN 2195-1721","SIM","Membro de corpo editorial","","","",2
+"1","LIVRE","LIVRE","","NAO","2","2013","4","2013","","SIM","Revisor de periódico","","","",3
+"1","LIVRE","LIVRE","","NAO","2","2013","4","2013","","SIM","Revisor de periódico","","","",4
+"1","LIVRE","LIVRE","","NAO","12","2012","1","2013","","SIM","Revisor de periódico","","","",5
+"1","LIVRE","LIVRE","","NAO","9","2012","10","2012","","SIM","Revisor de periódico","","","",6
+"1","LIVRE","LIVRE","","NAO","9","2012","10","2012","","SIM","Revisor de periódico","","","",7
+"1","LIVRE","LIVRE","","NAO","10","2012","11","2012","","SIM","Revisor de periódico","","","",8
+"1","LIVRE","LIVRE","","NAO","2","2012","3","2012","","SIM","Revisor de periódico","","","",9
+"1","LIVRE","LIVRE","","NAO","1","2012","2","2012","","SIM","Revisor de periódico","","","",10
+"1","LIVRE","LIVRE","","NAO","5","2011","6","2011","","SIM","Revisor de periódico","","","",11
+"1","LIVRE","LIVRE","","NAO","10","2010","11","2010","","SIM","Revisor de periódico","","","",12
+"1","LIVRE","LIVRE","","NAO","4","2010","5","2010","","SIM","Revisor de periódico","","","",13
+"1","LIVRE","LIVRE","","NAO","2","2010","3","2010","","SIM","Revisor de periódico","","","",14
+"1","LIVRE","LIVRE","","NAO","5","2009","6","2009","","SIM","Revisor de periódico","","","",15
+"1","LIVRE","LIVRE","","NAO","4","2009","5","2009","","SIM","Revisor de periódico","","","",16
+"1","LIVRE","LIVRE","","NAO","10","2008","11","2008","","SIM","Revisor de periódico","","","",17
+"1","LIVRE","LIVRE","","NAO","4","2005","5","2005","","SIM","Revisor de periódico","","","",18
+"1","LIVRE","LIVRE","","NAO","4","2005","5","2005","","SIM","Revisor de periódico","","","",19
+"1","LIVRE","LIVRE","","NAO","6","2007","7","2007","","SIM","Revisor de periódico","","","",20
+"6","LIVRE","LIVRE","","NAO","","2009","","","","NAO","","","","",21
+"7","LIVRE","LIVRE","","NAO","","2013","","","","NAO","","","","",22
+"1","LIVRE","LIVRE","","NAO","6","1996","","","","SIM","Revisor de projeto de fomento","","","",23
+"1","LIVRE","LIVRE","","NAO","3","1995","","","","SIM","Revisor de projeto de fomento","","","",24
+"1","LIVRE","LIVRE","","NAO","3","2001","","","","SIM","Revisor de projeto de fomento","","","",25
+"1","LIVRE","LIVRE","","NAO","08","2013","10","2013","","SIM","Revisor de periódico","","","",26
+"8","LIVRE","LIVRE","","NAO","","2013","","","","SIM","","","","",27
+"9","LIVRE","LIVRE","","NAO","","2016","","","","SIM","","","","",28

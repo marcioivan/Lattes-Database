@@ -1,0 +1,8 @@
+﻿PARTICIPACAO-EM-PROJETO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-UNIDADE,NOME-UNIDADE,ATIVIDADES-DE-PARTICIPACAO-EM-PROJETO_Id
+0,"1","ANTERIOR","8","2004","8","2005","004408000000","Centro de Ciências Exatas e Naturais","004408005001","Departamento de Informática",0
+1,"2","ANTERIOR","8","2005","8","2006","004401000993","Centro de Ciências Exatas e Naturais","004401001990","Departamento de Informática",0
+2,"4","ANTERIOR","","2008","","2010","004403000990","Instituto de Ciências Exatas e Naturais","004403001997","Laboratório de Engenharia de Software",0
+3,"5","ANTERIOR","","2005","","2008","004403000990","Instituto de Ciências Exatas e Naturais","004403001997","Laboratório de Engenharia de Software",0
+4,"3","ANTERIOR","08","2006","09","2007","004402000997","Centrais Elétricas do Norte do Brasil S/A","","",0
+5,"8","ANTERIOR","","2010","","2012","020201000991","Instituto Alberto Luiz Coimbra de Pós Graduação e Pesquisa de Engenharia","","",1
+6,"7","ANTERIOR","","2012","","2014","020201000991","Instituto Alberto Luiz Coimbra de Pós Graduação e Pesquisa de Engenharia","020201001998","Programa de Engenharia de Sistemas",1

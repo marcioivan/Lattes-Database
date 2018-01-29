@@ -1,0 +1,7 @@
+﻿ENSINO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,TIPO-ENSINO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,NOME-CURSO-INGLES,ATIVIDADES-DE-ENSINO_Id
+0,"38","ANTERIOR","ESPECIALIZACAO","01","1998","12","2007","","","90000004","Especialização em Engenharia de Software","",0
+1,"43","ANTERIOR","ESPECIALIZACAO","3","2008","5","2014","","","90000004","Especialização em Engenharia de Software","",0
+2,"67","ANTERIOR","GRADUACAO","3","1995","12","2012","","","60361522","Engenharia de Computação","",0
+3,"68","ANTERIOR","POS-GRADUACAO","3","1996","12","2014","","","33070059","Ciência da Computação","Computer Science",0
+4,"83","ANTERIOR","GRADUACAO","1","2013","12","2014","","","60341572","Ciência da Computação","",0
+5,"63","ANTERIOR","ESPECIALIZACAO","5","2007","6","2008","","","90000005","INF060-ArquiteturaDeSoftware,Componentização e SOA","",0

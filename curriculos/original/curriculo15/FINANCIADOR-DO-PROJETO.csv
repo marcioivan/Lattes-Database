@@ -1,0 +1,18 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","906900000003","Microsoft Corporation","AUXILIO_FINANCEIRO",0
+"1","","","NAO_INFORMADO",1
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",2
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",3
+"2","009200000008","Empresa Brasileira de Pesquisa Agropecuária","COOPERACAO",3
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",4
+"1","901900000002","Hewllet Packard Co.","AUXILIO_FINANCEIRO",5
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",6
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",7
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",8
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","AUXILIO_FINANCEIRO",9
+"2","001200000991","Microsoft Research","BOLSA",10
+"1","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",10
+"1","001400000995","(FAPESP) Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",11
+"1","045000000000","Coordenação de Aperfeiçoamento de Pessoal de Nível Superior","COOPERACAO",12
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","OUTRO",13
+"2","037700000002","Fundação de Amparo à Pesquisa do Estado de São Paulo","AUXILIO_FINANCEIRO",13

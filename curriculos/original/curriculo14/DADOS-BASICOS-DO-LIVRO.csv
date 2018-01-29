@@ -1,0 +1,8 @@
+﻿TIPO,NATUREZA,TITULO-DO-LIVRO,ANO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-LIVRO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,LIVRO-PUBLICADO-OU-ORGANIZADO_Id
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","Por Dentro do Estado de São Paulo: Regiões Metropolitanas e Pólos Regionais","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","Por Dentro do Estado de São Paulo: Regiões Metropolitanas.","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",1
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","Por dentro do estado de São Paulo: polos regionais - São José dos Campos, Sorocaba e Ribeirão Preto","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",2
+"LIVRO_PUBLICADO","TEXTO_INTEGRAL","Por dentro do estado de São Paulo: polos regionais - Bauru, São José do Rio Preto, Araçatuba e Presidente Prudente","2010","Brasil","Português","IMPRESSO","","NAO","","","NAO",3
+"LIVRO_ORGANIZADO_OU_EDICAO","LIVRO","Sustainable growth, development and labour: progressive responses at local, national and global level.","2012","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",4
+"LIVRO_PUBLICADO","COLETANEA","Labor and Sustainable Development","2014","Brasil","Português","IMPRESSO","","NAO","","","NAO",5
+"LIVRO_ORGANIZADO_OU_EDICAO","LIVRO","Mundo do trabalho das mulheres: ampliar os direitos e promover a igualdade","2017","Brasil","Português","IMPRESSO","","NAO","","","NAO",6

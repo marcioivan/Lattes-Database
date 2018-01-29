@@ -1,0 +1,11 @@
+﻿SEQUENCIA-FINANCIADOR,CODIGO-INSTITUICAO,NOME-INSTITUICAO,NATUREZA,FINANCIADORES-DO-PROJETO_Id
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","OUTRO",0
+"1","001300000993","Ministério do Trabalho/ DIEESE","COOPERACAO",1
+"1","045600000001","Banco Interamericano de Desenvolvimento","COOPERACAO",2
+"1","J13N00000005","Banco Nacional de Desenvolvimento Econômico e Social","AUXILIO_FINANCEIRO",3
+"1","002200000990","BNB","AUXILIO_FINANCEIRO",4
+"2","066300000009","Instituto de Pesquisa Econômica Aplicada - DF","AUXILIO_FINANCEIRO",4
+"1","423000000005","Fundação do Desenvolvimento Administrativo","AUXILIO_FINANCEIRO",5
+"1","046700000001","Caixa Econômica Federal","COOPERACAO",6
+"1","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","COOPERACAO",7
+"1","066300000009","Instituto de Pesquisa Econômica Aplicada - DF","BOLSA",8

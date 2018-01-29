@@ -1,0 +1,32 @@
+TIPO,TITULO,ANO,PAIS,IDIOMA,NOME_DO_CANDIDATO
+Mestrado,Desenvolvimento de Algoritmos de Subestruturação para Elementos Finitos.,1996,Brasil,Português,Misael Luís S. Mandujano
+Mestrado,Elementos Infinitos para Tratamento de Problemas das Viscoelastodinâmica Estacionária pelo Método dos Elementos Finitos,1996,Brasil,Português,Renato Marques de Barros
+Mestrado,Análise Dinâmica de Placas Laminadas de Materiais Compostos pelo Método dos Elementos Finitos,2000,Brasil,Português,Jefferson Cassiano
+Mestrado,Exame de Qualificação,2000,Brasil,Português,Oscar Alfredo Garcia de Suarez
+Mestrado,Implementação Paralela do Método de Resolução Frontal de Sistemas de Equações,2001,Brasil,Português,Gustavo Longhin
+Mestrado,Estudo de Formulações de Placas Laminadas Apoiadas Sobre Base Elástica,2001,Brasil,Português,Rodrigo Ribeiro Pacolla
+Mestrado,Método dos Volumes Finitos para Leis de Conservação,2002,Brasil,Português,Wanderson José Lambert
+Mestrado,Avaliação de Tensões em Peças de Alumínio Pré-Fissuradas Usando o Método dos Elementos de Contorno.,2002,Brasil,Português,Luís Pedro C. P. F. e Almeida
+Mestrado,Formulação Variacional e Aproximação por Elementos Finitos dos Modelos de Placa de Kirchhoff e Reissner: Mindlin,2002,Brasil,Português,Carlos Eduardo Leite Pereira
+Mestrado,"Estudo Comparativo de Técnicas de Solicitações na Associação Tridimensional de Painéis de Contraventamento em Edifícios Altos sob Ações Laterais, Levando em Conta a Rigidez Efetiva dos Lintéis.",2002,Brasil,Português,Newton Damasio dos Santos
+Mestrado,Automação do Processo de Modelamento e Detalhamento de Estruturas Pré-Moldadas de Concreto Armado Via Tecnologia CAD e Programação Orientada a Objeto.,2002,Brasil,Português,Regina Célia Guedes Leite
+Mestrado,Adaptatividade h-p Aplicada em Malhas Bi e Tri-Dimensionais.,2002,Brasil,Português,Edimar Cesar Rylo
+Mestrado,Avaliação de Tensões em Peças Pré-Fissuradas Usando o Método dos Elementos de Contorno,2003,Brasil,Português,Luís Pedro C. P. F. e Almeida
+Mestrado,Integração de Métodos Numéricos ao AutoCAD.,2003,Brasil,Português,Fabio Henrique Mauad
+Mestrado,"Efeito Arco Sobre as Vigas de Transição dos Edifícios em Alvenaria Estrutural, Considerando o Comportamento Tridimensional das Estruturas.",2004,Brasil,Português,Marcelle Andrade Costa
+Mestrado,Estudo da Teoria de Placas Multicamada e Proposta de uma Teoria Geral para Material Ortotrôpico: Implementação e Resultados Numéricos num Programa (PZ) Orientado a Objetos C++.,2004,Brasil,Português,Renato Frota de Souza Junior
+Mestrado,O Método de Galerkin Descontínuo Aplicado a Problemas de Convecção/Difusão.,2004,Brasil,Português,Tiago Luís Duarte Forti
+Mestrado,Avaliação de Simuladores de Fraturamento Hidráulico.,2004,Brasil,Português,Renato Gomes Damas
+Mestrado,Exame de Qualificação de Mestrado,1995,Brasil,Português,Armando Diório Filho
+Mestrado,Métodos Variacionais para Sistemas Lineares Esparsos: Uma Aolica&#263;ão a Superfícies Livres de Capilaridade,1993,Brasil,Português,Márcio Rodolfo Fernandes
+Mestrado,Analise Dinamica Linear de Porticos Planos,2005,Brasil,Português,Anderson Carlos Gatti
+Mestrado,Automação de Projetos de Estruturas Planas Treliçadas Tubulares de Aço em Estudo Comparativo Entre Treliças Compostas por Barras com Ligações Rotuladas e Rigidas,2006,Brasil,Português,Renato Henrique Ferreira Branco
+Mestrado,Análise Dinâmica Linear de Pósticos Pelo Método dos Elementos Finitos,2006,Brasil,Português,Anderson Carlos Gatti
+Mestrado,Técnica de Elementos Finitos para Análise Limite de Pórticos Planos Associada à Automação do Processo de Modelagem 3D de Estruturas Reticuladas Via CAD,2006,Brasil,Português,Bruno Cesarino Soares
+Mestrado,Técnica de Elementos Finitos para Análise Limite de Pórticos Planos Associada à Automação do Processo de Modelagem 3D de Estruturas Reticuladas Via CAD,2006,Brasil,Português,Bruno Cesarino Soares
+Mestrado,Solução Numérica do Modelo de Maxwell para Escoamentos Tridimensionais com Superfícies Livres,2007,Brasil,Português,Renato Aparecido Pimentel da Silva
+Mestrado,Simulações Numéricas de Combustão in situ em Escala Laboratorial,2009,Brasil,Português,Guilherme Blaitterman Ribeiro Junior
+Mestrado,"Desenvolvimento e teste de esquemas ""upwind"" de alta resolução e suas aplicações em escoamentos incompreensíveis com superfícies livres",2009,Brasil,Português,Rafael Alves Bonfim de Queiroz
+Mestrado,Utilização de modelo de fluxo substituto na análise de risco de reservatórios de petróleo,2012,Brasil,Português,Tiago Corrêa de Araújo de Amorim
+Mestrado,Um método para solução de sistemas lineares através do gradiente conjugado cooperativo,2012,Brasil,Português,Guilherme da Silva Niedu
+Mestrado,Ambiente Matlab: Elementos Finitos para Eletromagnetismo,2001,Brasil,Português,Mário Aparecido Corrêa

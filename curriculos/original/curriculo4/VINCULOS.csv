@@ -1,0 +1,39 @@
+﻿SEQUENCIA-HISTORICO,TIPO-DE-VINCULO,ENQUADRAMENTO-FUNCIONAL,CARGA-HORARIA-SEMANAL,FLAG-DEDICACAO-EXCLUSIVA,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,OUTRAS-INFORMACOES,FLAG-VINCULO-EMPREGATICIO,OUTRO-VINCULO-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO,OUTRO-ENQUADRAMENTO-FUNCIONAL-INFORMADO-INGLES,OUTRAS-INFORMACOES-INGLES,ATUACAO-PROFISSIONAL_Id
+"1","CELETISTA","LIVRE","0","NAO","","1989","","1991","","NAO","","","","",0
+"1","OUTRO","LIVRE","0","NAO","","1995","","1996","","SIM","","","","",1
+"1","OUTRO","LIVRE","0","NAO","","1997","","1998","","SIM","","","","",2
+"2","OUTRO","LIVRE","20","NAO","","2000","","2001","","SIM","","Professor","","",3
+"4","SERVIDOR_PUBLICO","LIVRE","","SIM","01","2013","07","2014","Coordenação de Graduação, Instituto de Economia","NAO","","Professor Doutor","","",3
+"5","LIVRE","LIVRE","","SIM","01","2013","07","2014","Membro da Subcomissão de Intercâmbios","NAO","","Professor Doutor","","",3
+"6","LIVRE","LIVRE","","SIM","01","2013","07","2014","Membro da Subcomissão de Regimento Geral dos Cursos de Graduação","NAO","","Professor Doutor","","",3
+"1","COLABORADOR","LIVRE","0","NAO","1","2001","","2006","","SIM","","","","",4
+"1","OUTRO","LIVRE","0","NAO","3","1988","8","1989","","SIM","","","","",5
+"1","SERVIDOR_PUBLICO","LIVRE","","NAO","","1991","","1992","","NAO","","Parcial","","",6
+"1","COLABORADOR","LIVRE","","NAO","","1992","","1993","","SIM","","Colaborador","","",7
+"1","PROFESSOR_VISITANTE","LIVRE","","NAO","","2008","","2008","Programa de Pós Graduação em Economia","SIM","","Professor visitante","","",8
+"4","LIVRE","LIVRE","","NAO","","2010","","2011","","SIM","Outro (especifique)","Pesquisador Doutor","","",9
+"1","LIVRE","LIVRE","","NAO","10","2010","","","Professor visitante de 24/10 a 07/11/2010.
+Curso Financial Economics (MSOC II)
+
+Professor visitante de 18 a 24/01/2013
+Monetary Economics
+
+Departamento de Ciências Sociais","SIM","Professor vistante","Professor de pós-graduação","","",10
+"6","LIVRE","LIVRE","","NAO","","2012","","","","NAO","","","","",11
+"7","LIVRE","LIVRE","","NAO","","2013","","","","NAO","","","","",12
+"1","LIVRE","LIVRE","","NAO","08","2012","06","2013","","SIM","Membro de comitê assessor","","","",13
+"2","LIVRE","LIVRE","","NAO","10","2013","10","2013","","SIM","Membro de comitê assessor","","","",13
+"3","LIVRE","LIVRE","","NAO","02","2014","","","","SIM","Revisor de projeto de fomento","","","",13
+"8","LIVRE","LIVRE","","NAO","","2014","","","","NAO","","","","",14
+"1","LIVRE","LIVRE","","NAO","","2015","","","","SIM","Revisor de periódico","","","",15
+"1","LIVRE","LIVRE","","NAO","","2011","","","","SIM","Revisor de periódico","","","",16
+"1","LIVRE","LIVRE","","NAO","","2009","","","","SIM","Revisor de periódico","","","",17
+"1","LIVRE","LIVRE","","NAO","","2008","","","","SIM","Revisor de periódico","","","",18
+"1","LIVRE","LIVRE","","NAO","","2007","","","","SIM","Revisor de periódico","","","",19
+"1","LIVRE","LIVRE","","NAO","","2007","","","","SIM","Revisor de periódico","","","",20
+"1","LIVRE","LIVRE","","NAO","","2006","","","","SIM","Revisor de periódico","","","",21
+"1","LIVRE","LIVRE","","NAO","","2003","","","","SIM","Revisor de periódico","","","",22
+"1","LIVRE","LIVRE","","NAO","","1998","","","","SIM","Revisor de periódico","","","",23
+"1","LIVRE","LIVRE","","NAO","","1997","","","","SIM","Revisor de periódico","","","",24
+"1","LIVRE","LIVRE","","NAO","","2015","","","Revisor de Projetos PIBIC CNPq","SIM","Revisor de projeto de fomento","","","",25
+"1","LIVRE","LIVRE","","NAO","12","2015","","","","SIM","Membro do Conselho Deliberativ","Membro do Conselho Deliberativo","","",26

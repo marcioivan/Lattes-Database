@@ -1,0 +1,5 @@
+﻿TIPO-PRODUTO,NATUREZA,TITULO-DO-PRODUTO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-PRODUTO-INGLES,FLAG-POTENCIAL-INOVACAO,PRODUTO-TECNOLOGICO_Id
+"PROJETO","EQUIPAMENTO","Sistema para Diagnóstico de Parasitos Intestinais por Análise Computadorizada de Imagens","2006","Brasil","Português","OUTRO","","NAO","","","NAO",0
+"PROJETO","EQUIPAMENTO","A system for diagnosing intestinal parasites by computerized image analysis","2008","Austria","Inglês","MEIO_DIGITAL","","SIM","","","NAO",1
+"PROJETO","EQUIPAMENTO","Sistema para Diagóstico de Parasitos Intestinais por Análise Computadorizada de Imagens e Uso do Referido Sistema","2007","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",2
+"PROJETO","OUTRA","Método de Preparação de Amostra Coproparasitológica Fecal e Composição Clarificante.","2009","Brasil","Português","MEIO_DIGITAL","","NAO","","","NAO",3

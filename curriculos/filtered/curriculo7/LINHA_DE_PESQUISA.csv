@@ -1,0 +1,16 @@
+TITULO,FLAG_ATIVA,OBJETIVOS
+modelagem de linha de transmissão,SIM,NULL
+RELIGAMENTO TRIPOLAR RÁPIDO EM LINHAS DE TRANSMISSÃO,SIM,desenvolvimento de controle para religamento tripolar rápido de linha de transmissão trifásica compensada
+transmissão em meia onda ou ELO CA,SIM,estudo de transitórios eletromagnéticos associados à operação de uma linha de transmissão de um pouco mais de meio comprimento de onda - ELO CA
+comportamento eletromagnético do solo,SIM,NULL
+proteção diferencial de transformador,SIM,NULL
+religamento monopolar,SIM,"otimização de linha de transmissão
+aumento da taxa de sucesso da manobra
+desenvolvimento de proteção específica
+modelagem matemática de arco elétrico"
+ferrorressonância,NAO,NULL
+transitórios eletromagnéticos,SIM,NULL
+atendimento de pequenas cargas rurais,NAO,NULL
+aumento da capacidade nas linhas de transmissão,NAO,NULL
+"simuladores ATP, PSCAD e RTDS",NAO,NULL
+desenvolvimento de proteção,NAO,NULL

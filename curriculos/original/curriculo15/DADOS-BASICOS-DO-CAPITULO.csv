@@ -1,0 +1,7 @@
+﻿TIPO,TITULO-DO-CAPITULO-DO-LIVRO,ANO,PAIS-DE-PUBLICACAO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-CAPITULO-DO-LIVRO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,CAPITULO-DE-LIVRO-PUBLICADO_Id
+"Capítulo de livro publicado","Bancos de Dados e Sistemas de Informação Geográfica","1998","Brasil","Português","IMPRESSO","","NAO","","","NAO",0
+"Capítulo de livro publicado","New Generation Database Systems","1992","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",1
+"Capítulo de livro publicado","Advanced Geographic Information Systems","2002","Inglaterra","Inglês","IMPRESSO","www.eolss.com","SIM","","","NAO",2
+"Capítulo de livro publicado","Integrating Web Data and Geographic Knowledge into Spatial Databases","2005","Estados Unidos","Inglês","IMPRESSO","","NAO","","","NAO",3
+"Capítulo de livro publicado","Spatio-temporal Information Systems","2002","Inglaterra","Inglês","IMPRESSO","www.eolss.com","NAO","","","NAO",4
+"Capítulo de livro publicado","Adaptive Acquisition of VGI to Fill Out Gaps in Biological Observation Metadata","2017","Estados Unidos","Inglês","VARIOS","http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-5225-2446-5.ch014","NAO","10.4018/978-1-5225-2446-5.ch014","","NAO",5

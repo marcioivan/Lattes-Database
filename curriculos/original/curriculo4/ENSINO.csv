@@ -1,0 +1,10 @@
+﻿ENSINO_Id,SEQUENCIA-FUNCAO-ATIVIDADE,FLAG-PERIODO,TIPO-ENSINO,MES-INICIO,ANO-INICIO,MES-FIM,ANO-FIM,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,NOME-CURSO-INGLES,ATIVIDADES-DE-ENSINO_Id
+0,"1","ANTERIOR","GRADUACAO","","1995","","1996","","","90000007","Faculdade de Ciências Econômicas Contábeis e Admin","",0
+1,"1","ANTERIOR","GRADUACAO","02","2000","12","2000","","","90000011","Ciências Econômicas","",1
+2,"7","ANTERIOR","POS-GRADUACAO","","2006","","2008","","","90000028","Desenvolvimento Econômico","",1
+3,"16","ATUAL","GRADUACAO","08","2016","","","","","90000011","Ciências Econômicas","",1
+4,"20","ATUAL","POS-GRADUACAO","8","2016","","","","","90000016","Economia","",1
+5,"23","ATUAL","POS-GRADUACAO","08","2016","","","","","90000028","Desenvolvimento Econômico","",1
+6,"1","ANTERIOR","GRADUACAO","","2001","","2005","","","90000008","Economia","",2
+7,"1","ANTERIOR","GRADUACAO","","1992","","1993","","","90000015","Administração Ciências Contábeis Comércio Exterior","",3
+8,"1","ANTERIOR","POS-GRADUACAO","","2008","","2008","","","90000018","Economia","",4

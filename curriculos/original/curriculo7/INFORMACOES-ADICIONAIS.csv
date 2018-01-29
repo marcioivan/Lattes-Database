@@ -1,0 +1,491 @@
+﻿DESCRICAO-INFORMACOES-ADICIONAIS,DESCRICAO-INFORMACOES-ADICIONAIS-INGLES,TRABALHO-EM-EVENTOS_Id,ARTIGO-PUBLICADO_Id,LIVRO-PUBLICADO-OU-ORGANIZADO_Id,TEXTO-EM-JORNAL-OU-REVISTA_Id,OUTRA-PRODUCAO-BIBLIOGRAFICA_Id,ARTIGO-ACEITO-PARA-PUBLICACAO_Id,PATENTE_Id,PRODUTO-TECNOLOGICO_Id,PROCESSOS-OU-TECNICAS_Id,TRABALHO-TECNICO_Id,APRESENTACAO-DE-TRABALHO_Id,ORGANIZACAO-DE-EVENTO_Id,PROGRAMA-DE-RADIO-OU-TV_Id,MIDIA-SOCIAL-WEBSITE-BLOG_Id,ORIENTACOES-CONCLUIDAS-PARA-MESTRADO_Id,ORIENTACOES-CONCLUIDAS-PARA-DOUTORADO_Id,ORIENTACOES-CONCLUIDAS-PARA-POS-DOUTORADO_Id,OUTRAS-ORIENTACOES-CONCLUIDAS_Id,PARTICIPACAO-EM-BANCA-DE-MESTRADO_Id,PARTICIPACAO-EM-BANCA-DE-DOUTORADO_Id,PARTICIPACAO-EM-BANCA-DE-EXAME-QUALIFICACAO_Id,BANCA-JULGADORA-PARA-CONCURSO-PUBLICO_Id,OUTRAS-BANCAS-JULGADORAS_Id,ORIENTACAO-EM-ANDAMENTO-DE-MESTRADO_Id,ORIENTACAO-EM-ANDAMENTO-DE-DOUTORADO_Id
+"In this paper we discuss the basic aspects of modeling, simulation and optimization of transmission lines. As the subject can not be systematically covered within a single paper, we have chosen some specific points, as examples, which we discuss with emphasis in validity, applicability and limitations of some used procedures, and some guidelines for development of new procedures. Due to the vast bibliography about lines and its modeling, following the aim of this paper, we do not give a comprehensive list of references. We only indicate, also as examples, some references directly related with chosen specific points and the way they are presented. By no means, the choice of topics may be interpreted as a judgment of methodologies and procedures not dealt with in the paper.
+
+The topics related to transmission lines modeling, simulation and optimization cover :
+
+a.	Physical evaluation of basic line parameters and associated analytical, numeric, analogous or test procedures, and accuracy requirements, according to foreseen applications.
+
+b.	Procedures to represent a line, considering its basic parameters and length, e. g. as seen from its terminals, and in a form adequate for the specific application.
+
+c.	Modeling and simulation of a line inserted in a network and interacting with the behavior of other elements.
+
+d.	Optimization of a line, according normal and transient operational constraints and effects, investment and operational cost, reliability, service quality, people and equipment safety, ambient impact, effects of eventual deviations from foreseen operational requirements.","",45,,,,,,,,,,,,,,,,,,,,,,,,
+"The objective of this paper is to present an indirect methodology (qualitative analysis) to analyze transmission line models. In this methodology, we do not must to know the simulation results of the transitory phenomenon. The analysis of the model is done through comparison of the impedance of the model with the impedance of the "exact" model. The impedance of the "exact" model are the short-circuited and opened impedances of each "exact" modes and this impedances are denominated equivalent impedance of the reference. Initially the definition of reference's equivalent impedance is shown. Soon after, this methodology is applied to a transmission line model, the "Quasi-Modes" represented though p-circuits. The studies were accomplished in a hypothetical non-transposed three-phase transmission line of 440 kV. The line length is 500 km, and it was modeled through cascades of p-circuits (with 50 p's circuits, each with 10 km length).","",46,,,,,,,,,,,,,,,,,,,,,,,,
+"Este artigo apresenta um modelo para representar linhas de transmissão de circuito duplo, incluindo a dependência com a freqüência dos parâmetros longitudinais, no domínio dos modos. Quanto à transformação modal, para a faixa de freqüências de transitórios eletromagnéticos de manobra, entre 10 Hz e 10 kHz, o modelo proposto utiliza uma única matriz de transformação real. O modelo proposto é capaz de incluir a dependência com a freqüência em simuladores digitais, tais como ATP, EMTP, EMTDC e MICROTRAN, através de elementos físicos de circuitos elétricos e transformadores ideais. O modelo é aplicado na análise de três alternativas de transposição para a linha dupla trifásica, bem como, na análise da linha não transposta. O modelo é denominado de modelo de Quase-modos para linhas de transmissão. Ele é aplicado em uma linha de transmissão dupla trifásica real, utilizando o simulador Microtran. Apresenta-se simulações de transitórios, tais como energização da linha e curto-circuito monofásico","",48,,,,,,,,,,,,,,,,,,,,,,,,
+"In this article a representation of soil behaviour for transient studies is presented. Such representation is more accurate than the most common procedures of engineering practice and, in several conditions, lead to results with important differences. The proposed model takes into account the earth conductivity and permittivity frequency dependence, which normally are not considered. One of the aspects covered in the paper is the importance of properly considering the earth's electromagnetic behaviour when calculating transmission line parameters. Some comparisons are presented for an actual 440 kV three-phase transmission line in which the soil behaviour is represented through a unique real value of conductance ( the normal approach ) and through the proposed model.","",53,,,,,,,,,,,,,,,,,,,,,,,,
+"This paper shows the importance of optimizing transmission system parameters from its conception, considering altogether the relevant options and possibilities, in order to have better cost-performance result. The presented results were obtained in the study of a real transmission system expansion, based on a 865 km long line. The Single-Phase Auto-Reclosing (SPAR) procedure was one of the aspects carefully studied, in order to assure adequate transmission reliability. The secondary arc current was mitigated through the traditional solution of using the neutral reactor on the existing shunt reactor banks. The way of obtaining the optimized value for the neutral reactor and its implications on the system performance are important aspects discussed in this paper.","",54,,,,,,,,,,,,,,,,,,,,,,,,
+"In the presented paper it is shown how the utilization of a systematic three-phase analysis and three-phase frequency scan can become helpful tools in an electromagnetic transient study. The present methodology was applied to a study of real transmission system expansion, and it allowed for the identification of some rather severe cases, which would be very hard to discover through the ordinary transient study procedure.","",55,,,,,,,,,,,,,,,,,,,,,,,,
+"Neste artigo é apresentada uma modelagem do solo mais precisa que a usual. O modelo proposto considera a variação da condutividade e da permissividade do solo com a freqüência, o que normalmente não é estudado. Um dos aspectos cobertos no trabalho aborda a importância de considerar apropriadamente o comportamento eletromagnético do solo para calcular os parâmetros elétricos da linha. O comportamento do solo é apresentado para uma linha de transmissão trifásica real de 440 kV para um único valor de condutância real (a abordagem usual) e através do modelo proposto.","",56,,,,,,,,,,,,,,,,,,,,,,,,
+"O objetivo deste artigo é comparar as impedâncias de entrada de circuito aberto dos modos ?exatos? e dos ?Quasi-modos? de uma linha de transmissão. Inicialmente vamos decompor uma linha de transmissão em seus modos exatos e definir as equações das impedâncias de entrada de circuito aberto de cada um dos modos ?exatos?. Em seguida vamos repetir o procedimento para os ?Quasi-modos? da linha, considerando que os mesmos serão representados através de circuitos p's. Para finalizar vamos comparar as impedâncias de entrada de circuito aberto, dos modos ?exatos? e dos ?Quasi-modos?, em diversas faixas de freqüências. Nós analisaremos uma linha de transmissão trifásica de 440 kV, hipotética, sem transposição, com comprimento de 500 km. Os ?Quasi-modos? serão representados através de circuitos p's (cada circuito p representará 10 km da linha).","",57,,,,,,,,,,,,,,,,,,,,,,,,
+"artigo aceito para IEEE Transactions on Power Delivery com o número 10.1109/TPWRD.2004.829158","",59,,,,,,,,,,,,,,,,,,,,,,,,
+"relacionado à tese do Marcos","",60,,,,,,,,,,,,,,,,,,,,,,,,
+"tese do João Bosco","",61,,,,,,,,,,,,,,,,,,,,,,,,
+"Trabalho resultante da tese de doutorado de Marcos de Araujo Paz","",62,,,,,,,,,,,,,,,,,,,,,,,,
+"Produto da pesquisa do mestrado de João Bosco Gertrudes","",63,,,,,,,,,,,,,,,,,,,,,,,,
+"resultado da tese de mestrado de João Bosco Gertrudes","",64,,,,,,,,,,,,,,,,,,,,,,,,
+"resultado da tese de doutorado de Marcos de Araujo Paz","",65,,,,,,,,,,,,,,,,,,,,,,,,
+"O trabalho consolida os resultados da tese de mestrado de João Bosco Gertrudes.","",67,,,,,,,,,,,,,,,,,,,,,,,,
+"O trabalho consolida os resultados da tese de mestrado de Michel Gonçalves Pinheiro.","",69,,,,,,,,,,,,,,,,,,,,,,,,
+"Resultado da tese de doutorado de Afonso José do Prado","",70,,,,,,,,,,,,,,,,,,,,,,,,
+"resultado da pesquisa de mestrado de Alexander V. Flores","",71,,,,,,,,,,,,,,,,,,,,,,,,
+"Resultado da pesquisa de mestrado de Alexander Flores","",72,,,,,,,,,,,,,,,,,,,,,,,,
+"de 14 a 17/10/2007","",75,,,,,,,,,,,,,,,,,,,,,,,,
+"de 14 a 17/10/2007","",76,,,,,,,,,,,,,,,,,,,,,,,,
+"Resultado do trabalho de mestrado","",77,,,,,,,,,,,,,,,,,,,,,,,,
+"resultado do mestrado","",78,,,,,,,,,,,,,,,,,,,,,,,,
+"resultado do doutorado","",79,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação mestrado Allan Montanari","",87,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação mestrado Allan Montanari","",88,,,,,,,,,,,,,,,,,,,,,,,,
+"expansão do sistema elétrico brasileiro
+expansão da Amazônia","",89,,,,,,,,,,,,,,,,,,,,,,,,
+"resultados parciais de pesquisa de doutorado","",92,,,,,,,,,,,,,,,,,,,,,,,,
+"parte resultado pesquisa mestrado / doutorado","",93,,,,,,,,,,,,,,,,,,,,,,,,
+"3o. melhor trabalho no Grupo de proteção, medição, controle e automação em sistema de potência (GPC)","",94,,,,,,,,,,,,,,,,,,,,,,,,
+"Consolidação de resultados do doutorado","",95,,,,,,,,,,,,,,,,,,,,,,,,
+"resultados parciais de resultados de doutorado","",96,,,,,,,,,,,,,,,,,,,,,,,,
+"resultados de pesquisa de mestrado","",97,,,,,,,,,,,,,,,,,,,,,,,,
+"resultado parcial de pesquisa de doutorado","",98,,,,,,,,,,,,,,,,,,,,,,,,
+"parte de pesquisa de iniciação científica","",99,,,,,,,,,,,,,,,,,,,,,,,,
+"resultados apresentados são parte de pesquisa de mestrado","",100,,,,,,,,,,,,,,,,,,,,,,,,
+"resultados parciais da pesquisa de doutorado de Gilmário dos Santos","",101,,,,,,,,,,,,,,,,,,,,,,,,
+"Resultados parciais da pesquisa de doutorado de Gilmário dos Santos","",102,,,,,,,,,,,,,,,,,,,,,,,,
+"Resultado parcial da pesquisa de doutorado de João B. Gertrudes","",103,,,,,,,,,,,,,,,,,,,,,,,,
+"resulatado parcial da pesquisa de doutorado de Milton Zevallos","",104,,,,,,,,,,,,,,,,,,,,,,,,
+"apresentação oral","",105,,,,,,,,,,,,,,,,,,,,,,,,
+"apresentação oral.","",106,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação de resultados parciais da pesquisa de doutorado de Milton Zevallos","",107,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação dos resultados parciais da pesquisa de doutorado de Milton Zevallos","",108,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação dos resultados da pesquisa de doutorado de Patricia Mestas","",109,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação da pesquisa de mestrado de Jonas Talaisys","",110,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação dos resultados da pesquisa de doutorado de João Bosco Gertrudes","",111,,,,,,,,,,,,,,,,,,,,,,,,
+"Consolidação de parte dos resultados dapesquisa de doutorado.","",112,,,,,,,,,,,,,,,,,,,,,,,,
+"Resultados parciais da pesquisa de doutorado de Patricia Mestas.","",113,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação de resultado de pesquisa de doutorado","",115,,,,,,,,,,,,,,,,,,,,,,,,
+"pesquisa de pós-doutoramento","",116,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação de pesquisa de mestrado","",117,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação de pesquisa de mestrado","",119,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidaçãode pesquisa de doutorado","",120,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação de pesquisa de doutorado","",121,,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação de parte da pesquisa de doutorado de Milton E. Zevallos","",125,,,,,,,,,,,,,,,,,,,,,,,,
+"Pequim, China de 12 a 14 de julho de 2013","",126,,,,,,,,,,,,,,,,,,,,,,,,
+"Pequim, China de 12 a 14 de julho de 2013","",127,,,,,,,,,,,,,,,,,,,,,,,,
+"Pequim, China de 12 a 14 de julho de 2013","",128,,,,,,,,,,,,,,,,,,,,,,,,
+"18-20 Julho, 2013","",129,,,,,,,,,,,,,,,,,,,,,,,,
+"18-20 Julho, 2013","",130,,,,,,,,,,,,,,,,,,,,,,,,
+"18-20 Julho, 2013","",131,,,,,,,,,,,,,,,,,,,,,,,,
+"18-20 Julho, 2013","",132,,,,,,,,,,,,,,,,,,,,,,,,
+"18-20 Julho, 2013","",133,,,,,,,,,,,,,,,,,,,,,,,,
+"International Conference on Power Systems Transients (IPST?13) em Vancouver, Canadá, 18-20 Julho, 2013","",134,,,,,,,,,,,,,,,,,,,,,,,,
+"Grenoble França, 16-20 Junho 2013
+
+Resultado de mestrado de Leandro Gomes.","",135,,,,,,,,,,,,,,,,,,,,,,,,
+"SNPTEE em 13 a 16 de outubro de 2013","",136,,,,,,,,,,,,,,,,,,,,,,,,
+"; 22 a 25 de abril de 2014, Foz do Iguaçu, PR","",137,,,,,,,,,,,,,,,,,,,,,,,,
+"5o Seminário Brasileiro de Sistemas Elétricos SBSE; 22 a 25 de abril de 2014, Foz do Iguaçu, PR","",138,,,,,,,,,,,,,,,,,,,,,,,,
+"Consolidação de resultados da pesquisa de mestrado de Athos Povoa Garcia.
+Wroclaw, Polônia, 18-22/agosto/2014","",139,,,,,,,,,,,,,,,,,,,,,,,,
+"18-21 outubro de 2015
+Foz do Iguaçu, PR","",149,,,,,,,,,,,,,,,,,,,,,,,,
+"22 a 25 de maio de 2016, Natal, RN","",150,,,,,,,,,,,,,,,,,,,,,,,,
+"22 a 25 de maio de 2016, Natal, RN","",151,,,,,,,,,,,,,,,,,,,,,,,,
+"22 a 25 de maio de 2016, Natal, RN","",152,,,,,,,,,,,,,,,,,,,,,,,,
+"22 a 25 de maio de 2016, Natal, RN","",157,,,,,,,,,,,,,,,,,,,,,,,,
+"AUTORES
+
+J PISSOLATO FILHO
+CARLOS PORTELA","",,4,,,,,,,,,,,,,,,,,,,,,,,
+"This paper shows the importance of optimizing the transmission system parameters from its conception, considering altogether the relevant options and possibilities, in order to have the better cost-performance result. The presented results were obtained in the study of a real transmission system expansion, based on a 865 km long line. The Single-Phase Auto-Reclosing (SPAR) procedure was one of the aspects carefully studied, in order to assure adequate transmission reliability. The secondary arc current was mitigated through the traditional solution of using the neutral reactor on the existing shunt reactor banks, which permitted the reduction of the secondary arc current to acceptable values, assuring natural arc extinction and successful SPAR. The way of obtaining the optimized value for the neutral reactor and its implications on the system performance are important aspects, which are discussed in this paper.","This paper shows the importance of optimizing the transmission system parameters from its conception, considering altogether the relevant options and possibilities, in order to have the better cost-performance result. The presented results were obtained in the study of a real transmission system expansion, based on a 865 km long line. The Single-Phase Auto-Reclosing (SPAR) procedure was one of the aspects carefully studied, in order to assure adequate transmission reliability. The secondary arc current was mitigated through the traditional solution of using the neutral reactor on the existing shunt reactor banks, which permitted the reduction of the secondary arc current to acceptable values, assuring natural arc extinction and successful SPAR. The way of obtaining the optimized value for the neutral reactor and its implications on the system performance are important aspects, which are discussed in this paper.",,9,,,,,,,,,,,,,,,,,,,,,,,
+"In this article a representation of soil behaviour for transient studies is presented. Such representation is more accurate than the most common procedures of engineering practice and, in several conditions, lead to results with important differences. The proposed model takes into account the earth conductivity and permittivity frequency dependence, which normally are not considered. One of the aspects covered in the paper is the importance of properly considering the earth's electromagnetic behaviour when calculating transmission line parameters. Some comparisons are presented for an actual 440 kV three-phase transmission line in which the soil behaviour is represented through a unique real value of conductance ( the normal approach ) and through the proposed model.","In this article a representation of soil behaviour for transient studies is presented. Such representation is more accurate than the most common procedures of engineering practice and, in several conditions, lead to results with important differences. The proposed model takes into account the earth conductivity and permittivity frequency dependence, which normally are not considered. One of the aspects covered in the paper is the importance of properly considering the earth's electromagnetic behaviour when calculating transmission line parameters. Some comparisons are presented for an actual 440 kV three-phase transmission line in which the soil behaviour is represented through a unique real value of conductance ( the normal approach ) and through the proposed model.",,10,,,,,,,,,,,,,,,,,,,,,,,
+"AUTOR : CARLOS PORTELA
+
+In the presented paper it is shown how the use of a systematic three-phase load flow analysis and three-phase frequency scan can become a helpful tool in an electromagnetic transient study. The present methodology was applied to a study of a real transmission system expansion, and it allowed the identification of some rather severe cases which would be very hard to find out through the ordinary transient study procedure.","",,11,,,,,,,,,,,,,,,,,,,,,,,
+"Resultado da tese de doutorado de Sergio Kurokawa","Resultado da tese de doutorado de Sergio Kurokawa",,12,,,,,,,,,,,,,,,,,,,,,,,
+"Resultado da tese de doutorado de Sergio Kurokawa","Resultado da tese de doutorado de Sergio Kurokawa",,13,,,,,,,,,,,,,,,,,,,,,,,
+"Trabalho consolidando resultados da tese de mestrado de João Bosco Gertrudes.","",,14,,,,,,,,,,,,,,,,,,,,,,,
+"dissertação de mestrado de Claudio José dos Santos","",,15,,,,,,,,,,,,,,,,,,,,,,,
+"consolidação de pesquisa de mestrado
+DOI 10.1016/j.epsr.2009.08.011
+on line em 1 outubro 2009","",,16,,,,,,,,,,,,,,,,,,,,,,,
+"Consolidação de pesquisa de mestrado
+No prelo em 17/03/2009","",,17,,,,,,,,,,,,,,,,,,,,,,,
+"Consolidaçãode pesquisa de mestrado
+No prelo em 26/02/2009","",,18,,,,,,,,,,,,,,,,,,,,,,,
+"Associado à pesquisa de mestrado de Jonas Lemos Talaisys
+ 
+doi 10.1109/TDEI.2014.6832243","",,25,,,,,,,,,,,,,,,,,,,,,,,
+"Trabalho desenvolvido durante o pós-doutoramento de Patricia Mestas junto à FEEC/UNICAMP
+
+Versão final submetida em 14/04/2014","",,26,,,,,,,,,,,,,,,,,,,,,,,
+"produto da dissertação de mestrado de Fabiano Magrin
+
+link público :http://rdcu.be/m9QK","",,29,,,,,,,,,,,,,,,,,,,,,,,
+"produto do mestrado de Ozenir Dias","",,30,,,,,,,,,,,,,,,,,,,,,,,
+"IET Generation, Transmission & Distribution, Vol. 11, No. 9, pp. 2261-2268, 2017,
+
+link público http://ietdl.org/t/jGPUA.","",,31,,,,,,,,,,,,,,,,,,,,,,,
+"aprovado em 29/08/2017","",,32,,,,,,,,,,,,,,,,,,,,,,,
+"aceito para publicação em 15/08/2017
+resultado de pesquisa de doutorado financiada pela FAPEAM
+
+Access to the full text article on our platform is completely free to anyone using the following link: http://ietdl.org/t/z_HTwb","",,33,,,,,,,,,,,,,,,,,,,,,,,
+"Resultado de pesquisa de mestrado","",,35,,,,,,,,,,,,,,,,,,,,,,,
+"link público : http://ietdl.org/t/MlKF1","",,36,,,,,,,,,,,,,,,,,,,,,,,
+"P&D ANEEL Estratégico 004/2008
+ELETRONORTE/ELETROBRAS
+CHESF
+ENTE
+UNIVERSIDADE ESTADUAL DE CAMPINAS - UNICAMP
+UNIVERSIDADE ESTADUAL DE FEIRA DE SANTANA - UEFS
+UNIVERSIDADE FEDERAL DA BAHIA - UFBA
+Editor: Tiago Fabris Rendelli
+Ilustrador : Alexandre Velloso de Faria 
+Link : PDF: http://bit.ly/meia_onda_pdf; EPUB: http://bit.ly/meia_onda_epub.","",,,0,,,,,,,,,,,,,,,,,,,,,,
+"Relacionado com a pesquisa de mestrado de Elson Gomes defendida em 28/02/2012","",,,,0,,,,,,,,,,,,,,,,,,,,,
+"Divulgação da pesquisa de doutorado de Patricia Mestas defendida em 28/09/2011.","",,,,1,,,,,,,,,,,,,,,,,,,,,
+"Divulgação da pesquisa de doutorado da Patricia Mestas defendida em 28/09/2010.","",,,,2,,,,,,,,,,,,,,,,,,,,,
+"Texto Original do Jornal da UNICAMP","",,,,3,,,,,,,,,,,,,,,,,,,,,
+"Reportagem original publicada no Jornal da UNICAMP","",,,,4,,,,,,,,,,,,,,,,,,,,,
+"Programa de rádio para divulgação da pesquisa de mestrado de Elson Costa Gomes.
+
+Gravação em 14/09/2012.","",,,,,0,,,,,,,,,,,,,,,,,,,,
+"pesquisa de mestrado","",,,,,,0,,,,,,,,,,,,,,,,,,,
+"proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.","",,,,,,,0,,,,,,,,,,,,,,,,,,
+"proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.","",,,,,,,1,,,,,,,,,,,,,,,,,,
+"Carta Patente no. 2009304528 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines"; 
+
+Termos 20 anos a partir de 9/10/2009 
+
+PI0804330-2 data 13/10/2008 Brasil
+
+proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.","",,,,,,,2,,,,,,,,,,,,,,,,,,
+"proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.","",,,,,,,3,,,,,,,,,,,,,,,,,,
+"A presente invenção descreve um método capaz de identificar (ou selecionar) os diversos tipos de falta que podem ocorrer num sistema de transmissão trifásico. Ele se insere no campo da Engenharia Elétrica, especialmente na transmissão e distribuição da energia elétrica e assuntos relacionados.
+A identificação do tipo de falta é usada na proteção de distância, no religamento monopolar ou no religamento tripolar. O método tem aplicação desde linhas curtas até linhas muito longas, especialmente aquelas denominadas de ?meio comprimento de onda?, com comprimentos superiores a 2500 km","",,,,,,,4,,,,,,,,,,,,,,,,,,
+"O presente pedido de patente de invenção refere-se a um método de determinação do comprimento de arcos elétricos tendo como base o modelo snake-3D.","",,,,,,,5,,,,,,,,,,,,,,,,,,
+"The present invention describes an adaptive switching method to reduce overvoltages due to three-phase reclosing of shunt compensated transmission lines. This method identifies the optimal region of the voltage wave, allowing contacts to be closed in the first minimum voltage region of the beat across the circuit breakers, after the protection dead time. The procedure developed works independently of zero voltage crossing, reducing significantly the reclosure dead time.
+
+proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.
+
+CERTIFICADO NO 5229","",,,,,,,6,,,,,,,,,,,,,,,,,,
+"The present invention describes an adaptive switching method to reduce overvoltages due to three-phase reclosing of shunt compensated transmission lines. This method identifies the optimal region of the voltage wave, allowing contacts to be closed in the first minimum voltage region of the beat across the circuit breakers, after the protection dead time. The procedure developed works independently of zero voltage crossing, reducing significantly the reclosure dead time.
+proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.","",,,,,,,7,,,,,,,,,,,,,,,,,,
+"A presente invenção trata-se de um método de religamento monopolar e tripolar automático adaptativo rápido em linhas de transmissão, com identificação do instante da extinção do defeito e bloqueio para faltas permanentes. Assim, o método detecta a extinção da falta transitória e realiza o religamento automático após um intervalo de segurança. Para faltas permanentes é bloqueado o religamento automático e gerada a abertura das três fases.
+O método se insere no campo da engenharia elétrica, com foco nos sistemas de transmissão de energia elétrica e especialmente na ocorrência de faltas e operações de religamento nestes sistemas. Se aplica a linhas de transmissão de todas as naturezas cobrindo linhas aéreas e subterrâneas, com ou sem compensação por reatores em derivação ou série e com controle de manobras monopolar ou tripolar.","",,,,,,,8,,,,,,,,,,,,,,,,,,
+"proteção de distância para linhas de meia onda e linhas com comprimento superior a 600 km","",,,,,,,9,,,,,,,,,,,,,,,,,,
+"controle adaptativo para religamento tripolar de linhas de transmissão compensadas - aplicação para faltas internas","",,,,,,,10,,,,,,,,,,,,,,,,,,
+"Identifica falta interna em transformadores com mais rapidez e maior sensibilidade do que os métodos existente, permitindo identificação de falta envolvendo poucas espiras.","",,,,,,,11,,,,,,,,,,,,,,,,,,
+"Identifica faltas internas entre espiras e para a terra com rapidez e alta sensibilidade. Permite identificar defetio entre poucas espirar.","",,,,,,,12,,,,,,,,,,,,,,,,,,
+"The present invention describes an adaptive switching method to reduce overvoltages due to three-phase reclosing of shunt compensated transmission lines. This method identifies the optimal region of the voltage wave, allowing contacts to be closed in the first minimum voltage region of the beat across the circuit breakers, after the protection dead time. The procedure developed works independently of zero voltage crossing, reducing significantly the reclosure dead time.
+
+proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.","",,,,,,,13,,,,,,,,,,,,,,,,,,
+"proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.
+The present invention describes an adaptive switching method to reduce overvoltages due to three-phase reclosing of shunt compensated transmission lines. This method identifies the optimal region of the voltage wave, allowing contacts to be closed in the first minimum voltage region of the beat across the circuit breakers, after the protection dead time. The procedure developed works independently of zero voltage crossing, reducing significantly the reclosure dead time.","",,,,,,,14,,,,,,,,,,,,,,,,,,
+"A invenção refere-se a um método para geração de geometrias não convencionais de feixes de subcondutores de linhas de transmissão capazes de aumentar a capacidade de transmissão de potência das linhas de transmissão aérea através do aumento da potência natural da linha.","",,,,,,,15,,,,,,,,,,,,,,,,,,
+"proteção adaptativa para religamento monopolar de linha de transmissão longa com compensação reativa. 
+Possível uso generalizado pelas transmissõas do SIN
+resultado de pesquisa de doutorado da Dra. Patricia Mestas V.","",,,,,,,16,,,,,,,,,,,,,,,,,,
+"INPI. Prot. Patent PI0804330-2 em 13 outubro 2008","",,,,,,,,0,,,,,,,,,,,,,,,,,
+"depósito no PCT em 09/10/2009 no. PCT/BR2009/000347
+referência ao depósito INPI 13 outubro 2008","",,,,,,,,1,,,,,,,,,,,,,,,,,
+"M. C. Tavares, P. Mestas, África do Sul - Pedido de depósito fase nacional no. 2011/03530 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011","",,,,,,,,2,,,,,,,,,,,,,,,,,
+"M. C. Tavares, P. Mestas, Austrália - Pedido de depósito fase nacional no. 2009304528 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011","",,,,,,,,3,,,,,,,,,,,,,,,,,
+"M. C. Tavares, P. Mestas, Casaquistão - Pedido de depósito fase nacional no. 2011.1545.1 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011.","",,,,,,,,4,,,,,,,,,,,,,,,,,
+"M. C. Tavares, P. Mestas, Colômbia - Pedido de depósito fase nacional no. 11.058.805 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011.","",,,,,,,,5,,,,,,,,,,,,,,,,,
+"MC. Tavares, P. Mestas, Coréia - Pedido de depósito fase nacional no. 10-2011-7011022 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011.","",,,,,,,,6,,,,,,,,,,,,,,,,,
+"MC. Tavares, P. Mestas, Grupo Europeu - Pedido de depósito fase nacional no. EP09820129.6 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011","",,,,,,,,7,,,,,,,,,,,,,,,,,
+"MC. Tavares, P. Mestas, Índia - Pedido de depósito fase nacional no. 965/MUMNP/2011 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011","",,,,,,,,8,,,,,,,,,,,,,,,,,
+"M. C. Tavares, P. Mestas, Nova Zelândia - Pedido de depósito fase nacional no. NZ592858 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 03/10/2011","",,,,,,,,9,,,,,,,,,,,,,,,,,
+"MC. Tavares, P. Mestas, Rússia - Pedido de depósito fase nacional no. 2011120318 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011.","",,,,,,,,10,,,,,,,,,,,,,,,,,
+"M. C. Tavares, P. Mestas, Ucrânia - Pedido de depósito fase nacional no. a 2011 06002 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011","",,,,,,,,11,,,,,,,,,,,,,,,,,
+"MC. Tavares, P. Mestas, Vietnã - Pedido de depósito fase nacional no. 1-2011-01244 no nome da UNICAMP "Fast Three-Phase Reclosing of Shunt Compensated Transmission Lines" em 13/05/2011","",,,,,,,,12,,,,,,,,,,,,,,,,,
+"O trabalho consiste na modelagem de linha de transmissão para simulação de fenômenos transitórios eletromagnéticos. É proposto um novo modelo para representar a linha com mais exatidão nos programas de simulação, dentro das limitações intrínsecas de um programa digital. O modelo é genérico, foi desenvolvido para linhas trifásicas simples, circuito duplo, linha de corrente contínua e linha hexafásica.","",,,,,,,,,0,,,,,,,,,,,,,,,,
+"No caso do modelo de linha de transmissão, o modelo desenvolvido no doutorado consiste numa representação mais precisa da linha para ser utilizada em estudos de transitórios. No modelo da proteção do transformador, represento o transformador e seu sistema de proteção diferencial com detalhes, tendo como objetivo final permitir a análise de desempenho da proteção. Apesar de serem trabalhos distintos, em ambos utilizo a mesma ferramenta computacional com a qual estou bastante familiarizada (o ATP [10-11]), e estou inserida dentro de uma pequena equipe, à qual gostaria de poder agregar mais alunos.","",,,,,,,,,1,,,,,,,,,,,,,,,,
+"A presente proposta de pesquisa apresenta a continuação do estudo realizado desde 1996, no que diz respeito à linha de transmissão e transformador. Além destes tópicos já cobertos num projeto em andamento, proc. 520061/99-3(NV) EE AI, na proposta atual estão incluídos mais dois tópicos, análise da correta representação da transposição na análise de transitórios eletromagnéticos e análise harmônica e medição dos parâmetros de linha de transmissão. Estes novos tópicos propiciarão a expansão das atividades de pesquisa e, principalmente, a formação mais abrangente dos alunos envolvidos.
+As pesquisas em andamento são sobre linha de transmissão, proteção diferencial de transformador, comportamento eletromagnético do solo e descargas atmosféricas. No caso de linha de transmissão, o modelo desenvolvido no doutorado consiste numa representação mais precisa da linha para ser utilizada em estudos de transitórios. No modelo da proteção do transformador, são representados o transformador e o seu sistema de proteção diferencial com detalhes, tendo como objetivo final permitir a análise de desempenho da proteção. Apesar de serem trabalhos distintos, em ambos é utilizada a mesma ferramenta computacional, o ATP, com a qual a equipe está bastante familiarizada. Pretende-se aumentar o número de alunos capacitados a utilizá-la, por ser esta uma ferramenta de uso disseminado na área de estudos de sistema de potência. 
+Duas novas pesquisas foram incluídas no último biênio de atividades. A primeira refere-se ao estudo do modelo interno de transformador de três enrolamentos do ATP, pois em algumas situações ocorre instabilidade numérica nas simulações devido à uma impropriedade do modelo. Em algumas simulações foi verificada a instabilidade e deverá ser feito uma análise teórica do problema, com a subsequente proposta de soluções. A segunda linha de pesquisa incorporada envolve descargas atmosféricas. O Prof. José Pissolato e o Prof. Carlos Portela já desenvolveram extenso trabalho sob","",,,,,,,,,2,,,,,,,,,,,,,,,,
+"As pesquisas a serem desenvolvidas envolvem modelagem de linha de transmissão, especificamente uma melhor representação do comportamento eletromagnético do solo, a análise do efeito da transposição de linhas de transmissão nos transitórios do sistema de potência, uma extensa análise de sensibilidade dos parâmetros elétricos de linha de transmissão. Também será estudada a proteção diferencial do transformador de potência através da representação da proteção na TACS e MODELS do ATP num sistema elétrico com dados reais. Uma nova pesquisa relacionada ao estudo do religamento monopolar está sendo iniciada, devendo trazer importantes contribuições para o Sistema Interligado Nacional. 
+Proc. 2004/09311-0
+Montante aprovado : R$ 84.087,50","",,,,,,,,,3,,,,,,,,,,,,,,,,
+"Projeto de Pesquisa aprovado no Edital Universal CNPq 019/2004
+Proc 480767/2004-1
+Montante aprovado : R$ 32.775,00","",,,,,,,,,4,,,,,,,,,,,,,,,,
+"As pesquisas em andamento são sobre linha de transmissão e proteção diferencial de transformador. No caso de linha de transmissão, o modelo desenvolvido no doutorado consiste numa representação mais precisa da linha para ser utilizada em estudos de transitórios. No modelo da proteção do transformador, são representados o transformador e o seu sistema de proteção diferencial com detalhes, tendo como objetivo final permitir a análise de desempenho da proteção. Apesar de serem trabalhos distintos, em ambos é utilizada a mesma ferramenta computacional, o ATP [39], com a qual a equipe está bastante familiarizada [40-41]. Pretende-se aumentar o número de alunos capacitados a utilizá-la, por ser esta uma ferramenta de uso disseminado na área de estudos de sistema de potência.
+Duas novas propostas de pesquisa são apresentadas. A primeira refere-se ao estudo do modelo interno de transformador de três enrolamentos do ATP, pois em algumas situações ocorre instabilidade numérica nas simulações devido à uma impropriedade do modelo. Em algumas simulações foi verificada a instabilidade e deverá ser feito uma análise teórica do problema, com a subsequente proposta de soluções. 
+A segunda nova linha de pesquisa envolve descargas atmosféricas. O Prof. José Pissolato [42] e o Prof. Carlos Portela [43] já desenvolveram extenso trabalho sobre o tema e existem algumas pesquisas específicas que precisam ser realizadas, como por exemplo a verificação da influência da topologia de uma região na distribuição de descargas atmosféricas, que ajudariam a envolver alunos de iniciação científica com o tema.","",,,,,,,,,5,,,,,,,,,,,,,,,,
+"proc. : 98/14826-6","",,,,,,,,,,0,,,,,,,,,,,,,,,
+"proc. 520061/99-3(NV) ? EE - AI
+bolsas de iniciação científica","",,,,,,,,,,1,,,,,,,,,,,,,,,
+"As pesquisas em andamento são sobre linha de transmissão e proteção diferencial de transformador. No caso de linha de transmissão, o modelo desenvolvido no doutorado consiste numa representação mais precisa da linha para ser utilizada em estudos de transitórios. No modelo da proteção do transformador, são representados o transformador e o seu sistema de proteção diferencial com detalhes, tendo como objetivo final permitir a análise de desempenho da proteção. Apesar de serem trabalhos distintos, em ambos é utilizada a mesma ferramenta computacional, o ATP [39], com a qual a equipe está bastante familiarizada [40-41]. Pretende-se aumentar o número de alunos capacitados a utilizá-la, por ser esta uma ferramenta de uso disseminado na área de estudos de sistema de potência.
+Duas novas propostas de pesquisa são apresentadas. A primeira refere-se ao estudo do modelo interno de transformador de três enrolamentos do ATP, pois em algumas situações ocorre instabilidade numérica nas simulações devido à uma impropriedade do modelo. Em algumas simulações foi verificada a instabilidade e deverá ser feito uma análise teórica do problema, com a subsequente proposta de soluções. 
+A segunda nova linha de pesquisa envolve descargas atmosféricas. O Prof. José Pissolato [42] e o Prof. Carlos Portela [43] já desenvolveram extenso trabalho sobre o tema e existem algumas pesquisas específicas que precisam ser realizadas, como por exemplo a verificação da influência da topologia de uma região na distribuição de descargas atmosféricas, que ajudariam a envolver alunos de iniciação científica com o tema.","",,,,,,,,,,2,,,,,,,,,,,,,,,
+"As pesquisas em andamento são sobre linha de transmissão e proteção diferencial de transformador. No caso de linha de transmissão, o modelo desenvolvido no doutorado consiste numa representação mais precisa da linha para ser utilizada em estudos de transitórios. No modelo da proteção do transformador, são representados o transformador e o seu sistema de proteção diferencial com detalhes, tendo como objetivo final permitir a análise de desempenho da proteção. Apesar de serem trabalhos distintos, em ambos é utilizada a mesma ferramenta computacional, o ATP [39], com a qual a equipe está bastante familiarizada [40-41]. Pretende-se aumentar o número de alunos capacitados a utilizá-la, por ser esta uma ferramenta de uso disseminado na área de estudos de sistema de potência.
+Duas novas propostas de pesquisa são apresentadas. A primeira refere-se ao estudo do modelo interno de transformador de três enrolamentos do ATP, pois em algumas situações ocorre instabilidade numérica nas simulações devido à uma impropriedade do modelo. Em algumas simulações foi verificada a instabilidade e deverá ser feito uma análise teórica do problema, com a subsequente proposta de soluções. 
+A segunda nova linha de pesquisa envolve descargas atmosféricas. O Prof. José Pissolato [42] e o Prof. Carlos Portela [43] já desenvolveram extenso trabalho sobre o tema e existem algumas pesquisas específicas que precisam ser realizadas, como por exemplo a verificação da influência da topologia de uma região na distribuição de descargas atmosféricas, que ajudariam a envolver alunos de iniciação científica com o tema.","",,,,,,,,,,3,,,,,,,,,,,,,,,
+"O projeto consistiu no desenvolvimento de modelos para estudo de transitórios eletromagnéticos e neste último ano abrangeu os seguintes temas: 
+modelagem da linha de transmissão para estudos de transitórios eletromagnéticos na faixa de freqüência até 10 kHz, representando a dependência com a freqüência dos parâmetros longitudinais;
+medição dos parâmetros do solo;
+estudo do efeito da transposição das linhas de transmissão na análise de componentes harmônicas;
+Estudo da abertura monofásica - arco secundário;
+estudo da composição harmônica das manobras e defeitos que podem sensibilizar a proteção diferencial de transformadores, incluindo a efeito da saturação dos TCs;
+Estudo de descargas atmosféricas.","",,,,,,,,,,4,,,,,,,,,,,,,,,
+"Os trabalhos previstos englobam estudos de transitório eletromagnéticos para energização de linhas e transformadores, de rejeição de carga e de religamento de linhas, considerada a operação de novos circuitos e de novas linhas na interligação Nordeste -Sudeste, sendo especificamente :
+do novo circuito entre S. Mesa e Sapeaçu 500 kV, com a presença das LTs Tucuruí/P. Dutra C3 e S. Mesa-Miracema C2 500 kV.","",,,,,,,,,,6,,,,,,,,,,,,,,,
+"O projeto tem como objetivo a análise da transposição das linhas aéreas de transmissão (LT) nos estudos de transitórios eletromagnéticos de manobra. A transposição em LT é utilizada com o intuito de diminuir o desequilíbrio entre as fases na freqüência fundamental. No entanto, só se obtém um bom resultado se a distância entre as torres de transposição for muito menor do que ¼ do comprimento da onda viajante, ou seja, muito menor do que aproximadamente 1250 km para 60 Hz.
+Nesse trabalho são realizadas várias simulações a fim de mostrar os desequilíbrios entre as fases quando se trabalha com altas freqüências (de 120 Hz a 3 kHz), como no caso das componentes harmônicas de um transitório ou as harmônicas geradas por cargas especiais. Como a distância entre as torres de transposição é de 100 km, definida para 60 Hz, para as harmônicas de alta freqüência, essa distância não é muito menor do que ¼ do comprimento de onda, portanto a transposição da linha não existe para essas harmônicas.
+No presente trabalho pretende-se quantificar o erro de se tratar uma linha como idealmente transposta para toda a gama de freqüência de transitórios de manobra.
+O software Matlab foi usado para realizar os cálculos de obtenção dos parâmetros da linha em função da freqüência e também para realizar os cálculos de efeito de transposição, bem como de todos os gráficos para análise.","",,,,,,,,,,7,,,,,,,,,,,,,,,
+"O cálculo de parâmetros elétricos de linha de transmissão foi implementado para uma linha da CESP de 440 kV (Araraquara-Bauru) no ambiente computacional do ?Mathematica?. Simultaneamente ao cálculo de parâmetros, a revisão da teoria de linhas foi realizada.
+Nesta implementação do cálculo de parâmetros utilizou-se as formulações de Carson, sob a forma de séries e integrais [1] e [2], para representar o efeito do solo real na impedância da linha. Dentre as fórmulas simplificadas utilizou-se a modelagem da distância complexa [2] e [3], utilizada na representação do solo real.
+Implementadas as fórmulas de cálculo de parâmetros, diversas análises de sensibilidade dos parâmetros de linha (resistência e indutância) em relação à freqüência e à resistividade do solo, foram realizadas. Também foi elaborado um estudo comparativo entre as metodologias de cálculo utilizadas nesta fase e na etapa anterior [4].
+	Através destes estudos e aproveitando os recursos do ambiente ?Mathematica?, tornou-se possível a visualização das faixas de validade de cada método.","",,,,,,,,,,8,,,,,,,,,,,,,,,
+"Este relatório apresenta os resultados de medições dos parâmetros elétricos (condutividade e permissividade, no domínio da freqüência), do solo de Cachoeira Paulista/SP, as quais foram realizadas em duas etapas, a primeira nos dias 24/07/2002 e 25/07/2002 e a segunda de 31/07/2002 a 01/08/2002.","",,,,,,,,,,9,,,,,,,,,,,,,,,
+"Este Projeto visa o estudo de Descargas do tipo nuvem - solo, induzidas (trigadas), pela técnica de lançamento de foguetes.
+A técnicas de indução de descargas a partir de lançamento de foguetes em direção à nuvem tem sido utilizada desde do final da década de 60, tendo sua origem na França.
+Atualmente esta técnica tem sido usada com freqüência e sucesso na França, nos Estados unidos, China e Japão, não havendo até então centros na região tropical do planeta. Esta técnica emprega dois métodos:
+·	Método clássico, que consiste no uso de um fio totalmente condutor ligado ao foguete, este método permite induzir a descarga até um ponto específico de observação;
+·	Método de altitude, onde fios condutores e isolantes são usados alternadamente, sendo o segundo método muito usado para induzir a descarga até uma certa altitude, depois ela segue o ?seu percurso natural?, ou seja, melhor caminho (menor resistência) até a terra, ou local pretendido (linhas de transmissão, pára-raios em teste, etc.).
+
+A técnica de indução através de raio laser lançados em direção às nuvens de tempestades teve sua origem nesta década, a partir de tentativas até então sem sucesso no Japão e no Canadá.
+Neste projeto usaremos o centro de captação para verificar algumas teorias relacionadas às descargas, e outras relações conhecidas (distancia de salto x corrente da descarga, etc), além disso, estudaremos os principais fatores que determinam a incidência de descargas atmosféricas numa determinada região, tais como, o nível isoceráunico, topologia etc, visando identificar possíveis regiões mais favoráveis para a localização de um centro de pesquisa.","",,,,,,,,,,10,,,,,,,,,,,,,,,
+"O trabalho de apoio técnico junto ao grupo do Projeto Integrado CNPq teve duas frentes distintas e importantes. A primeira foi o apoio nas tarefas usuais do laboratório da EESC/USP, como a instalação de programas necessários para o grupo e organização do ambiente computacional. A segunda foi a participação na remontagem do site de Captação de descargas Atmosféricas e apoio na campanha 2001/2002. A última tarefa será descrita com maiores detalhes nos próximos itens.","",,,,,,,,,,11,,,,,,,,,,,,,,,
+"O objetivo deste relatório é mostrar as atividades de pesquisa desenvolvidas no período entre Março a Novembro de 1999, do trabalho intitulado ?Utilização do EMTP na Simulação de Transformadores de Potência para Estudos de Proteção Digital Diferencial?.
+Este trabalho é uma seqüência do que foi realizado na etapa anterior [1]. Até então, tinha sido desenvolvido um sistema elétrico simplificado, buscando um modelo de proteção diferencial para transformadores de potência, incluindo a lógica de controle e atuação de um relé diferencial através da subrotina TACS, do ATP [2].
+Nesta etapa da pesquisa, prosseguiu-se com o desenvolvimento do modelo de proteção diferencial, através da inserção do mesmo em um sistema real e bastante complexo. O sistema elétrico, fornecido pela Companhia Hidrelétrica do São Francisco - CHESF, permitiu uma análise mais eficiente do problema anteriormente abordado. 
+Assim, procurou-se realizar, nesta etapa de pesquisa, a implementação da proteção diferencial em um sistema real, incluindo:
+a modelagem da atuação do relé;
+a inclusão dos transformadores de corrente (TC's);
+Além disso, buscou-se através deste estudo, observar-se a influência da saturação dos TC's sobre a resposta da proteção diferencial.
+	As formas de onda obtidas a partir da simulação com o sistema CHESF foram analisadas de acordo com o seu conteúdo harmônico, mostrando a clara distinção entre os casos de energização e faltas internas, de acordo com o esperado.
+	Foi realizado ainda o projeto de um filtro analógico para as freqüências fundamental e segunda harmônica, uma vez que se buscou analisar a possibilidade da implementação do método de restrição de harmônicos, para a distinção das situações analisadas. As formas de onda obtidas das simulações foram aplicadas aos filtros projetados, e as devidas conclusões são analisadas.
+	Cabe ressaltar ainda que, durante a realização do projeto, foram apresentados dois artigos em congressos da área de Sistemas de Potência [3] e [","",,,,,,,,,,12,,,,,,,,,,,,,,,
+"Este primeiro relatório tem como objetivo, apresentar os resultados do trabalhode iniciação científica desenvolvido desde Setembro, último, referente à propasta apresentada à CNPQ sob o tema: Estudo da Proteção Diferencial de Transformador de Potência. 
+Assim, as atividades e estudos desenvolvidos neste períodos serão apresentados. Apresentar-se-á testes feitos no programa ATP-EMTP (Alternative Transient Program - Eletromagnetic Ttransien Program), simulando faltas em um transformador de potência, para a extração do conteúdo harmônico da forma de onda da corrente diferencial do transformador em cada uma das simulações.","",,,,,,,,,,13,,,,,,,,,,,,,,,
+"Este relatório tem como objetivo, apresentar os resultados do trabalho de iniciação científica desenvolvido no período de setembro de 2000 a janeiro de 2003, referente à proposta apresentada à CNPq sob o tema : Estudo da Proteção Diferencial de Transformador de Potência. 
+Assim, as atividades e os estudos desenvolvidos neste período serão apresentados. Foram realizados testes no programa ATP-EMTP (Alternative Transient Program - Eletromagnetic Transient Program), simulando faltas em um transformador de potência, para a extração do conteúdo harmônico da forma de onda da corrente diferencial do transformador em cada uma das simulações. Estas simulações consistiram em reproduzir faltas no transformador e nas zonas de proteção adjacentes. Em seguida buscou-se padrões do comportamento harmônico.","",,,,,,,,,,14,,,,,,,,,,,,,,,
+"O projeto integrado consistiu na formação de um grupo de alunos nos assuntos relacionado com transitórios eletromagnéticos num sistema elétrico, em particular, em linhas de transmissão e transformador. Além destes tópicos foram incluídos mais dois tópicos, análise do modelo de transformador no ATP e descargas atmosféricas, o que propiciou a expansão das atividades de pesquisa e, principalmente, a formação mais abrangente dos alunos envolvidos. 
+As tarefas foram bem definidas, sendo que dois alunos participaram de trabalhos de campo relacionados com captação de descargas atmosféricas, enquanto os demais alunos desenvolveram trabalhos teóricos, com subseqüente implementação computacional. 
+Os alunos apresentaram artigos no congresso de Iniciação Científica da USP (SIICUSP) tanto em 2001 quanto em 2002, sendo que um trabalho recebeu menção honrosa em 2001.","",,,,,,,,,,15,,,,,,,,,,,,,,,
+"O projeto integrado consistiu na formação de um grupo de alunos nos assuntos relacionado com transitórios eletromagnéticos num sistema elétrico e, em particular, em linhas de transmissão. Todos os alunos tiveram que estudar teoria de parâmetros de linha e um deles se aprofundou no cálculo dos parâmetros elétricos, implementando um programa que calcula os parâmetros elétricos da linha em função da freqüência no ambiente Mathematica. 
+As tarefas foram bem definidas, sendo que os outros dois alunos trabalharam tanto com simulação de casos no ATP quanto com desenvolvimento de pequenos programas no ambiente Delphi. 
+Os dois dos alunos que tiveram 24 meses de bolsa se desenvolveram mais, apresentando 02 artigos em congresso de iniciação e congresso interno do Departamento de Engenharia Elétrica da EESC/USP.
+1","",,,,,,,,,,16,,,,,,,,,,,,,,,
+"No presente relatório são apresentadas as atividades desenvolvidas pela Dra. Maria Cristina Dias Tavares como jovem pesquisadora FAPESP junto ao Departamento de Engenharia Elétrica da Escola de Engenharia de São Carlos (USP), durante o período de 01/abril/1999 a 20/março/2000.
+O projeto consiste no desenvolvimento de modelos para estudo de transitórios eletromagnéticos, sendo dividido em duas partes : 
+modelagem da proteção diferencial do transformador, incluindo a representação de TCs e atuação do relé.
+modelagem da linha de transmissão para estudos de transitórios eletromagnéticos na faixa de freqüência até 10 kHz, representando a dependência com a freqüência dos parâmetros longitudinais;","",,,,,,,,,,17,,,,,,,,,,,,,,,
+"No presente relatório são apresentadas as atividades desenvolvidas pela Dra. Maria Cristina Dias Tavares como jovem pesquisadora FAPESP junto ao Departamento de Engenharia Elétrica da Escola de Engenharia de São Carlos (USP), durante o período de 21/março/2000 a 20/março/2001.
+O projeto atual consiste no desenvolvimento de modelos para estudo de transitórios eletromagnéticos, sendo dividido em duas partes : 
+modelagem da linha de transmissão para estudos de transitórios eletromagnéticos na faixa de freqüência até 10 kHz, representando a dependência com a freqüência dos parâmetros longitudinais;
+modelagem da proteção diferencial do transformador, incluindo a representação de TCs e atuação do relé.
+Além destes tópicos pretendo apresentar novas propostas de pesquisa com as quais estou me envolvendo, sendo elas : análise do modelo de transformador no ATP e descargas atmosféricas. Estes novos tópicos propiciarão a expansão das atividades de pesquisa e, principalmente, a formação mais abrangente dos alunos envolvidos.
+A primeira pesquisa refere-se ao estudo do modelo interno de transformador de três enrolamentos do ATP, pois em algumas situações ocorre instabilidade numérica nas simulações devido à uma impropriedade do modelo. Em algumas simulações foi verificada a instabilidade e deverá ser feito uma análise teórica do problema, com a subsequente proposta de soluções. 
+A segunda nova linha de pesquisa envolve descargas atmosféricas. O Prof. José Pissolato [42] e o Prof. Carlos Portela [43] já desenvolveram extenso trabalho sobre o tema e existem algumas pesquisas específicas que precisam ser realizadas, como por exemplo a verificação da influência da topologia de uma região na distribuição de descargas atmosféricas, que ajudariam a envolver alunos de iniciação científica com o tema.
+O projeto está sendo desenvolvido no Departamento de Engenharia Elétrica da Escola de Engenharia de São Carlos (EESC) - USP, com colaboração do programa de Engenharia Elétrica da COP","",,,,,,,,,,18,,,,,,,,,,,,,,,
+"No presente relatório são apresentadas as atividades desenvolvidas pela Dra. Maria Cristina Dias Tavares como jovem pesquisadora FAPESP junto ao Departamento de Engenharia Elétrica da Escola de Engenharia de São Carlos (USP), durante o período de 21/março/2001 a 19/fevereiro/2002.
+O projeto atual consiste no desenvolvimento de modelos para estudo de transitórios eletromagnéticos, sendo dividido em duas partes : 
+modelagem da linha de transmissão para estudos de transitórios eletromagnéticos na faixa de freqüência até 10 kHz, representando a dependência com a freqüência dos parâmetros longitudinais;
+modelagem da proteção diferencial do transformador, incluindo a representação de TCs e atuação do relé.
+Além destes tópicos dois novos temas de pesquisa foram incorporados ao projeto, especificamente : análise do modelo de transformador no ATP e descargas atmosféricas. Para estes novos temas estamos trabalhando com um aluno de mestrado na UNICAMP e dois alunos da EESC/USP.
+O projeto está sendo desenvolvido no Departamento de Engenharia Elétrica da Escola de Engenharia de São Carlos (EESC) - USP, com colaboração do programa de Engenharia Elétrica da COPPE/UFRJ e do Departamento de Sistemas de Controle (DSCE) e Energia da Faculdade de Engenharia Elétrica e de Computação da UNICAMP. 
+Nos próximos capítulos encontram-se descritas as atividades realizadas ao longo dos últimos 12 meses de trabalho separadas por tópicos. Para cada tema estão listados os artigos apresentados e submetidos no decorrer deste período. São apresentados também a equipe de trabalho atual e os projetos aprovados em outras agências de fomento. Um aluno recebeu um prêmio pelo seu trabalho realizado sob minha orientação e dedico um capítulo para este assunto. São justificados, também, os gastos efetuados ao longo deste terceiro ano de trabalho. O relatório de cada viagem foi elaborado junto com a descrição da viagem, na parte de prestação de contas. Os comprovantes dos gastos encontram-se no relatór","",,,,,,,,,,19,,,,,,,,,,,,,,,
+"No presente relatório são apresentadas as atividades desenvolvidas pela Dra. Maria Cristina Dias Tavares como jovem pesquisadora FAPESP junto ao Departamento de Engenharia Elétrica da Escola de Engenharia de São Carlos (USP) e posteriormente como Professora junto à Faculdade de Engenharia Elétrica e de Computação, no Departamento de Sistema e Controle de Energia (DSCE) da UNICAMP, durante o período de 20/fevereiro/2002 a 31/março/2003. 
+O Projeto Jovem Pesquisadora foi concluído, após 04 anos de trabalho, sendo apresentadas neste relatório as atividades realizadas no último ano da pesquisa. 
+O projeto consistiu no desenvolvimento de modelos para estudo de transitórios eletromagnéticos e neste último ano abrangeu os seguintes temas: 
+modelagem da linha de transmissão para estudos de transitórios eletromagnéticos na faixa de freqüência até 10 kHz, representando a dependência com a freqüência dos parâmetros longitudinais;
+medição dos parâmetros do solo;
+estudo do efeito da transposição das linhas de transmissão na análise de componentes harmônicas;
+Estudo da abertura monofásica - arco secundário;
+estudo da composição harmônica das manobras e defeitos que podem sensibilizar a proteção diferencial de transformadores, incluindo a efeito da saturação dos TCs;
+Estudo de descargas atmosféricas.
+O projeto foi desenvolvido no Departamento de Engenharia Elétrica da Escola de Engenharia de São Carlos (EESC) - USP, com colaboração do programa de Engenharia Elétrica da COPPE/UFRJ e do Departamento de Sistemas de Controle (DSCE) e Energia da Faculdade de Engenharia Elétrica e de Computação da UNICAMP.","",,,,,,,,,,20,,,,,,,,,,,,,,,
+"O objetivo da atividade foi aprender a teoria de cálculo de parâmetros elétricos de linha de transmissão e desenvolver um programa para calcular estes parâmetros, para uma linha genérica polifásica, no domínio da freqüência. 
+Além disto, foi definido que o programa seria implementado no ambiente ?Mathematica?, o que implicou no conhecimento mais profundo desta ferramenta. 
+Os parâmetros elétricos calculados foram expressos na forma de matrizes de dimensões dadas pelo número total de condutores da linha, sendo estas matrizes associadas aos parâmetros longitudinais e transversais da linha. 
+O cálculo de parâmetros é importante à diversas análises do sistema de potência.
+A linha utilizada como exemplo é uma linha da CESP de 440 kV, circuito simples, trifásica.","",,,,,,,,,,21,,,,,,,,,,,,,,,
+"Parte dos resultados da pesquisa de mestrado do aluno Elson Gomes.","",,,,,,,,,,,2,,,,,,,,,,,,,,
+"Resultados parciais da pesquisa envolvendo Elo CA","",,,,,,,,,,,3,,,,,,,,,,,,,,
+"parte dos resultados da pesquisa de doutorado de Gilmário Santos","",,,,,,,,,,,8,,,,,,,,,,,,,,
+"consolidação de pesquisa de doutorado de Patricia Mestas","",,,,,,,,,,,9,,,,,,,,,,,,,,
+"consolidação de parte da pesquisa de mestrado de Jonas Talaisys","",,,,,,,,,,,11,,,,,,,,,,,,,,
+"26-27 nov 2013
+Apresentação dos resultados do P&D Estratégico 
+Energização de uma linha teste de meio comprimento de onda
+participação de palestrantes chineses e russo.
+site - http://www.dsce.fee.unicamp.br/~cristina/teste.html
+acesso às palestras gravadas link : 
+https://www.youtube.com/channel/UCrj_r1r8rPBrIGS-gYMwKnQ","Half wavelength transmission line seminar
+
+http://www.dsce.fee.unicamp.br/~cristina/teste.ing.html
+
+http://www.dsce.fee.unicamp.br/~cristina/teste.esp.html",,,,,,,,,,,,0,,,,,,,,,,,,,
+"?Mulheres na Engenharia?, MC Tavares, Palestra ministrada via UStream com acesso pelo Facebook e Twitter patrocinada pelo IEEE ramo IEEE dos EUA para divulgação e aumento do número de mulheres nas engenharias. Participação de 106 pessoas através dos diversos meios WEB. Palestra com apresentação ao vivo filmada via UStream com perguntas realizadas via facebbok, twitter e UStream do IEEE. Realizada em 25/09/2012","?Mulheres na Engenharia?, MC Tavares, Palestra ministrada via UStream com acesso pelo Facebook e Twitter patrocinada pelo IEEE ramo IEEE dos EUA para divulgação e aumento do número de mulheres nas engenharias. Participação de 106 pessoas através dos diversos meios WEB. Palestra com apresentação ao vivo filmada via UStream com perguntas realizadas via facebbok, twitter e UStream do IEEE. Realizada em 25/09/2012",,,,,,,,,,,,,0,,,,,,,,,,,,
+"1.	Entrevista para a Rádio RTV UNICAMP : Programa Panorama Ciência, "Uso de linhas semelhantes para o ensaio da manobra de energização do Elo CA"- Rádio RTV UNICAMP, Campinas 14/09/2012 ? Nº 17. http://www.4shared.com/mp3/BiglELd6/14R_Panorama_Cincia_-_17_-_Ene.html, MC Tavares, Elson C Gomes, Jeverson Barbiere, 2012","1.	Entrevista para a Rádio RTV UNICAMP : Programa Panorama Ciência, "Uso de linhas semelhantes para o ensaio da manobra de energização do Elo CA"- Rádio RTV UNICAMP, Campinas 14/09/2012 ? Nº 17. http://www.4shared.com/mp3/BiglELd6/14R_Panorama_Cincia_-_17_-_Ene.html, MC Tavares, Elson C Gomes, Jeverson Barbiere, 2012",,,,,,,,,,,,,1,,,,,,,,,,,,
+"Palestra ministrada via UStream com acesso pelo Facebook e Twitter patrocinada pelo IEEE ramo IEEE dos EUA para divulgação e aumento do número de mulheres nas engenharias. Participação de 106 pessoas através dos diversos meios WEB. Palestra com apresentação ao vivo filmada via UStream com perguntas realizadas via facebbok, twitter e UStream do IEEE. 
+Realizada em 25/09/2012.","",,,,,,,,,,,,,,0,,,,,,,,,,,
+"Defesa em 17/11/2005
+Neste trabalho foi realizada uma extensa análise de sensibilidade dos parâmetros elétricos longitudinais e transversais de uma linha de transmissão trifásica em função da freqüência. Uma linha de 440 kV foi utilizada como base para a parametrização. Na análise de sensibilidade variaram-se as seguintes características da linha: Diâmetro dos cabos pára-raios, diâmetros dos condutores fase, altura dos condutores, distância horizontal entre as fases, espaçamento vertical nas fases externas. Para cada variação, observou-se o comportamento dos parâmetros elétricos em função da freqüência, em termos das matrizes primitivas e em termos dos modos. Também foi observado o fator de aterramento e foram estimados os aumentos de potência transmitida. A utilização de Linhas de Potência Natural Elevada foi abordada e relacionada às variações de geometria da linha.
+Banca Examinadora
+Maria Cristina Dias Tavares
+Ariovaldo Venâncio Garcia
+Carlos Manuel de Jesus Cruz de Medeiros Portela","",,,,,,,,,,,,,,,0,,,,,,,,,,
+"Defesa em 5/8/2005
+Banca
+Maria Cristina Dias Tavares
+Carlos Manuel de Jesus da Cruz de Medeiros Portela
+José Pissolato Filho
+Leonardo de Souza Mendes","",,,,,,,,,,,,,,,1,,,,,,,,,,
+"Defesa em 16/11/2006","",,,,,,,,,,,,,,,2,,,,,,,,,,
+"Defesa em 13/08/2007","",,,,,,,,,,,,,,,3,,,,,,,,,,
+"defesa em 10/07/2007","",,,,,,,,,,,,,,,4,,,,,,,,,,
+"Defesa em 16/03/2009","",,,,,,,,,,,,,,,5,,,,,,,,,,
+"Defesa em 28/02/2012","",,,,,,,,,,,,,,,6,,,,,,,,,,
+"Defesa em 20/08/2010","",,,,,,,,,,,,,,,7,,,,,,,,,,
+"Defesa em 11/03/2013","",,,,,,,,,,,,,,,8,,,,,,,,,,
+"defesa em 30/julho/2012","",,,,,,,,,,,,,,,9,,,,,,,,,,
+"defesa em 03/jul/2014","",,,,,,,,,,,,,,,10,,,,,,,,,,
+"defesa em 23/04/2014
+Banca 
+Profa. Maria Cristina Tavares
+Prof. Athula Rajapakse (Universidade de Manitoba)
+Prof. Luiz Carlos Pereira da Silva","",,,,,,,,,,,,,,,11,,,,,,,,,,
+"defesa em 24/04/2015","",,,,,,,,,,,,,,,12,,,,,,,,,,
+"defesa em 31/08/2016","",,,,,,,,,,,,,,,13,,,,,,,,,,
+"defesa em 11/03/2016","",,,,,,,,,,,,,,,14,,,,,,,,,,
+"defesa em 10/03/2016","",,,,,,,,,,,,,,,15,,,,,,,,,,
+"defesa em 26/05/2017","",,,,,,,,,,,,,,,16,,,,,,,,,,
+"defesa em 17/05/2016","",,,,,,,,,,,,,,,17,,,,,,,,,,
+"defesa em 07/04/2017","",,,,,,,,,,,,,,,18,,,,,,,,,,
+"defesa em 27/01/2015","",,,,,,,,,,,,,,,19,,,,,,,,,,
+"data da defesa : 16/maio/2003","",,,,,,,,,,,,,,,,1,,,,,,,,,
+"Defesa em 18/11/2005
+O objetivo deste trabalho È contribuir no estudo de linhas de transmiss?o e desenvolvimento de
+modelos voltados a programas do tipo EMTP. O trabalho desenvolvido consiste em aproveitar as
+propriedades e semelhanÁas relacionadas aos modos n?o homopolares de propagaÁ?o das linhas de
+transmiss?o, consideradas idealmente transpostas ou que apresentem plano de simetria vertical. Por
+meio de manipulaÁýes da matriz de transformaÁ?o atravÈs do uso de vetores ortogonais e elementos
+complexos no domÌnio modal, pode-se reduzir a dimens?o dos vetores de estado. O procedimento
+proposto È direcionado ?s modelagens que utilizam transformaÁ?o fase-modo-fase na determinaÁ?o
+das vari·veis de estado (corrente e tens?o) nas linhas de transmiss?o. Os recursos usados levam a
+uma reduÁ?o tanto em n'mero de operaÁýes por iteraÁ?o quanto em alocaÁ?o de estados, otimizando
+o procedimento de c·lculo e aumentando a velocidade de simulaÁ?o no processamento. A economia
+computacional, que o procedimento aqui proposto proporciona, pode ser usada em ferramentas de
+simulaÁ?o em tempo real.
+
+Banca Examinadora
+
+Maria Cristina Dias Tavares
+Carlos Manuel de Jesus Cruz de Medeiros Portela
+Ernesto Ruppert Filho
+Luiz Cera Zanetta
+Basílio Ernesto de Almeida Milani","",,,,,,,,,,,,,,,,2,,,,,,,,,
+"defesa em 22/04/2010","",,,,,,,,,,,,,,,,3,,,,,,,,,
+"DEFESA EM 1/03/2013
+FEEC/UNICAMP","",,,,,,,,,,,,,,,,4,,,,,,,,,
+"defesa em 04/12/2015","",,,,,,,,,,,,,,,,5,,,,,,,,,
+"Defesa ocorrida em 03/07/2012","",,,,,,,,,,,,,,,,6,,,,,,,,,
+"defesa em 24/03/2017
+bolsista FAPESP 2014/06232-3","",,,,,,,,,,,,,,,,7,,,,,,,,,
+"defesa em 28/09/2011","",,,,,,,,,,,,,,,,8,,,,,,,,,
+"Supervisão de pós-doutoramento com financiamento CNPq
+ início em 06/2010 - duração 24 meses.","",,,,,,,,,,,,,,,,,0,,,,,,,,
+"Supervisão de pós-doutoramento - Início em 10/2011 com duração de 24 meses","",,,,,,,,,,,,,,,,,1,,,,,,,,
+"O Prof Marcos Paz realizou pesquisa de pós-doutoramento junto com suas atividades docentes na UEFS de 2009 a 2011
+Análise de transitórios eletromagnéticos em linhas de meio comprimento de onda","",,,,,,,,,,,,,,,,,2,,,,,,,,
+"O objetivo da atividade foi aprender a teoria de cálculo de parâmetros elétricos de linha de transmissão e desenvolver um programa para calcular estes parâmetros, para uma linha genérica polifásica, no domínio da freqüência. 
+Além disto, foi definido que o programa seria implementado no ambiente "Mathematica", o que implicou no conhecimento mais profundo desta ferramenta. 
+Os parâmetros elétricos calculados foram expressos na forma de matrizes de dimensões dadas pelo número total de condutores da linha, sendo estas matrizes associadas aos parâmetros longitudinais e transversais da linha.","",,,,,,,,,,,,,,,,,,1,,,,,,,
+"O cálculo de parâmetros elétricos de linha de transmissão foi implementado para uma linha da CESP de 440 kV (Araraquara-Bauru) no ambiente computacional do "Mathematica". Simultaneamente ao cálculo de parâmetros, a revisão da teoria de linhas foi realizada.
+Nesta implementação do cálculo de parâmetros utilizou-se as formulações de Carson, sob a forma de séries e integrais [1] e [2], para representar o efeito do solo real na impedância da linha. Dentre as fórmulas simplificadas utilizou-se a modelagem da distância complexa [2] e [3], utilizada na representação do solo real.
+Implementadas as fórmulas de cálculo de parâmetros, diversas análises de sensibilidade dos parâmetros de linha (resistência e indutância) em relação à freqüência e à resistividade do solo, foram realizadas. Também foi elaborado um estudo comparativo entre as metodologias de cálculo utilizadas nesta fase e na etapa anterior [4].
+	Através destes estudos e aproveitando os recursos do ambiente "Mathematica", tornou-se possível a visualização das faixas de validade de cada método.","",,,,,,,,,,,,,,,,,,2,,,,,,,
+"Neste relatório são apresentados os resultados obtidos ao longo dos 02 anos de trabalho como bolsista de iniciação científica. O objetivo deste projeto consistiu na capacitação de mão de obra para utilização do ATP (Alternative Transient Program). Atualmente este programa é adotado pela maioria das concessionárias, consultoras e universidades brasileiras e mundiais, sendo também utilizado no desenvolvimento do modelo de linha de transmissão da Dra. Maria Cristina Tavares denominado Quase-Modos. Alguns testes com outros modelos existentes no ATP foram realizados, o que implicou em aprendizado do seu uso.","",,,,,,,,,,,,,,,,,,3,,,,,,,
+"O objetivo da atividade foi aprender a teoria de cálculo de parâmetros elétricos de linha de transmissão e desenvolver um programa para calcular estes parâmetros, para uma linha genérica polifásica, no domínio da freqüência. 
+Além disto, foi definido que o programa seria implementado no ambiente "Mathematica", o que implicou no conhecimento mais profundo desta ferramenta. 
+Os parâmetros elétricos calculados foram expressos na forma de matrizes de dimensões dadas pelo número total de condutores da linha, sendo estas matrizes associadas aos parâmetros longitudinais e transversais da linha. 
+O cálculo de parâmetros é importante à diversas análises do sistema de potência.
+A linha utilizada como exemplo é uma linha da CESP de 440 kV, circuito simples, trifásica.","",,,,,,,,,,,,,,,,,,4,,,,,,,
+"programa de estágio docente de atividade supervisionada de apoio a docência","",,,,,,,,,,,,,,,,,,9,,,,,,,
+"programa de estágio docente de atividade supervisionada de apoio a docência","",,,,,,,,,,,,,,,,,,10,,,,,,,
+"programa de apoio ao ensino da graduação - aluno de graduação","",,,,,,,,,,,,,,,,,,11,,,,,,,
+"Neste trabalho será estudado o comportamento da proteção diferencial de um transformador de potência, reproduzindo os problemas encontrados em campo, tanto de saturação dos equipamentos de medição, especificamente dos transformadores de corrente (TCs), quanto de manobras e defeitos que acarretam na operação indevida do relé.
+O trabalho será aplicado a um sistema elétrico real reduzido, modelando-se o transformador com sua proteção diferencial e os equipamentos de medição. O transformador utilizado será simulado a partir de dados reais obtidos de concessionária, sendo então submetido a diversas situações análogas às que ocorrem na prática.
+O aluno não concluiu o trabalho.","",,,,,,,,,,,,,,,,,,14,,,,,,,
+"defesa em 29/out/04","",,,,,,,,,,,,,,,,,,,7,,,,,,
+"defesa em 08/03/2005","",,,,,,,,,,,,,,,,,,,8,,,,,,
+"tese de mestrado defendida na COPPE / UFRJ em 30/03/2006","",,,,,,,,,,,,,,,,,,,9,,,,,,
+"defesa de mestrado ocorrida em 5/8/2005","",,,,,,,,,,,,,,,,,,,10,,,,,,
+"defesa ocorrida em 17/11/2005","",,,,,,,,,,,,,,,,,,,11,,,,,,
+"defesa em 12/06/2007","",,,,,,,,,,,,,,,,,,,13,,,,,,
+"Defesa em 15/06/2007","",,,,,,,,,,,,,,,,,,,14,,,,,,
+"defesa em 10/07/2007","",,,,,,,,,,,,,,,,,,,15,,,,,,
+"defesa em 13/08/2007 na UNICAMP","",,,,,,,,,,,,,,,,,,,16,,,,,,
+"Defesa em 16/03/2009","",,,,,,,,,,,,,,,,,,,17,,,,,,
+"defesa em 30/03/2009","",,,,,,,,,,,,,,,,,,,18,,,,,,
+"defesa em 20/08/2010","",,,,,,,,,,,,,,,,,,,19,,,,,,
+"defesa em 18/03/2011","",,,,,,,,,,,,,,,,,,,20,,,,,,
+"defesa em 28/02/2012","",,,,,,,,,,,,,,,,,,,21,,,,,,
+"defesa em 30/07/2012","",,,,,,,,,,,,,,,,,,,22,,,,,,
+"Defesa em 11/03/2013","",,,,,,,,,,,,,,,,,,,23,,,,,,
+"Defesa em 23/04/2014","",,,,,,,,,,,,,,,,,,,25,,,,,,
+"defesa em 03/07/2014","",,,,,,,,,,,,,,,,,,,26,,,,,,
+"defesa em 27/01/2015","",,,,,,,,,,,,,,,,,,,27,,,,,,
+"defesa em 24/04/2015","",,,,,,,,,,,,,,,,,,,28,,,,,,
+"defesa em 24/10/2015","",,,,,,,,,,,,,,,,,,,29,,,,,,
+"defesa em 26/05/2017","",,,,,,,,,,,,,,,,,,,33,,,,,,
+"defesa em 31/08/2016","",,,,,,,,,,,,,,,,,,,34,,,,,,
+"26 maio 2017","",,,,,,,,,,,,,,,,,,,35,,,,,,
+"21/07/2004 - Campinas Grande - PB","",,,,,,,,,,,,,,,,,,,,2,,,,,
+"defesa em 28/02/2005","",,,,,,,,,,,,,,,,,,,,3,,,,,
+"defesa em 10/03/2006","",,,,,,,,,,,,,,,,,,,,4,,,,,
+"defesa ocorrida em 18/11/2005","",,,,,,,,,,,,,,,,,,,,5,,,,,
+"Defesa em 06/12/2006 - COPPE/ UFRJ","",,,,,,,,,,,,,,,,,,,,6,,,,,
+"Defesa : 20/05/2005","",,,,,,,,,,,,,,,,,,,,7,,,,,
+"defesa em 17/07/2009","",,,,,,,,,,,,,,,,,,,,8,,,,,
+"defesa em 22/04/2010","",,,,,,,,,,,,,,,,,,,,9,,,,,
+"banca em 25/05/2010","",,,,,,,,,,,,,,,,,,,,10,,,,,
+"defesa em 03/11/2010","",,,,,,,,,,,,,,,,,,,,11,,,,,
+"defesa em 03/11/2010","",,,,,,,,,,,,,,,,,,,,12,,,,,
+"Defesa na Universidad Nacional de San Juan no dia 09/03/2011.","",,,,,,,,,,,,,,,,,,,,13,,,,,
+"defesa na Universidad Nacional de San Juan no dia 09/03/2011","",,,,,,,,,,,,,,,,,,,,14,,,,,
+"defesa em 23/05/2011","",,,,,,,,,,,,,,,,,,,,15,,,,,
+"defesa em 30/03/2012","",,,,,,,,,,,,,,,,,,,,17,,,,,
+"Defesa em 17/04/2012","",,,,,,,,,,,,,,,,,,,,18,,,,,
+"defesa em 03/07/2012","",,,,,,,,,,,,,,,,,,,,19,,,,,
+"banca em 05/10/2012","",,,,,,,,,,,,,,,,,,,,20,,,,,
+"DEFESA EM 1/03/2013","",,,,,,,,,,,,,,,,,,,,21,,,,,
+"defesa em 31/08/2015.","",,,,,,,,,,,,,,,,,,,,22,,,,,
+"banca em 04/12/2015","",,,,,,,,,,,,,,,,,,,,23,,,,,
+"defesa em 22/02/2016","",,,,,,,,,,,,,,,,,,,,24,,,,,
+"defesa em 24/03/2017","",,,,,,,,,,,,,,,,,,,,25,,,,,
+"28/fev/2017","",,,,,,,,,,,,,,,,,,,,26,,,,,
+"Qualificação em 15/01/2005","",,,,,,,,,,,,,,,,,,,,,2,,,,
+"Defesa do tema em 29/09/2006.","",,,,,,,,,,,,,,,,,,,,,3,,,,
+"Qualificação em 18/06/2007","",,,,,,,,,,,,,,,,,,,,,4,,,,
+"Banca em 25/06/2007","",,,,,,,,,,,,,,,,,,,,,5,,,,
+"ocorrido em 16/10/2009","",,,,,,,,,,,,,,,,,,,,,7,,,,
+"qualificação em 22/10/2010","",,,,,,,,,,,,,,,,,,,,,8,,,,
+"defesa em 24/09/2010","",,,,,,,,,,,,,,,,,,,,,9,,,,
+"defesa do tema em 02/12/2014","",,,,,,,,,,,,,,,,,,,,,10,,,,
+"Concurso público realizado no período de 22 a 24 de setembro de 2009 para o Departamento de Engenharia Elétrica da UFF","",,,,,,,,,,,,,,,,,,,,,,0,,,
+"realizado no período de 03 a 06 de dezembro de 2012","",,,,,,,,,,,,,,,,,,,,,,1,,,
+"Promoção da Classe de Assistente B para Adjunto A do Prof. Marcos de Araujo Paz no dia 18/04/2011","",,,,,,,,,,,,,,,,,,,,,,,5,,
+"Participação como membro externo do processo seletivo para concessão de bolsas de Iniciação Científica PIBIC - PIBITI/CNPq na PUC-Campinas em 12 e 13/06/2012","",,,,,,,,,,,,,,,,,,,,,,,7,,
+"Início em 01/03/2012","",,,,,,,,,,,,,,,,,,,,,,,,0,
+"Início em 01/08/2011","",,,,,,,,,,,,,,,,,,,,,,,,,6

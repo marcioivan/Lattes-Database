@@ -1,0 +1,77 @@
+﻿NATUREZA,TITULO,ANO,PAIS,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,TIPO-PARTICIPACAO,FORMA-PARTICIPACAO,DOI,TITULO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,PARTICIPACAO-EM-CONGRESSO_Id
+"Congresso","Participação no VI World Congress on Computational Mechanics","2004","China","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",0
+"Congresso","Apresentação de trabalho: Análise e Automação das Ações Dinâmicas de Vento em Torres Metálicas","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",1
+"Congresso","Hierarchical high order finite element approximation spaces for H(div) and H(curl)","2010","Brasil","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","","NAO",2
+"Congresso","Participação no Fourteenth Southwestern Graduate Research Conference in Applied Mechanics","1983","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",3
+"Congresso","Um modelo numérico para a simulação de injeção de vapor em reservatórios","2011","Brasil","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","","NAO",4
+"Congresso","Construction of Hdiv finite elements spaces for three-dimensional geometries","2015","Argentina","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","1st. Pan-American Congress on Computational Mechanics","NAO",5
+"Congresso","Participação no VI International Conference on Finite Elements in Flow Problems","1986","França","Português","NAO_INFORMADO","","NAO","","","","","NAO",6
+"Congresso","Simulação numérica do problema do traçador passivo em contexto multifísica","2014","Brasil","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","XXXV CILAMCE - Congresso Ibero Latino Americano de Métodos Computacionais em Engenharia","NAO",7
+"Congresso","On the Numerical Simulation of Well Stability","2014","Espanha","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","11th. WCCM - World Congress on Computational Mechanics","NAO",8
+"Congresso","A sistematic way for generating p-adaptive HDiv HCurl and Tensorial approximation spaces","2009","Estados Unidos","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","","NAO",9
+"Congresso","Participação no XV Congresso Brasileiro de Engenharia Mecânica","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",10
+"Congresso","Desenvolvimento de ferramenta computacional para cálculo de índice de proditividade em pocos verticais e horizontais","2008","Brasil","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","","NAO",11
+"Congresso","Orientação de Trabalho: Auto-Adaptatividade e Estimadores de Erro","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",12
+"Congresso","Participação no XV Congresso Ibero Latino-Americano sobre Métodos Computacionais para Engenharia / Simpósio Mineiro de Mecânica Computacional","1994","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",13
+"Congresso","On the Numerical Simulation of Multiphysics Phenomena with the NeoPZ Environment","2013","Brasil","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","","NAO",14
+"Congresso","Apresentação de trabalho: On an Object Oriented Implementation of Plasticity Models","2005","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",15
+"Congresso","Estimativa a posteriori do erro em termos de quantidade de interesse","2008","Brasil","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","","NAO",16
+"Congresso","Coordenação da Plenária: Evolution of Object Oriented Solfware","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",17
+"Congresso","Apresentação de trabalho: Automatic Differentiation in Computational Mechanics","2003","Holanda","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",18
+"Congresso","Orientação de Trabalho: Desenvolvimento de pós-processamento gráfico para programa de elementos finitos","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",19
+"Congresso","Orientação de Trabalho: Desenvolvimento de pós-processamento gráfico para programa de elementos finitos","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",20
+"Congresso","MULTIPHYSICS SIMULATION","2012","Brasil","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","","NAO",21
+"Congresso","On the Numerical Simulation of Well Stability","2013","Brasil","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","XXXIV CILAMCE - Congresso Ibero Latino Americano de Métodos Computacionais em Engenharia","NAO",22
+"Congresso","Participação no V World Congress on Computational Mechanics","2002","Austria","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",23
+"Congresso","Participação no II Congresso de Infomática e Telecomunicações","1995","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",24
+"Congresso","Participação no ENCIT 96 e LATCYM 96","1996","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",25
+"Congresso","Orientação de Trabalho: Dimensionamento de se&#263;ão retangular de concreto armado submetido à flexão composta","2000","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",26
+"Congresso","Apresentação de trabalho: Formulação Para Placas e Casca Multi-Camadas Inserida em Um Programa de Elementos Finitos h-p Adaptativo","1999","Brasil","Português","IMPRESSO","","NAO","","","","","NAO",27
+"Congresso","Geração de Espaços HDiv P-Adaptativas","2010","Brasil","","NAO_INFORMADO","http://www.rpcmod.org/cmspi/","NAO","Conferencista","Convidado","","","NAO",28
+"Congresso","Palestrante convidado : Aplicações de Programação Orientada para Objetos em Computação Científica","1991","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",29
+"Congresso","Participação no IX MECOM","1988","Argentina","Português","NAO_INFORMADO","","NAO","","","","","NAO",30
+"Congresso","Participação no Third International Conference on Computational Structures Technology","1996","Hungria","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",31
+"Congresso","Apresentação de trabalho : Hp Auto Adaptive Finite Element Method on 3D Heterogeneous Meshes","2003","Holanda","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",32
+"Congresso","Participação no Workshop on Innovative Finite Element Methods","1989","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",33
+"Congresso","Participação no Second International Conference on Computational Structures Technology","1994","Grécia","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",34
+"Congresso","Descrição Matemática de Geometrias Curvas por Interpolação Transfinita","2009","Brasil","","NAO_INFORMADO","http://eventos.nacad.ufrj.br/","NAO","Apresentação Oral","Participante","","","NAO",35
+"Congresso","Participação no XXI Congresso Ibero Latino Americano de Métodos Computacionais para Engenharia","2000","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",36
+"Congresso","Participação Second World Congress on Computational Mechanics","1990","Alemanha","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",37
+"Congresso","Finite Elements Approximation of Young Concrete through Viscoelasticity","2012","Brasil","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","","NAO",38
+"Congresso","Participação no CILAMCE 95","1995","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",39
+"Congresso","Coordenação da Sessão A07 no XX Congresso Ibero Latino Americano de Métodos Computacionais para Engenharia","1999","Brasil","Português","OUTRO","","NAO","","","","","NAO",40
+"Congresso","Participação no First European Conference on Numerical Methods in Engineering","1992","Bélgica","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",41
+"Congresso","Participação no XX Congresso Ibero Latino Americano de Métodos Computacionais para Engenharia","1999","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",42
+"Congresso","Participação no XI Congresso Nacional de Matemática Aplicada e Computacional","1988","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",43
+"Congresso","Apresentação de trabalho: Towards Large Scale Hp-adaptive finite Element Simulations","2003","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",44
+"Congresso","Participação no XVIII CNMAC","1995","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",45
+"Congresso","Apresentação de trabalho: Matricial Decomposition of Artificial Diffusive Terms in Gas Dynamics","2004","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",46
+"Congresso","Participação no Second Euro Conference on Parallel and Distributed Computing for Computacional Mechanics","1998","Portugal","Português","NAO_INFORMADO","","NAO","","","","","NAO",47
+"Congresso","Orientação de Trabalho: Desenvolvimento de Classes Viga e Pilar para AutoCad utilizando linguagem C++ e ObjectArx","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",48
+"Congresso","Participação no XXII Congresso Ibero Latino Americano de Métodos Computacionais para Engenharia","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",49
+"Congresso","Participação no II Congresso Brasileiro de Mecânica Computacional","2001","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",50
+"Congresso","ON THE USE OF THE STEKLOV ANALYSIS TO VERIFY THE STABILITY CONDITION OF MIXED FINITE ELEMENT FORMULATIONS","2010","Brasil","","NAO_INFORMADO","","NAO","Outras Formas","Participante","","","NAO",51
+"Congresso","Participação no nternational Congres on Numerical Methods in Engineering and Applied Sciences","1992","Chile","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",52
+"Congresso","Coordenação do Mini-Simpósio: Object Oriented Systems","2005","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",53
+"Congresso","Participação no XI CILAMCE","1990","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",54
+"Congresso","Three dimensional hierarchical mixed finite element approximations with enhanced primal variable accuracy","2016","Brasil","","NAO_INFORMADO","","NAO","Apresentação oral","Participante","","Three dimensional hierarchical mixed finite element approximations with enhanced primal variable accuracy","NAO",55
+"Congresso","Participação no SIAM 1983, Conference on Parallel Processing for Scientific Computing","1983","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",56
+"Congresso","Participação no XII MECOM","1991","Argentina","Português","NAO_INFORMADO","","NAO","","","","","NAO",57
+"Congresso","Participação no Object Oriented Numerics Conference OON-SKI 93","1993","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",58
+"Congresso","Parallel implementation of Preconditioner based on sub structuring","2011","França","","NAO_INFORMADO","","NAO","Apresentação Oral","Participante","","","NAO",59
+"Congresso","Palestrante: II Second International Conference on Computational Structures Technology","1994","Grécia","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",60
+"Congresso","A Description of The PZ Finite Element Package","2007","Portugal","","NAO_INFORMADO","http://cmne2007.inegi.up.pt/index_pt.asp#","NAO","Apresentação Oral","Participante","","","NAO",61
+"Congresso","Orientação de Trabalho: Automatic mesh refinement for the study of Navier-Stokes fluid flows","2004","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",62
+"Congresso","Palestrante: I South American Congress on Computational Mechanics","2002","Argentina","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",63
+"Congresso","Participação no XXVI Congresso Ibero Latino Americano de Métodos Computacionais para Engenharia","2005","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",64
+"Congresso","","2011","Estados Unidos","","NAO_INFORMADO","","NAO","","Ouvinte","","","NAO",65
+"Congresso","Apresentação de trabalho: Inclusão de Elementos Descontínuos no Ambiente PZ","2003","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",66
+"Congresso","Participação no X COBEM","1989","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",67
+"Congresso","Palestrante convidado : Recent advances in adaptive finite element methods","2002","Argentina","Português","NAO_INFORMADO","","NAO","","","","","NAO",68
+"Congresso","Palestrante plenário : Modeling using the finite element method and its object oriented implementation","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",69
+"Congresso","Coordenação do Mini-Simpósio: Object Oriented Systems","2004","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",70
+"Congresso","Participação no XVI Congresso Nacional de Matemática Aplicada e computacional (CNMAC)","1991","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",71
+"Congresso","Apresentação de trabalho: Parallelization Using Oopar","2004","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",72
+"Congresso","Apresentação de trabalho: Parallelization of a Scientific Code Using Oopar","2003","Brasil","Inglês","NAO_INFORMADO","","NAO","","","","","NAO",73
+"Congresso","Orientação de Trabalho: Computação paralela aplicada a computação científica","2002","Brasil","Português","NAO_INFORMADO","","NAO","","","","","NAO",74
+"Congresso","Participação no VIII U.S. National Congess on Computational Mechanics","2005","Estados Unidos","Português","NAO_INFORMADO","","NAO","","","","","NAO",75

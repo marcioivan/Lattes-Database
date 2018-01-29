@@ -1,0 +1,41 @@
+﻿NOME-DO-ORIENTADO,CODIGO-INSTITUICAO,NOME-DA-INSTITUICAO,CODIGO-CURSO,NOME-DO-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,TIPO-DE-ORIENTACAO-CONCLUIDA,NUMERO-DE-PAGINAS,NUMERO-ID-ORIENTADO,NOME-DO-CURSO-INGLES,OUTRAS-ORIENTACOES-CONCLUIDAS_Id
+"Paulo Sérgio Pessoa","007900000004","Universidade Estadual de Campinas","90000002","Economia","NAO","","","ORIENTADOR_PRINCIPAL","0","","",0
+"Regina Wonsik","007900000004","Universidade Estadual de Campinas","90000002","Economia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",1
+"Patricia Ayumi Hodge","007900000004","Universidade Estadual de Campinas","90000002","Economia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",2
+"Juliana Rocha Lages","007900000004","Universidade Estadual de Campinas","90000002","Economia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",3
+"Cleber Luiz Lourenço","007900000004","Universidade Estadual de Campinas","90000002","Economia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",4
+"Luciano Liesenberg","007900000004","Universidade Estadual de Campinas","90000002","Economia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",5
+"Roberta Afonso","007900000004","Universidade Estadual de Campinas","90000002","Economia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",6
+"Carlos Afonso Guimarães","007900000004","Universidade Estadual de Campinas","90000002","Economia","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",7
+"Carolina Bertozzo de Avilez","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","ORIENTADOR_PRINCIPAL","45","","",8
+"Carolina Bertozzo de Avilez","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","CO_ORIENTADOR","45","","",9
+"Roberta Afonso","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","ORIENTADOR_PRINCIPAL","0","","",10
+"Carlos Afonso Guimarães","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","ORIENTADOR_PRINCIPAL","0","","",11
+"Luciano Liesenberg","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","ORIENTADOR_PRINCIPAL","0","","",12
+"Cleber Luiz Lourenço","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","ORIENTADOR_PRINCIPAL","0","","",13
+"Cleber Luiz Lourenço","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","CO_ORIENTADOR","0","","",14
+"Juliana Rocha Lages","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","CO_ORIENTADOR","0","","",15
+"Patricia Ayumi Hodge","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","ORIENTADOR_PRINCIPAL","0","","",16
+"Regina Wonsik","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","ORIENTADOR_PRINCIPAL","0","","",17
+"Priscila Honório Evangelista","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","0","","",18
+"Silvia Antunes","000500000999","Instituto de Economia","90000012","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",19
+"Fabiola Braunger Valio","000400000997","Instituto de Economia","90000013","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",20
+"Ana Luiza Lodi","000700000992","Instituto de Economia UNICAMP","90000016","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",21
+"Maurício Muciacito de Vasconcellos","000700000992","Instituto de Economia UNICAMP","90000016","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",22
+"Camila de Santos Matos de Freitas Ribeiro","000700000992","Instituto de Economia UNICAMP","90000016","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",23
+"Iolanda Christine Monteiro","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",24
+"Thais Silva Oliveira","000800000994","Instituto de Economia da UNICAMP","","","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",25
+"Marcela Cristina de Souza","000700000992","Instituto de Economia UNICAMP","","","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",26
+"Francine Braite","000700000992","Instituto de Economia UNICAMP","","","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",27
+"Diana Almeida","000700000992","Instituto de Economia UNICAMP","","","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",28
+"Maurício Muciacito de Vasconcellos","000700000992","Instituto de Economia UNICAMP","","","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",29
+"Maurício Muciacito de Vasconcellos","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",30
+"Ana Luiza Lodi","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",31
+"Priscila Honório Evangelista","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","NAO","","","CO_ORIENTADOR","","","",32
+"Daphnae Helena Picoli","007900000004","Universidade Estadual de Campinas","90000005","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",33
+"Luciana Bernardes Vasquez","007900000004","Universidade Estadual de Campinas","00001805","Economia do Trabalho e Sindicalismo","NAO","","","CO_ORIENTADOR","","","Economy",34
+"Mayra Gobbi Silva","001200000991","Instituto de Economia - UNICAMP","","","SIM","001500000997","Serviço de Apoio ao Estudante","CO_ORIENTADOR","","","",35
+"Nander Neri","001200000991","Instituto de Economia - UNICAMP","","","SIM","001500000997","Serviço de Apoio ao Estudante","CO_ORIENTADOR","","","",36
+"Nander Neri","001200000991","Instituto de Economia - UNICAMP","","","SIM","001500000997","Serviço de Apoio ao Estudante","CO_ORIENTADOR","","","",37
+"Carla Regina Marques Fernandes","001200000991","Instituto de Economia - UNICAMP","90000032","ESPECIALIZAÇÃO EM ECONOMIA DO TRABALHO E SINDICALISMO","NAO","","","CO_ORIENTADOR","","","",38
+"Ricardo Barbosa Calegari","000700000992","Instituto de Economia UNICAMP","90000016","Ciências Econômicas","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","CO_ORIENTADOR","","","",39

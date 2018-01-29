@@ -1,0 +1,34 @@
+﻿NATUREZA,TITULO-DO-TRABALHO,ANO-DO-TRABALHO,PAIS-DO-EVENTO,IDIOMA,MEIO-DE-DIVULGACAO,HOME-PAGE-DO-TRABALHO,FLAG-RELEVANCIA,DOI,TITULO-DO-TRABALHO-INGLES,FLAG-DIVULGACAO-CIENTIFICA,TRABALHO-EM-EVENTOS_Id
+"COMPLETO","Modifing a VLIW Compiler Framework to Implement an Optimizing Compiler for a Fixed Point DSP","2001","Alemanha","Inglês","IMPRESSO","","NAO","","","NAO",0
+"COMPLETO","Optimal Live Range Merge for Address Register Allocation in Embedded Programs","2001","Itália","Inglês","IMPRESSO","","NAO","","","NAO",1
+"COMPLETO","Exploring Memory Hierarchy using ArchC","2003","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",2
+"COMPLETO","Modeling and Simulationg Memory Hierarchies in a Platform-Based Design Methodology","2004","França","Inglês","IMPRESSO","","NAO","","","NAO",3
+"COMPLETO","Teaching Computer Architecture Using an Architecture Description Language","2004","Alemanha","Inglês","VARIOS","http://www4.ncsu.edu/~efg/wcae/2004","NAO","","","NAO",4
+"COMPLETO","ArchC: A SystemC-Based Architecture Description Language","2004","Brasil","Português","VARIOS","","NAO","","","NAO",5
+"COMPLETO","Optimizations for Compiled Simulation Using Instruction Type Information","2004","Brasil","Português","VARIOS","","NAO","","","NAO",6
+"COMPLETO","Extending the ArchC Language for Automatic Generation of Assemblers","2005","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",7
+"COMPLETO","Uma Nova Abordagem para um Curso de Projeto de Sistemas Computacionais","2006","Brasil","Português","IMPRESSO","","NAO","","","NAO",8
+"COMPLETO","Automatic Retargeting of Binary Utilities for Embedded Code Generation","2007","Brasil","Inglês","VARIOS","","NAO","","","NAO",9
+"COMPLETO","A Flexible Platform Framework for Rapid Transactional Memory Systems Prototyping and Evaluation","2007","Brasil","Inglês","VARIOS","","NAO","","","NAO",10
+"COMPLETO","A Computational Reflection Mechanism to Support Platform Debugging in SystemC","2007","Austria","Inglês","VARIOS","","NAO","","","NAO",11
+"COMPLETO","Comparing RTL and High-Level Synthesis Methodologies in the Design of a Theora Video Decoder IP Core","2009","Brasil","Inglês","IMPRESSO","","NAO","","","NAO",12
+"COMPLETO","A Novel Verification Technique to Uncover Out-of-Order DUV Behaviors","2009","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",13
+"COMPLETO","An Early Real-Time Checker for Retargetable Compile-Time Analysis","2009","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",14
+"COMPLETO","Experimentos com Gerenciamento de Contenção em uma Memória Transacional com Suporte em Software","2009","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",15
+"COMPLETO","STM versus Lock-based Systems: an Energy Consumption Perspective","2010","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",16
+"COMPLETO","Optimizing a Retargetable Compiled Simulator to Achieve Near-Native Performance","2010","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",17
+"COMPLETO","ARP: Um Gerenciador de Pacotes para Sistemas Embarcados com Processadores Modelados em ArchC","2010","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",18
+"COMPLETO","ViCOS ? Virtual Cluster Orchestration System","2010","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",19
+"COMPLETO","Software Co-Verification Based on Program Traces from Different Processors","2011","França","Inglês","NAO_INFORMADO","","NAO","","","NAO",20
+"COMPLETO","Live Range Hole Allocation in Dynamic Binary Translation","2011","Estados Unidos","Inglês","VARIOS","","NAO","","Live Range Hole Allocation in Dynamic Binary Translation","NAO",21
+"COMPLETO","Using Multiple Abstraction Levels to Speedup an MPSoC Virtual Platform Simulator","2011","Alemanha","Inglês","NAO_INFORMADO","","NAO","","","NAO",22
+"COMPLETO","Modeling, Simulation and Optimization of Power and Performance of Data Centers","2011","Estados Unidos","Inglês","NAO_INFORMADO","","NAO","","","NAO",23
+"COMPLETO","Empirical Web Server Power Modeling and Characterization","2011","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",24
+"COMPLETO","Asynchronous Program Flow Verification Through Binary Instrumentation on QEMU","2012","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",25
+"COMPLETO","Compressing Variable-Length Instruction Traces","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",26
+"COMPLETO","Optimizing Simulation in Multiprocessor Platforms using Dynamic-Compiled Simulation","2012","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",27
+"COMPLETO","Assessing Computer Performance with SToCS","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",28
+"COMPLETO","Modeling Virtual Machines Misprediction Overhead","2013","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",29
+"COMPLETO","Leveraging Optimization Methods for Dynamically Assisted Control-Flow Integrity Mechanisms","2014","Brasil","Português","NAO_INFORMADO","","NAO","","","NAO",30
+"COMPLETO","Go With the FLOW: Fine-Grained Control-Flow Integrity for the Kernel","2016","Brasil","Inglês","NAO_INFORMADO","","NAO","","","NAO",31
+"COMPLETO","A Methodology and Toolset to Enable SystemC and VHDL Co-simulation","2007","Brasil","Inglês","VARIOS","","NAO","","","NAO",32

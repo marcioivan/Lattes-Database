@@ -1,0 +1,4 @@
+﻿TIPO-DE-ORIENTACAO,NOME-DO-ORIENTANDO,CODIGO-INSTITUICAO,NOME-INSTITUICAO,CODIGO-ORGAO,NOME-ORGAO,CODIGO-CURSO,NOME-CURSO,FLAG-BOLSA,CODIGO-AGENCIA-FINANCIADORA,NOME-DA-AGENCIA,NUMERO-ID-ORIENTANDO,NOME-CURSO-INGLES,ORIENTACAO-EM-ANDAMENTO-DE-DOUTORADO_Id
+"ORIENTADOR_PRINCIPAL","Pablo Giovanni da Silva Carvalho","007900000004","Universidade Estadual de Campinas","","","33070415","Engenharia Civil","SIM","001100000990","Agencia Nacional do Petroleo","1115978740211742","Civil Engineering",0
+"ORIENTADOR_PRINCIPAL","Thiago Dias dos Santos","007900000004","Universidade Estadual de Campinas","","","60043628","Doutorado","SIM","002200000000","Conselho Nacional de Desenvolvimento Científico e Tecnológico","3618128074442916","Doctorate",1
+"ORIENTADOR_PRINCIPAL","Manoucherh Sanei","007900000004","Universidade Estadual de Campinas","","","90000010","Engenharia do Petróleo","SIM","001100000990","Agencia Nacional do Petroleo","","",2

@@ -1,0 +1,91 @@
+ANO_INICIO,ANO_FIM,NOME,SITUACAO,NATUREZA,DESCRICAO
+2005,2008,"WebBios (edital eScience Microsoft Research US$ 46000, 5 docentes)",CONCLUIDO,PESQUISA,"O objetivo do projeto é desenvolver um toolkit de ferramentas para gerenciamento
+de dados de biodiversidade, utilizando servicos Web.
+O projeto estã sendo realizado em conjunto por 5 docentes do IC-UNICAMP e do Instituto de Biologia da UNICAMP, junto com o Nucleo de Planejamento Ambiental, UNICAMP."
+1998,2004,"Projeto PRONEX - SAI - R$ 1 milhao, com 20 docentes (UNCAMP, UFMS)",CONCLUIDO,PESQUISA,"Sistemas Avançados de Informaçao, em conjunto com a UFMS e a EMBRAPA."
+2003,2006,"Web-MAPS - Sistema baseado na Web Semântica para Planejamento Agro-ambiental (Edital UNIVERSAL, R$ 100 mil, 8 docentes)",CONCLUIDO,PESQUISA,"Projeto aprovado no edital universal 2002, vigência 2003-2005. Oito docentes da UNICAMP - Instituto de Computação, Faculdade de Engenharia Agrícola e CEPAGRI.
+O objetivo do projeto é a especificação e desenvolvimento de um sistema de informação WEB - Web-MAPS - que sirva de apoio ao monitoramento e planejamento de safras agrícolas no Brasil. O sistema integrará em rede dados heterogêneos de diversas fontes, fornecendo uma base para a formulação, implementação e avaliação de políticas integradas de planejamento agrícola. Já há iniciativas de sistemas com características similares na América do Norte e União Européia, mas não há nada semelhante na América do Sul. Os problemas a resolver exigem pesquisa de ponta multidisciplinar combinando trabalho em Ciências Agrárias e em aspectos básicos e aplicados de Computação. Um diferencial para os demais sistemas similares é que buscar-se-á utilizar a filosofia de software livre. Isto possibilitará a disseminação da tecnologia desenvolvida e a integração com outros sistemas. 
+Envolve 6 docentes do IC, 1 da FEAGRI, 2 do CEPAGRI"
+2004,2006,"AgroFlow - Workflows Cientificos para Planejamento Agricola (R$ 70,000, 6 docentes)",CONCLUIDO,PESQUISA,"O objetivo do projeto é o desenvolvimento de um sistema de informação baseado em software livre - AgroFlow - que permitirá especificação e implementação de processos cooperativos via Web para acompanhamento e planejamento de safras agrícolas no Brasil. Este trabalho combina os seguintes tipos de tecnologia base a serem utilizadas dentro da filosofia de software livre: (i) uso de workflows científicos distribuídos para especificação de processos cooperativos ; (ii) bancos de dados espaciais, para armazenamento e gerenciamento dos dados utilizados; (iii) algoritmos de processamento de imagens; e (iv) geoprocessamento voltado ao domínio da agricultura. O sistema integrará, em rede, dados heterogêneos de diversas fontes, fornecendo uma base para a formulação e implementação de processos integrados de atividades cooperativas associadas ao planejamento agrícola. Edital Software Livre, CNPq."
+2006,2008,"WebMAPS II - (Universal CNpq, R$ 48.000,00, 8 docentes, em Computação e Eng. Agricola)",CONCLUIDO,PESQUISA,"O WebMAPS II é um projeto multidisciplinar em Computação e em Ciências Agrárias, de 2 anos de duração. Visa atacar problemas teóricos e de implementação, na área de gerenciamento de dados científicos, especialmente os produzidos por sensores (satélites e redes meteorológicas). Envolve pesquisa em dois dos Grandes Desafios do seminário organizado pela Sociedade Brasileira de Computação: (1) Gestão da Informação em grandes volumes de dados multimídia distribuídos e (2) Modelagem Computacional de Sistemas Complexos Artificiais, Naturais, sócio-culturais e da interação homem-natureza
+
+A pesquisa proposta dá continuação ao projeto WebMAPS apoiado por um edital Universal em Computação (set. 2003 - mar 2006), cujos resultados foram: software (protótipo Web), publicações (10 artigos revistas internacionais, 25 artigos em congresso - 10 internacionais) e formação de 11 mestres e 2 doutores em Computação e em Ciências Agrárias. Durante este primeiro projeto, foram descobertos vários novos problemas de pesquisa multidisciplinar, que serão atacados nesta continuação.
+
+O WebMAPS II disponibilizará, na Web, o resultado do processamento de dados científicos heterogêneos de diversas fontes, a partir da especificação de serviços Web que gerenciem estes dados. O objetivo final é o estabelecimento de uma plataforma base para a formulação, implementação e avaliação de políticas integradas de planejamento agrícola. Haverá interação com iniciativas de pesquisa do mesmo tipo, na América do Norte e Europa, com contatos já estabelecidos durante a realização do primeiro projeto.
+
+Os problemas a resolver exigem pesquisa de ponta multidisciplinar combinando trabalho em aspectos básicos e aplicados de Computação, motivados por problemas em Ciências Agrárias. Serão especialmente estudados pontos em aberto nas áreas de grandes bancos de dados multimídia e algoritmos para manipulá-los, engenharia de software de grandes sistemas, processamento digital de imagens, redes de alto desempenho, e"
+2006,2012,Producing and publishing component-based digital content building blocks (HP) - US$ 50.000,CONCLUIDO,PESQUISA,"Communities are discovering the benefits of strategies to promote digital content distribution, reuse and customization, help spatially distributed groups to work together.
+This project received a grant from HP -USA to develop new techniques based on Digital Content Components for Digital Publishing."
+2007,2010,"eFARMS - A two-way road into the networked world for small farms (Instituto Virtual FAPESP-Microsoft Research, R$ 193000,00, 6 pesquisadores em Computacao e Ciencias Agrarias.)",CONCLUIDO,PESQUISA,"O e-Farms é um projeto multidisciplinar de P & D em Computação e Ciências Agrárias. Visa resolver problemas teóricos e aplicados motivados por 2 necessidades da população brasileira (a) investigar soluções de baixo custo, usando redes sem fio, para permitir a comunicação de dados em áreas rurais com infra-estrutura limitada; e (b) desenvolver modelos, métodos e algoritmos para o gerenciamento, integração e análise de dados provenientes de sensores (no solo e a bordo de satélites), para apoio à decisão no planejamento agrícola. Os usuários-alvo são pequenos agricultores e suas cooperativas. A ""estrada de mão dupla"" do título denota que as fazendas serão incorporadas ao mundo em rede não só para receber informação (e melhorar a lavoura), mas também para fornecer dados (via sensores) e feedback de agricultores, com isto ajustando modelos e influenciando decisões regionais e nacionais. O projeto será acompanhado e validado por especialistas de uma cooperativa."
+2007,2010,"Bio-CORE -Biodiversity and COmputing Research (Edital Grandes Desafio, R$ 508 mil, 12 participantes - Computação e Biologia)",EM_ANDAMENTO,PESQUISA,"O objetivo do BIO-CORE (BIOdiversity and COmputing REsearch) 
+é especificar e desenvolver ferramentas computacionais que permitam aos cientistas deste domínio
+gerenciar e compartilhar seus dados, auxiliando-os na construcao de modelos
+complexos e na análise e modelagem de ecossistemas, incluindo a descoberta de novos relacionamentos e interacoes entre espécies. O projeto se encaixa nos desafios 1 (gerenciamento de grandes volumes de dados) e 2 (modelos complexos). Participam pesquisadores da UNICAMP e da USP, em Computacao e Biologia."
+2007,2011,"Gerenciamento na Web de bancos de dados de imagens de satelite para monitoramento agro-ambiental (binacional, Alemanha) R$ 43.000,00, 6 pesquisadores",EM_ANDAMENTO,PESQUISA,"O objetivo do projeto é estabelecer cooperação de pesquisa
+entre o
+Instituto de Computação da UNICAMP, a UNIFACS e a
+International University of Bremen (IUB) para a integração de
+grandes volumes de imagens de satélite, para sistemas de
+informação online, aplicados ao planejamento agro-ambiental.
+Este projeto multidisciplinar combina vários aspectos de
+pesquisa em Tecnologia da Informação, visando uma área social
+e economicamente relevante em todo o mundo -- a agricultura.
+A pesquisa se baseia na experiência dos participantes
+em projetar e desenvolver grandes bancos de dados científicos.
+Do lado brasileiro, o projeto está relacionado ao WebMAPS II,NULL
+projeto
+recém aprovado no edital Universal do CNPq, que visa resolver
+problemas no gerenciamento de dados
+científicos para a agricultura.
+Faz parte de uma atividade continuada de pesquisa, coordenada
+na UNICAMP pela proponente brasileira,NULL
+juntando pesquisadores em computação
+e em Ciências Agrárias, com vários alunos de mestrado e
+doutorado.
+Um dos problemas em aberto é encontrar mecanismos eficientes
+para construir e organizar grandes bancos de dados
+de imagens de satélite e dados de redes de sensores.
+Este é o problema alvo do projeto binacional.
+Do lado alemão, os proponentes têm muita experiência em
+pesquisa envolvendo
+estes tipos de dados.
+A IUB há anos explora
+servicos avancados para gerenciamento de dados
+multidimensionais,NULL
+como colecões de imagens 2D, séries temporais de imagens 3D
+(x/y/t), e dados
+oceanográficos e atmosféricos em 4D (x/y/z/t).
+A plataforma tecnológica usada, Rasdaman (""raster data
+manager""), desenvolvida na IUB,NULL
+permite o gerenciamento desses dados em bancos de dados
+convencionais, facilitando
+interoperabilidade.
+O Rasdaman já recebeu vários prêmios de inovação e é usado
+por
+agências européias de mapeamento e pela indústria de
+mineração.
+O grupo da IUB é também ativo no consórcio mundial de
+padronização de dados geográficos Open GeoSpatial
+Consortium
+Fi"
+1994,1997,"GeoTEC - Geoprocessamento - Metodologias e Técnicas. PROTEM-CC, US$ 1 milhao dolares.",CONCLUIDO,PESQUISA,"Projeto conjunto de 10 grupos de pesquisa e desenvolvimento visando resultados científicos e tecnológicos na área de geoprocessamento. Principais resultados - formação de recursos humanos (mestres e doutores), dezenas de artigos científicos e software. Participação de cerca de 60 pesquisadores, além de mestrandos e doutorandos. Coordenação Claudia Bauzer Medeiros, vice-coordenador Gilberto Câmara. Financiamento CNPq"
+2008,NULL,INCT - Web Science,EM_ANDAMENTO,PESQUISA,"Instituto Nacional de Ciencia na Web -- membro do projeto, coordenadora na UNICAMP"
+2012,2015,"MuZoo: Ferramentas e modelos computacionais para busca exploratoria de dados em biodiversidade (R$ 135.000,00)",CONCLUIDO,PESQUISA,"O objetivo global do projeto MuZOO (Museu virtual de ZOOlogia) é especificar novos algoritmos e estruturas de dados para dar apoio a mecanismos inovadores de acesso, análise e visualização de grandes volumes dados heterogêneos de biodiversidade. As ferramentas desenvolvidas serão disponibilizadas na Web, permitindo acesso aos dados (textuais, imagens, sons) do Museu de Zoologia da UNICAMP, que tem uma das principais coleções brasileiras na área. Museus virtuais estão se tornando cada vez mais importantes no apoio à pesquisa científica e disseminação do conhecimento, pois viabilizam o acesso remoto às suas coleções, facilitando pesquisas colaborativas e criando novas oportunidades de aprendizado. Serão contemplados dois tipos de usuário: (a) pesquisadores em biologia, ecologia e biodiversidade, para que possam explorar o acervo do museu usando múltiplos algoritmos e desenvolver modelos ecológicos e de interação entre espécies, de forma colaborativa; e (b) alunos do ensino fundamental e médio, e seus professores, para apoio ao ensino de ciências, em particular biologia e biodiversidade. Assim, além de servirem de base para produzir informação para pesquisa cooperativa em biodiversidade, as ferramentas e dados gerados e manipulados dentro do projeto serão usados para dar apoio a iniciativas de educação multidisciplinar. Este projeto se insere na grande area de pesquisa multidisciplinar denominada eScience, envolvendo desafios de gerenciamento e processamento de grandes volumes de dados de coletas de biodiversidade, incluindo registros textuais, imagens e sons. Este projeto dá continuidade ao projeto BioCORE, financiado pelo CNPq (2007-2010), de gerenciamento de dados de biodiversidade, estendendo-o para contemplar novos tipos de dados (como sons) e, principalmente, novos tipos de busca exploratória no acervo que está sendo digitalizado e que já tem mais de 1Tbyte de sons e imagens. Exigirá pesquisa em gerenciamento de uma massa de dados de alta heterogeneidade e multim"
+2012,2015,"NAVSCALES - Navegando através de Escalas no Espaço e no Tempo e Domínios do Conhecimento. (FAPESP-MICROSOFT - R$ 350.000,00)",CONCLUIDO,PESQUISA,"Research on climate change necessarily involves integration of data collected at
+ multiple scales on space and time, as well as interaction and cooperation of people from very many disciplines, scientific profiles and backgrounds.
+The same kind of scenario occurs in many other research initiatives -- e.g., in 
+health (where integrated studies require analysis from molecule to human and back).
+The goal of this project is to look at these problems from a data point of view,NULL
+ investigating mechanisms that allow presenting such heterogeneous data in a coherent manner, thereby facilitating data sharing and reuse, and scientific collaboration across fields.
+
+The algorithms and tools developed within the project will be tested against two
+ real case multiscale scenarios, in agriculture and biodiversity."
+2014,NULL,Computational Science and Engineering - FAPESP CEPID,EM_ANDAMENTO,PESQUISA,The Center for Computational Engineering & Sciences (CCES) at the University of Campinas (UNICAMP) is an interdisciplinary research center established in June 2013 with the support from the State of São Paulo Research Foundation (FAPESP) under the CEPID Program. The Center is dedicated to the development and application of advanced computational modeling techniques to solve a variety of frontier problems in science and engineering that require high-performance and data-intensive computing. The CCES also aims to interact with industry and research institutions outside academia for technological innovation and to carry out outreach activities to promote science education and dissemination of knowledge in the broader area of eScience.
+2010,2013,AMIB - Algorithms for Managing Images for Biodiversity,CONCLUIDO,PESQUISA,"O objetivo do projeto é desenvolver pesquisa conjunta entre grupos de pesquisa do Brasil e da França, dentro da área de gerenciamento de imagens para biodiversidade. Este é um campo multidisciplinar, que combina pesquisa no estado da arte em Ciência da Computação e em Estudos Ambientais. Nesta área existe uma grande demanda por
+pesquisadores treinados, dada sua importância estratégica no mundo e, em particular, no Brasil. Ambas equipes, do Brasil e da França, possuem especialistas em banco de dados e processamento de imagens. O AMIB tem três objetivos principais: treinar jovens pesquisadores (alunos de doutorado em ambos os lados) na realização de pesquisa em um ambiente
+multidisciplinar; produzir novos resultados na área de gerenciamento de imagens
+aplicado a estudos de biodiversidade, resultando em publicações e teses de doutorado;
+desenvolver novas ferramentas computacionais para o gerenciamento de imagens em
+estudos de biodiversidade. O AMIB irá se concentrar particularmente no estudo e
+desenvolvimento de (1) descritores de imagem de baixo nível para consultar imagens em bancos de dados de imagens de espécies (2) modelos para descrever relacionamentos espaciais entre objetos em imagens, principalmente imagens de satélites (3) métodos de acesso para gerenciamento de dados volumosos de bancos de dados de imagens e (4) especificação de uma abordagem metodológica para gerenciar imagens baseadas em um novo paradigma de abstração por modificação de escala. CAPES-COFECUB, valor concedido aprox R$ 40.000,00"
+2011,NULL,"Modelos e Métodos de eScience para Ciências da Vida e Agrárias (R$ 380.000,00)",EM_ANDAMENTO,PESQUISA,"Este projeto visa a criação de uma rede colaborativa de eScience para acelerar pesquisa avançada em ciências da vida (biologia, medicina, oceanografia) e ciências agrárias. Está estruturado em torno de cinco linhas de pesquisa ? biologia de sistemas, planejamento de safras, computação visual, modelagem matemática e bancos de dados. Dentro dessas linhas, serão tratadas questões em aberto associadas às principais componentes de um ambiente de pesquisa em eScience: armazenamento, processamento, análise e visualização de grandes volumes de dados científicos."
